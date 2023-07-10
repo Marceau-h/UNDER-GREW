@@ -1,0 +1,9 @@
+{"sent_id":"FQB_CLEF03-118","left_context":"Quel est le nom de la station de m\u00e9tro o\u00f9 a ","pivot":"eu","right_context":" lieu l'attaque au sarin \u00e0 Tokyo ? "}
+{"sent_id":"FQB_CLEF03-166","left_context":"Quel est le mois o\u00f9 est ","pivot":"entr\u00e9","right_context":" en vigueur l'embargo de l'ONU sur le p\u00e9trole visant Ha\u00efti ? "}
+{"sent_id":"FQB_Impots-14","left_context":"Quand et comment va-t-on me ","pivot":"verser","right_context":" la prime pour l'emploi ? "}
+{"sent_id":"FQB_Impots-39","left_context":"J'ai \u00e9gar\u00e9 mes identifiants me ","pivot":"permettant","right_context":" d'acc\u00e9der \u00e0 mon espace personnel, comment puis-je les obtenir ? "}
+{"sent_id":"FQB_PoleEmploi-28","left_context":"Votre employeur ne vous a pas ","pivot":"propos\u00e9","right_context":" d'adh\u00e9rer au CSP ? "}
+{"sent_id":"FQB_TREC-fr-403-imp","left_context":null,"pivot":"Dites","right_context":"-moi pr\u00e8s de quelle ville se trouve le parc Kentucky Horse. "}
+{"sent_id":"FQB_TREC-fr-577","left_context":"Pouvez-vous me ","pivot":"nommer","right_context":" un horloger de Londres, en Angleterre ? "}
+{"sent_id":"FQB_TREC-fr-757","left_context":"Quelle boisson gazeuse me ","pivot":"procurerait","right_context":" la plus grande quantit\u00e9 de caf\u00e9ine ? "}
+{"sent_id":"FQB_TREC-fr-1858-imp","left_context":null,"pivot":"Dites","right_context":"-moi o\u00f9 est situ\u00e9e la compagnie DuPont. "}
