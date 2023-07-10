@@ -2,19 +2,22 @@ import json
 from pprint import pprint
 import http.client
 import urllib.parse
+from time import sleep
+
 import pandas as pd
 from io import StringIO
 from tqdm.auto import tqdm
 from pathlib import Path
 
-main = Path.cwd() # can be changed to a specific folder
+main = Path.cwd() / "exports"  # can be changed to a specific folder
 
 # Caution, double quotes in the pattern must be escaped with a backslash
 # And single quotes don't seem to work at all, better not using them
 patterns = {
     'VERB': 'pattern {V [upos=VERB]}',
-    'VERB-o': 'pattern {V [upos=VERB]; V -[obj]-> O}',
-    'VERB-oi': 'pattern {V [upos=VERB]; V -[iobj]-> I}',
+    'VERB-direct-obj': 'pattern {V [upos=VERB]; V -[obj]-> O}',
+    'VERB-indirect-onj': 'pattern {V [upos=VERB]; V -[iobj]-> I}',
+    'VERB-no-obj': 'pattern {V [upos=VERB];} without {V -[obj|iobj]-> O}',
 }
 
 # This must be in the list of corpora available on the website
@@ -34,7 +37,9 @@ pivot = 'V'  # 'V' or 'O' or 'I' for tsv exports
 # This is the connection to the website
 conn = http.client.HTTPSConnection("gmb.marceau-h.fr")
 
-for corpus in tqdm(corpora):
+pbar = tqdm(total=len(corpora) * len(patterns))
+for corpus in corpora:
+    pbar.set_description(f"Corpus {corpus}")
     corpus_folder = main / corpus.split('@')[0]
     corpus_folder.mkdir(exist_ok=True, parents=True)
 
@@ -75,7 +80,8 @@ for corpus in tqdm(corpora):
         res = conn.getresponse()
         data = res.read()
 
-        assert json.loads(data.decode("utf-8"))["status"] == "ok", "Creation of export failed"
+        assert json.loads(data.decode("utf-8"))["status"] == "OK", "Creation of export failed"
+        sleep(1)  # wait for the export to be ready
 
         # print(data.decode("utf-8"))
 
@@ -99,6 +105,9 @@ for corpus in tqdm(corpora):
             df.to_json(pat_file.with_suffix('.json'), orient='records')
 
         except pd.errors.ParserError:
-            print(f"Erreur de parsing du fichier {pat_file}")
+            print(f"\nParsing error for {corpus}/{pat_file.name}\nfile of {len(tsv.splitlines())} lines")
+            pbar.update(1)
             continue
+
+        pbar.update(1)
 
