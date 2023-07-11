@@ -92,6 +92,8 @@ for corpus in corpora:
 
         tsv = data.decode("utf-8")
 
+        tsv = tsv.replace(r'"', r'""')
+
         with pat_file.open('w', encoding='utf-8') as f:
             f.write(tsv)
 
@@ -105,7 +107,7 @@ for corpus in corpora:
             df.to_json(pat_file.with_suffix('.json'), orient='records')
 
         except pd.errors.ParserError:
-            print(f"\nParsing error for {corpus}/{pat_file.name}\nfile of {len(tsv.splitlines())} lines")
+            print(f"\nParsing error for {pat_file}\nfile of {len(tsv.splitlines())} lines")
             pbar.update(1)
             continue
 

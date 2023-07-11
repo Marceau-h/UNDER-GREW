@@ -70,8 +70,8 @@
 {"sent_id":"FQB_CLEF03-35","left_context":"\u00c0 quel moment l'Afghanistan a-t-il \u00e9t\u00e9 ","pivot":"envahi","right_context":" par l'Union sovi\u00e9tique ? "}
 {"sent_id":"FQB_CLEF03-40","left_context":"O\u00f9 est ","pivot":"n\u00e9","right_context":" Guillermo Ortiz ? "}
 {"sent_id":"FQB_CLEF03-41","left_context":"Quelle compagnie produit des cigarettes avec ce qui est ","pivot":"appel\u00e9","right_context":" le Y-1 ? "}
-{"sent_id":"FQB_CLEF03-45","left_context":"O\u00f9 se trouve l'\u00e9cosyst\u00e8me artificiel ","pivot":"appel\u00e9","right_context":" \"Biosph\u00e8re 2\" ? "}
-{"sent_id":"FQB_CLEF03-45","left_context":"O\u00f9 se ","pivot":"trouve","right_context":" l'\u00e9cosyst\u00e8me artificiel appel\u00e9 \"Biosph\u00e8re 2\" ? "}
+{"sent_id":"FQB_CLEF03-45","left_context":"O\u00f9 se trouve l'\u00e9cosyst\u00e8me artificiel ","pivot":"appel\u00e9","right_context":" \"\"Biosph\u00e8re 2\"\" ? "}
+{"sent_id":"FQB_CLEF03-45","left_context":"O\u00f9 se ","pivot":"trouve","right_context":" l'\u00e9cosyst\u00e8me artificiel appel\u00e9 \"\"Biosph\u00e8re 2\"\" ? "}
 {"sent_id":"FQB_CLEF03-48","left_context":"O\u00f9 se ","pivot":"trouve","right_context":" la c\u00e9l\u00e8bre salle d'op\u00e9ra La Scala ? "}
 {"sent_id":"FQB_CLEF03-49","left_context":"O\u00f9 Raymond Pettibon ","pivot":"travaille","right_context":"-t-il ? "}
 {"sent_id":"FQB_CLEF03-55","left_context":"Dans quel centre de recherche l'oc\u00e9anographe John Potter ","pivot":"travaille","right_context":"-t-il ? "}
@@ -94,7 +94,7 @@
 {"sent_id":"FQB_CLEF03-95","left_context":"O\u00f9 Nnenna Freelon ","pivot":"habite","right_context":"-t-elle ? "}
 {"sent_id":"FQB_CLEF03-98","left_context":"De quoi est ","pivot":"fait","right_context":" le magma ? "}
 {"sent_id":"FQB_CLEF03-99","left_context":"De quelle maladie ","pivot":"souffre","right_context":" Rebecca Maxwell ? "}
-{"sent_id":"FQB_CLEF03-100","left_context":"O\u00f9 l'organisme \"Operation Unity\" est-il ","pivot":"situ\u00e9","right_context":" ? "}
+{"sent_id":"FQB_CLEF03-100","left_context":"O\u00f9 l'organisme \"\"Operation Unity\"\" est-il ","pivot":"situ\u00e9","right_context":" ? "}
 {"sent_id":"FQB_CLEF03-102","left_context":"D'o\u00f9 Edwin Tang ","pivot":"vient","right_context":"-il ? "}
 {"sent_id":"FQB_CLEF03-104","left_context":"En quelle ann\u00e9e Avery Clayton a-t-il \u00e9t\u00e9 ","pivot":"embauch\u00e9","right_context":" pour peindre des murales \u00e0 l'occasion des jeux olympiques d'\u00e9t\u00e9 ? "}
 {"sent_id":"FQB_CLEF03-107","left_context":"Quel parti est ","pivot":"connu","right_context":" sous le nom de PKK ? "}
@@ -123,16 +123,16 @@
 {"sent_id":"FQB_CLEF03-178","left_context":"Quand Shapour Bakhtiar est-il ","pivot":"mort","right_context":" ? "}
 {"sent_id":"FQB_CLEF03-179","left_context":"\u00c0 quelle date la D\u00e9claration d'ind\u00e9pendance a-t-elle \u00e9t\u00e9 ","pivot":"sign\u00e9e","right_context":" ? "}
 {"sent_id":"FQB_CLEF03-181","left_context":"Combien d'anciens esclaves se sont ","pivot":"install\u00e9s","right_context":" au Lib\u00e9ria au 19e si\u00e8cle ? "}
-{"sent_id":"FQB_CLEF03-182","left_context":"Quand le \"Pike\" a-t-il ","pivot":"ferm\u00e9","right_context":" ? "}
+{"sent_id":"FQB_CLEF03-182","left_context":"Quand le \"\"Pike\"\" a-t-il ","pivot":"ferm\u00e9","right_context":" ? "}
 {"sent_id":"FQB_CLEF03-184","left_context":"O\u00f9 se ","pivot":"trouve","right_context":" Requena ? "}
 {"sent_id":"FQB_CLEF03-188","left_context":"Pour quelle \u00e9quipe de baseball Tom Glavine ","pivot":"joue","right_context":"-t-il ? "}
 {"sent_id":"FQB_CLEF03-189","left_context":"Combien de personnes sont mortes dans l'\u00e9crasement d'un avion ","pivot":"survenu","right_context":" dans les Everglades en 1972 ? "}
 {"sent_id":"FQB_CLEF03-189","left_context":"Combien de personnes sont ","pivot":"mortes","right_context":" dans l'\u00e9crasement d'un avion survenu dans les Everglades en 1972 ? "}
-{"sent_id":"FQB_CLEF03-190","left_context":"En quelle ann\u00e9e a \u00e9t\u00e9 ","pivot":"tourn\u00e9","right_context":" le film \"War Games\" ? "}
+{"sent_id":"FQB_CLEF03-190","left_context":"En quelle ann\u00e9e a \u00e9t\u00e9 ","pivot":"tourn\u00e9","right_context":" le film \"\"War Games\"\" ? "}
 {"sent_id":"FQB_CLEF03-191","left_context":"Dans quelle ville l'exposition itin\u00e9rante de Mike Kelley est-elle ","pivot":"pr\u00e9sent\u00e9e","right_context":" ? "}
 {"sent_id":"FQB_CLEF03-194","left_context":"Quel \u00e9tait le prix ","pivot":"attribu\u00e9","right_context":" \u00e0 Elizabeth Neufeld ? "}
 {"sent_id":"FQB_CLEF03-197","left_context":"En quelle ann\u00e9e s'est ","pivot":"disloqu\u00e9e","right_context":" l'Union sovi\u00e9tique ? "}
-{"sent_id":"FQB_CLEF03-199","left_context":"Qui a ","pivot":"dit","right_context":" : \"Laissez Yeltsin prendre sa vodka et la Tch\u00e9tch\u00e9nie obtenir sa libert\u00e9\" ? "}
+{"sent_id":"FQB_CLEF03-199","left_context":"Qui a ","pivot":"dit","right_context":" : \"\"Laissez Yeltsin prendre sa vodka et la Tch\u00e9tch\u00e9nie obtenir sa libert\u00e9\"\" ? "}
 {"sent_id":"FQB_INSEE-1","left_context":"Quand l'agent recenseur ","pivot":"passe","right_context":"-t-il ? "}
 {"sent_id":"FQB_INSEE-5","left_context":"Je n'ai pas vu l'agent recenseur, \u00e0 qui ","pivot":"dois","right_context":"-je m'adresser ? "}
 {"sent_id":"FQB_INSEE-6","left_context":"Peut-on ","pivot":"r\u00e9pondre","right_context":" par Internet ? "}
@@ -203,9 +203,9 @@
 {"sent_id":"FQB_Impots-36","left_context":"Que puis-je d\u00e9duire de mes revenus au titres des pensions alimentaires ","pivot":"vers\u00e9es","right_context":" \u00e0 mes enfants ? "}
 {"sent_id":"FQB_Impots-36","left_context":"Que ","pivot":"puis","right_context":"-je d\u00e9duire de mes revenus au titres des pensions alimentaires vers\u00e9es \u00e0 mes enfants ? "}
 {"sent_id":"FQB_Impots-37","left_context":"Comment ","pivot":"acc\u00e9der","right_context":" \u00e0 mon espace personnel ? "}
-{"sent_id":"FQB_Impots-38","left_context":"Je n'arrive plus \u00e0 acc\u00e9der \u00e0 mon \"espace personnel\", que ","pivot":"puis","right_context":"-je faire ? "}
-{"sent_id":"FQB_Impots-38","left_context":"Je n'arrive plus \u00e0 ","pivot":"acc\u00e9der","right_context":" \u00e0 mon \"espace personnel\", que puis-je faire ? "}
-{"sent_id":"FQB_Impots-38","left_context":"Je n'","pivot":"arrive","right_context":" plus \u00e0 acc\u00e9der \u00e0 mon \"espace personnel\", que puis-je faire ? "}
+{"sent_id":"FQB_Impots-38","left_context":"Je n'arrive plus \u00e0 acc\u00e9der \u00e0 mon \"\"espace personnel\"\", que ","pivot":"puis","right_context":"-je faire ? "}
+{"sent_id":"FQB_Impots-38","left_context":"Je n'arrive plus \u00e0 ","pivot":"acc\u00e9der","right_context":" \u00e0 mon \"\"espace personnel\"\", que puis-je faire ? "}
+{"sent_id":"FQB_Impots-38","left_context":"Je n'","pivot":"arrive","right_context":" plus \u00e0 acc\u00e9der \u00e0 mon \"\"espace personnel\"\", que puis-je faire ? "}
 {"sent_id":"FQB_Impots-39","left_context":"J'ai \u00e9gar\u00e9 mes identifiants me permettant d'acc\u00e9der \u00e0 mon espace personnel, comment ","pivot":"puis","right_context":"-je les obtenir ? "}
 {"sent_id":"FQB_Impots-39","left_context":"J'ai \u00e9gar\u00e9 mes identifiants me permettant d'","pivot":"acc\u00e9der","right_context":" \u00e0 mon espace personnel, comment puis-je les obtenir ? "}
 {"sent_id":"FQB_Impots-40","left_context":"Comment consulter et ","pivot":"imprimer","right_context":" les avis de taxe fonci\u00e8re ou de taxe d'habitation de toutes mes r\u00e9sidences ? "}
@@ -251,13 +251,13 @@
 {"sent_id":"FQB_PoleEmploi-28","left_context":"Votre employeur ne vous a pas propos\u00e9 d'","pivot":"adh\u00e9rer","right_context":" au CSP ? "}
 {"sent_id":"FQB_PoleEmploi-29","left_context":"Quels sont les recours ","pivot":"ouverts","right_context":" aux victimes de discrimination ? "}
 {"sent_id":"FQB_TREC-fr-9","left_context":"\u00c0 quelle distance se ","pivot":"trouve","right_context":" Yaroslavl de Moscou ? "}
-{"sent_id":"FQB_TREC-fr-10-imp","left_context":"Nommez le cr\u00e9ateur du soulier qui a entra\u00een\u00e9 des millions d'imitations en plastique, ","pivot":"connues","right_context":" sous le noms de \"souliers Jelly\". "}
+{"sent_id":"FQB_TREC-fr-10-imp","left_context":"Nommez le cr\u00e9ateur du soulier qui a entra\u00een\u00e9 des millions d'imitations en plastique, ","pivot":"connues","right_context":" sous le noms de \"\"souliers Jelly\"\". "}
 {"sent_id":"FQB_TREC-fr-13","left_context":"\u00c0 combien se ","pivot":"louait","right_context":" une coccinelle Volkswagen en 1966 ? "}
 {"sent_id":"FQB_TREC-fr-15","left_context":"Quand fut ","pivot":"construite","right_context":" la voie ferr\u00e9e du train l\u00e9ger Docklands de Londres ? "}
 {"sent_id":"FQB_TREC-fr-17","left_context":"Combien de temps a ","pivot":"dur\u00e9","right_context":" le proc\u00e8s pour meurtre de Charles Manson ? "}
 {"sent_id":"FQB_TREC-fr-19","left_context":"Qui \u00e9tait chef de la secte des davidiens, ","pivot":"confront\u00e9e","right_context":" par le FBI \u00e0 Waco (Texas) en 1993 ? "}
 {"sent_id":"FQB_TREC-fr-20","left_context":"O\u00f9 est ","pivot":"bas\u00e9e","right_context":" Inoco ? "}
-{"sent_id":"FQB_TREC-fr-26","left_context":"Quel est le nom du versant \"f\u00e9minin\" d'El Ni\u00f1o, qui ","pivot":"a","right_context":" comme r\u00e9sultat de refroidir la temp\u00e9rature et d'entra\u00eener un climat sec ? "}
+{"sent_id":"FQB_TREC-fr-26","left_context":"Quel est le nom du versant \"\"f\u00e9minin\"\" d'El Ni\u00f1o, qui ","pivot":"a","right_context":" comme r\u00e9sultat de refroidir la temp\u00e9rature et d'entra\u00eener un climat sec ? "}
 {"sent_id":"FQB_TREC-fr-27","left_context":"O\u00f9 s'est ","pivot":"tenue","right_context":" la sixi\u00e8me rencontre annuelle des experts en foresterie de l'Indon\u00e9sie et de la Malaysia ? "}
 {"sent_id":"FQB_TREC-fr-28","left_context":"Qui est surtout connu pour avoir \u00e9t\u00e9 le premier Afro-am\u00e9ricain \u00e0 ","pivot":"jouer","right_context":" dans la ligue majeure de baseball ? "}
 {"sent_id":"FQB_TREC-fr-28","left_context":"Qui est surtout ","pivot":"connu","right_context":" pour avoir \u00e9t\u00e9 le premier Afro-am\u00e9ricain \u00e0 jouer dans la ligue majeure de baseball ? "}
@@ -310,7 +310,7 @@
 {"sent_id":"FQB_TREC-fr-118","left_context":"Quel pourcentage des esp\u00e8ces animales et v\u00e9g\u00e9tales de la plan\u00e8te se ","pivot":"trouve","right_context":" dans les for\u00eats amazoniennes ? "}
 {"sent_id":"FQB_TREC-fr-119","left_context":"Quel laur\u00e9at du prix Nobel a \u00e9t\u00e9 ","pivot":"expuls\u00e9","right_context":" des Philippines avant la conf\u00e9rence sur le Timor oriental ? "}
 {"sent_id":"FQB_TREC-fr-121","left_context":"Qui remporta la premi\u00e8re \u00e9lection pr\u00e9sidentielle g\u00e9n\u00e9rale ","pivot":"tenue","right_context":" \u00e0 Malawi en mai 1994 ? "}
-{"sent_id":"FQB_TREC-fr-124","left_context":"\u00c0 quoi ","pivot":"servait","right_context":" l'\"agent orange\" pendant la guerre du Vi\u00eatnam ? "}
+{"sent_id":"FQB_TREC-fr-124","left_context":"\u00c0 quoi ","pivot":"servait","right_context":" l'\"\"agent orange\"\" pendant la guerre du Vi\u00eatnam ? "}
 {"sent_id":"FQB_TREC-fr-125","left_context":"Dans quelle ville se ","pivot":"trouve","right_context":" la D\u00e9claration d'ind\u00e9pendance am\u00e9ricaine ? "}
 {"sent_id":"FQB_TREC-fr-126","left_context":"Quand Isra\u00ebl a-t-il ","pivot":"commenc\u00e9","right_context":" \u00e0 rendre la Bande de Gaza et J\u00e9richo \u00e0 l'olp ? "}
 {"sent_id":"FQB_TREC-fr-128","left_context":"Qui fut le deuxi\u00e8me homme \u00e0 ","pivot":"marcher","right_context":" sur la lune ? "}
@@ -320,8 +320,9 @@
 {"sent_id":"FQB_TREC-fr-133","left_context":"Comment nomme-t-on la technique par laquelle l'on s\u00e8me certaines plantes dans un sol ","pivot":"contamin\u00e9","right_context":" aux m\u00e9taux toxiques afin que ces plantes ing\u00e8rent ces m\u00e9taux, qu'elles soient r\u00e9colt\u00e9es, puis que les m\u00e9taux soient recouvr\u00e9s \u00e0 fins de recyclage ? "}
 {"sent_id":"FQB_TREC-fr-134","left_context":"O\u00f9 ","pivot":"pr\u00e9voit","right_context":"-on amarrer le navire de commerce Lane Victory, que des v\u00e9t\u00e9rans de la marine marchande convertissent en mus\u00e9e flottant ? "}
 {"sent_id":"FQB_TREC-fr-135","left_context":"Quel c\u00e9l\u00e8bre chef communiste est ","pivot":"mort","right_context":" \u00e0 Mexico ? "}
-{"sent_id":"FQB_TREC-fr-138","left_context":"Comment nomme-t-on le processus normal chez tout \u00eatre vivant, y compris chez les \u00eatres humains, par lequel des cellules sont programm\u00e9es \u00e0 se \"","pivot":"suicider","right_context":" ? \nFQB_TREC-fr-138\tComment nomme-t-on le processus normal chez tout \u00eatre vivant, y compris chez les \u00eatres humains, par lequel des cellules sont \tprogramm\u00e9es\t \u00e0 se suicider\" ? "}
-{"sent_id":"FQB_TREC-fr-138","left_context":"Comment nomme-t-on le processus normal chez tout \u00eatre vivant, y ","pivot":"compris","right_context":" chez les \u00eatres humains, par lequel des cellules sont programm\u00e9es \u00e0 se \"suicider\" ? "}
+{"sent_id":"FQB_TREC-fr-138","left_context":"Comment nomme-t-on le processus normal chez tout \u00eatre vivant, y compris chez les \u00eatres humains, par lequel des cellules sont programm\u00e9es \u00e0 se \"\"","pivot":"suicider","right_context":" ? "}
+{"sent_id":"FQB_TREC-fr-138","left_context":"Comment nomme-t-on le processus normal chez tout \u00eatre vivant, y compris chez les \u00eatres humains, par lequel des cellules sont ","pivot":"programm\u00e9es","right_context":" \u00e0 se \"\"suicider\"\" ? "}
+{"sent_id":"FQB_TREC-fr-138","left_context":"Comment nomme-t-on le processus normal chez tout \u00eatre vivant, y ","pivot":"compris","right_context":" chez les \u00eatres humains, par lequel des cellules sont programm\u00e9es \u00e0 se \"\"suicider\"\" ? "}
 {"sent_id":"FQB_TREC-fr-139","left_context":"Combien de gens les Nations Unies se sont-elles ","pivot":"engag\u00e9es","right_context":" \u00e0 aider \u00e0 restaurer l'ordre et \u00e0 distribuer de l'aide humanitaire en Somalie en septembre 1992 ? "}
 {"sent_id":"FQB_TREC-fr-140","left_context":"Combien de gens furent ","pivot":"tu\u00e9s","right_context":" au sol \u00e0 cause du bombardement du vol 103 de Pan Am au dessus de Lockerbie (\u00c9cosse), le 21 d\u00e9cembre 1988 ? "}
 {"sent_id":"FQB_TREC-fr-141","left_context":"Combien de temps ","pivot":"dure","right_context":" le voyage en train de Bristol \u00e0 Londres ? "}
@@ -330,8 +331,8 @@
 {"sent_id":"FQB_TREC-fr-144","left_context":"Combien de m\u00e9gawatts produira en Indon\u00e9sie le projet \u00e9nerg\u00e9tique mis sur pied par un consortium ","pivot":"men\u00e9","right_context":" par Mission Energy des \u00c9tats-Unis ? "}
 {"sent_id":"FQB_TREC-fr-144","left_context":"Combien de m\u00e9gawatts produira en Indon\u00e9sie le projet \u00e9nerg\u00e9tique ","pivot":"mis","right_context":" sur pied par un consortium men\u00e9 par Mission Energy des \u00c9tats-Unis ? "}
 {"sent_id":"FQB_TREC-fr-148","left_context":"Combien de soldats furent ","pivot":"impliqu\u00e9s","right_context":" dans la derni\u00e8re invasion am\u00e9ricaine du Panama ? "}
-{"sent_id":"FQB_TREC-fr-149","left_context":"O\u00f9 est bas\u00e9e l'\u00e9quipe de basketball ","pivot":"nomm\u00e9e","right_context":" les \"Bulls\" ? "}
-{"sent_id":"FQB_TREC-fr-149","left_context":"O\u00f9 est ","pivot":"bas\u00e9e","right_context":" l'\u00e9quipe de basketball nomm\u00e9e les \"Bulls\" ? "}
+{"sent_id":"FQB_TREC-fr-149","left_context":"O\u00f9 est bas\u00e9e l'\u00e9quipe de basketball ","pivot":"nomm\u00e9e","right_context":" les \"\"Bulls\"\" ? "}
+{"sent_id":"FQB_TREC-fr-149","left_context":"O\u00f9 est ","pivot":"bas\u00e9e","right_context":" l'\u00e9quipe de basketball nomm\u00e9e les \"\"Bulls\"\" ? "}
 {"sent_id":"FQB_TREC-fr-151","left_context":"O\u00f9 est ","pivot":"mort","right_context":" Dylan Thomas ? "}
 {"sent_id":"FQB_TREC-fr-156","left_context":"Quand le G\u00e9n\u00e9ral Manuel Noriega a-t-il \u00e9t\u00e9 \u00e9vinc\u00e9 de son poste de dirigeant du Panama et ","pivot":"remis","right_context":" aux autorit\u00e9s am\u00e9ricaines ? "}
 {"sent_id":"FQB_TREC-fr-156","left_context":"Quand le G\u00e9n\u00e9ral Manuel Noriega a-t-il \u00e9t\u00e9 ","pivot":"\u00e9vinc\u00e9","right_context":" de son poste de dirigeant du Panama et remis aux autorit\u00e9s am\u00e9ricaines ? "}
@@ -397,7 +398,7 @@
 {"sent_id":"FQB_TREC-fr-291","left_context":"Quand la p\u00e9riode carolingienne ","pivot":"d\u00e9buta","right_context":"-t-elle ? "}
 {"sent_id":"FQB_TREC-fr-302","left_context":"Aux \u00c9tats-Unis, combien de personnes par ann\u00e9e meurent d'un empoisonnement ","pivot":"d\u00fb","right_context":" \u00e0 une morsure de serpent ? "}
 {"sent_id":"FQB_TREC-fr-302","left_context":"Aux \u00c9tats-Unis, combien de personnes par ann\u00e9e ","pivot":"meurent","right_context":" d'un empoisonnement d\u00fb \u00e0 une morsure de serpent ? "}
-{"sent_id":"FQB_TREC-fr-304","left_context":"O\u00f9 se ","pivot":"trouve","right_context":" la \"Tornado Alley\" ? "}
+{"sent_id":"FQB_TREC-fr-304","left_context":"O\u00f9 se ","pivot":"trouve","right_context":" la \"\"Tornado Alley\"\" ? "}
 {"sent_id":"FQB_TREC-fr-306","left_context":"O\u00f9 ","pivot":"vivent","right_context":" les hy\u00e8nes ? "}
 {"sent_id":"FQB_TREC-fr-310","left_context":"O\u00f9 ","pivot":"est","right_context":" le pont sur la rivi\u00e8re Kwa\u00ef ? "}
 {"sent_id":"FQB_TREC-fr-315","left_context":"Pourquoi les autruches ne peuvent-elles pas ","pivot":"voler","right_context":" ? "}
@@ -406,13 +407,13 @@
 {"sent_id":"FQB_TREC-fr-320","left_context":"O\u00f9 est ","pivot":"situ\u00e9e","right_context":" la Roumanie ? "}
 {"sent_id":"FQB_TREC-fr-321","left_context":"O\u00f9 fut ","pivot":"fond\u00e9e","right_context":" la compagnie De Beers ? "}
 {"sent_id":"FQB_TREC-fr-328","left_context":"Quel \u00e9tait le nom de l'homme ","pivot":"tu\u00e9","right_context":" en duel avec Aaron Burr ? "}
-{"sent_id":"FQB_TREC-fr-330","left_context":"Quand le \"Slinky\" fut-il ","pivot":"invent\u00e9","right_context":" ? "}
+{"sent_id":"FQB_TREC-fr-330","left_context":"Quand le \"\"Slinky\"\" fut-il ","pivot":"invent\u00e9","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-332","left_context":"Combien de temps cela prendrait-il pour ","pivot":"aller","right_context":" de la Terre \u00e0 Mars ? "}
 {"sent_id":"FQB_TREC-fr-336","left_context":"Quand la compagnie Microsoft fut-elle ","pivot":"\u00e9tablie","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-339","left_context":"Comment se ","pivot":"nommait","right_context":" le jeu de balle des anciens Mayas ? "}
 {"sent_id":"FQB_TREC-fr-344","left_context":"Qui fut ","pivot":"consid\u00e9r\u00e9","right_context":" comme le p\u00e8re de la psychologie ? "}
 {"sent_id":"FQB_TREC-fr-350","left_context":"Combien de violons stradivarius furent ","pivot":"fabriqu\u00e9s","right_context":" ? "}
-{"sent_id":"FQB_TREC-fr-352","left_context":"Qui a invent\u00e9 le jeu ","pivot":"connu","right_context":" sous le nom de \"bowling\" ? "}
+{"sent_id":"FQB_TREC-fr-352","left_context":"Qui a invent\u00e9 le jeu ","pivot":"connu","right_context":" sous le nom de \"\"bowling\"\" ? "}
 {"sent_id":"FQB_TREC-fr-356","left_context":"D'o\u00f9 ","pivot":"provient","right_context":" le chocolat ? "}
 {"sent_id":"FQB_TREC-fr-359","left_context":"O\u00f9 se ","pivot":"trouve","right_context":" Melbourne ? "}
 {"sent_id":"FQB_TREC-fr-361","left_context":"\u00c0 quelle chaleur s'","pivot":"\u00e9l\u00e8ve","right_context":" l'int\u00e9rieur d'un volcan actif ? "}
@@ -448,7 +449,7 @@
 {"sent_id":"FQB_TREC-fr-455","left_context":"Colin Powell est surtout ","pivot":"connu","right_context":" pour quelle raison ? "}
 {"sent_id":"FQB_TREC-fr-457","left_context":"O\u00f9 ","pivot":"est","right_context":" l'universit\u00e9 Webster ? "}
 {"sent_id":"FQB_TREC-fr-459","left_context":"Quand John D. Rockefeller est-il ","pivot":"n\u00e9","right_context":" ? "}
-{"sent_id":"FQB_TREC-fr-461","left_context":"Qui est l'auteur du livre sur le piratage informatique qui s'","pivot":"intitule","right_context":" \"The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage\" ? "}
+{"sent_id":"FQB_TREC-fr-461","left_context":"Qui est l'auteur du livre sur le piratage informatique qui s'","pivot":"intitule","right_context":" \"\"The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage\"\" ? "}
 {"sent_id":"FQB_TREC-fr-464","left_context":"O\u00f9 ","pivot":"est","right_context":" le si\u00e8ge social d'Eli Lilly ? "}
 {"sent_id":"FQB_TREC-fr-465","left_context":"De quel coll\u00e8ge Hillary Clinton a-t-elle \u00e9t\u00e9 ","pivot":"dipl\u00f4m\u00e9e","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-466","left_context":"O\u00f9 ","pivot":"est","right_context":" Glasgow ? "}
@@ -458,8 +459,8 @@
 {"sent_id":"FQB_TREC-fr-487","left_context":"Quel \u00e9tait le titre du film dans lequel ","pivot":"jouaient","right_context":" Sharon Stone et Arnold Schwarzenegger ? "}
 {"sent_id":"FQB_TREC-fr-488","left_context":"Dans quel continent se ","pivot":"situe","right_context":" la Bolivie ? "}
 {"sent_id":"FQB_TREC-fr-490","left_context":"D'o\u00f9 ","pivot":"proviennent","right_context":" les cochons d'Inde ? "}
-{"sent_id":"FQB_TREC-fr-497","left_context":"Qui jouait le r\u00f4le de Jake dans l'\u00e9mission t\u00e9l\u00e9vis\u00e9e ","pivot":"intitul\u00e9e","right_context":" \"Jake and the Fatman\" ? "}
-{"sent_id":"FQB_TREC-fr-498","left_context":"Qui jouait le r\u00f4le de Fatman dans l'\u00e9mission t\u00e9l\u00e9vis\u00e9e ","pivot":"intitul\u00e9e","right_context":" \"Jake and the Fatman\" ? "}
+{"sent_id":"FQB_TREC-fr-497","left_context":"Qui jouait le r\u00f4le de Jake dans l'\u00e9mission t\u00e9l\u00e9vis\u00e9e ","pivot":"intitul\u00e9e","right_context":" \"\"Jake and the Fatman\"\" ? "}
+{"sent_id":"FQB_TREC-fr-498","left_context":"Qui jouait le r\u00f4le de Fatman dans l'\u00e9mission t\u00e9l\u00e9vis\u00e9e ","pivot":"intitul\u00e9e","right_context":" \"\"Jake and the Fatman\"\" ? "}
 {"sent_id":"FQB_TREC-fr-499","left_context":"O\u00f9 ","pivot":"est","right_context":" le Venezuela ? "}
 {"sent_id":"FQB_TREC-fr-500","left_context":"Dans quelle ville de la Floride se ","pivot":"trouve","right_context":" Sea World ? "}
 {"sent_id":"FQB_TREC-fr-502","left_context":"Quelle est l'une des villes dans lesquelles est ","pivot":"situ\u00e9e","right_context":" l'universit\u00e9 du Minnesota ? "}
@@ -475,10 +476,10 @@
 {"sent_id":"FQB_TREC-fr-524","left_context":"O\u00f9 s'est premi\u00e8rement ","pivot":"d\u00e9velopp\u00e9","right_context":" le wicca ? "}
 {"sent_id":"FQB_TREC-fr-526","left_context":"D'o\u00f9 sont ","pivot":"extraits","right_context":" les diamants ? "}
 {"sent_id":"FQB_TREC-fr-527","left_context":"O\u00f9 a \u00e9t\u00e9 ","pivot":"\u00e9tablie","right_context":" la NFL ? "}
-{"sent_id":"FQB_TREC-fr-530","left_context":"Sous quel autre nom \u00e9taient ","pivot":"connus","right_context":" les \"Little Rascals\" ? "}
+{"sent_id":"FQB_TREC-fr-530","left_context":"Sous quel autre nom \u00e9taient ","pivot":"connus","right_context":" les \"\"Little Rascals\"\" ? "}
 {"sent_id":"FQB_TREC-fr-534","left_context":"O\u00f9 ","pivot":"est","right_context":" le ch\u00e2teau de Windsor ? "}
-{"sent_id":"FQB_TREC-fr-535","left_context":"Qui jouait le personnage de Rosanne Rosanna-Dana dans l'\u00e9mission t\u00e9l\u00e9vis\u00e9e ","pivot":"intitul\u00e9e","right_context":" \"Saturday Night Live\" ? "}
-{"sent_id":"FQB_TREC-fr-537","left_context":"De quel animal ","pivot":"proviennent","right_context":" les \"buffalo wings\" ? "}
+{"sent_id":"FQB_TREC-fr-535","left_context":"Qui jouait le personnage de Rosanne Rosanna-Dana dans l'\u00e9mission t\u00e9l\u00e9vis\u00e9e ","pivot":"intitul\u00e9e","right_context":" \"\"Saturday Night Live\"\" ? "}
+{"sent_id":"FQB_TREC-fr-537","left_context":"De quel animal ","pivot":"proviennent","right_context":" les \"\"buffalo wings\"\" ? "}
 {"sent_id":"FQB_TREC-fr-538","left_context":"Quand fut ","pivot":"invent\u00e9","right_context":" le code \u00e0 barres ? "}
 {"sent_id":"FQB_TREC-fr-541","left_context":"Quelle \u00e9tait la raison d'","pivot":"\u00eatre","right_context":" du projet Manhattan ? "}
 {"sent_id":"FQB_TREC-fr-547","left_context":"Quand fut ","pivot":"construit","right_context":" le barrage Hoover ? "}
@@ -504,7 +505,7 @@
 {"sent_id":"FQB_TREC-fr-587","left_context":"Dans quel livre ","pivot":"peut","right_context":"-on trouver l'histoire d'Aladin ? "}
 {"sent_id":"FQB_TREC-fr-588","left_context":"Quand a ","pivot":"commenc\u00e9","right_context":" la Premi\u00e8re Guerre mondiale ? "}
 {"sent_id":"FQB_TREC-fr-589","left_context":"Dans quel \u00c9tat se ","pivot":"trouvent","right_context":" les chutes de Niagara ? "}
-{"sent_id":"FQB_TREC-fr-590","left_context":"Quel est le nom de l'actrice qui a ","pivot":"jou\u00e9","right_context":" dans le film \"Silence of the Lambs\" ? "}
+{"sent_id":"FQB_TREC-fr-590","left_context":"Quel est le nom de l'actrice qui a ","pivot":"jou\u00e9","right_context":" dans le film \"\"Silence of the Lambs\"\" ? "}
 {"sent_id":"FQB_TREC-fr-592","left_context":"O\u00f9 ","pivot":"pourrait","right_context":"-on faire un tour de locomotive \u00e0 vapeur ? "}
 {"sent_id":"FQB_TREC-fr-593","left_context":"Quand a \u00e9t\u00e9 ","pivot":"r\u00e9alis\u00e9","right_context":" le film Caligula ? "}
 {"sent_id":"FQB_TREC-fr-595","left_context":"O\u00f9 ","pivot":"est","right_context":" la Birmanie ? "}
@@ -517,15 +518,15 @@
 {"sent_id":"FQB_TREC-fr-612","left_context":"Qui a cr\u00e9\u00e9 la bande dessin\u00e9e ","pivot":"intitul\u00e9e","right_context":" Garfield ? "}
 {"sent_id":"FQB_TREC-fr-612","left_context":"Qui a cr\u00e9\u00e9 la bande ","pivot":"dessin\u00e9e","right_context":" intitul\u00e9e Garfield ? "}
 {"sent_id":"FQB_TREC-fr-613","left_context":"O\u00f9 est ","pivot":"situ\u00e9e","right_context":" l'\u00eele de Man ? "}
-{"sent_id":"FQB_TREC-fr-615","left_context":"Quel jour est ","pivot":"connu","right_context":" comme \u00e9tant le \"jour national de la pri\u00e8re\" ? "}
+{"sent_id":"FQB_TREC-fr-615","left_context":"Quel jour est ","pivot":"connu","right_context":" comme \u00e9tant le \"\"jour national de la pri\u00e8re\"\" ? "}
 {"sent_id":"FQB_TREC-fr-616","left_context":"\u00c0 quoi ","pivot":"sert","right_context":" une brassi\u00e8re d'automobile ? "}
 {"sent_id":"FQB_TREC-fr-624","left_context":"Comment Teddy Roosevelt \u00e9tait-il ","pivot":"li\u00e9","right_context":" \u00e0 FDR ? "}
 {"sent_id":"FQB_TREC-fr-628","left_context":"Dans quelle ville se ","pivot":"trouve","right_context":" la station de radio 94,5 kdge ? "}
 {"sent_id":"FQB_TREC-fr-629","left_context":"Quel pr\u00e9sident est ","pivot":"devenu","right_context":" juge en chef suite \u00e0 sa pr\u00e9sidence ? "}
 {"sent_id":"FQB_TREC-fr-633","left_context":"Combien de temps ","pivot":"vit","right_context":" le bernard-l'hermite ? "}
-{"sent_id":"FQB_TREC-fr-637","left_context":"Quelle vedette de la lutte est ","pivot":"devenue","right_context":" \"l'Incroyable Hulk\" ? "}
+{"sent_id":"FQB_TREC-fr-637","left_context":"Quelle vedette de la lutte est ","pivot":"devenue","right_context":" \"\"l'Incroyable Hulk\"\" ? "}
 {"sent_id":"FQB_TREC-fr-640","left_context":"Quand le premier Wall Street Journal fut-il ","pivot":"publi\u00e9","right_context":" ? "}
-{"sent_id":"FQB_TREC-fr-651","left_context":"Quelle actrice a ","pivot":"jou\u00e9","right_context":" dans \"The Lion in Winter\" ? "}
+{"sent_id":"FQB_TREC-fr-651","left_context":"Quelle actrice a ","pivot":"jou\u00e9","right_context":" dans \"\"The Lion in Winter\"\" ? "}
 {"sent_id":"FQB_TREC-fr-652","left_context":"O\u00f9 est ","pivot":"n\u00e9e","right_context":" Tesla ? "}
 {"sent_id":"FQB_TREC-fr-658","left_context":"O\u00f9 se ","pivot":"trouve","right_context":" le Kings 'Canyon ? "}
 {"sent_id":"FQB_TREC-fr-659","left_context":"O\u00f9 ","pivot":"est","right_context":" la clinique Mayo ? "}
@@ -534,7 +535,7 @@
 {"sent_id":"FQB_TREC-fr-673","left_context":"De quel sport ","pivot":"jouent","right_context":" les Cavaliers de Cleaveland ? "}
 {"sent_id":"FQB_TREC-fr-674","left_context":"En quelle ann\u00e9e la compagnie Avery Dennison a-t-elle \u00e9t\u00e9 ","pivot":"fond\u00e9e","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-676-imp","left_context":"Nommez une troupe de ballet pour laquelle Mikhail Baryshnikov a ","pivot":"dans\u00e9","right_context":". "}
-{"sent_id":"FQB_TREC-fr-677","left_context":"Quel \u00e9tait le nom de l'\u00e9mission t\u00e9l\u00e9vis\u00e9e dans laquelle ","pivot":"jouait","right_context":" Karl Maden et dont le titre renfermait \"San Fransisco\" ? "}
+{"sent_id":"FQB_TREC-fr-677","left_context":"Quel \u00e9tait le nom de l'\u00e9mission t\u00e9l\u00e9vis\u00e9e dans laquelle ","pivot":"jouait","right_context":" Karl Maden et dont le titre renfermait \"\"San Fransisco\"\" ? "}
 {"sent_id":"FQB_TREC-fr-682","left_context":"Quel type de chevaux ","pivot":"figurent","right_context":" dans les annonces de Budweiser ? "}
 {"sent_id":"FQB_TREC-fr-684","left_context":"Quand l'art de la courte-pointe a-t-il ","pivot":"commenc\u00e9","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-686","left_context":"O\u00f9 est ","pivot":"situ\u00e9","right_context":" l'Institut Smithsonian ? "}
@@ -590,15 +591,15 @@
 {"sent_id":"FQB_TREC-fr-799","left_context":"O\u00f9 ","pivot":"est","right_context":" le lieu de naissance de Poe ? "}
 {"sent_id":"FQB_TREC-fr-802","left_context":"Qui fut le roi ","pivot":"forc\u00e9","right_context":" de signer la Magna Carta ? "}
 {"sent_id":"FQB_TREC-fr-807","left_context":"Le corps calleux se ","pivot":"trouve","right_context":" dans quelle partie du corps ? "}
-{"sent_id":"FQB_TREC-fr-812","left_context":"Par qui fut invent\u00e9 le \"Silly Putty\" fut ","pivot":"invent\u00e9","right_context":" ? "}
-{"sent_id":"FQB_TREC-fr-812","left_context":"Par qui fut ","pivot":"invent\u00e9","right_context":" le \"Silly Putty\" fut invent\u00e9 ? "}
+{"sent_id":"FQB_TREC-fr-812","left_context":"Par qui fut invent\u00e9 le \"\"Silly Putty\"\" fut ","pivot":"invent\u00e9","right_context":" ? "}
+{"sent_id":"FQB_TREC-fr-812","left_context":"Par qui fut ","pivot":"invent\u00e9","right_context":" le \"\"Silly Putty\"\" fut invent\u00e9 ? "}
 {"sent_id":"FQB_TREC-fr-814","left_context":"Quand fut ","pivot":"\u00e9rig\u00e9e","right_context":" la porte de Brandebourg de Berlin ? "}
 {"sent_id":"FQB_TREC-fr-816","left_context":"\u00c0 quelle date ","pivot":"est","right_context":" le Boxing Day ? "}
 {"sent_id":"FQB_TREC-fr-817","left_context":"Le Boxing Day est ","pivot":"c\u00e9l\u00e9br\u00e9","right_context":" \u00e0 quelle date ? "}
 {"sent_id":"FQB_TREC-fr-819","left_context":"Quelle ville est ","pivot":"desservie","right_context":" par l'a\u00e9roport McCarren ? "}
 {"sent_id":"FQB_TREC-fr-820","left_context":"Dans quelle ville est ","pivot":"situ\u00e9","right_context":" l'a\u00e9roport McCarren ? "}
 {"sent_id":"FQB_TREC-fr-822","left_context":"O\u00f9 est ","pivot":"situ\u00e9","right_context":" l'a\u00e9roport McCarren ? "}
-{"sent_id":"FQB_TREC-fr-825","left_context":"Par qui ont \u00e9t\u00e9 ","pivot":"cr\u00e9\u00e9s","right_context":" \"Les Muppets\" ? "}
+{"sent_id":"FQB_TREC-fr-825","left_context":"Par qui ont \u00e9t\u00e9 ","pivot":"cr\u00e9\u00e9s","right_context":" \"\"Les Muppets\"\" ? "}
 {"sent_id":"FQB_TREC-fr-834","left_context":"Quel est le nom ","pivot":"donn\u00e9","right_context":" \u00e0 l'\u00e9quivalent islamique de la Croix-Rouge ? "}
 {"sent_id":"FQB_TREC-fr-835","left_context":"Pour quelle raison Colin Powell est-il surtout ","pivot":"connu","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-836","left_context":"Colin Powell est surtout ","pivot":"connu","right_context":" d'apr\u00e8s quelle r\u00e9alisation ? "}
@@ -619,11 +620,11 @@
 {"sent_id":"FQB_TREC-fr-867","left_context":"Comment s'","pivot":"appelle","right_context":" l'alphabet juif ? "}
 {"sent_id":"FQB_TREC-fr-868","left_context":"L'alphabet juif s'","pivot":"appelle","right_context":" comment ? "}
 {"sent_id":"FQB_TREC-fr-869","left_context":"L'alphabet juif est ","pivot":"connu","right_context":" sous quel nom ? "}
-{"sent_id":"FQB_TREC-fr-873","left_context":"Le \"Kentucky Horse Park\" ","pivot":"est","right_context":" pr\u00e8s de quelle ville am\u00e9ricaine ? "}
-{"sent_id":"FQB_TREC-fr-874","left_context":"O\u00f9 est ","pivot":"situ\u00e9","right_context":" le \"Kentucky Horse Park\" ? "}
-{"sent_id":"FQB_TREC-fr-875","left_context":"O\u00f9 ","pivot":"est","right_context":" le \"Kentucky Horse Park\" ? "}
-{"sent_id":"FQB_TREC-fr-876","left_context":"Pr\u00e8s de quelle ville se ","pivot":"trouve","right_context":" le \"Kentucky Horse Park\" ? "}
-{"sent_id":"FQB_TREC-fr-877","left_context":"Le \"Kentucky Horse Park\" est ","pivot":"situ\u00e9","right_context":" pr\u00e8s de quelle ville ? "}
+{"sent_id":"FQB_TREC-fr-873","left_context":"Le \"\"Kentucky Horse Park\"\" ","pivot":"est","right_context":" pr\u00e8s de quelle ville am\u00e9ricaine ? "}
+{"sent_id":"FQB_TREC-fr-874","left_context":"O\u00f9 est ","pivot":"situ\u00e9","right_context":" le \"\"Kentucky Horse Park\"\" ? "}
+{"sent_id":"FQB_TREC-fr-875","left_context":"O\u00f9 ","pivot":"est","right_context":" le \"\"Kentucky Horse Park\"\" ? "}
+{"sent_id":"FQB_TREC-fr-876","left_context":"Pr\u00e8s de quelle ville se ","pivot":"trouve","right_context":" le \"\"Kentucky Horse Park\"\" ? "}
+{"sent_id":"FQB_TREC-fr-877","left_context":"Le \"\"Kentucky Horse Park\"\" est ","pivot":"situ\u00e9","right_context":" pr\u00e8s de quelle ville ? "}
 {"sent_id":"FQB_TREC-fr-883","left_context":"Les moteurs rotatifs \u00e9taient ","pivot":"produits","right_context":" par quelle compagnie ? "}
 {"sent_id":"FQB_TREC-fr-885","left_context":"Les automobiles \u00e0 moteur rotatif \u00e9taient ","pivot":"produites","right_context":" par quelle compagnie ? "}
 {"sent_id":"FQB_TREC-fr-886","left_context":"Les moteurs rotatifs \u00e9taient ","pivot":"produits","right_context":" par qui ? "}
@@ -635,7 +636,7 @@
 {"sent_id":"FQB_TREC-fr-908","left_context":"Quand l'Idaho est-il ","pivot":"devenu","right_context":" un \u00c9tat ? "}
 {"sent_id":"FQB_TREC-fr-913","left_context":"En quelle ann\u00e9e le Titanic a-t-il ","pivot":"coul\u00e9","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-914","left_context":"Qui fut le premier Am\u00e9ricain \u00e0 ","pivot":"marcher","right_context":" dans l'espace ? "}
-{"sent_id":"FQB_TREC-fr-916","left_context":"Quelle rivi\u00e8re aux \u00c9tats-Unis est ","pivot":"connue","right_context":" sous le nom de \"Big Muddy\" ? "}
+{"sent_id":"FQB_TREC-fr-916","left_context":"Quelle rivi\u00e8re aux \u00c9tats-Unis est ","pivot":"connue","right_context":" sous le nom de \"\"Big Muddy\"\" ? "}
 {"sent_id":"FQB_TREC-fr-921","left_context":"Quelle ligne imaginaire se ","pivot":"trouve","right_context":" \u00e0 mi-chemin du P\u00f4le Nord et du P\u00f4le Sud ? "}
 {"sent_id":"FQB_TREC-fr-922","left_context":"O\u00f9 ","pivot":"est","right_context":" l'a\u00e9roport John Wayne ? "}
 {"sent_id":"FQB_TREC-fr-923","left_context":"Dans quel h\u00e9misph\u00e8re se ","pivot":"trouvent","right_context":" les Philippines ? "}
@@ -644,15 +645,15 @@
 {"sent_id":"FQB_TREC-fr-929","left_context":"Quel \u00e2ge avait Elvis Presley lorsqu'il est ","pivot":"mort","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-930","left_context":"O\u00f9 ","pivot":"est","right_context":" le fleuve Or\u00e9noque ? "}
 {"sent_id":"FQB_TREC-fr-931","left_context":"\u00c0 quelle distance du filet se ","pivot":"trouve","right_context":" la ligne de service au tennis ? "}
-{"sent_id":"FQB_TREC-fr-934","left_context":"Le tissu nomm\u00e9 \"lin\" est fabriqu\u00e9 \u00e0 ","pivot":"partir","right_context":" de quelle plante ? "}
-{"sent_id":"FQB_TREC-fr-934","left_context":"Le tissu nomm\u00e9 \"lin\" est ","pivot":"fabriqu\u00e9","right_context":" \u00e0 partir de quelle plante ? "}
-{"sent_id":"FQB_TREC-fr-934","left_context":"Le tissu ","pivot":"nomm\u00e9","right_context":" \"lin\" est fabriqu\u00e9 \u00e0 partir de quelle plante ? "}
+{"sent_id":"FQB_TREC-fr-934","left_context":"Le tissu nomm\u00e9 \"\"lin\"\" est fabriqu\u00e9 \u00e0 ","pivot":"partir","right_context":" de quelle plante ? "}
+{"sent_id":"FQB_TREC-fr-934","left_context":"Le tissu nomm\u00e9 \"\"lin\"\" est ","pivot":"fabriqu\u00e9","right_context":" \u00e0 partir de quelle plante ? "}
+{"sent_id":"FQB_TREC-fr-934","left_context":"Le tissu ","pivot":"nomm\u00e9","right_context":" \"\"lin\"\" est fabriqu\u00e9 \u00e0 partir de quelle plante ? "}
 {"sent_id":"FQB_TREC-fr-940","left_context":"Combien de temps Rip Van Winkle a-t-il ","pivot":"dormi","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-950","left_context":"Quand Elvis Presley est-il ","pivot":"mort","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-952","left_context":"O\u00f9 ","pivot":"est","right_context":" Milan ? "}
 {"sent_id":"FQB_TREC-fr-953","left_context":"Quelle est la vitesse \u00e0 laquelle ","pivot":"volent","right_context":" les oiseaux-mouches ? "}
 {"sent_id":"FQB_TREC-fr-956","left_context":"Quelle rivi\u00e8re s'","pivot":"\u00e9coule","right_context":" entre Fargo, au Dakota du Nord, et Moorhead, au Minnesota ? "}
-{"sent_id":"FQB_TREC-fr-968","left_context":"O\u00f9 est ","pivot":"situ\u00e9","right_context":" le \"Mall of the America\" ? "}
+{"sent_id":"FQB_TREC-fr-968","left_context":"O\u00f9 est ","pivot":"situ\u00e9","right_context":" le \"\"Mall of the America\"\" ? "}
 {"sent_id":"FQB_TREC-fr-976","left_context":"Qui fut ","pivot":"\u00e9lu","right_context":" pr\u00e9sident de l'Afrique du Sud en 1994 ? "}
 {"sent_id":"FQB_TREC-fr-978","left_context":"Quand Rosa Parks est-elle ","pivot":"n\u00e9e","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-985","left_context":"Qu'est-ce que la publication ","pivot":"assist\u00e9e","right_context":" par ordinateur ? "}
@@ -691,7 +692,7 @@
 {"sent_id":"FQB_TREC-fr-1080","left_context":"Quel dirigeant fran\u00e7ais a \u00e9t\u00e9 ","pivot":"d\u00e9fait","right_context":" \u00e0 la bataille de Waterloo ? "}
 {"sent_id":"FQB_TREC-fr-1082","left_context":"O\u00f9 est ","pivot":"mort","right_context":" Howard Hughes ? "}
 {"sent_id":"FQB_TREC-fr-1087","left_context":"Quand a ","pivot":"ouvert","right_context":" le premier magasin Wal-Mart ? "}
-{"sent_id":"FQB_TREC-fr-1091","left_context":"Qui a invent\u00e9 le jeu de cerceau ","pivot":"appel\u00e9","right_context":" \"hula hoop\" ? "}
+{"sent_id":"FQB_TREC-fr-1091","left_context":"Qui a invent\u00e9 le jeu de cerceau ","pivot":"appel\u00e9","right_context":" \"\"hula hoop\"\" ? "}
 {"sent_id":"FQB_TREC-fr-1093","left_context":"De quoi est ","pivot":"fait","right_context":" le pastrami ? "}
 {"sent_id":"FQB_TREC-fr-1095","left_context":"De quelle ville est le journal qui s'","pivot":"appelle","right_context":" The Enquirer ? "}
 {"sent_id":"FQB_TREC-fr-1099","left_context":"O\u00f9 est ","pivot":"situ\u00e9","right_context":" le volcan Mons olympus ? "}
@@ -710,7 +711,7 @@
 {"sent_id":"FQB_TREC-fr-1139","left_context":"Quel est le plus long pont ","pivot":"suspendu","right_context":" des \u00c9tats-Unis ? "}
 {"sent_id":"FQB_TREC-fr-1146","left_context":"Qu'est-ce qu'Edward Binney et Howard Smith ","pivot":"on","right_context":" invent\u00e9 en 1903 ? "}
 {"sent_id":"FQB_TREC-fr-1147","left_context":"De quoi est ","pivot":"faite","right_context":" la statue de la Libert\u00e9 ? "}
-{"sent_id":"FQB_TREC-fr-1149","left_context":"Quelle plan\u00e8te est ","pivot":"connue","right_context":" comme \u00e9tant la plan\u00e8te \"rouge\" ? "}
+{"sent_id":"FQB_TREC-fr-1149","left_context":"Quelle plan\u00e8te est ","pivot":"connue","right_context":" comme \u00e9tant la plan\u00e8te \"\"rouge\"\" ? "}
 {"sent_id":"FQB_TREC-fr-1154","left_context":"Qui fut le premier Afro-am\u00e9ricain \u00e0 ","pivot":"jouer","right_context":" pour les Dodgers de Brooklyn ? "}
 {"sent_id":"FQB_TREC-fr-1157","left_context":"De quel instrument ","pivot":"jouait","right_context":" Glenn Miller ? "}
 {"sent_id":"FQB_TREC-fr-1163","left_context":"Comment Janice Joplin est-elle ","pivot":"morte","right_context":" ? "}
@@ -771,7 +772,7 @@
 {"sent_id":"FQB_TREC-fr-1368","left_context":"Quel type de polym\u00e8re est ","pivot":"utilis\u00e9","right_context":" dans les vestes pare-balles ? "}
 {"sent_id":"FQB_TREC-fr-1374","left_context":"Quel \u00e9tait le nom du premier satellite am\u00e9ricain ","pivot":"envoy\u00e9","right_context":" dans l'espace ? "}
 {"sent_id":"FQB_TREC-fr-1376","left_context":"Quelle est la sorte de gaz qui se ","pivot":"trouve","right_context":" dans une ampoule fluorescente ? "}
-{"sent_id":"FQB_TREC-fr-1380","left_context":"Quelle ville est aussi ","pivot":"connue","right_context":" sous le nom de \"Gateway to the West\" ? "}
+{"sent_id":"FQB_TREC-fr-1380","left_context":"Quelle ville est aussi ","pivot":"connue","right_context":" sous le nom de \"\"Gateway to the West\"\" ? "}
 {"sent_id":"FQB_TREC-fr-1381","left_context":"\u00c0 quelle distance se ","pivot":"trouve","right_context":" la Lune ? "}
 {"sent_id":"FQB_TREC-fr-1385","left_context":"Qu'","pivot":"est","right_context":" que la biodiversit\u00e9 ? "}
 {"sent_id":"FQB_TREC-fr-1390","left_context":"Quelle est la devise mon\u00e9taire ","pivot":"utilis\u00e9e","right_context":" en Zambie ? "}
@@ -782,8 +783,8 @@
 {"sent_id":"FQB_TREC-fr-1400","left_context":"Quand le t\u00e9l\u00e9graphe a-t-il \u00e9t\u00e9 ","pivot":"invent\u00e9","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-1403","left_context":"Quand le moteur \u00e0 combustion interne a-t-il \u00e9t\u00e9 ","pivot":"invent\u00e9","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-1406","left_context":"Quand l'histoire de Rom\u00e9o et Juliette se ","pivot":"passe","right_context":"-t-elle ? "}
-{"sent_id":"FQB_TREC-fr-1409","left_context":"Quel chanteur de rock 'n roll d\u00e9mod\u00e9 \u00e9tait aussi ","pivot":"connu","right_context":" sous le nom de \"Killer\" ? "}
-{"sent_id":"FQB_TREC-fr-1413","left_context":"Quelle rivi\u00e8re est ","pivot":"connue","right_context":" sous le nom de \"China 's Sorrow\" ? "}
+{"sent_id":"FQB_TREC-fr-1409","left_context":"Quel chanteur de rock 'n roll d\u00e9mod\u00e9 \u00e9tait aussi ","pivot":"connu","right_context":" sous le nom de \"\"Killer\"\" ? "}
+{"sent_id":"FQB_TREC-fr-1413","left_context":"Quelle rivi\u00e8re est ","pivot":"connue","right_context":" sous le nom de \"\"China 's Sorrow\"\" ? "}
 {"sent_id":"FQB_TREC-fr-1415","left_context":"O\u00f9 ","pivot":"habite","right_context":" le vice-pr\u00e9sident lorsqu'il est en fonction ? "}
 {"sent_id":"FQB_TREC-fr-1416","left_context":"Quand fut ","pivot":"fond\u00e9","right_context":" Wendy 's ? "}
 {"sent_id":"FQB_TREC-fr-1418","left_context":"Quand s'est ","pivot":"tenu","right_context":" le proc\u00e8s Rosenberg ? "}
@@ -839,7 +840,7 @@
 {"sent_id":"FQB_TREC-fr-1539","left_context":"Quelle est le bonbon ","pivot":"pr\u00e9f\u00e9r\u00e9","right_context":" de Ronald Reagan ? "}
 {"sent_id":"FQB_TREC-fr-1541","left_context":"Quel pr\u00e9sident ","pivot":"figure","right_context":" sur un vint-cinq cents ? "}
 {"sent_id":"FQB_TREC-fr-1542","left_context":"O\u00f9 ","pivot":"est","right_context":" la base a\u00e9rienne de Hill ? "}
-{"sent_id":"FQB_TREC-fr-1546","left_context":"En quelle ann\u00e9e a \u00e9t\u00e9 ","pivot":"r\u00e9alis\u00e9","right_context":" le film \"Ole Yeller\" ? "}
+{"sent_id":"FQB_TREC-fr-1546","left_context":"En quelle ann\u00e9e a \u00e9t\u00e9 ","pivot":"r\u00e9alis\u00e9","right_context":" le film \"\"Ole Yeller\"\" ? "}
 {"sent_id":"FQB_TREC-fr-1548","left_context":"Quel est le pr\u00e9nom du premier Gehrig \u00e0 avoir ","pivot":"jou\u00e9","right_context":" pour les Yankees de New York ? "}
 {"sent_id":"FQB_TREC-fr-1549","left_context":"En quelle ann\u00e9e l'ordinateur personnel a-t-il \u00e9t\u00e9 ","pivot":"invent\u00e9","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-1556","left_context":"Dans quel cimeti\u00e8re Thurgood Marshall est-il ","pivot":"enterr\u00e9","right_context":" ? "}
@@ -850,8 +851,8 @@
 {"sent_id":"FQB_TREC-fr-1567","left_context":"Quand fut ","pivot":"fond\u00e9","right_context":" le parti des Panth\u00e8res noires en Californie ? "}
 {"sent_id":"FQB_TREC-fr-1570","left_context":"Quel est l'\u00e2ge l\u00e9gal pour ","pivot":"voter","right_context":" en Argentine ? "}
 {"sent_id":"FQB_TREC-fr-1572","left_context":"En l'honneur de qui l'\u00c9tat de Pennsylvanie fut-il ","pivot":"nomm\u00e9","right_context":" ? "}
-{"sent_id":"FQB_TREC-fr-1574","left_context":"Quand \"The Simpsons\" ont-ils \u00e9t\u00e9 ","pivot":"diffus\u00e9s","right_context":" pour la premi\u00e8re fois \u00e0 la t\u00e9l\u00e9vision ? "}
-{"sent_id":"FQB_TREC-fr-1577","left_context":"De quel po\u00e8me de Burns ","pivot":"provient","right_context":" le vers : \"the best laid plans of mice and men\" ? "}
+{"sent_id":"FQB_TREC-fr-1574","left_context":"Quand \"\"The Simpsons\"\" ont-ils \u00e9t\u00e9 ","pivot":"diffus\u00e9s","right_context":" pour la premi\u00e8re fois \u00e0 la t\u00e9l\u00e9vision ? "}
+{"sent_id":"FQB_TREC-fr-1577","left_context":"De quel po\u00e8me de Burns ","pivot":"provient","right_context":" le vers : \"\"the best laid plans of mice and men\"\" ? "}
 {"sent_id":"FQB_TREC-fr-1580","left_context":"Quel nom donne-t-on \u00e0 la science qui ","pivot":"consiste","right_context":" \u00e0 dessiner des cartes ? "}
 {"sent_id":"FQB_TREC-fr-1584","left_context":"Quand George W. Bush a-t-il \u00e9t\u00e9 ","pivot":"\u00e9lu","right_context":" gouverneur du Texas ? "}
 {"sent_id":"FQB_TREC-fr-1586","left_context":"Quand le pont Golden Gate a-t-il \u00e9t\u00e9 ","pivot":"achev\u00e9","right_context":" ? "}
@@ -869,7 +870,7 @@
 {"sent_id":"FQB_TREC-fr-1616","left_context":"Quand ","pivot":"est","right_context":" l'anniversaire de Gerald Ford ? "}
 {"sent_id":"FQB_TREC-fr-1618","left_context":"O\u00f9 est ","pivot":"produite","right_context":" la bile ? "}
 {"sent_id":"FQB_TREC-fr-1621","left_context":"Quel est le nom du pays ","pivot":"situ\u00e9","right_context":" dans les Pyr\u00e9n\u00e9es entre la France et l'Espagne ? "}
-{"sent_id":"FQB_TREC-fr-1624","left_context":"En quelle ann\u00e9e est ","pivot":"apparu","right_context":" le \"Nouveau Coke\" ? "}
+{"sent_id":"FQB_TREC-fr-1624","left_context":"En quelle ann\u00e9e est ","pivot":"apparu","right_context":" le \"\"Nouveau Coke\"\" ? "}
 {"sent_id":"FQB_TREC-fr-1627","left_context":"Qu'est-ce qui est ","pivot":"\u00e9crit","right_context":" sur la tombe am\u00e9ricaine du soldat inconnu ? "}
 {"sent_id":"FQB_TREC-fr-1628","left_context":"Quelle est la surface ","pivot":"couverte","right_context":" par les Everglades ? "}
 {"sent_id":"FQB_TREC-fr-1629","left_context":"O\u00f9 est ","pivot":"enterr\u00e9e","right_context":" Mae West ? "}
@@ -900,7 +901,7 @@
 {"sent_id":"FQB_TREC-fr-1682","left_context":"Quand Martin Luther King Junior est-il ","pivot":"n\u00e9","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-1683","left_context":"Sous quel nom l'acteur de film d'horreur William Henry Pratt est-il surtout ","pivot":"connu","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-1688","left_context":"En quelle ann\u00e9e fut ","pivot":"construite","right_context":" l'arche Gateway ? "}
-{"sent_id":"FQB_TREC-fr-1691","left_context":"O\u00f9 le film \"Somewhere in Time\" a-t-il \u00e9t\u00e9 ","pivot":"tourn\u00e9","right_context":" ? "}
+{"sent_id":"FQB_TREC-fr-1691","left_context":"O\u00f9 le film \"\"Somewhere in Time\"\" a-t-il \u00e9t\u00e9 ","pivot":"tourn\u00e9","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-1693","left_context":"Quand Jackie Robinson est-il ","pivot":"n\u00e9","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-1694","left_context":"En quelle ann\u00e9e la Californie est-elle ","pivot":"devenue","right_context":" un territoire ? "}
 {"sent_id":"FQB_TREC-fr-1695","left_context":"De quelle race \u00e9tait le cheval de Roy Roger, ","pivot":"nomm\u00e9","right_context":" Trigger ? "}
@@ -925,7 +926,7 @@
 {"sent_id":"FQB_TREC-fr-1737","left_context":"Quelle quantit\u00e9 de sommeil un enfant ","pivot":"devrait","right_context":"-il avoir la nuit ? "}
 {"sent_id":"FQB_TREC-fr-1738","left_context":"O\u00f9 \u00e9tait ","pivot":"stationn\u00e9e","right_context":" la troupe F ? "}
 {"sent_id":"FQB_TREC-fr-1740","left_context":"De quoi est ","pivot":"faite","right_context":" la Coupe Stanley ? "}
-{"sent_id":"FQB_TREC-fr-1741","left_context":"Quel auteur a ","pivot":"\u00e9crit","right_context":" sous le nom de plume \"Boz\" ? "}
+{"sent_id":"FQB_TREC-fr-1741","left_context":"Quel auteur a ","pivot":"\u00e9crit","right_context":" sous le nom de plume \"\"Boz\"\" ? "}
 {"sent_id":"FQB_TREC-fr-1747","left_context":"O\u00f9 est ","pivot":"situ\u00e9","right_context":" le centre national des ouragans ? "}
 {"sent_id":"FQB_TREC-fr-1749","left_context":"Quand Spoutnik fut-il ","pivot":"lanc\u00e9","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-1751","left_context":"O\u00f9 est ","pivot":"situ\u00e9","right_context":" le parc national Mesa Verde ? "}
@@ -972,7 +973,7 @@
 {"sent_id":"FQB_TREC-fr-1835","left_context":"Qui \u00e9tait l'ennemi ","pivot":"jur\u00e9","right_context":" de Sherlock Holmes ? "}
 {"sent_id":"FQB_TREC-fr-1837","left_context":"En quelle ann\u00e9e fut ","pivot":"construit","right_context":" Ebbets Field, chef-lieu des Dodgers de Brooklyn ? "}
 {"sent_id":"FQB_TREC-fr-1839","left_context":"Quel pays fut ","pivot":"form\u00e9","right_context":" en 1948 ? "}
-{"sent_id":"FQB_TREC-fr-1841","left_context":"Quelle est la derni\u00e8re strophe du po\u00e8me d'Edgar Allen Poe ","pivot":"intitul\u00e9","right_context":" \"The Raven\" ? "}
+{"sent_id":"FQB_TREC-fr-1841","left_context":"Quelle est la derni\u00e8re strophe du po\u00e8me d'Edgar Allen Poe ","pivot":"intitul\u00e9","right_context":" \"\"The Raven\"\" ? "}
 {"sent_id":"FQB_TREC-fr-1843","left_context":"Pendant quel mois ","pivot":"naissent","right_context":" le plus de b\u00e9b\u00e9s ? "}
 {"sent_id":"FQB_TREC-fr-1845","left_context":"Dans quelle province se ","pivot":"trouve","right_context":" Calgary ? "}
 {"sent_id":"FQB_TREC-fr-1852","left_context":"Quand Henri VIII a-t-il ","pivot":"r\u00e9gn\u00e9","right_context":" sur l'Angleterre ? "}
@@ -981,7 +982,7 @@
 {"sent_id":"FQB_TREC-fr-1855","left_context":"\u00c0 quelle vitesse ","pivot":"tourne","right_context":" la Terre ? "}
 {"sent_id":"FQB_TREC-fr-1856","left_context":"Quelle ville est ","pivot":"connue","right_context":" comme \u00e9tant la capitale du caoutchouc ? "}
 {"sent_id":"FQB_TREC-fr-1858-imp","left_context":"Dites-moi o\u00f9 est ","pivot":"situ\u00e9e","right_context":" la compagnie DuPont. "}
-{"sent_id":"FQB_TREC-fr-1860","left_context":"\u00c0 quelle com\u00e9die musicale de Broadway ","pivot":"appartient","right_context":" la chanson \"The Story is Me\" ? "}
+{"sent_id":"FQB_TREC-fr-1860","left_context":"\u00c0 quelle com\u00e9die musicale de Broadway ","pivot":"appartient","right_context":" la chanson \"\"The Story is Me\"\" ? "}
 {"sent_id":"FQB_TREC-fr-1861","left_context":"O\u00f9 est ","pivot":"n\u00e9","right_context":" Bill Gates ? "}
 {"sent_id":"FQB_TREC-fr-1864","left_context":"Quel \u00e9tait le nom du premier enfant de parents anglais \u00e0 \u00eatre ","pivot":"n\u00e9","right_context":" en Am\u00e9rique ? "}
 {"sent_id":"FQB_TREC-fr-1866","left_context":"Quelle partie de l'oeil continue \u00e0 ","pivot":"grandir","right_context":" au cours de la vie d'une personne ? "}
@@ -995,7 +996,7 @@
 {"sent_id":"FQB_TREC-fr-1878","left_context":"En quelle ann\u00e9e fut ","pivot":"invent\u00e9","right_context":" le phonographe ? "}
 {"sent_id":"FQB_TREC-fr-1879","left_context":"Sous quel surnom le musicien Ernesto Antonio Puente Junior \u00e9tait-il mieux ","pivot":"connu","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-1880","left_context":"Quand est ","pivot":"n\u00e9","right_context":" le roi Louis XIV ? "}
-{"sent_id":"FQB_TREC-fr-1881","left_context":"Quel est le nom scientifique de la plante ","pivot":"nomm\u00e9e","right_context":" \"zinnia\" ? "}
+{"sent_id":"FQB_TREC-fr-1881","left_context":"Quel est le nom scientifique de la plante ","pivot":"nomm\u00e9e","right_context":" \"\"zinnia\"\" ? "}
 {"sent_id":"FQB_TREC-fr-1883","left_context":"Quelle portion de la couche d'ozone est ","pivot":"appauvrie","right_context":" ? "}
 {"sent_id":"FQB_TREC-fr-1884","left_context":"O\u00f9 se ","pivot":"trouve","right_context":" la mer de la Tranquillit\u00e9 ? "}
 {"sent_id":"FQB_TREC-fr-1888","left_context":"En quelle ann\u00e9e fut ","pivot":"invent\u00e9e","right_context":" l'ampoule ? "}

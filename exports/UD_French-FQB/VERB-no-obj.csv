@@ -71,8 +71,8 @@ FQB_CLEF03-33,Dans quelle ville Jorge Machado est-il ,né, ?
 FQB_CLEF03-35,À quel moment l'Afghanistan a-t-il été ,envahi, par l'Union soviétique ? 
 FQB_CLEF03-40,Où est ,né, Guillermo Ortiz ? 
 FQB_CLEF03-41,Quelle compagnie produit des cigarettes avec ce qui est ,appelé, le Y-1 ? 
-FQB_CLEF03-45,Où se trouve l'écosystème artificiel ,appelé," ""Biosphère 2"" ? "
-FQB_CLEF03-45,Où se ,trouve," l'écosystème artificiel appelé ""Biosphère 2"" ? "
+FQB_CLEF03-45,Où se trouve l'écosystème artificiel ,appelé," """"Biosphère 2"""" ? "
+FQB_CLEF03-45,Où se ,trouve," l'écosystème artificiel appelé """"Biosphère 2"""" ? "
 FQB_CLEF03-48,Où se ,trouve, la célèbre salle d'opéra La Scala ? 
 FQB_CLEF03-49,Où Raymond Pettibon ,travaille,-t-il ? 
 FQB_CLEF03-55,Dans quel centre de recherche l'océanographe John Potter ,travaille,-t-il ? 
@@ -95,7 +95,7 @@ FQB_CLEF03-91,Combien de Porto Ricains ,habitent, dans le comté de Los Angeles 
 FQB_CLEF03-95,Où Nnenna Freelon ,habite,-t-elle ? 
 FQB_CLEF03-98,De quoi est ,fait, le magma ? 
 FQB_CLEF03-99,De quelle maladie ,souffre, Rebecca Maxwell ? 
-FQB_CLEF03-100,"Où l'organisme ""Operation Unity"" est-il ",situé, ? 
+FQB_CLEF03-100,"Où l'organisme """"Operation Unity"""" est-il ",situé, ? 
 FQB_CLEF03-102,D'où Edwin Tang ,vient,-il ? 
 FQB_CLEF03-104,En quelle année Avery Clayton a-t-il été ,embauché, pour peindre des murales à l'occasion des jeux olympiques d'été ? 
 FQB_CLEF03-107,Quel parti est ,connu, sous le nom de PKK ? 
@@ -124,16 +124,16 @@ FQB_CLEF03-175,À quel endroit Greenpeace a-t-il été ,fondé, ?
 FQB_CLEF03-178,Quand Shapour Bakhtiar est-il ,mort, ? 
 FQB_CLEF03-179,À quelle date la Déclaration d'indépendance a-t-elle été ,signée, ? 
 FQB_CLEF03-181,Combien d'anciens esclaves se sont ,installés, au Libéria au 19e siècle ? 
-FQB_CLEF03-182,"Quand le ""Pike"" a-t-il ",fermé, ? 
+FQB_CLEF03-182,"Quand le """"Pike"""" a-t-il ",fermé, ? 
 FQB_CLEF03-184,Où se ,trouve, Requena ? 
 FQB_CLEF03-188,Pour quelle équipe de baseball Tom Glavine ,joue,-t-il ? 
 FQB_CLEF03-189,Combien de personnes sont mortes dans l'écrasement d'un avion ,survenu, dans les Everglades en 1972 ? 
 FQB_CLEF03-189,Combien de personnes sont ,mortes, dans l'écrasement d'un avion survenu dans les Everglades en 1972 ? 
-FQB_CLEF03-190,En quelle année a été ,tourné," le film ""War Games"" ? "
+FQB_CLEF03-190,En quelle année a été ,tourné," le film """"War Games"""" ? "
 FQB_CLEF03-191,Dans quelle ville l'exposition itinérante de Mike Kelley est-elle ,présentée, ? 
 FQB_CLEF03-194,Quel était le prix ,attribué, à Elizabeth Neufeld ? 
 FQB_CLEF03-197,En quelle année s'est ,disloquée, l'Union soviétique ? 
-FQB_CLEF03-199,Qui a ,dit," : ""Laissez Yeltsin prendre sa vodka et la Tchétchénie obtenir sa liberté"" ? "
+FQB_CLEF03-199,Qui a ,dit," : """"Laissez Yeltsin prendre sa vodka et la Tchétchénie obtenir sa liberté"""" ? "
 FQB_INSEE-1,Quand l'agent recenseur ,passe,-t-il ? 
 FQB_INSEE-5,"Je n'ai pas vu l'agent recenseur, à qui ",dois,-je m'adresser ? 
 FQB_INSEE-6,Peut-on ,répondre, par Internet ? 
@@ -204,9 +204,9 @@ FQB_Impots-35,"Je suis dans l'obligation de prendre mes repas à l'extérieur de
 FQB_Impots-36,Que puis-je déduire de mes revenus au titres des pensions alimentaires ,versées, à mes enfants ? 
 FQB_Impots-36,Que ,puis,-je déduire de mes revenus au titres des pensions alimentaires versées à mes enfants ? 
 FQB_Impots-37,Comment ,accéder, à mon espace personnel ? 
-FQB_Impots-38,"Je n'arrive plus à accéder à mon ""espace personnel"", que ",puis,-je faire ? 
-FQB_Impots-38,Je n'arrive plus à ,accéder," à mon ""espace personnel"", que puis-je faire ? "
-FQB_Impots-38,Je n',arrive," plus à accéder à mon ""espace personnel"", que puis-je faire ? "
+FQB_Impots-38,"Je n'arrive plus à accéder à mon """"espace personnel"""", que ",puis,-je faire ? 
+FQB_Impots-38,Je n'arrive plus à ,accéder," à mon """"espace personnel"""", que puis-je faire ? "
+FQB_Impots-38,Je n',arrive," plus à accéder à mon """"espace personnel"""", que puis-je faire ? "
 FQB_Impots-39,"J'ai égaré mes identifiants me permettant d'accéder à mon espace personnel, comment ",puis,-je les obtenir ? 
 FQB_Impots-39,J'ai égaré mes identifiants me permettant d',accéder," à mon espace personnel, comment puis-je les obtenir ? "
 FQB_Impots-40,Comment consulter et ,imprimer, les avis de taxe foncière ou de taxe d'habitation de toutes mes résidences ? 
@@ -252,13 +252,13 @@ FQB_PoleEmploi-26,Pourquoi vos codes ne sont-ils pas ,reconnus, ?
 FQB_PoleEmploi-28,Votre employeur ne vous a pas proposé d',adhérer, au CSP ? 
 FQB_PoleEmploi-29,Quels sont les recours ,ouverts, aux victimes de discrimination ? 
 FQB_TREC-fr-9,À quelle distance se ,trouve, Yaroslavl de Moscou ? 
-FQB_TREC-fr-10-imp,"Nommez le créateur du soulier qui a entraîné des millions d'imitations en plastique, ",connues," sous le noms de ""souliers Jelly"". "
+FQB_TREC-fr-10-imp,"Nommez le créateur du soulier qui a entraîné des millions d'imitations en plastique, ",connues," sous le noms de """"souliers Jelly"""". "
 FQB_TREC-fr-13,À combien se ,louait, une coccinelle Volkswagen en 1966 ? 
 FQB_TREC-fr-15,Quand fut ,construite, la voie ferrée du train léger Docklands de Londres ? 
 FQB_TREC-fr-17,Combien de temps a ,duré, le procès pour meurtre de Charles Manson ? 
 FQB_TREC-fr-19,"Qui était chef de la secte des davidiens, ",confrontée, par le FBI à Waco (Texas) en 1993 ? 
 FQB_TREC-fr-20,Où est ,basée, Inoco ? 
-FQB_TREC-fr-26,"Quel est le nom du versant ""féminin"" d'El Niño, qui ",a, comme résultat de refroidir la température et d'entraîner un climat sec ? 
+FQB_TREC-fr-26,"Quel est le nom du versant """"féminin"""" d'El Niño, qui ",a, comme résultat de refroidir la température et d'entraîner un climat sec ? 
 FQB_TREC-fr-27,Où s'est ,tenue, la sixième rencontre annuelle des experts en foresterie de l'Indonésie et de la Malaysia ? 
 FQB_TREC-fr-28,Qui est surtout connu pour avoir été le premier Afro-américain à ,jouer, dans la ligue majeure de baseball ? 
 FQB_TREC-fr-28,Qui est surtout ,connu, pour avoir été le premier Afro-américain à jouer dans la ligue majeure de baseball ? 
@@ -311,7 +311,7 @@ FQB_TREC-fr-114,Le nouveau matériau de carbone ,vitrifié, inventé par l'Insti
 FQB_TREC-fr-118,Quel pourcentage des espèces animales et végétales de la planète se ,trouve, dans les forêts amazoniennes ? 
 FQB_TREC-fr-119,Quel lauréat du prix Nobel a été ,expulsé, des Philippines avant la conférence sur le Timor oriental ? 
 FQB_TREC-fr-121,Qui remporta la première élection présidentielle générale ,tenue, à Malawi en mai 1994 ? 
-FQB_TREC-fr-124,À quoi ,servait," l'""agent orange"" pendant la guerre du Viêtnam ? "
+FQB_TREC-fr-124,À quoi ,servait," l'""""agent orange"""" pendant la guerre du Viêtnam ? "
 FQB_TREC-fr-125,Dans quelle ville se ,trouve, la Déclaration d'indépendance américaine ? 
 FQB_TREC-fr-126,Quand Israël a-t-il ,commencé, à rendre la Bande de Gaza et Jéricho à l'olp ? 
 FQB_TREC-fr-128,Qui fut le deuxième homme à ,marcher, sur la lune ? 
@@ -321,9 +321,9 @@ FQB_TREC-fr-133,"Comment nomme-t-on la technique par laquelle l'on sème certain
 FQB_TREC-fr-133,Comment nomme-t-on la technique par laquelle l'on sème certaines plantes dans un sol ,contaminé," aux métaux toxiques afin que ces plantes ingèrent ces métaux, qu'elles soient récoltées, puis que les métaux soient recouvrés à fins de recyclage ? "
 FQB_TREC-fr-134,Où ,prévoit,"-on amarrer le navire de commerce Lane Victory, que des vétérans de la marine marchande convertissent en musée flottant ? "
 FQB_TREC-fr-135,Quel célèbre chef communiste est ,mort, à Mexico ? 
-FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y compris chez les êtres humains, par lequel des cellules sont programmées à se """,suicider," ? 
-FQB_TREC-fr-138	Comment nomme-t-on le processus normal chez tout être vivant, y compris chez les êtres humains, par lequel des cellules sont 	programmées	 à se suicider"" ? "
-FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y ",compris," chez les êtres humains, par lequel des cellules sont programmées à se ""suicider"" ? "
+FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y compris chez les êtres humains, par lequel des cellules sont programmées à se """"",suicider, ? 
+FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y compris chez les êtres humains, par lequel des cellules sont ",programmées," à se """"suicider"""" ? "
+FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y ",compris," chez les êtres humains, par lequel des cellules sont programmées à se """"suicider"""" ? "
 FQB_TREC-fr-139,Combien de gens les Nations Unies se sont-elles ,engagées, à aider à restaurer l'ordre et à distribuer de l'aide humanitaire en Somalie en septembre 1992 ? 
 FQB_TREC-fr-140,Combien de gens furent ,tués," au sol à cause du bombardement du vol 103 de Pan Am au dessus de Lockerbie (Écosse), le 21 décembre 1988 ? "
 FQB_TREC-fr-141,Combien de temps ,dure, le voyage en train de Bristol à Londres ? 
@@ -332,8 +332,8 @@ FQB_TREC-fr-143,D'où ,provient, la majorité de la marijuana qui entre aux Éta
 FQB_TREC-fr-144,Combien de mégawatts produira en Indonésie le projet énergétique mis sur pied par un consortium ,mené, par Mission Energy des États-Unis ? 
 FQB_TREC-fr-144,Combien de mégawatts produira en Indonésie le projet énergétique ,mis, sur pied par un consortium mené par Mission Energy des États-Unis ? 
 FQB_TREC-fr-148,Combien de soldats furent ,impliqués, dans la dernière invasion américaine du Panama ? 
-FQB_TREC-fr-149,Où est basée l'équipe de basketball ,nommée," les ""Bulls"" ? "
-FQB_TREC-fr-149,Où est ,basée," l'équipe de basketball nommée les ""Bulls"" ? "
+FQB_TREC-fr-149,Où est basée l'équipe de basketball ,nommée," les """"Bulls"""" ? "
+FQB_TREC-fr-149,Où est ,basée," l'équipe de basketball nommée les """"Bulls"""" ? "
 FQB_TREC-fr-151,Où est ,mort, Dylan Thomas ? 
 FQB_TREC-fr-156,Quand le Général Manuel Noriega a-t-il été évincé de son poste de dirigeant du Panama et ,remis, aux autorités américaines ? 
 FQB_TREC-fr-156,Quand le Général Manuel Noriega a-t-il été ,évincé, de son poste de dirigeant du Panama et remis aux autorités américaines ? 
@@ -399,7 +399,7 @@ FQB_TREC-fr-289,John C. Calhoun et Henry Clay sont ,connus, comme étant qui ?
 FQB_TREC-fr-291,Quand la période carolingienne ,débuta,-t-elle ? 
 FQB_TREC-fr-302,"Aux États-Unis, combien de personnes par année meurent d'un empoisonnement ",dû, à une morsure de serpent ? 
 FQB_TREC-fr-302,"Aux États-Unis, combien de personnes par année ",meurent, d'un empoisonnement dû à une morsure de serpent ? 
-FQB_TREC-fr-304,Où se ,trouve," la ""Tornado Alley"" ? "
+FQB_TREC-fr-304,Où se ,trouve," la """"Tornado Alley"""" ? "
 FQB_TREC-fr-306,Où ,vivent, les hyènes ? 
 FQB_TREC-fr-310,Où ,est, le pont sur la rivière Kwaï ? 
 FQB_TREC-fr-315,Pourquoi les autruches ne peuvent-elles pas ,voler, ? 
@@ -408,13 +408,13 @@ FQB_TREC-fr-317,Où ,est, Guam ?
 FQB_TREC-fr-320,Où est ,située, la Roumanie ? 
 FQB_TREC-fr-321,Où fut ,fondée, la compagnie De Beers ? 
 FQB_TREC-fr-328,Quel était le nom de l'homme ,tué, en duel avec Aaron Burr ? 
-FQB_TREC-fr-330,"Quand le ""Slinky"" fut-il ",inventé, ? 
+FQB_TREC-fr-330,"Quand le """"Slinky"""" fut-il ",inventé, ? 
 FQB_TREC-fr-332,Combien de temps cela prendrait-il pour ,aller, de la Terre à Mars ? 
 FQB_TREC-fr-336,Quand la compagnie Microsoft fut-elle ,établie, ? 
 FQB_TREC-fr-339,Comment se ,nommait, le jeu de balle des anciens Mayas ? 
 FQB_TREC-fr-344,Qui fut ,considéré, comme le père de la psychologie ? 
 FQB_TREC-fr-350,Combien de violons stradivarius furent ,fabriqués, ? 
-FQB_TREC-fr-352,Qui a inventé le jeu ,connu," sous le nom de ""bowling"" ? "
+FQB_TREC-fr-352,Qui a inventé le jeu ,connu," sous le nom de """"bowling"""" ? "
 FQB_TREC-fr-356,D'où ,provient, le chocolat ? 
 FQB_TREC-fr-359,Où se ,trouve, Melbourne ? 
 FQB_TREC-fr-361,À quelle chaleur s',élève, l'intérieur d'un volcan actif ? 
@@ -450,7 +450,7 @@ FQB_TREC-fr-453,Quand ,tombe, le jour de la Bastille ?
 FQB_TREC-fr-455,Colin Powell est surtout ,connu, pour quelle raison ? 
 FQB_TREC-fr-457,Où ,est, l'université Webster ? 
 FQB_TREC-fr-459,Quand John D. Rockefeller est-il ,né, ? 
-FQB_TREC-fr-461,Qui est l'auteur du livre sur le piratage informatique qui s',intitule," ""The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage"" ? "
+FQB_TREC-fr-461,Qui est l'auteur du livre sur le piratage informatique qui s',intitule," """"The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage"""" ? "
 FQB_TREC-fr-464,Où ,est, le siège social d'Eli Lilly ? 
 FQB_TREC-fr-465,De quel collège Hillary Clinton a-t-elle été ,diplômée, ? 
 FQB_TREC-fr-466,Où ,est, Glasgow ? 
@@ -460,8 +460,8 @@ FQB_TREC-fr-485,Où ,est, Amsterdam ?
 FQB_TREC-fr-487,Quel était le titre du film dans lequel ,jouaient, Sharon Stone et Arnold Schwarzenegger ? 
 FQB_TREC-fr-488,Dans quel continent se ,situe, la Bolivie ? 
 FQB_TREC-fr-490,D'où ,proviennent, les cochons d'Inde ? 
-FQB_TREC-fr-497,Qui jouait le rôle de Jake dans l'émission télévisée ,intitulée," ""Jake and the Fatman"" ? "
-FQB_TREC-fr-498,Qui jouait le rôle de Fatman dans l'émission télévisée ,intitulée," ""Jake and the Fatman"" ? "
+FQB_TREC-fr-497,Qui jouait le rôle de Jake dans l'émission télévisée ,intitulée," """"Jake and the Fatman"""" ? "
+FQB_TREC-fr-498,Qui jouait le rôle de Fatman dans l'émission télévisée ,intitulée," """"Jake and the Fatman"""" ? "
 FQB_TREC-fr-499,Où ,est, le Venezuela ? 
 FQB_TREC-fr-500,Dans quelle ville de la Floride se ,trouve, Sea World ? 
 FQB_TREC-fr-502,Quelle est l'une des villes dans lesquelles est ,située, l'université du Minnesota ? 
@@ -477,10 +477,10 @@ FQB_TREC-fr-520,Quand fut ,produite, la première Barbie ?
 FQB_TREC-fr-524,Où s'est premièrement ,développé, le wicca ? 
 FQB_TREC-fr-526,D'où sont ,extraits, les diamants ? 
 FQB_TREC-fr-527,Où a été ,établie, la NFL ? 
-FQB_TREC-fr-530,Sous quel autre nom étaient ,connus," les ""Little Rascals"" ? "
+FQB_TREC-fr-530,Sous quel autre nom étaient ,connus," les """"Little Rascals"""" ? "
 FQB_TREC-fr-534,Où ,est, le château de Windsor ? 
-FQB_TREC-fr-535,Qui jouait le personnage de Rosanne Rosanna-Dana dans l'émission télévisée ,intitulée," ""Saturday Night Live"" ? "
-FQB_TREC-fr-537,De quel animal ,proviennent," les ""buffalo wings"" ? "
+FQB_TREC-fr-535,Qui jouait le personnage de Rosanne Rosanna-Dana dans l'émission télévisée ,intitulée," """"Saturday Night Live"""" ? "
+FQB_TREC-fr-537,De quel animal ,proviennent," les """"buffalo wings"""" ? "
 FQB_TREC-fr-538,Quand fut ,inventé, le code à barres ? 
 FQB_TREC-fr-541,Quelle était la raison d',être, du projet Manhattan ? 
 FQB_TREC-fr-547,Quand fut ,construit, le barrage Hoover ? 
@@ -506,7 +506,7 @@ FQB_TREC-fr-585,Quelle mannequin célèbre était ,mariée, avec Billy Joel ?
 FQB_TREC-fr-587,Dans quel livre ,peut,-on trouver l'histoire d'Aladin ? 
 FQB_TREC-fr-588,Quand a ,commencé, la Première Guerre mondiale ? 
 FQB_TREC-fr-589,Dans quel État se ,trouvent, les chutes de Niagara ? 
-FQB_TREC-fr-590,Quel est le nom de l'actrice qui a ,joué," dans le film ""Silence of the Lambs"" ? "
+FQB_TREC-fr-590,Quel est le nom de l'actrice qui a ,joué," dans le film """"Silence of the Lambs"""" ? "
 FQB_TREC-fr-592,Où ,pourrait,-on faire un tour de locomotive à vapeur ? 
 FQB_TREC-fr-593,Quand a été ,réalisé, le film Caligula ? 
 FQB_TREC-fr-595,Où ,est, la Birmanie ? 
@@ -519,15 +519,15 @@ FQB_TREC-fr-608,Quand Nostradamus est-il ,né, ?
 FQB_TREC-fr-612,Qui a créé la bande dessinée ,intitulée, Garfield ? 
 FQB_TREC-fr-612,Qui a créé la bande ,dessinée, intitulée Garfield ? 
 FQB_TREC-fr-613,Où est ,située, l'île de Man ? 
-FQB_TREC-fr-615,Quel jour est ,connu," comme étant le ""jour national de la prière"" ? "
+FQB_TREC-fr-615,Quel jour est ,connu," comme étant le """"jour national de la prière"""" ? "
 FQB_TREC-fr-616,À quoi ,sert, une brassière d'automobile ? 
 FQB_TREC-fr-624,Comment Teddy Roosevelt était-il ,lié, à FDR ? 
 FQB_TREC-fr-628,Dans quelle ville se ,trouve," la station de radio 94,5 kdge ? "
 FQB_TREC-fr-629,Quel président est ,devenu, juge en chef suite à sa présidence ? 
 FQB_TREC-fr-633,Combien de temps ,vit, le bernard-l'hermite ? 
-FQB_TREC-fr-637,Quelle vedette de la lutte est ,devenue," ""l'Incroyable Hulk"" ? "
+FQB_TREC-fr-637,Quelle vedette de la lutte est ,devenue," """"l'Incroyable Hulk"""" ? "
 FQB_TREC-fr-640,Quand le premier Wall Street Journal fut-il ,publié, ? 
-FQB_TREC-fr-651,Quelle actrice a ,joué," dans ""The Lion in Winter"" ? "
+FQB_TREC-fr-651,Quelle actrice a ,joué," dans """"The Lion in Winter"""" ? "
 FQB_TREC-fr-652,Où est ,née, Tesla ? 
 FQB_TREC-fr-658,Où se ,trouve, le Kings 'Canyon ? 
 FQB_TREC-fr-659,Où ,est, la clinique Mayo ? 
@@ -536,7 +536,7 @@ FQB_TREC-fr-665,En quelle année la première automobile a-t-elle été ,fabriqu
 FQB_TREC-fr-673,De quel sport ,jouent, les Cavaliers de Cleaveland ? 
 FQB_TREC-fr-674,En quelle année la compagnie Avery Dennison a-t-elle été ,fondée, ? 
 FQB_TREC-fr-676-imp,Nommez une troupe de ballet pour laquelle Mikhail Baryshnikov a ,dansé,. 
-FQB_TREC-fr-677,Quel était le nom de l'émission télévisée dans laquelle ,jouait," Karl Maden et dont le titre renfermait ""San Fransisco"" ? "
+FQB_TREC-fr-677,Quel était le nom de l'émission télévisée dans laquelle ,jouait," Karl Maden et dont le titre renfermait """"San Fransisco"""" ? "
 FQB_TREC-fr-682,Quel type de chevaux ,figurent, dans les annonces de Budweiser ? 
 FQB_TREC-fr-684,Quand l'art de la courte-pointe a-t-il ,commencé, ? 
 FQB_TREC-fr-686,Où est ,situé, l'Institut Smithsonian ? 
@@ -592,15 +592,15 @@ FQB_TREC-fr-795,La fête de Dick Clark ,est, quand ?
 FQB_TREC-fr-799,Où ,est, le lieu de naissance de Poe ? 
 FQB_TREC-fr-802,Qui fut le roi ,forcé, de signer la Magna Carta ? 
 FQB_TREC-fr-807,Le corps calleux se ,trouve, dans quelle partie du corps ? 
-FQB_TREC-fr-812,"Par qui fut inventé le ""Silly Putty"" fut ",inventé, ? 
-FQB_TREC-fr-812,Par qui fut ,inventé," le ""Silly Putty"" fut inventé ? "
+FQB_TREC-fr-812,"Par qui fut inventé le """"Silly Putty"""" fut ",inventé, ? 
+FQB_TREC-fr-812,Par qui fut ,inventé," le """"Silly Putty"""" fut inventé ? "
 FQB_TREC-fr-814,Quand fut ,érigée, la porte de Brandebourg de Berlin ? 
 FQB_TREC-fr-816,À quelle date ,est, le Boxing Day ? 
 FQB_TREC-fr-817,Le Boxing Day est ,célébré, à quelle date ? 
 FQB_TREC-fr-819,Quelle ville est ,desservie, par l'aéroport McCarren ? 
 FQB_TREC-fr-820,Dans quelle ville est ,situé, l'aéroport McCarren ? 
 FQB_TREC-fr-822,Où est ,situé, l'aéroport McCarren ? 
-FQB_TREC-fr-825,Par qui ont été ,créés," ""Les Muppets"" ? "
+FQB_TREC-fr-825,Par qui ont été ,créés," """"Les Muppets"""" ? "
 FQB_TREC-fr-834,Quel est le nom ,donné, à l'équivalent islamique de la Croix-Rouge ? 
 FQB_TREC-fr-835,Pour quelle raison Colin Powell est-il surtout ,connu, ? 
 FQB_TREC-fr-836,Colin Powell est surtout ,connu, d'après quelle réalisation ? 
@@ -621,11 +621,11 @@ FQB_TREC-fr-859,Où ,est, le collège Rider ?
 FQB_TREC-fr-867,Comment s',appelle, l'alphabet juif ? 
 FQB_TREC-fr-868,L'alphabet juif s',appelle, comment ? 
 FQB_TREC-fr-869,L'alphabet juif est ,connu, sous quel nom ? 
-FQB_TREC-fr-873,"Le ""Kentucky Horse Park"" ",est, près de quelle ville américaine ? 
-FQB_TREC-fr-874,Où est ,situé," le ""Kentucky Horse Park"" ? "
-FQB_TREC-fr-875,Où ,est," le ""Kentucky Horse Park"" ? "
-FQB_TREC-fr-876,Près de quelle ville se ,trouve," le ""Kentucky Horse Park"" ? "
-FQB_TREC-fr-877,"Le ""Kentucky Horse Park"" est ",situé, près de quelle ville ? 
+FQB_TREC-fr-873,"Le """"Kentucky Horse Park"""" ",est, près de quelle ville américaine ? 
+FQB_TREC-fr-874,Où est ,situé," le """"Kentucky Horse Park"""" ? "
+FQB_TREC-fr-875,Où ,est," le """"Kentucky Horse Park"""" ? "
+FQB_TREC-fr-876,Près de quelle ville se ,trouve," le """"Kentucky Horse Park"""" ? "
+FQB_TREC-fr-877,"Le """"Kentucky Horse Park"""" est ",situé, près de quelle ville ? 
 FQB_TREC-fr-883,Les moteurs rotatifs étaient ,produits, par quelle compagnie ? 
 FQB_TREC-fr-885,Les automobiles à moteur rotatif étaient ,produites, par quelle compagnie ? 
 FQB_TREC-fr-886,Les moteurs rotatifs étaient ,produits, par qui ? 
@@ -637,7 +637,7 @@ FQB_TREC-fr-905,De qui est la tête ,figurant, sur le 10 cent ?
 FQB_TREC-fr-908,Quand l'Idaho est-il ,devenu, un État ? 
 FQB_TREC-fr-913,En quelle année le Titanic a-t-il ,coulé, ? 
 FQB_TREC-fr-914,Qui fut le premier Américain à ,marcher, dans l'espace ? 
-FQB_TREC-fr-916,Quelle rivière aux États-Unis est ,connue," sous le nom de ""Big Muddy"" ? "
+FQB_TREC-fr-916,Quelle rivière aux États-Unis est ,connue," sous le nom de """"Big Muddy"""" ? "
 FQB_TREC-fr-921,Quelle ligne imaginaire se ,trouve, à mi-chemin du Pôle Nord et du Pôle Sud ? 
 FQB_TREC-fr-922,Où ,est, l'aéroport John Wayne ? 
 FQB_TREC-fr-923,Dans quel hémisphère se ,trouvent, les Philippines ? 
@@ -646,15 +646,15 @@ FQB_TREC-fr-928,Quand John F. Kennedy a-t-il été ,élu, président ?
 FQB_TREC-fr-929,Quel âge avait Elvis Presley lorsqu'il est ,mort, ? 
 FQB_TREC-fr-930,Où ,est, le fleuve Orénoque ? 
 FQB_TREC-fr-931,À quelle distance du filet se ,trouve, la ligne de service au tennis ? 
-FQB_TREC-fr-934,"Le tissu nommé ""lin"" est fabriqué à ",partir, de quelle plante ? 
-FQB_TREC-fr-934,"Le tissu nommé ""lin"" est ",fabriqué, à partir de quelle plante ? 
-FQB_TREC-fr-934,Le tissu ,nommé," ""lin"" est fabriqué à partir de quelle plante ? "
+FQB_TREC-fr-934,"Le tissu nommé """"lin"""" est fabriqué à ",partir, de quelle plante ? 
+FQB_TREC-fr-934,"Le tissu nommé """"lin"""" est ",fabriqué, à partir de quelle plante ? 
+FQB_TREC-fr-934,Le tissu ,nommé," """"lin"""" est fabriqué à partir de quelle plante ? "
 FQB_TREC-fr-940,Combien de temps Rip Van Winkle a-t-il ,dormi, ? 
 FQB_TREC-fr-950,Quand Elvis Presley est-il ,mort, ? 
 FQB_TREC-fr-952,Où ,est, Milan ? 
 FQB_TREC-fr-953,Quelle est la vitesse à laquelle ,volent, les oiseaux-mouches ? 
 FQB_TREC-fr-956,Quelle rivière s',écoule," entre Fargo, au Dakota du Nord, et Moorhead, au Minnesota ? "
-FQB_TREC-fr-968,Où est ,situé," le ""Mall of the America"" ? "
+FQB_TREC-fr-968,Où est ,situé," le """"Mall of the America"""" ? "
 FQB_TREC-fr-976,Qui fut ,élu, président de l'Afrique du Sud en 1994 ? 
 FQB_TREC-fr-978,Quand Rosa Parks est-elle ,née, ? 
 FQB_TREC-fr-985,Qu'est-ce que la publication ,assistée, par ordinateur ? 
@@ -693,7 +693,7 @@ FQB_TREC-fr-1078,De quoi est ,composé, le gaz naturel ?
 FQB_TREC-fr-1080,Quel dirigeant français a été ,défait, à la bataille de Waterloo ? 
 FQB_TREC-fr-1082,Où est ,mort, Howard Hughes ? 
 FQB_TREC-fr-1087,Quand a ,ouvert, le premier magasin Wal-Mart ? 
-FQB_TREC-fr-1091,Qui a inventé le jeu de cerceau ,appelé," ""hula hoop"" ? "
+FQB_TREC-fr-1091,Qui a inventé le jeu de cerceau ,appelé," """"hula hoop"""" ? "
 FQB_TREC-fr-1093,De quoi est ,fait, le pastrami ? 
 FQB_TREC-fr-1095,De quelle ville est le journal qui s',appelle, The Enquirer ? 
 FQB_TREC-fr-1099,Où est ,situé, le volcan Mons olympus ? 
@@ -712,7 +712,7 @@ FQB_TREC-fr-1134,Dans quelle province française le cognac est-il ,produit, ?
 FQB_TREC-fr-1139,Quel est le plus long pont ,suspendu, des États-Unis ? 
 FQB_TREC-fr-1146,Qu'est-ce qu'Edward Binney et Howard Smith ,on, inventé en 1903 ? 
 FQB_TREC-fr-1147,De quoi est ,faite, la statue de la Liberté ? 
-FQB_TREC-fr-1149,Quelle planète est ,connue," comme étant la planète ""rouge"" ? "
+FQB_TREC-fr-1149,Quelle planète est ,connue," comme étant la planète """"rouge"""" ? "
 FQB_TREC-fr-1154,Qui fut le premier Afro-américain à ,jouer, pour les Dodgers de Brooklyn ? 
 FQB_TREC-fr-1157,De quel instrument ,jouait, Glenn Miller ? 
 FQB_TREC-fr-1163,Comment Janice Joplin est-elle ,morte, ? 
@@ -773,7 +773,7 @@ FQB_TREC-fr-1363,Qu'est-ce que l'intérêt ,composé, ?
 FQB_TREC-fr-1368,Quel type de polymère est ,utilisé, dans les vestes pare-balles ? 
 FQB_TREC-fr-1374,Quel était le nom du premier satellite américain ,envoyé, dans l'espace ? 
 FQB_TREC-fr-1376,Quelle est la sorte de gaz qui se ,trouve, dans une ampoule fluorescente ? 
-FQB_TREC-fr-1380,Quelle ville est aussi ,connue," sous le nom de ""Gateway to the West"" ? "
+FQB_TREC-fr-1380,Quelle ville est aussi ,connue," sous le nom de """"Gateway to the West"""" ? "
 FQB_TREC-fr-1381,À quelle distance se ,trouve, la Lune ? 
 FQB_TREC-fr-1385,Qu',est, que la biodiversité ? 
 FQB_TREC-fr-1390,Quelle est la devise monétaire ,utilisée, en Zambie ? 
@@ -784,8 +784,8 @@ FQB_TREC-fr-1399,Quelle ville écossaise mythique ,apparaît, une journée tous 
 FQB_TREC-fr-1400,Quand le télégraphe a-t-il été ,inventé, ? 
 FQB_TREC-fr-1403,Quand le moteur à combustion interne a-t-il été ,inventé, ? 
 FQB_TREC-fr-1406,Quand l'histoire de Roméo et Juliette se ,passe,-t-elle ? 
-FQB_TREC-fr-1409,Quel chanteur de rock 'n roll démodé était aussi ,connu," sous le nom de ""Killer"" ? "
-FQB_TREC-fr-1413,Quelle rivière est ,connue," sous le nom de ""China 's Sorrow"" ? "
+FQB_TREC-fr-1409,Quel chanteur de rock 'n roll démodé était aussi ,connu," sous le nom de """"Killer"""" ? "
+FQB_TREC-fr-1413,Quelle rivière est ,connue," sous le nom de """"China 's Sorrow"""" ? "
 FQB_TREC-fr-1415,Où ,habite, le vice-président lorsqu'il est en fonction ? 
 FQB_TREC-fr-1416,Quand fut ,fondé, Wendy 's ? 
 FQB_TREC-fr-1418,Quand s'est ,tenu, le procès Rosenberg ? 
@@ -841,7 +841,7 @@ FQB_TREC-fr-1537,Combien de collèges électoraux ,votent, au Tennessee ?
 FQB_TREC-fr-1539,Quelle est le bonbon ,préféré, de Ronald Reagan ? 
 FQB_TREC-fr-1541,Quel président ,figure, sur un vint-cinq cents ? 
 FQB_TREC-fr-1542,Où ,est, la base aérienne de Hill ? 
-FQB_TREC-fr-1546,En quelle année a été ,réalisé," le film ""Ole Yeller"" ? "
+FQB_TREC-fr-1546,En quelle année a été ,réalisé," le film """"Ole Yeller"""" ? "
 FQB_TREC-fr-1548,Quel est le prénom du premier Gehrig à avoir ,joué, pour les Yankees de New York ? 
 FQB_TREC-fr-1549,En quelle année l'ordinateur personnel a-t-il été ,inventé, ? 
 FQB_TREC-fr-1556,Dans quel cimetière Thurgood Marshall est-il ,enterré, ? 
@@ -852,8 +852,8 @@ FQB_TREC-fr-1566,Quel poète célèbre est ,mort, pendant la Guerre civile espag
 FQB_TREC-fr-1567,Quand fut ,fondé, le parti des Panthères noires en Californie ? 
 FQB_TREC-fr-1570,Quel est l'âge légal pour ,voter, en Argentine ? 
 FQB_TREC-fr-1572,En l'honneur de qui l'État de Pennsylvanie fut-il ,nommé, ? 
-FQB_TREC-fr-1574,"Quand ""The Simpsons"" ont-ils été ",diffusés, pour la première fois à la télévision ? 
-FQB_TREC-fr-1577,De quel poème de Burns ,provient," le vers : ""the best laid plans of mice and men"" ? "
+FQB_TREC-fr-1574,"Quand """"The Simpsons"""" ont-ils été ",diffusés, pour la première fois à la télévision ? 
+FQB_TREC-fr-1577,De quel poème de Burns ,provient," le vers : """"the best laid plans of mice and men"""" ? "
 FQB_TREC-fr-1580,Quel nom donne-t-on à la science qui ,consiste, à dessiner des cartes ? 
 FQB_TREC-fr-1584,Quand George W. Bush a-t-il été ,élu, gouverneur du Texas ? 
 FQB_TREC-fr-1586,Quand le pont Golden Gate a-t-il été ,achevé, ? 
@@ -871,7 +871,7 @@ FQB_TREC-fr-1605,Quelle distance coureriez-vous si vous ,participiez, à un mara
 FQB_TREC-fr-1616,Quand ,est, l'anniversaire de Gerald Ford ? 
 FQB_TREC-fr-1618,Où est ,produite, la bile ? 
 FQB_TREC-fr-1621,Quel est le nom du pays ,situé, dans les Pyrénées entre la France et l'Espagne ? 
-FQB_TREC-fr-1624,En quelle année est ,apparu," le ""Nouveau Coke"" ? "
+FQB_TREC-fr-1624,En quelle année est ,apparu," le """"Nouveau Coke"""" ? "
 FQB_TREC-fr-1627,Qu'est-ce qui est ,écrit, sur la tombe américaine du soldat inconnu ? 
 FQB_TREC-fr-1628,Quelle est la surface ,couverte, par les Everglades ? 
 FQB_TREC-fr-1629,Où est ,enterrée, Mae West ? 
@@ -902,7 +902,7 @@ FQB_TREC-fr-1681,Quand Houdini est-il ,décédé, ?
 FQB_TREC-fr-1682,Quand Martin Luther King Junior est-il ,né, ? 
 FQB_TREC-fr-1683,Sous quel nom l'acteur de film d'horreur William Henry Pratt est-il surtout ,connu, ? 
 FQB_TREC-fr-1688,En quelle année fut ,construite, l'arche Gateway ? 
-FQB_TREC-fr-1691,"Où le film ""Somewhere in Time"" a-t-il été ",tourné, ? 
+FQB_TREC-fr-1691,"Où le film """"Somewhere in Time"""" a-t-il été ",tourné, ? 
 FQB_TREC-fr-1693,Quand Jackie Robinson est-il ,né, ? 
 FQB_TREC-fr-1694,En quelle année la Californie est-elle ,devenue, un territoire ? 
 FQB_TREC-fr-1695,"De quelle race était le cheval de Roy Roger, ",nommé, Trigger ? 
@@ -927,7 +927,7 @@ FQB_TREC-fr-1735,Dans quelle ville se ,trouve, l'université Southwestern ?
 FQB_TREC-fr-1737,Quelle quantité de sommeil un enfant ,devrait,-il avoir la nuit ? 
 FQB_TREC-fr-1738,Où était ,stationnée, la troupe F ? 
 FQB_TREC-fr-1740,De quoi est ,faite, la Coupe Stanley ? 
-FQB_TREC-fr-1741,Quel auteur a ,écrit," sous le nom de plume ""Boz"" ? "
+FQB_TREC-fr-1741,Quel auteur a ,écrit," sous le nom de plume """"Boz"""" ? "
 FQB_TREC-fr-1747,Où est ,situé, le centre national des ouragans ? 
 FQB_TREC-fr-1749,Quand Spoutnik fut-il ,lancé, ? 
 FQB_TREC-fr-1751,Où est ,situé, le parc national Mesa Verde ? 
@@ -974,7 +974,7 @@ FQB_TREC-fr-1830,Dans quelle ville se ,termine, le tour de France ?
 FQB_TREC-fr-1835,Qui était l'ennemi ,juré, de Sherlock Holmes ? 
 FQB_TREC-fr-1837,En quelle année fut ,construit," Ebbets Field, chef-lieu des Dodgers de Brooklyn ? "
 FQB_TREC-fr-1839,Quel pays fut ,formé, en 1948 ? 
-FQB_TREC-fr-1841,Quelle est la dernière strophe du poème d'Edgar Allen Poe ,intitulé," ""The Raven"" ? "
+FQB_TREC-fr-1841,Quelle est la dernière strophe du poème d'Edgar Allen Poe ,intitulé," """"The Raven"""" ? "
 FQB_TREC-fr-1843,Pendant quel mois ,naissent, le plus de bébés ? 
 FQB_TREC-fr-1845,Dans quelle province se ,trouve, Calgary ? 
 FQB_TREC-fr-1852,Quand Henri VIII a-t-il ,régné, sur l'Angleterre ? 
@@ -983,7 +983,7 @@ FQB_TREC-fr-1854,Quelle était la profession de William Shakespeare avant que il
 FQB_TREC-fr-1855,À quelle vitesse ,tourne, la Terre ? 
 FQB_TREC-fr-1856,Quelle ville est ,connue, comme étant la capitale du caoutchouc ? 
 FQB_TREC-fr-1858-imp,Dites-moi où est ,située, la compagnie DuPont. 
-FQB_TREC-fr-1860,À quelle comédie musicale de Broadway ,appartient," la chanson ""The Story is Me"" ? "
+FQB_TREC-fr-1860,À quelle comédie musicale de Broadway ,appartient," la chanson """"The Story is Me"""" ? "
 FQB_TREC-fr-1861,Où est ,né, Bill Gates ? 
 FQB_TREC-fr-1864,Quel était le nom du premier enfant de parents anglais à être ,né, en Amérique ? 
 FQB_TREC-fr-1866,Quelle partie de l'oeil continue à ,grandir, au cours de la vie d'une personne ? 
@@ -997,7 +997,7 @@ FQB_TREC-fr-1876,À quelle distance de la Terre se ,trouve, le Soleil ?
 FQB_TREC-fr-1878,En quelle année fut ,inventé, le phonographe ? 
 FQB_TREC-fr-1879,Sous quel surnom le musicien Ernesto Antonio Puente Junior était-il mieux ,connu, ? 
 FQB_TREC-fr-1880,Quand est ,né, le roi Louis XIV ? 
-FQB_TREC-fr-1881,Quel est le nom scientifique de la plante ,nommée," ""zinnia"" ? "
+FQB_TREC-fr-1881,Quel est le nom scientifique de la plante ,nommée," """"zinnia"""" ? "
 FQB_TREC-fr-1883,Quelle portion de la couche d'ozone est ,appauvrie, ? 
 FQB_TREC-fr-1884,Où se ,trouve, la mer de la Tranquillité ? 
 FQB_TREC-fr-1888,En quelle année fut ,inventée, l'ampoule ? 
