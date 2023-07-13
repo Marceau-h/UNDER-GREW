@@ -16,8 +16,9 @@ main = Path.cwd() / "exports"  # can be changed to a specific folder
 patterns = {
     'VERB': 'pattern {V [upos=VERB]}',
     'VERB-direct-obj': 'pattern {V [upos=VERB]; V -[obj]-> O}',
-    'VERB-indirect-onj': 'pattern {V [upos=VERB]; V -[iobj]-> I}',
-    'VERB-no-obj': 'pattern {V [upos=VERB];} without {V -[obj|iobj]-> O}',
+    'VERB-indirect-obj': 'pattern {V [upos=VERB]; V -[iobj]-> I}',
+    'VERB-obl': 'pattern {V [upos=VERB]; V -[obl]-> I}',
+    'VERB-no-obj': 'pattern {V [upos=VERB];} without {V -[obj|iobj|obl]-> O}',
 }
 
 # This must be in the list of corpora available on the website
@@ -101,10 +102,10 @@ for corpus in corpora:
             df = pd.read_csv(pat_file, sep='\t', low_memory=False)
 
             df.to_csv(pat_file.with_suffix('.csv'), index=False)
-            df.to_excel(pat_file.with_suffix('.xlsx'), index=False)
-            df.to_pickle(pat_file.with_suffix('.pkl'))
-            df.to_json(pat_file.with_suffix('.jsonl'), orient='records', lines=True)
-            df.to_json(pat_file.with_suffix('.json'), orient='records')
+            # df.to_excel(pat_file.with_suffix('.xlsx'), index=False)
+            # df.to_pickle(pat_file.with_suffix('.pkl'))
+            # df.to_json(pat_file.with_suffix('.jsonl'), orient='records', lines=True)
+            # df.to_json(pat_file.with_suffix('.json'), orient='records')
 
         except pd.errors.ParserError:
             print(f"\nParsing error for {pat_file}\nfile of {len(tsv.splitlines())} lines")

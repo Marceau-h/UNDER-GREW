@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/exports/UD_French-Rhapsodie/VERB.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/test.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

@@ -1,0 +1,1001 @@
+sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPREL	DEPS	MISC
+0	Carles li reis, nostre emperere magnes, Set anz tuz pleins ad 	estet	 en Espaigne : 	14	estet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_00014
+0	Carles li reis, nostre emperere magnes, Set anz tuz pleins ad 	estet	 en Espaigne : 	14	estet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_00014
+1	Tresqu'en la mer 	cunquist	 la tere altaigne. 	5	cunquist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00022
+10	Sur un perrun de marbre bloi se 	culchet	 ; 	8	culchet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00108
+100	De sun aveir vos voelt asez duner, Urs e leuns e veltres enchaignez, Set cenz cameilz e mil hosturs muez, D'or e d'argent.IIII. cenz muls 	trussez	, Cinquante care que carïer en ferez ; 	32	trussez	_	VERB	VERppe	Tense=Past|VerbForm=Part	31	acl	_	SpaceAfter=No|XmlId=w_58_01121
+101	Tant i avrat de besanz esmerez, Dunt bien purrez voz soldeiers 	luer	 ; 	13	luer	_	VERB	VERinf	VerbForm=Inf	5	acl:relcl	_	XmlId=w_58_01142
+101	Tant i 	avrat	 de besanz esmerez, Dunt bien purrez voz soldeiers luer ; 	3	avrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01132
+102	En cest païs avez 	estet	 asez ; 	5	estet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_01148
+103	En France, ad Ais, devez bien 	repairer	. 	9	repairer	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_58_01159
+103	En France, ad Ais, devez bien 	repairer	. 	9	repairer	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_58_01159
+105	Li empereres 	tent	 ses mains vers Deu, 	3	tent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01174
+110	Sa custume est qu'il 	parolet	 a leisir. 	6	parolet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01212
+112		Dist	 as messages : 	1	Dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01227
+116	- 	Voet	 par hostages, ço dist li Sarrazins, Dunt vos avrez u dis u quinze u vint. 	2	Voet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01265
+117	Pa num d'ocire i 	metrai	 un mien filz 	6	metrai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01289
+117	Pa num d'ocire i 	metrai	 un mien filz 	6	metrai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01289
+119	Quant vus serez el palais seignurill, A la grant feste seint Michel del Peril, Mis avoez la vos 	sivrat	, 	21	sivrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_01324
+119	Quant vus 	serez	 el palais seignurill, A la grant feste seint Michel del Peril, Mis avoez la vos sivrat, 	3	serez	_	VERB	VERcjg	VerbForm=Fin	21	advcl	_	XmlId=w_58_01306
+121	Enz en voz bainz que Deus pur vos i fist, La vuldrat il chrestïens 	devenir	. » 	16	devenir	_	VERB	devenir	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_58_01344
+121	Enz en voz bainz que Deus pur vos i 	fist	, La vuldrat il chrestïens devenir. » 	10	fist	_	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No|XmlId=w_58_01338
+127	El grant verger 	fait	 li reis tendre un tref, 	4	fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01378
+13	Li empereres Carles de France dulce En cest païs nos est 	venuz	 cunfundre. 	12	venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_00149
+130	La noit demurent tresque 	vint	 al jur cler. 	5	vint	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_58_01404
+130	La noit 	demurent	 tresque vint al jur cler. 	3	demurent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01402
+131	Li empereres est par matin 	levet	, 	6	levet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_01414
+133	Desuz un pin en est li reis 	alez	, 	8	alez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_01431
+133	Desuz un pin en est li reis 	alez	, 	8	alez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_01431
+135	Par cels de France voelt il del tut 	errer	. 	9	errer	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_58_01449
+136	Li empereres s'en 	vait	 desuz un pin ; 	5	vait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01457
+136	Li empereres s'en 	vait	 desuz un pin ; 	5	vait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01457
+138	E si i 	furent	 e Gerers e Gerin ; 	4	furent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01505
+139	Ensembl'od els li quens Rollant i 	vint	 E Oliver, li proz e li gentilz ; 	8	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01518
+139	Ensembl'od els li quens Rollant i 	vint	 E Oliver, li proz e li gentilz ; 	8	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01518
+140	Des Francs de France en i 	ad	 plus de mil ; 	7	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01534
+141	Guenes i 	vint	, ki la traïson fist. 	3	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_01541
+142	Des ore cumencet le cunseill que mal 	prist	. 	8	prist	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No|XmlId=w_58_01555
+144	De sun aveir me voelt duner grant masse, Urs e leuns e veltres caeignables, Set cenz cameilz e mil hosturs muables, Quatre cenz muls 	cargez	 de l'or d'Arabe, Avoec iço plus de cinquante care. 	28	cargez	_	VERB	VERppe	Tense=Past|VerbForm=Part	27	acl	_	XmlId=w_58_01604
+145	Mais il me mandet que en France m'en 	alge	, 	10	alge	_	VERB	VERcjg	VerbForm=Fin	4	ccomp	_	SpaceAfter=No|XmlId=w_58_01627
+146	Il me 	sivrat	 ad Ais, a mun estage, 	3	sivrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01631
+146	Il me 	sivrat	 ad Ais, a mun estage, 	3	sivrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01631
+154	Li quens Rollant, ki ne l'otriet mie, En piez se 	drecet	, 	14	drecet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_01700
+156	Il 	dist	 al rei : 	2	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01708
+158	Set anz ad pleins que en Espaigne 	venimes	 ; 	8	venimes	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_58_01725
+16		Conseilez	 mei cume mi savie hume, 	1	Conseilez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00171
+165	A voz Franceis un cunseill en 	presistes	, 	7	presistes	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_01784
+166		Loerent	 vos alques de legerie ; 	1	Loerent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01786
+167	Dous de voz cuntes al paien 	tramesistes	, 	7	tramesistes	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_01798
+169	Les chef en 	prist	 es puis desuz Haltilie. 	4	prist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01812
+169	Les chef en 	prist	 es puis desuz Haltilie. 	4	prist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01812
+17	Si me 	guarisez	 e de mort e de hunte ! » 	3	guarisez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00180
+17018	Hom trovet lisant que Evax, li reis de Arabie, enveiat ad Neron, le emperur de Rume, un livre que il li escrist des natures des pieres, de lur manieres et de lur nuns et de lur culurs et en quele tere eles 	sunt	 et quele puissance eles unt. 	48	sunt	_	VERB	VERcjg	VerbForm=Fin	28	conj	_	XmlId=w_273_0066
+17018	Hom trovet lisant que Evax, li reis de Arabie, enveiat ad Neron, le emperur de Rume, un livre que il li 	escrist	 des natures des pieres, de lur manieres et de lur nuns et de lur culurs et en quele tere eles sunt et quele puissance eles unt. 	26	escrist	_	VERB	VERcjg	VerbForm=Fin	22	acl:relcl	_	XmlId=w_273_0044
+17018	Hom trovet lisant que Evax, li reis de Arabie, 	enveiat	 ad Neron, le emperur de Rume, un livre que il li escrist des natures des pieres, de lur manieres et de lur nuns et de lur culurs et en quele tere eles sunt et quele puissance eles unt. 	12	enveiat	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_273_0030
+17021	Li mirie i 	trovent	 granz aies a lur medecines, 	4	trovent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0092
+17022	et plusurs aises en 	vient	 a cels ki sevent ; 	5	vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0103
+17022	et plusurs aises en 	vient	 a cels ki sevent ; 	5	vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0103
+17022	et plusurs aises en 	vient	 a cels ki sevent ; 	5	vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0103
+17023	ne nuls sages hom ne deit duter que Deus n'i ait mise grant vertut en pieres, altresi cume il 	at	 en herbes. 	22	at	_	VERB	VERcjg	VerbForm=Fin	13	advcl	_	XmlId=w_273_0130
+17023	ne nuls sages hom ne deit duter que Deus n'i ait 	mise	 grant vertut en pieres, altresi cume il at en herbes. 	13	mise	_	VERB	VERppe	Tense=Past|VerbForm=Part	7	ccomp	_	XmlId=w_273_0121
+17025	si la 	trovet	 l'um en Indie. 	3	trovet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0154
+17026	Ele est de si grant durece que ne par fer ne par fu ne pot estre depeciede ne en nule maniere, se ço n'est par le chaut sanc del buc, u hom la muillet, que hom la 	depiecet	 sur le enclume od malz ; 	42	depiecet	_	VERB	VERcjg	VerbForm=Fin	24	acl	_	XmlId=w_273_0201
+17026	Ele est de si grant durece que ne par fer ne par fu ne pot estre depeciede ne en nule maniere, se ço n'est par le chaut sanc del buc, u hom la muillet, que hom la 	depiecet	 sur le enclume od malz ; 	42	depiecet	_	VERB	VERcjg	VerbForm=Fin	24	acl	_	XmlId=w_273_0201
+17026	Ele est de si grant durece que ne par fer ne par fu ne pot estre depeciede ne en nule maniere, se ço n'est par le chaut sanc del buc, u hom la 	muillet	, que hom la depiecet sur le enclume od malz ; 	37	muillet	_	VERB	VERcjg	VerbForm=Fin	30	acl:relcl	_	SpaceAfter=No|XmlId=w_273_0196
+17026	Ele est de si grant durece que ne par fer ne par fu ne pot estre depeciede ne en nule maniere, se ço n'	est	 par le chaut sanc del buc, u hom la muillet, que hom la depiecet sur le enclume od malz ; 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0161
+17026	Ele est de si grant durece que ne par fer ne par fu ne pot estre 	depeciede	 ne en nule maniere, se ço n'est par le chaut sanc del buc, u hom la muillet, que hom la depiecet sur le enclume od malz ; 	17	depeciede	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	advcl	_	XmlId=w_273_0176
+17026	Ele 	est	 de si grant durece que ne par fer ne par fu ne pot estre depeciede ne en nule maniere, se ço n'est par le chaut sanc del buc, u hom la muillet, que hom la depiecet sur le enclume od malz ; 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0161
+17027	et des agues pieres ki en fruissent 	entaillet	 hom les altres gemes. 	8	entaillet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0215
+17027	et des agues pieres ki en 	fruissent	 entaillet hom les altres gemes. 	7	fruissent	_	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	XmlId=w_273_0214
+17029	Et en Arabie 	ad	 une maniere de adamas ki n'est mie si dure, 	4	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0234
+17029	Et en Arabie 	ad	 une maniere de adamas ki n'est mie si dure, 	4	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0234
+17030	kar hom la pot 	depecier	 senz sanc de buc. 	5	depecier	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_273_0250
+17032	Un tierz adamas 	est	 en Cypre, li quarz en Grece. 	4	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0277
+17033	A tuz icez 	est	 nature a traire fer. 	4	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0289
+17034	Iceste piere 	usent	 enchanteur a lur enchauntement, 	3	usent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0297
+17035	et ele dunet a hume ki la 	portet	 sur sei force et vertut, 	8	portet	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_273_0310
+17035	et ele 	dunet	 a hume ki la portet sur sei force et vertut, 	3	dunet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0305
+17036	et si 	defent	 de griefs sunges, de fanthomes et de tuz venims, 	3	defent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0319
+17040	Ele deit estre 	close	 en or u en argent ; 	4	close	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_273_0356
+17041	si la deit l'um 	porter	 el senestre braz. 	6	porter	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_273_0368
+17042	Achates. - Achates est issi apelee pur une ewe ki 	curt	 parmi Sizilie ki altresi ad num. 	12	curt	_	VERB	VERcjg	VerbForm=Fin	10	acl:relcl	_	XmlId=w_273_0384
+17042	Achates. - Achates est issi 	apelee	 pur une ewe ki curt parmi Sizilie ki altresi ad num. 	7	apelee	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_273_0379
+17043	Ele est neire, mes que ele ad plusurs figures : a la fiede de reis, a la fiede de bestes que nature i ad 	mises	. 	27	mises	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	acl:relcl	_	SpaceAfter=No|XmlId=w_273_0418
+17044	Une altre maniere de achate trovet hom en l'isle de Crete, ki resemblet coral, ki 	at	 grains cume or. 	19	at	_	VERB	VERcjg	VerbForm=Fin	15	conj	_	XmlId=w_273_0438
+17044	Une altre maniere de achate trovet hom en l'isle de Crete, ki 	resemblet	 coral, ki at grains cume or. 	15	resemblet	_	VERB	VERcjg	VerbForm=Fin	3	acl:relcl	_	XmlId=w_273_0434
+17044	Une altre maniere de achate 	trovet	 hom en l'isle de Crete, ki resemblet coral, ki at grains cume or. 	6	trovet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0425
+17046	En Indie rat un'altre maniere de achate, u sunt braunches de arbres et farains 	entalliez	. 	17	entalliez	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	acl:relcl	_	SpaceAfter=No|XmlId=w_273_0465
+17046	En Indie 	rat	 un'altre maniere de achate, u sunt braunches de arbres et farains entalliez. 	3	rat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0451
+17046	En Indie 	rat	 un'altre maniere de achate, u sunt braunches de arbres et farains entalliez. 	3	rat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0451
+17050	Un'altre i 	ad	 ki at sanguines teches. Une altre ki at colur de cire ; 	4	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0494
+17050	Un'altre i 	ad	 ki at sanguines teches. Une altre ki at colur de cire ; 	4	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0494
+17055	e bien en est 	creut	. 	5	creut	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_273_0546
+17057	ele est resplendissaunte e 	semblante	 al ciel quant il est pur sanz nues ; 	5	semblante	_	VERB	VERppa	Tense=Pres|VerbForm=Part	3	conj	_	XmlId=w_273_0563
+17059	Hom le apelet sirtites, pur ceo que hom la 	trovet	 en la gravele de Libie, aprés les Sirtes. 	11	trovet	_	VERB	VERcjg	VerbForm=Fin	7	acl	_	XmlId=w_273_0594
+17059	Hom le apelet sirtites, pur ceo que hom la 	trovet	 en la gravele de Libie, aprés les Sirtes. 	11	trovet	_	VERB	VERcjg	VerbForm=Fin	7	acl	_	XmlId=w_273_0594
+17059	Hom le 	apelet	 sirtites, pur ceo que hom la trovet en la gravele de Libie, aprés les Sirtes. 	3	apelet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0586
+17060	Mais cele est la mieldre que hom 	trovet	 en la terre as Turcs ; 	8	trovet	_	VERB	VERcjg	VerbForm=Fin	5	acl	_	XmlId=w_273_0612
+17062	Ele est de si grande vertut que ele est par dreit 	apellee	 gemme de tutes gemmes. 	12	apellee	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl	_	XmlId=w_273_0635
+17062	Ele 	est	 de si grande vertut que ele est par dreit apellee gemme de tutes gemmes. 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0625
+17067	Ele 	getet	 home de prisun 	2	getet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0661
+17068	et 	desliet	 de forz liens, 	2	desliet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0666
+17070	e ele est mieldre a 	vedeir	 que nule aultre en l'ewe les figures ki dient les choses ki ainz ne furent seues. 	6	vedeir	_	VERB	VERinf	VerbForm=Inf	4	acl	_	XmlId=w_273_0684
+17071	A medicine 	revalt	, 	3	revalt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_273_0705
+17073	e si hom la 	triblet	 od lait, si est bone a saner malvais malauns. 	5	triblet	_	VERB	VERcjg	VerbForm=Fin	11	advcl	_	XmlId=w_273_0726
+17076	- Jaspes 	sunt	 de dis et set manieres, 	3	sunt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0768
+17077	et ele 	est	 de mutes culurs, 	3	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0777
+17078	e 	creist	 en multes parties del siecle. 	2	creist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0783
+17080	Ki chastement la ported, ele 	defent	 de fievre et de ydrope, 	7	defent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0813
+17081	et ele vault a femme ki 	vait	 de sun ventre, 	7	vait	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_273_0826
+17081	et ele 	vault	 a femme ki vait de sun ventre, 	3	vault	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0822
+17086	- Smaragde 	veint	 tutes choses de verdur. 	3	veint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0862
+17087	Ele 	est	 de sis manieres, 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0869
+17088	car ele 	est	 de Sithia, 	3	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0876
+17089	et ele 	est	 de Bractenie, 	3	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0882
+17090	et ele est de Nil ki 	vient	 de parais, 	7	vient	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_273_0892
+17090	et ele 	est	 de Nil ki vient de parais, 	3	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0888
+17092	Cele de Scithia est mielz preisiede, que unes genz ki unt num Arismaspi 	tolent	 a griffuns. 	15	tolent	_	VERB	VERcjg	VerbForm=Fin	1	acl:relcl	_	XmlId=w_273_0917
+17094	Ele ne 	muet	 sa bealtéd ne pur soleil ne pur lumiere la nuit ne pur umbre. 	3	muet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0947
+17097	Iceste pierre est a 	enquerre	 choses par ewe. 	5	enquerre	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_273_0989
+17098	Ele 	acreist	 richeise a celui ki chastement la ported, 	2	acreist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0995
+17099	et ele 	fait	 a hume parler et acceptable. 	3	fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1006
+171	En Sarraguce 	menez	 vostre ost banie, 	3	menez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01829
+17100	Se hom la ported al col pendue, sil 	garrat	 de une malvaise fievre ki ad nun emitretus, 	10	garrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1022
+17100	Se hom la ported al col 	pendue	, sil garrat de une malvaise fievre ki ad nun emitretus, 	7	pendue	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	acl	_	SpaceAfter=No|XmlId=w_273_1019
+17101	et ele 	valt	 encontre gute chaive, 	3	valt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1034
+17102	et ele 	amended	 les oilz a celui ki l'esguarded, 	3	amended	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1041
+17104	et ele devient plus encre verte, si hom la levet en vin et puis est 	uincte	 de olie vert. 	17	uincte	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	conj	_	XmlId=w_273_1073
+17104	et ele devient plus encre verte, si hom la 	levet	 en vin et puis est uincte de olie vert. 	11	levet	_	VERB	VERcjg	VerbForm=Fin	5	advcl	_	XmlId=w_273_1067
+17105	- Sardoine 	est	 de dous pieres : de sardine et de onicle. 	3	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1082
+17106	Ele 	ad	 de cez dous pieres treis colurs, 	2	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1094
+17107	ker le blaunc i 	est	 sur le neir et le ruge sur le blaunc. 	5	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1106
+17108	Ceste 	est	 de cinc manieres, 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1118
+17111	Ele 	cuvient	 a umble hume et a chaste. 	2	cuvient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1150
+17113	De Arabie 	vient	 et de Indie. 	3	vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1168
+17114	- Grisolite est 	semblante	 a ewe de mer ; 	4	semblante	_	VERB	VERppa	Tense=Pres|VerbForm=Part	0	root	_	XmlId=w_273_1178
+17117	Ele est mult bone a 	porter	 sur sei contre naturals pours ; 	6	porter	_	VERB	VERinf	VerbForm=Inf	4	acl	_	XmlId=w_273_1202
+17117	Ele est mult bone a 	porter	 sur sei contre naturals pours ; 	6	porter	_	VERB	VERinf	VerbForm=Inf	4	acl	_	XmlId=w_273_1202
+17118	ki l'ad perciede, et dunches 	met	 parmi le pertus seie de asne, si em pot l'um dechacier les diables. 	8	met	_	VERB	VERcjg	VerbForm=Fin	4	conj	_	XmlId=w_273_1216
+17119	Al senestre braz deit estre 	pendue	. 	6	pendue	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_273_1238
+17120	Ele 	vient	 de Ethiope. 	2	vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1241
+17123	Ele nus 	vient	 de Inde. 	3	vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1276
+17124	Iceste 	portet	 amur entre hume et femme 	2	portet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1281
+17125	et 	fait	 honur a celui ki la ported ; 	2	fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1288
+17126	et ele 	art	 la main a celui ki le estreint. 	3	art	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1298
+17127	Le ewe u ele ad geut 	valt	 as oilz malades, 	7	valt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1313
+17127	Le ewe u ele ad 	geut	 valt as oilz malades, 	6	geut	_	VERB	VERppe	Tense=Past|VerbForm=Part	2	acl:relcl	_	XmlId=w_273_1312
+17129	et ele vault a tutes les dulurs ki 	avienent	 al feie. 	9	avienent	_	VERB	VERcjg	VerbForm=Fin	7	acl:relcl	_	XmlId=w_273_1338
+17129	et ele 	vault	 a tutes les dulurs ki avienent al feie. 	3	vault	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1332
+17130	De ceste 	sunt	 nof manieres. 	3	sunt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1344
+17131	- Topace 	vient	 de un'hille ki altresi est apelee. 	3	vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1352
+17133	Ele 	est	 de dous manieres : 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1374
+17136	Ele 	valt	 al fi, 	2	valt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1397
+17139	Ele 	vient	 de Arabie. 	2	vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1420
+17140	- Jagunces 	sunt	 de treis manieres : granates et citrines et ewages. 	3	sunt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1428
+17149	Ele refreided quant hom la 	met	 en la buche. 	6	met	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_273_1510
+17150	Pur duresce ne pot estre entallee, se n'	est	 od la piece de l'adamas depeciét. 	10	est	_	VERB	VERcjg	VerbForm=Fin	6	advcl	_	XmlId=w_273_1524
+17150	Pur duresce ne pot estre 	entallee	, se n'est od la piece de l'adamas depeciét. 	6	entallee	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_273_1520
+17153	Mais laquele jagunce que hom portet u en deit u al col pendue, seurement puet 	aler	 en altre terre senz pour de engrutement, 	17	aler	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_273_1562
+17153	Mais laquele jagunce que hom portet u en deit u al col pendue, seurement puet 	aler	 en altre terre senz pour de engrutement, 	17	aler	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_273_1562
+17153	Mais laquele jagunce que hom portet u en deit u al col 	pendue	, seurement puet aler en altre terre senz pour de engrutement, 	13	pendue	_	VERB	VERppe	Tense=Past|VerbForm=Part	9	conj	_	SpaceAfter=No|XmlId=w_273_1558
+17153	Mais laquele jagunce que hom 	portet	 u en deit u al col pendue, seurement puet aler en altre terre senz pour de engrutement, 	6	portet	_	VERB	VERcjg	VerbForm=Fin	17	advcl	_	XmlId=w_273_1551
+17154	et de ceo que il resnablement querrat ne 	averat	 escondit. 	9	averat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1587
+17155	Iceste gemme 	vient	 de Ethiopie. 	3	vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1592
+17157	Tele i ad ki turnet alques a blaunchur ; altre cume ruge vin 	meslét	 od ewe. 	14	meslét	_	VERB	VERppe	Tense=Past|VerbForm=Part	13	acl	_	XmlId=w_273_1630
+17157	Tele i ad ki 	turnet	 alques a blaunchur ; altre cume ruge vin meslét od ewe. 	5	turnet	_	VERB	VERcjg	VerbForm=Fin	1	acl:relcl	_	XmlId=w_273_1621
+17157	Tele i 	ad	 ki turnet alques a blaunchur ; altre cume ruge vin meslét od ewe. 	3	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1619
+17157	Tele i 	ad	 ki turnet alques a blaunchur ; altre cume ruge vin meslét od ewe. 	3	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1619
+17158	De Inde nus 	vient	 ; 	4	vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1637
+17161	Chere sereit par dreit, se tant n'en 	fust	, 	10	fust	_	VERB	VERcjg	VerbForm=Fin	1	advcl	_	SpaceAfter=No|XmlId=w_273_1658
+17162	mais ore est vile, quant taunt en 	est	. 	3	est	_	AUX	VERcjg	VerbForm=Fin	4	cop	_	XmlId=w_273_1662
+17163	Ele 	est	 de cinc manieres. 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1671
+17164	- Allectorie creist el ventre al chapun, puis que il ad 	estéd	 treis aunz, 	13	estéd	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	advcl	_	XmlId=w_273_1690
+17164	- Allectorie 	creist	 el ventre al chapun, puis que il ad estéd treis aunz, 	3	creist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1680
+17165	e 	creist	 tuz jurz taunt que il ait set aunz, 	2	creist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1695
+17168	e ele 	dunet	 ad hume victorie, ki la ported ; 	3	dunet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1725
+17169	e si hume ki ad grant seit la 	met	 en sa buche, ele li esteint la seit. 	9	met	_	VERB	VERcjg	VerbForm=Fin	16	advcl	_	XmlId=w_273_1742
+17170	Plusurs reis unt 	vencues	 lur batalles par la allectorie. 	4	vencues	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_273_1756
+17172	e 	cunquert	 a hume bons amis, 	2	cunquert	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1769
+17175	et bone est a aveir a femme ki vult estre 	amee	 de sun barun. 	11	amee	_	VERB	VERppe	Tense=Past|VerbForm=Part	7	acl:relcl	_	XmlId=w_273_1803
+17176	Ki vult que ele ait ceste vertud, si la 	portet	 en sa buche. 	11	portet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1818
+17178	si est de tele nature que si hom leved sa buche et met la desuz sa lange, en eire puet 	dire	 que uns altres hom penset de lui, 	22	dire	_	VERB	VERinf	VerbForm=Inf	5	acl	_	XmlId=w_273_1851
+17178	si est de tele nature que si hom leved sa buche et 	met	 la desuz sa lange, en eire puet dire que uns altres hom penset de lui, 	13	met	_	VERB	VERcjg	VerbForm=Fin	9	conj	_	XmlId=w_273_1842
+17178	si 	est	 de tele nature que si hom leved sa buche et met la desuz sa lange, en eire puet dire que uns altres hom penset de lui, 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1831
+17179	et femme ne li purrat veer nule rien que il li 	querget	 de sa volenté fere. 	12	querget	_	VERB	VERcjg	VerbForm=Fin	8	acl	_	XmlId=w_273_1871
+17181		unget	 un hume de miel et de lait, 	1	unget	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1884
+17182	sil metet hors al soleil, la u mult 	ait	 musches ; 	10	ait	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_273_1902
+17182	sil 	metet	 hors al soleil, la u mult ait musches ; 	2	metet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1894
+17183	si 	ait	 la piere en sa buche : ja nule des musches ne l'attucherat ; 	2	ait	_	VERB	VERcjg	VerbForm=Fin	15	advcl	_	XmlId=w_273_1906
+17185	- Celidoine est une piere que hom 	trovet	 el ventre a l'arunde ; 	8	trovet	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_273_1939
+17187	et nequedent 	veint	 ele les beles de utilitét. 	3	veint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1955
+17188	Ele 	est	 de dous manieres et de dous culurs : 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_1963
+17190	La ruge est bone encuntre passiun ki prent hume par luneisuns, dunt il chiét et dunt il 	afolet	, 	19	afolet	_	VERB	VERcjg	VerbForm=Fin	15	conj	_	SpaceAfter=No|XmlId=w_273_1996
+17190	La ruge est bone encuntre passiun ki prent hume par luneisuns, dunt il 	chiét	 et dunt il afolet, 	15	chiét	_	VERB	VERcjg	VerbForm=Fin	6	acl:relcl	_	XmlId=w_273_1992
+17190	La ruge est bone encuntre passiun ki 	prent	 hume par luneisuns, dunt il chiét et dunt il afolet, 	8	prent	_	VERB	VERcjg	VerbForm=Fin	6	acl:relcl	_	XmlId=w_273_1985
+17193	Hom la deit porter liede en linge drap 	pendue	 al senestre mahustre. 	9	pendue	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	conj	_	XmlId=w_273_2028
+17193	Hom la deit porter 	liede	 en linge drap pendue al senestre mahustre. 	5	liede	_	VERB	VERppe	Tense=Past|VerbForm=Part	2	acl	_	XmlId=w_273_2024
+17194	Mais la neire, si hom la portet en meesme la maniere, 	aiet	 a home a parfaire granz choses, si il les cumencet ; 	14	aiet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2046
+17194	Mais la neire, si hom la 	portet	 en meesme la maniere, aiet a home a parfaire granz choses, si il les cumencet ; 	8	portet	_	VERB	VERcjg	VerbForm=Fin	14	advcl	_	XmlId=w_273_2040
+17195	si li est 	aie	 cuntre manaces e ires de reis et de princes. 	4	aie	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2062
+17196	Le ewe u ele est lavee 	valt	 os oilz malades. 	7	valt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2079
+17196	Le ewe u ele est 	lavee	 valt os oilz malades. 	6	lavee	_	VERB	VERppe	Tense=Past|VerbForm=Part	2	acl:relcl	_	XmlId=w_273_2078
+17197	Icele meesme, liede en linge drap 	teint	 en safran, toult bien la fievre, 	8	teint	_	VERB	VERppe	Tense=Past|VerbForm=Part	7	acl	_	XmlId=w_273_2091
+17197	Icele meesme, 	liede	 en linge drap teint en safran, toult bien la fievre, 	4	liede	_	VERB	VERppe	Tense=Past|VerbForm=Part	1	acl	_	XmlId=w_273_2087
+17198	restreint bien humurs ki 	nuisent	 al cors. 	5	nuisent	_	VERB	VERcjg	VerbForm=Fin	3	acl:relcl	_	XmlId=w_273_2104
+17199	- Gaiét 	naist	 en une cuntree ki ad num Litia ; 	3	naist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2112
+172		Metez	 le sege a tute vostre vie, 	1	Metez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01834
+17201	Mais la meillur del siecle 	est	 en Bretaigne majur, ki ore est Engleterre. 	6	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2132
+17204	Ele 	art	 en ewe 	2	art	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2168
+17205	et ele 	esteint	 en olie. 	3	esteint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2173
+17206	Ele est bone a porter a cellui ki 	ad	 enfleure entre quir et char cume hom enfundud. 	9	ad	_	VERB	VERcjg	VerbForm=Fin	7	acl:relcl	_	XmlId=w_273_2185
+17206	Ele est bone a porter a cellui ki 	ad	 enfleure entre quir et char cume hom enfundud. 	9	ad	_	VERB	VERcjg	VerbForm=Fin	7	acl:relcl	_	XmlId=w_273_2185
+17207	La pudre del jaiét 	lavee	 en ewe cunfermet les denz ki crollent. 	5	lavee	_	VERB	VERppe	Tense=Past|VerbForm=Part	2	acl	_	XmlId=w_273_2199
+17208	Par le estuve desuz 	rent	 a femme ses natures. 	5	rent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2212
+17208	Par le estuve desuz 	rent	 a femme ses natures. 	5	rent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2212
+17209	Quant hom le art, se hom ki ait gutte chaive sent le odur, en eire 	chiét	. 	18	chiét	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_273_2235
+17212	Mult 	aiet	 a icels ki unt les ventres turnez et a icels ki les corneilles tendent. 	2	aiet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2252
+17215	Si femme ki vait de sun ventre beit le ewe u ele ait geut enz treis jorz et treis nuiz, en eire 	garist	. 	24	garist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_273_2307
+17215	Si femme ki vait de sun ventre beit le ewe u ele ait 	geut	 enz treis jorz et treis nuiz, en eire garist. 	14	geut	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	acl:relcl	_	XmlId=w_273_2297
+17215	Si femme ki vait de sun ventre beit le ewe u ele ait 	geut	 enz treis jorz et treis nuiz, en eire garist. 	14	geut	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	acl:relcl	_	XmlId=w_273_2297
+17215	Si femme ki 	vait	 de sun ventre beit le ewe u ele ait geut enz treis jorz et treis nuiz, en eire garist. 	4	vait	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_273_2287
+17216	- Magnete est une piere ki fut 	trovee	 entre une gent ki unt num Tragodite, 	8	trovee	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl:relcl	_	XmlId=w_273_2318
+17217	e en Indie en 	truvet	 l'um. 	5	truvet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2331
+17220	Dendor le enchanteur le usat mult, pur ceo que il saveit que ele 	valeit	 mult a enchantement, 	15	valeit	_	VERB	VERcjg	VerbForm=Fin	12	ccomp	_	XmlId=w_273_2359
+17220	Dendor le enchanteur le 	usat	 mult, pur ceo que il saveit que ele valeit mult a enchantement, 	5	usat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2349
+17221	et en aprof la 	usat	 Cyrcé la merveilluse sorciere, 	5	usat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2368
+17222	e entre les Turcs fut cest esperment 	fait	 de li, 	8	fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2381
+17222	e entre les Turcs fut cest esperment 	fait	 de li, 	8	fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2381
+17223	e bien est seut que cil ki vult saveir si sa femme est avultre u nun, 	metet	 la magnete suz le chief sa femme quant ele dormirat ; 	18	metet	_	VERB	VERcjg	VerbForm=Fin	4	csubj	_	XmlId=w_273_2402
+17225	et si ele est avultre, elle charrat del lit issi cume hum la 	butast	 de sa main ; 	15	butast	_	VERB	VERcjg	VerbForm=Fin	8	advcl	_	XmlId=w_273_2440
+17225	et si ele est avultre, elle 	charrat	 del lit issi cume hum la butast de sa main ; 	8	charrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2433
+17226	et ceo 	est	 par une odur que la piere dunet. 	3	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2447
+17227	Si li leres entret en une meisun pur embler e il metet en la meisun par l'uis vifs charbuns et il metet desus la puldre del magnete isi que li fum voist encuntre munt par quatre aungles, tuit icil ki serrunt en la maisun s'en 	fuirunt	, altresi cum si la maisun volsist chaier, 	49	fuirunt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_273_2504
+17227	Si li leres entret en une meisun pur embler e il metet en la meisun par l'uis vifs charbuns et il metet desus la puldre del magnete isi que li fum voist encuntre munt par quatre aungles, tuit icil ki 	serrunt	 en la maisun s'en fuirunt, altresi cum si la maisun volsist chaier, 	43	serrunt	_	VERB	VERcjg	VerbForm=Fin	41	acl:relcl	_	XmlId=w_273_2498
+17227	Si li leres entret en une meisun pur embler e il metet en la meisun par l'uis vifs charbuns et il metet desus la puldre del magnete isi que li fum 	voist	 encuntre munt par quatre aungles, tuit icil ki serrunt en la maisun s'en fuirunt, altresi cum si la maisun volsist chaier, 	33	voist	_	VERB	VERcjg	VerbForm=Fin	23	advcl	_	XmlId=w_273_2488
+17227	Si li leres entret en une meisun pur embler e il metet en la meisun par l'uis vifs charbuns et il metet desus la puldre del magnete isi que li fum 	voist	 encuntre munt par quatre aungles, tuit icil ki serrunt en la maisun s'en fuirunt, altresi cum si la maisun volsist chaier, 	33	voist	_	VERB	VERcjg	VerbForm=Fin	23	advcl	_	XmlId=w_273_2488
+17227	Si li leres entret en une meisun pur embler e il metet en la meisun par l'uis vifs charbuns et il 	metet	 desus la puldre del magnete isi que li fum voist encuntre munt par quatre aungles, tuit icil ki serrunt en la maisun s'en fuirunt, altresi cum si la maisun volsist chaier, 	12	metet	_	VERB	VERcjg	VerbForm=Fin	4	conj	_	XmlId=w_273_2467
+17227	Si li leres entret en une meisun pur embler e il 	metet	 en la meisun par l'uis vifs charbuns et il metet desus la puldre del magnete isi que li fum voist encuntre munt par quatre aungles, tuit icil ki serrunt en la maisun s'en fuirunt, altresi cum si la maisun volsist chaier, 	12	metet	_	VERB	VERcjg	VerbForm=Fin	4	conj	_	XmlId=w_273_2467
+17227	Si li leres entret en une meisun pur embler e il 	metet	 en la meisun par l'uis vifs charbuns et il metet desus la puldre del magnete isi que li fum voist encuntre munt par quatre aungles, tuit icil ki serrunt en la maisun s'en fuirunt, altresi cum si la maisun volsist chaier, 	12	metet	_	VERB	VERcjg	VerbForm=Fin	4	conj	_	XmlId=w_273_2467
+17227	Si li leres 	entret	 en une meisun pur embler e il metet en la meisun par l'uis vifs charbuns et il metet desus la puldre del magnete isi que li fum voist encuntre munt par quatre aungles, tuit icil ki serrunt en la maisun s'en fuirunt, altresi cum si la maisun volsist chaier, 	4	entret	_	VERB	VERcjg	VerbForm=Fin	49	advcl	_	XmlId=w_273_2459
+17229	Ele 	portet	 cuncorde entre home 	2	portet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2526
+17230	et 	dunet	 a hume graze et dulce parole e sens de desputer. 	2	dunet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2531
+17231	Se hom le 	dunet	 a beivre od mulse, si expurget ydrope, 	4	dunet	_	VERB	VERcjg	VerbForm=Fin	11	advcl	_	XmlId=w_273_2546
+17233	- Coral est une piere ki 	creist	 en la mer altresi cum arbre ; 	7	creist	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_273_2581
+17233	- Coral est une piere ki 	creist	 en la mer altresi cum arbre ; 	7	creist	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_273_2581
+17234	si est verte la u ele 	creist	. 	7	creist	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	SpaceAfter=No|XmlId=w_273_2595
+17237	Ele 	resemble	 a une braunchete ; 	2	resemble	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2611
+17239	ele est mult bone a 	porter	 sur sei, 	6	porter	_	VERB	VERinf	VerbForm=Inf	4	acl	_	XmlId=w_273_2631
+17241	et si hom la getet en vigne u entre olivers u el chaunp od la semence, ele les 	defent	 de gresille et de tuz mals orez ; 	20	defent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2671
+17241	et si hom la 	getet	 en vigne u entre olivers u el chaunp od la semence, ele les defent de gresille et de tuz mals orez ; 	5	getet	_	VERB	VERcjg	VerbForm=Fin	20	advcl	_	XmlId=w_273_2656
+17241	et si hom la 	getet	 en vigne u entre olivers u el chaunp od la semence, ele les defent de gresille et de tuz mals orez ; 	5	getet	_	VERB	VERcjg	VerbForm=Fin	20	advcl	_	XmlId=w_273_2656
+17247	ker ele 	tolt	 ires de desputaunz ; 	3	tolt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2714
+177	Ne ben ne mal ne 	respunt	 sun nevuld. 	6	respunt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01876
+177	Ne ben ne mal ne 	respunt	 sun nevuld. 	6	respunt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01876
+179	En piez se 	drecet	, 	4	drecet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_01892
+18	N'i 	ad	 paien ki un sul mot respundet, Fors Blancandrins de Castel de Valfunde. 	3	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00191
+180	si 	vint	 devant Carlun, 	2	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01895
+182	E 	dist	 al rei : 	2	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01905
+184	Quant ço vos mandet li reis Marsiliun Qu'il devendrat jointes ses mains tis hom E tute Espaigne tendrat par vostre dun, Puis recevrat la lei que nus tenum, Ki ço vos lodet que cest plait degetuns, Ne li chalt, sire, de quel mort nus 	muriuns	. 	51	muriuns	_	VERB	VERcjg	VerbForm=Fin	43	csubj	_	SpaceAfter=No|XmlId=w_58_01976
+184	Quant ço vos mandet li reis Marsiliun Qu'il devendrat jointes ses mains tis hom E tute Espaigne 	tendrat	 par vostre dun, Puis recevrat la lei que nus tenum, Ki ço vos lodet que cest plait degetuns, Ne li chalt, sire, de quel mort nus muriuns. 	19	tendrat	_	VERB	VERcjg	VerbForm=Fin	15	conj	_	XmlId=w_58_01944
+187	as sages nus 	tenuns	 ! » 	4	tenuns	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01996
+188	Aprés iço i est Neimes 	venud	, 	6	venud	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_02006
+188	Aprés iço i est Neimes 	venud	, 	6	venud	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_02006
+189	Meillor vassal n'	aveit	 en la curt nul, 	4	aveit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02011
+189	Meillor vassal n'	aveit	 en la curt nul, 	4	aveit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02011
+19	Blancandrins 	fut	 des plus saives paiens ; 	2	fut	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00207
+190	E 	dist	 al rei : 	2	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02018
+193	Saveir i 	ad	, mais qu'il seit entendud. 	3	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_02038
+194	Li reis Marsilie est de guere 	vencud	 : 	7	vencud	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_02052
+196	Od voz caables avez 	fruiset	 ses murs, Ses citez arses e ses humes vencuz : 	5	fruiset	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_02066
+198	U par ostage vos voelt 	faire	 soürs, 	6	faire	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_58_02101
+2	N'i ad castel ki devant lui 	remaigne	 ; 	8	remaigne	_	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	XmlId=w_58_00034
+2	N'i 	ad	 castel ki devant lui remaigne ; 	3	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00029
+202	« Seignurs baruns, qui i 	enveieruns	 En Sarraguce, al rei Marsilïuns ? » 	7	enveieruns	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02133
+202	« Seignurs baruns, qui i 	enveieruns	 En Sarraguce, al rei Marsilïuns ? » 	7	enveieruns	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02133
+202	« Seignurs baruns, qui i 	enveieruns	 En Sarraguce, al rei Marsilïuns ? » 	7	enveieruns	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02133
+204	« Jo 	irai	, par vostre dun ! 	3	irai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_02148
+208	Par ceste barbe e par cest men gernun, Vos n'	irez	 pas uan de mei si luign. 	12	irez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02186
+21	Prozdom i 	out	 pur sun seignur aider, 	3	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00221
+210	Seignurs baruns, qui i purruns 	enveier	, Al Sarrazin ki Sarraguce tient ? » 	7	enveier	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_58_02209
+210	Seignurs baruns, qui i purruns 	enveier	, Al Sarrazin ki Sarraguce tient ? » 	7	enveier	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_58_02209
+212	« Jo i puis 	aler	 mult ben ! 	5	aler	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_58_02225
+217	Se li reis voelt, jo i puis 	aler	 ben. » 	9	aler	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_58_02263
+219	« Ambdui vos en 	taisez	 ! 	5	taisez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02275
+22	E 	dist	 al rei : 	2	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00228
+220	Ne vos ne il n'i 	porterez	 les piez. 	7	porterez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02283
+221	Par ceste barbe que veez blancher, Li duze per mar i serunt 	jugez	 ! » 	14	jugez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_02300
+223	Turpins de Reins en est 	levet	 del renc, 	6	levet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_02317
+224	E 	dist	 al rei : 	2	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02322
+226	En cest païs avez 	estet	 set anz, 	5	estet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_02336
+226	En cest païs avez 	estet	 set anz, 	5	estet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_02336
+229	E jo 	irai	 al Sarazin espan, 	3	irai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02361
+231	Li empereres 	respunt	 par maltalant : 	3	respunt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02377
+232	« Alez 	sedeir	 desur cel palie blanc ! 	3	sedeir	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_58_02383
+233	N'en 	parlez	 mais, se jo nel vos cumant ! » 	3	parlez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02391
+234	« Francs chevalers, dist li emperere Carles, Car m'eslisez un barun de ma marche Qu'a Marsiliun me 	portast	 mun message. » 	22	portast	_	VERB	VERcjg	VerbForm=Fin	14	acl	_	XmlId=w_58_02424
+234	« Francs chevalers, dist li emperere Carles, Car m'	eslisez	 un barun de ma marche Qu'a Marsiliun me portast mun message. » 	12	eslisez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02414
+239	Se lui lessez, n'i 	trametrez	 plus saive. » 	7	trametrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02459
+24		Mandez	 Carlun, a l'orguillus e al fier, Fedeilz servises e mult granz amistez. 	1	Mandez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00238
+241	De sun col 	getet	 ses grandes pels de martre 	4	getet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02476
+242	E est 	remés	 en sun blialt de palie. 	3	remés	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_02484
+247		Dist	 a Rollant : 	1	Dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02522
+25	Vos li durrez urs e leons e chens, Set cenz camelz e mil hosturs muers, D'or e d'argent.IIII. C. muls cargez, Cinquante carre qu'en ferat 	carïer	 : 	33	carïer	_	VERB	VERinf	VerbForm=Inf	32	xcomp	_	XmlId=w_58_00286
+25	Vos li durrez urs e leons e chens, Set cenz camelz e mil hosturs muers, D'or e d'argent.IIII. C. muls 	cargez	, Cinquante carre qu'en ferat carïer : 	26	cargez	_	VERB	VERppe	Tense=Past|VerbForm=Part	25	acl	_	SpaceAfter=No|XmlId=w_58_00279
+251	Se Deus ço dunet que jo de la repaire, Jo t'en muvra une si grant contraire Ki 	durerat	 a trestut tun edage. » 	20	durerat	_	VERB	VERcjg	VerbForm=Fin	18	acl:relcl	_	XmlId=w_58_02573
+254	Ço set hom ben, n'	ai	 cure de manace ; 	7	ai	_	VERB	VERcjg	VerbForm=Fin	1	acl	_	XmlId=w_58_02595
+256	Si li reis voelt, prez sui por vus le 	face	 ! » 	11	face	_	VERB	VERcjg	VerbForm=Fin	6	acl	_	XmlId=w_58_02619
+258	« Pur mei n'	iras	 tu mie ! 	5	iras	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02629
+26	Ben en purrat 	luer	 ses soldeiers. 	4	luer	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_58_00291
+262	En Sarraguce en 	irai	 a Marsilie. 	4	irai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02658
+262	En Sarraguce en 	irai	 a Marsilie. 	4	irai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02658
+262	En Sarraguce en 	irai	 a Marsilie. 	4	irai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02658
+265	Quant ço veit Guenes que ore s'en rit Rollant, Dunc ad tel doel pur poi d'ire ne 	fent	 ; 	21	fent	_	VERB	VERcjg	VerbForm=Fin	14	acl	_	XmlId=w_58_02712
+267	E 	dit	 al cunte : 	2	dit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02725
+27	En ceste tere ad asez 	osteiet	 : 	6	osteiet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_00300
+270	Dreiz emperere, 	veiz	 me ci en present : 	4	veiz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02746
+272	En Sarraguce sai ben qu'	aler	 m'estoet. 	6	aler	_	VERB	VERinf	VerbForm=Inf	8	xcomp	_	XmlId=w_58_02762
+273	Hom ki la vait 	repairer	 ne s'en poet. 	5	repairer	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_58_02772
+276	ja plus bels n'en 	estoet	, 	6	estoet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_02795
+28	En France, ad Ais, s'en deit ben 	repairer	. 	11	repairer	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_58_00312
+28	En France, ad Ais, s'en deit ben 	repairer	. 	11	repairer	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_58_00312
+28	En France, ad Ais, s'en deit ben 	repairer	. 	11	repairer	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_58_00312
+280	ja nel 	verrai	 des oilz. » 	3	verrai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02824
+288	sur vos le 	jugent	 Franc. 	4	jugent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02876
+29	Vos le 	sivrez	 a la feste seint Michel, 	3	sivrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00316
+290	Ne l'	amerai	 a trestut mun vivant, Ne Oliver, por ço qu'il est si cumpainz. 	3	amerai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02893
+291	Li duze per, por ço qu'il l'aiment tant, 	Desfi	 les ci, sire, vostre veiant. » 	13	Desfi	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02922
+295	- Jo i puis 	aler	, 	5	aler	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_58_02955
+3	Mur ne citet n'i est remés a fraindre, Fors Sarraguce, ki 	est	 en une muntaigne. 	6	est	_	AUX	VERcjg	VerbForm=Fin	7	aux	_	XmlId=w_58_00041
+3	Mur ne citet n'i est 	remés	 a fraindre, Fors Sarraguce, ki est en une muntaigne. 	7	remés	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_00042
+300	Quant le dut prendre, si li 	caït	 a tere. 	8	caït	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03000
+303	De cest message nos 	avendrat	 grant perte. 	5	avendrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03019
+308	De sa main destre l'ad 	asols	 e seignet, 	7	asols	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03077
+310	Guenes li quens s'en 	vait	 a sun ostel, 	6	vait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03095
+310	Guenes li quens s'en 	vait	 a sun ostel, 	6	vait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03095
+311	De guarnemenz se prent a 	cunreer	, De ses meillors que il pout recuvrer : 	6	cunreer	_	VERB	VERinf	VerbForm=Inf	4	xcomp	_	SpaceAfter=No|XmlId=w_58_03105
+312	Esperuns d'or ad en ses piez 	fermez	, Ceint Murglies, s'espee, a sun costed ; 	8	fermez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_03122
+313	En Tachebrun, sun destrer, est 	munted	 ; 	8	munted	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03141
+315	La veïsez tant chevaler plorer, Ki tuit li 	dient	 : 	10	dient	_	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	XmlId=w_58_03160
+317	En la cort al rei mult i avez 	ested	, 	9	ested	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_03176
+319	Ki ço jugat que doüsez aler Par Charlemagne n'ert 	guariz	 ne tensez. 	11	guariz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03196
+320	Li quens Rollant nel se doüst penser, Que 	estrait	 estes de mult grant parented. » 	10	estrait	_	VERB	VERppe	Tense=Past|VerbForm=Part	7	dislocated	_	XmlId=w_58_03209
+324	« Ne 	placet	 Damnedeu ! 	3	placet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03235
+326	En dulce France, seignurs, vos en 	irez	 : 	9	irez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03256
+326	En dulce France, seignurs, vos en 	irez	 : 	9	irez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03256
+327	De meie part ma muiller 	saluez	 E Pinabel, mun ami e mun per, E Baldewin, mun filz que vos savez, 	6	saluez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03263
+33		Enveiuns	 i les filz de noz muillers ; 	1	Enveiuns	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00358
+330		Entret	 en sa veie, 	1	Entret	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03291
+332	Guenes 	chevalchet	 suz une olive halte, 	2	chevalchet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03304
+333		Asemblet	 s'est as sarrazins messages ; 	1	Asemblet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03310
+334	Par grant saveir 	parolet	 li uns a l'altre. 	4	parolet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03328
+334	Par grant saveir 	parolet	 li uns a l'altre. 	4	parolet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03328
+337	Vers Engletere 	passat	 il la mer salse, 	3	passat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03353
+338	Ad oes seint Perre en 	cunquist	 le chevage : 	6	cunquist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03364
+338	Ad oes seint Perre en 	cunquist	 le chevage : 	6	cunquist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03364
+339	Que nus 	requert	 ça en la nostre marche ? » 	3	requert	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03370
+339	Que nus 	requert	 ça en la nostre marche ? » 	3	requert	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03370
+34	Par num d'ocire i 	enveierai	 le men. 	6	enveierai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00371
+34	Par num d'ocire i 	enveierai	 le men. 	6	enveierai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00371
+345	Mult grant mal 	funt	 e cil duc e cil cunte A lur seignur, ki tel cunseill li dunent : 	4	funt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03412
+35	Asez est melz qu'il i 	perdent	 lé chefs, Que nus perduns l'onur ne la deintet, Ne nus seiuns cunduiz a mendeier ! » 	7	perdent	_	VERB	VERcjg	VerbForm=Fin	3	csubj	_	XmlId=w_58_00381
+350	Er matin 	sedeit	 li emperere suz l'umbre, 	3	sedeit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03460
+350	Er matin 	sedeit	 li emperere suz l'umbre, 	3	sedeit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03460
+351		Vint	 i ses niés, 	1	Vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03467
+353	E out 	predet	 dejuste Carcasonie ; 	3	predet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03479
+354	En sa main 	tint	 une vermeille pume : 	4	tint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03486
+356		dist	 Rollant a sun uncle, 	1	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03496
+359	Kar chascun jur de mort s'	abandunet	. 	7	abandunet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_03524
+359	Kar chascun jur de mort s'	abandunet	. 	7	abandunet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_03524
+362	« Mult est pesmes Rollant, Ki tute gent voelt faire recreant E tutes teres 	met	 en chalengement ! 	16	met	_	VERB	VERcjg	VerbForm=Fin	11	conj	_	XmlId=w_58_03557
+363	Par quele gent 	quiet	 il espleiter tant ? » 	4	quiet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03564
+366	Or e argent lur 	met	 tant en present, Muls e destrers, palies e guarnemenz ; 	5	met	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03592
+367	L'emperere meïsmes 	ad	 tut a sun talent ; 	4	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03608
+368		Cunquerrat	 li les teres d'ici qu'en Orient. » 	1	Cunquerrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03614
+369	Tant chevalcherent Guenes e Blancandrins Que l'un a l'altre la sue feit 	plevit	 Que il querreient que Rollant fust ocis. 	15	plevit	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_58_03641
+37	« Pa ceste meie destre E par la barbe ki al piz me ventelet, L'ost des Franceis 	verrez	 sempres desfere. 	20	verrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00426
+37	« Pa ceste meie destre E par la barbe ki al piz me 	ventelet	, L'ost des Franceis verrez sempres desfere. 	14	ventelet	_	VERB	VERcjg	VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No|XmlId=w_58_00420
+370	Tant chevalcherent e veies e chemins Qu'en Sarraguce 	descendent	 suz un if. 	10	descendent	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_58_03659
+370	Tant chevalcherent e veies e chemins Qu'en Sarraguce 	descendent	 suz un if. 	10	descendent	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_58_03659
+370	Tant 	chevalcherent	 e veies e chemins Qu'en Sarraguce descendent suz un if. 	2	chevalcherent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03651
+371	Un faldestoet 	out	 suz l'umbre d'un pin ; 	3	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03666
+372		Envolupet	 fut d'un palie alexandrin : 	1	Envolupet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03674
+373	La 	fut	 li reis ki tute Espaigne tint ; Tut entur lui vint milie Sarrazins, 	2	fut	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03682
+374	N'i 	ad	 celoi ki mot sunt ne mot tint, Pur les nuveles qu'il vuldreient oïr. 	3	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03699
+374	N'i 	ad	 celoi ki mot sunt ne mot tint, Pur les nuveles qu'il vuldreient oïr. 	3	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03699
+375	Blancandrins 	vint	 devant Marsiliun ; 	2	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03724
+376	Par le puig 	tint	 le cunte Guenelun, 	4	tint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03731
+377	E 	dist	 al rei : 	2	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03737
+378	« Salvez seiez de Mahum E d'Apollin, qui seintes leis 	tenuns	 ! 	13	tenuns	_	VERB	VERcjg	VerbForm=Fin	8	acl:relcl	_	XmlId=w_58_03753
+378	« 	Salvez	 seiez de Mahum E d'Apollin, qui seintes leis tenuns ! 	2	Salvez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03742
+379	Vostre message 	fesime	 a Charlun. 	3	fesime	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03757
+38	Francs s'en 	irunt	 en France, la lur tere. 	4	irunt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00433
+38	Francs s'en 	irunt	 en France, la lur tere. 	4	irunt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00433
+383	Ci vos enveiet un sun noble barun, Ki 	est	 de France, 	10	est	_	VERB	VERcjg	VerbForm=Fin	7	acl:relcl	_	XmlId=w_58_03786
+385	Par lui 	orrez	 si avrez pais u nun. » 	3	orrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03798
+3857	« Sire Tristran, por Deu le roi, Si grant pechié avez de moi, Qui me 	mandez	 a itel ore ! » 	19	mandez	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_26_00041
+3857	« Sire Tristran, por Deu le roi, Si grant pechié 	avez	 de moi, Qui me mandez a itel ore ! » 	13	avez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00035
+3859	Par Deu, qui l'air fist et la mer, Ne me 	mandez	 nule foiz mais. 	14	mandez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00080
+3859	Par Deu, qui l'air fist et la mer, Ne me 	mandez	 nule foiz mais. 	14	mandez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00080
+3860	Je vos 	di	 bien, Tristran, a fais, 	3	di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00087
+3861	Certes, je n'i 	vendroie	 mie. 	6	vendroie	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00100
+3862	Li rois pense que par folie, Sire Tristran, vos aie 	amé	 ; 	13	amé	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	ccomp	_	XmlId=w_26_00115
+3863	Mais Dex plevis ma loiauté, Qui sor mon cors mete flaele, S'onques fors cil qui m'ot pucele 	Out	 m'amistié encor nul jor ! 	22	Out	_	VERB	VERcjg	VerbForm=Fin	11	advcl	_	XmlId=w_26_00138
+3863	Mais Dex plevis ma loiauté, Qui sor mon cors 	mete	 flaele, S'onques fors cil qui m'ot pucele Out m'amistié encor nul jor ! 	11	mete	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_26_00127
+3863	Mais Dex 	plevis	 ma loiauté, Qui sor mon cors mete flaele, S'onques fors cil qui m'ot pucele Out m'amistié encor nul jor ! 	3	plevis	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00119
+3864	Se li felon de cest'enor, Por qui jadis vos 	conbatistes	 O le Morhout, quant l'oceïstes, Li font acroire (ce me senble) Que nos amors jostent ensenble, Sire, vos n'en avez talent ; 	12	conbatistes	_	VERB	VERcjg	VerbForm=Fin	3	acl:relcl	_	XmlId=w_26_00156
+3864	Se li felon de cest'enor, Por qui jadis vos 	conbatistes	 O le Morhout, quant l'oceïstes, Li font acroire (ce me senble) Que nos amors jostent ensenble, Sire, vos n'en avez talent ; 	12	conbatistes	_	VERB	VERcjg	VerbForm=Fin	3	acl:relcl	_	XmlId=w_26_00156
+3865	Ne je, par Deu omnipotent, N'ai corage de drüerie Qui 	tort	 a nule vilanie. 	14	tort	_	VERB	VERcjg	VerbForm=Fin	12	acl:relcl	_	XmlId=w_26_00200
+3865	Ne je, par Deu omnipotent, N'	ai	 corage de drüerie Qui tort a nule vilanie. 	9	ai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00195
+3866	Mex voudroie que je fuse arse, Aval le vent la poudre esparse, Jor que je vive que amor 	Aie	 o home qu'o mon seignor ; 	21	Aie	_	VERB	VERcjg	VerbForm=Fin	6	advcl	_	XmlId=w_26_00225
+3866	Mex voudroie que je fuse arse, Aval le vent la poudre esparse, Jor que je vive que amor 	Aie	 o home qu'o mon seignor ; 	21	Aie	_	VERB	VERcjg	VerbForm=Fin	6	advcl	_	XmlId=w_26_00225
+3866	Mex voudroie que je fuse arse, Aval le vent la poudre esparse, Jor que je 	vive	 que amor Aie o home qu'o mon seignor ; 	18	vive	_	VERB	VERcjg	VerbForm=Fin	15	acl:relcl	_	XmlId=w_26_00222
+3866	Mex voudroie que je fuse 	arse	, Aval le vent la poudre esparse, Jor que je vive que amor Aie o home qu'o mon seignor ; 	6	arse	_	VERB	VERppe	Tense=Past|VerbForm=Part	2	ccomp	_	SpaceAfter=No|XmlId=w_26_00210
+3869	Sire, mot dist voir Salemon : Qui de forches traient larron, Ja pus nes 	amera	 nul jor. 	17	amera	_	VERB	VERcjg	VerbForm=Fin	4	ccomp	_	XmlId=w_26_00270
+3869	Sire, mot dist voir Salemon : Qui de forches 	traient	 larron, Ja pus nes amera nul jor. 	11	traient	_	VERB	VERcjg	VerbForm=Fin	17	csubj	_	XmlId=w_26_00264
+3870	Mot vos estut mal endurer De la plaie que vos preïstes En la batalle que 	feïstes	 O mon oncle. 	16	feïstes	_	VERB	VERcjg	VerbForm=Fin	14	acl:relcl	_	XmlId=w_26_00303
+3870	Mot vos estut mal endurer De la plaie que vos 	preïstes	 En la batalle que feïstes O mon oncle. 	11	preïstes	_	VERB	VERcjg	VerbForm=Fin	8	acl:relcl	_	XmlId=w_26_00298
+3870	Mot vos estut mal 	endurer	 De la plaie que vos preïstes En la batalle que feïstes O mon oncle. 	5	endurer	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_26_00292
+3873	Et il ont fait entendre au roi Que vos m'	amez	 d'amor vilaine. 	11	amez	_	VERB	VERcjg	VerbForm=Fin	5	ccomp	_	XmlId=w_26_00338
+3873	Et il ont 	fait	 entendre au roi Que vos m'amez d'amor vilaine. 	4	fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_00331
+3875	Ja nul 	verroient	 en la face. 	3	verroient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00353
+3877	en nule place Ne me 	mandez	 por nule chose : 	6	mandez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00366
+3877	en nule place Ne me 	mandez	 por nule chose : 	6	mandez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00366
+3878	Je ne seroie pas tant ose Que je i osase 	venir	. 	11	venir	_	VERB	VERinf	VerbForm=Inf	10	xcomp	_	SpaceAfter=No|XmlId=w_26_00381
+3882	Et si 	seroit	 a mot grant tort ; 	3	seroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00409
+3884	Tristran, certes, li rois ne set Que por lui par vos aie 	ameit	 : 	15	ameit	_	VERB	VERppe	Tense=Past|VerbForm=Part	8	ccomp	_	XmlId=w_26_00438
+3885	Por ce qu'eres du parenté Vos 	avoie	 je en cherté. 	8	avoie	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00447
+3885	Por ce qu'	eres	 du parenté Vos avoie je en cherté. 	4	eres	_	VERB	VERcjg	VerbForm=Fin	2	acl	_	XmlId=w_26_00443
+3887	Et disoit ce, que ja mollier N'en 	avroit	 ja son seignor chier Qui les parenz n'en amereit. 	10	avroit	_	VERB	VERcjg	VerbForm=Fin	3	acl	_	XmlId=w_26_00474
+3889	Sire, mot t'ai por lui 	amé	 	8	amé	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_00501
+3894	Ja nu pensast nul jor par lui Q'en cest pensé 	fuson	 andui. 	12	fuson	_	VERB	VERcjg	VerbForm=Fin	3	dislocated	_	XmlId=w_26_00568
+3894	Ja nu 	pensast	 nul jor par lui Q'en cest pensé fuson andui. 	3	pensast	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00559
+3894	Ja nu 	pensast	 nul jor par lui Q'en cest pensé fuson andui. 	3	pensast	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00559
+3896	Si a l'on 	fait	 de mon seignor. 	5	fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00589
+3897	Tristran, 	vois	 m'en, 	3	vois	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00596
+3898	trop i 	demor	. 	3	demor	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_00602
+39	Quant cascuns ert a sun meillor repaire, Carles 	serat	 ad Ais, a sa capele, 	10	serat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00450
+39	Quant cascuns ert a sun meillor repaire, Carles 	serat	 ad Ais, a sa capele, 	10	serat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00450
+39	Quant cascuns 	ert	 a sun meillor repaire, Carles serat ad Ais, a sa capele, 	3	ert	_	VERB	VERcjg	VerbForm=Fin	10	advcl	_	XmlId=w_58_00443
+390	Par grant saver cumencet a 	parler	, Cume celui ki ben faire le set, 	6	parler	_	VERB	VERinf	VerbForm=Inf	4	xcomp	_	SpaceAfter=No|XmlId=w_58_03834
+390	Par grant saver 	cumencet	 a parler, Cume celui ki ben faire le set, 	4	cumencet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03832
+3901		Entent	 un poi a ma proiere. 	1	Entent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00622
+3901		Entent	 un poi a ma proiere. 	1	Entent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00622
+3904	Deu en 	rent	 graces et merci, 	3	rent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00653
+3906	« Ahi ! Yseut, fille de roi, Franche, cortoise, en bone foi Par plusors foiz vos ai 	mandee	, Puis que chanbre me fu veee 	22	mandee	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_00687
+3908	Dame, or vos vuel merci crïer, Qu'il vos 	menbre	 de cest chaitif Qui a traval et a duel vif ; 	12	menbre	_	VERB	VERcjg	VerbForm=Fin	7	advcl	_	XmlId=w_26_00714
+3909	Qar j'ai tel duel c'onques le roi Out mal pensé de vos vers moi Qu'il n'i 	a	 el fors que je muere. 	21	a	_	VERB	VERcjg	VerbForm=Fin	5	acl	_	XmlId=w_26_00746
+3909	Qar j'ai tel duel c'onques le roi Out mal 	pensé	 de vos vers moi Qu'il n'i a el fors que je muere. 	12	pensé	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	advcl	_	XmlId=w_26_00737
+391	E 	dist	 al rei : 	2	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03845
+3912	Or voi je bien, si con je quit, Qu'il ne voudroient que o lui 	Eüst	 home de son linage. 	18	Eüst	_	VERB	VERcjg	VerbForm=Fin	14	ccomp	_	XmlId=w_26_00815
+3912	Or voi je bien, si con je quit, Qu'il ne voudroient que o lui 	Eüst	 home de son linage. 	18	Eüst	_	VERB	VERcjg	VerbForm=Fin	14	ccomp	_	XmlId=w_26_00815
+3915	Ainz me lairoie par le col Pendre a un arbre q'en ma vie O vos 	preïse	 drüerie. 	17	preïse	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_26_00853
+3915	Ainz me lairoie par le col 	Pendre	 a un arbre q'en ma vie O vos preïse drüerie. 	7	Pendre	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_26_00843
+3915	Ainz me lairoie par le col 	Pendre	 a un arbre q'en ma vie O vos preïse drüerie. 	7	Pendre	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_26_00843
+3917	Por ses felons vers moi s'	aïre	, 	7	aïre	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_00869
+3917	Por ses felons vers moi s'	aïre	, 	7	aïre	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_00869
+392	« 	Salvez	 seiez de Deu, Li Glorius, qui devum aürer ! 	2	Salvez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03850
+3921	Mot les vi ja taisant et muz, Qant li Morhot fu ça venuz, Ou nen i 	out	 uns d'eus tot sous Qui osast prendre ses adous. 	19	out	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_26_00907
+3921	Mot les vi ja taisant et muz, Qant li Morhot fu ça venuz, Ou nen i 	out	 uns d'eus tot sous Qui osast prendre ses adous. 	19	out	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_26_00907
+3921	Mot les vi ja taisant et muz, Qant li Morhot fu ça venuz, Ou nen i 	out	 uns d'eus tot sous Qui osast prendre ses adous. 	19	out	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_26_00907
+3926	si l'en 	chaçai	. 	4	chaçai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_00948
+3927	Ne deüst pas mis oncles chiers De moi 	croire	 ses losengiers. 	9	croire	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_26_00958
+3931	Por Deu, le fiz sainte Marie, Dame, ore li 	dites	 errant Qu'il face faire un feu ardant ; 	13	dites	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00998
+3932	Et je m'en 	entrerai	 el ré. 	5	entrerai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01012
+3932	Et je m'en 	entrerai	 el ré. 	5	entrerai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01012
+3933	Se ja un poil en ai bruslé De la haire qu'avrai vestu, Si me laist tot 	ardoir	 u feu ; 	19	ardoir	_	VERB	VERinf	VerbForm=Inf	17	xcomp	_	XmlId=w_26_01034
+3934	Qar je sai bien n'a de sa cort Qui a batalle o moi s'en 	tort	. 	17	tort	_	VERB	VERcjg	VerbForm=Fin	6	ccomp	_	SpaceAfter=No|XmlId=w_26_01054
+3934	Qar je sai bien n'a de sa cort Qui a batalle o moi s'en 	tort	. 	17	tort	_	VERB	VERcjg	VerbForm=Fin	6	ccomp	_	SpaceAfter=No|XmlId=w_26_01054
+3934	Qar je sai bien n'	a	 de sa cort Qui a batalle o moi s'en tort. 	6	a	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_26_01043
+3935	Dame, por vostre grant franchise, Donc ne vos en est pitié 	prise	 ? 	14	prise	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_01069
+3937		Tenez	 moi bien a mon ami. 	1	Tenez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01079
+3938	Qant je vinc ça a lui par mer Com a seignor i vol 	torner	. 	14	torner	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_26_01099
+3938	Qant je vinc ça a lui par mer Com a seignor i vol 	torner	. 	14	torner	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_26_01099
+3938	Qant je 	vinc	 ça a lui par mer Com a seignor i vol torner. 	3	vinc	_	VERB	VERcjg	VerbForm=Fin	14	advcl	_	XmlId=w_26_01088
+3939	- Par foi, sire, grant tort avez, Qui de tel chose a moi parlez Que de vos le mete a raison Et de s'ire 	face	 pardon. 	29	face	_	VERB	VERcjg	VerbForm=Fin	22	conj	_	XmlId=w_26_01130
+3939	- Par foi, sire, grant tort avez, Qui de tel chose a moi parlez Que de vos le 	mete	 a raison Et de s'ire face pardon. 	22	mete	_	VERB	VERcjg	VerbForm=Fin	14	acl	_	XmlId=w_26_01123
+3939	- Par foi, sire, grant tort avez, Qui de tel chose a moi parlez Que de vos le 	mete	 a raison Et de s'ire face pardon. 	22	mete	_	VERB	VERcjg	VerbForm=Fin	14	acl	_	XmlId=w_26_01123
+3939	- Par foi, sire, grant tort avez, Qui de tel chose a moi 	parlez	 Que de vos le mete a raison Et de s'ire face pardon. 	17	parlez	_	VERB	VERcjg	VerbForm=Fin	9	csubj	_	XmlId=w_26_01118
+3939	- Par foi, sire, grant tort 	avez	, Qui de tel chose a moi parlez Que de vos le mete a raison Et de s'ire face pardon. 	9	avez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_01110
+394	Demi Espaigne vos voelt en fiu 	duner	. 	7	duner	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_58_03879
+3940	Je ne vuel pas encor morir Ne moi du tot en tot 	perir	. 	13	perir	_	VERB	VERinf	VerbForm=Inf	6	conj	_	SpaceAfter=No|XmlId=w_26_01145
+3940	Je ne vuel pas encor morir Ne moi du tot en tot 	perir	. 	13	perir	_	VERB	VERinf	VerbForm=Inf	6	conj	_	SpaceAfter=No|XmlId=w_26_01145
+3944	Par foi, Tristran, n'en 	ferai	 mie, 	8	ferai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01174
+3947	Il vos a 	fait	 chanbres veer Por moi : 	4	fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_01194
+3948	s'il or m'en ot 	parler	, Bien me porroit tenir por fole. 	7	parler	_	VERB	VERinf	VerbForm=Inf	6	xcomp	_	SpaceAfter=No|XmlId=w_26_01206
+3949	Par foi, ja n'en 	dirai	 parole ; 	7	dirai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01221
+395	Se cest'acorde ne vulez otrier, 	Pris	 e liez serez par poësted ; 	8	Pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03888
+3952	Se il vos 	pardounot	, beau sire, Par Deu, son mautalent et s'ire, J'en seroie joiose et lie. 	4	pardounot	_	VERB	VERcjg	VerbForm=Fin	21	advcl	_	SpaceAfter=No|XmlId=w_26_01242
+3954		Vois	 m'en, 	1	Vois	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01284
+3957	S'un mot en puet li rois oïr Que nos fuson ça asenblé, Il me feroit 	ardoir	 en ré. 	18	ardoir	_	VERB	VERinf	VerbForm=Inf	17	xcomp	_	XmlId=w_26_01323
+396	Al siege ad Ais en serez 	amenet	, 	7	amenet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_03901
+396	Al siege ad Ais en serez 	amenet	, 	7	amenet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_03901
+3961	De la poor qui or me prent 	Vois	 m'en, 	8	Vois	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01348
+3961	De la poor qui or me prent 	Vois	 m'en, 	8	Vois	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01348
+3963	Iseut s'en 	torne	, 	4	torne	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_01361
+3965	« Dame, por Deu, qui en pucele Prist por le pueple umanité, 	Conselliez	 moi, par charité. 	16	Conselliez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01382
+3965	« Dame, por Deu, qui en pucele Prist por le pueple umanité, 	Conselliez	 moi, par charité. 	16	Conselliez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01382
+3965	« Dame, por Deu, qui en pucele 	Prist	 por le pueple umanité, Conselliez moi, par charité. 	10	Prist	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_26_01376
+3965	« Dame, por Deu, qui en pucele 	Prist	 por le pueple umanité, Conselliez moi, par charité. 	10	Prist	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_26_01376
+3966	Bien sai, n'i osez mais 	remaindre	. 	8	remaindre	_	VERB	VERinf	VerbForm=Inf	6	xcomp	_	SpaceAfter=No|XmlId=w_26_01395
+3967	Fors a vos ne sai a qui 	plaindre	, 	8	plaindre	_	VERB	VERinf	VerbForm=Inf	5	xcomp	_	SpaceAfter=No|XmlId=w_26_01404
+397	Par jugement serez iloec 	finet	 ; 	5	finet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03907
+3971	Si m'en 	fuirai	, 	4	fuirai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_01430
+3972	n'i os 	ester	. 	4	ester	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	SpaceAfter=No|XmlId=w_26_01435
+3974	Par tote terre ou sol adoise Bien sai que u monde n'a cort, S'i 	vois	, li sires ne m'avot. 	18	vois	_	VERB	VERcjg	VerbForm=Fin	24	advcl	_	SpaceAfter=No|XmlId=w_26_01463
+3974	Par tote terre ou sol adoise Bien sai que u monde n'	a	 cort, S'i vois, li sires ne m'avot. 	13	a	_	VERB	VERcjg	VerbForm=Fin	8	ccomp	_	XmlId=w_26_01458
+3974	Par tote terre ou sol adoise Bien 	sai	 que u monde n'a cort, S'i vois, li sires ne m'avot. 	8	sai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01453
+3974	Par tote terre ou sol 	adoise	 Bien sai que u monde n'a cort, S'i vois, li sires ne m'avot. 	6	adoise	_	VERB	VERcjg	VerbForm=Fin	3	acl:relcl	_	XmlId=w_26_01451
+3975	Et se onques point du suen oi, Yseut, par cest mien chief le bloi, Nel se voudroit avoir 	pensé	 Mes oncles, ainz un an passé, Por si grant d'or com il est toz, 	22	pensé	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_01492
+3975	Et se onques point du suen oi, Yseut, par cest mien chief le bloi, Nel se voudroit avoir 	pensé	 Mes oncles, ainz un an passé, Por si grant d'or com il est toz, 	22	pensé	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_01492
+3975	Et se onques point du suen oi, Yseut, par cest mien chief le bloi, Nel se voudroit avoir 	pensé	 Mes oncles, ainz un an passé, Por si grant d'or com il est toz, 	22	pensé	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_01492
+3977	Yseut, por Deu, de moi 	pensez	, 	8	pensez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_01526
+3978	Envers mon oste m'	aquitez	. 	5	aquitez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_01532
+3979	- Par Deu, Tristran, mot me 	mervel	, Qui me donez itel consel. 	9	mervel	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_01543
+398	La 	murrez	 vus a hunte e a viltet. » 	2	murrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03910
+3985	Ne ce vos 	di	 por averté, 	4	di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01624
+3986	Ce 	saciés	 vos de verité. » 	2	saciés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01629
+3987	Atant s'en est Iseut 	tornee	, 	6	tornee	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_01640
+3989	Sor le perron de marbre bis Tristran s'	apuie	, 	9	apuie	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_01656
+3992	« Ha ! Dex, beau sire saint Evrol, Je ne pensai faire tel perte Ne 	foïr	 m'en a tel poverte ! 	18	foïr	_	VERB	VERinf	VerbForm=Inf	14	conj	_	XmlId=w_26_01687
+3992	« Ha ! Dex, beau sire saint Evrol, Je ne pensai faire tel perte Ne 	foïr	 m'en a tel poverte ! 	18	foïr	_	VERB	VERinf	VerbForm=Inf	14	conj	_	XmlId=w_26_01687
+3993	N'en 	merré	 armes ne cheval, Ne conpaignon fors Governal. 	3	merré	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01696
+3995	Qant je serai en autre terre S'oi chevalier 	parler	 de gerre, Ge n'en oserai mot soner : 	10	parler	_	VERB	VERinf	VerbForm=Inf	8	xcomp	_	XmlId=w_26_01730
+3995	Qant je 	serai	 en autre terre S'oi chevalier parler de gerre, Ge n'en oserai mot soner : 	3	serai	_	VERB	VERcjg	VerbForm=Fin	17	advcl	_	XmlId=w_26_01723
+3999	Beaus oncles, poi me deconnut Qui de ta feme me 	mescrut	 : 	12	mescrut	_	VERB	VERcjg	VerbForm=Fin	6	csubj	_	XmlId=w_26_01775
+40	A seint Michel 	tendrat	 mult halte feste. 	4	tendrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00461
+400	Un algier tint, ki d'or fut 	enpenet	 ; 	9	enpenet	_	VERB	VERppe	Tense=Past|VerbForm=Part	2	acl:relcl	_	XmlId=w_58_03935
+4001	Petit 	savroit	 a mon corage. 	2	savroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01786
+4002	Li rois qui sus en l'arbre 	estoit	 Out l'asenblee bien veüe Et la raison tote entendue. 	8	estoit	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_26_01798
+4003	De la pitié q'au cor li prist, Qu'il ne plorast ne s'en 	tenist	 Por nul avoir ; 	17	tenist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01826
+4003	De la pitié q'au cor li prist, Qu'il ne plorast ne s'en 	tenist	 Por nul avoir ; 	17	tenist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01826
+4003	De la pitié q'au cor li 	prist	, Qu'il ne plorast ne s'en tenist Por nul avoir ; 	8	prist	_	VERB	VERcjg	VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No|XmlId=w_26_01817
+4007	En cest arbre me fist 	monter	, 	6	monter	_	VERB	VERinf	VerbForm=Inf	5	xcomp	_	SpaceAfter=No|XmlId=w_26_01868
+4009	De mon nevo me fist 	entendre	 Mençonge, 	6	entendre	_	VERB	VERinf	VerbForm=Inf	5	xcomp	_	XmlId=w_26_01882
+401	Ferir l'en volt, se n'en fust 	desturnet	. 	10	desturnet	_	VERB	VERppe	Tense=Past|VerbForm=Part	1	advcl	_	SpaceAfter=No|XmlId=w_58_03946
+4011	Por ce me fist 	metre	 en aïr, De ma mollier faire haïr. 	5	metre	_	VERB	VERinf	VerbForm=Inf	4	xcomp	_	XmlId=w_26_01893
+4011	Por ce me 	fist	 metre en aïr, De ma mollier faire haïr. 	4	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01892
+4013	et si 	fis	 que fous. 	3	fis	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01909
+4015	Se je le puis as poinz tenir, Par feu 	ferai	 son cors fenir. 	11	ferai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01930
+4015	Se je le puis as poinz 	tenir	, Par feu ferai son cors fenir. 	7	tenir	_	VERB	VERinf	VerbForm=Inf	11	advcl	_	SpaceAfter=No|XmlId=w_26_01926
+4016	Par moi avra plus dure fin Que ne fist faire Costentin A Segoçon, qu'il escolla Qant o sa feme le 	trova	. 	23	trova	_	VERB	VERcjg	VerbForm=Fin	9	advcl	_	SpaceAfter=No|XmlId=w_26_01957
+4016	Par moi avra plus dure fin Que ne 	fist	 faire Costentin A Segoçon, qu'il escolla Qant o sa feme le trova. 	9	fist	_	VERB	VERcjg	VerbForm=Fin	6	acl	_	XmlId=w_26_01943
+4016	Par moi 	avra	 plus dure fin Que ne fist faire Costentin A Segoçon, qu'il escolla Qant o sa feme le trova. 	3	avra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01937
+4017	Il l'avoit 	coroné	 a Rome 	4	coroné	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_01962
+4023	Tristran s'en ert pieça 	alez	. 	6	alez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_01992
+4024	Li rois de l'arbre est 	devalez	 ; 	7	devalez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_02000
+4025	En son cuer dit or croit sa feme Et mescroit les barons du reigne, Que li faisoient chose acroire Que il set bien que n'est pas voire Et qu'il a 	prové	 a mençonge. 	34	prové	_	VERB	VERppe	Tense=Past|VerbForm=Part	23	conj	_	XmlId=w_26_02035
+4025	En son cuer 	dit	 or croit sa feme Et mescroit les barons du reigne, Que li faisoient chose acroire Que il set bien que n'est pas voire Et qu'il a prové a mençonge. 	4	dit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02005
+4026	Or ne laira qu'au nain ne 	donge	 O s'espee si sa merite 	8	donge	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_26_02046
+4026	Or ne laira qu'au nain ne 	donge	 O s'espee si sa merite 	8	donge	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_26_02046
+4028	Ne jamais jor ne 	mescroira	 Tristran d'Iseut, 	5	mescroira	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02065
+4028	Ne jamais jor ne 	mescroira	 Tristran d'Iseut, 	5	mescroira	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02065
+4029	ainz lor 	laira	 La chanbre tot a lor voloir : 	3	laira	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02072
+403	De sun algeir ad la hanste 	crollee	. 	7	crollee	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_03964
+4032	S'il s'	amasent	 de fol'amor, Ci avoient asez leisor, 	4	amasent	_	VERB	VERcjg	VerbForm=Fin	10	advcl	_	XmlId=w_26_02103
+404	Quant le vit Guenes, 	mist	 la main a l'espee ; 	6	mist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03971
+4041	Buen 	virent	 aprimier cest soir. 	2	virent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02175
+4042	Au parlement ai tant 	apris	 Jamais jor n'en serai pensis. 	5	apris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_02184
+4043	Par matinet sera 	paiez	 Tristran o moi, 	4	paiez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_02195
+4044	s'avra congiez D'	estre	 a ma chanbre a son plesir. 	5	estre	_	VERB	VERinf	VerbForm=Inf	3	acl	_	XmlId=w_26_02204
+4044	s'avra congiez D'	estre	 a ma chanbre a son plesir. 	5	estre	_	VERB	VERinf	VerbForm=Inf	3	acl	_	XmlId=w_26_02204
+4045	Or est remés li suen fuïrs Qu'il voloit 	faire	 le matin. » 	10	faire	_	VERB	VERinf	VerbForm=Inf	6	acl:relcl	_	XmlId=w_26_02221
+4046		Oiez	 du nain boçu Frocin. 	1	Oiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02226
+4048	si 	gardoit	 en l'er, 	2	gardoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02236
+405	Cuntre dous deie l'ad del furrer 	getee	, 	8	getee	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_03985
+405	Cuntre dous deie l'ad del furrer 	getee	, 	8	getee	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_03985
+4055	As estoiles 	choisist	 l'asente, 	3	choisist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02304
+4056	De mautalent 	rogist	 	3	rogist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02310
+4061	Mot tost s'en 	vet	 fuiant vers Gales. 	5	vet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02342
+4061	Mot tost s'en 	vet	 fuiant vers Gales. 	5	vet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02342
+4065	Yseut est en sa chanbre 	entree	. 	6	entree	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_02370
+4067	Bien sout que ele avoit oï Tel rien dont 	out	 le cuer marri, Qui si muoit et palisoit ; 	10	out	_	VERB	VERcjg	VerbForm=Fin	8	acl:relcl	_	XmlId=w_26_02386
+4073	Mais li rois Marc estoit en l'arbre, Ou li perrons 	estait	 de marbre. 	13	estait	_	VERB	VERcjg	VerbForm=Fin	5	advcl	_	XmlId=w_26_02446
+4073	Mais li rois Marc 	estoit	 en l'arbre, Ou li perrons estait de marbre. 	5	estoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02438
+4074	Je 	vi	 son onbre en la fontaine. 	2	vi	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02451
+4076	Onques de ce que je i quis N'i out mot 	dit	, ce vos plevis, Mais mervellos conplaignement Et mervellos gemissement. 	12	dit	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	acl	_	SpaceAfter=No|XmlId=w_26_02475
+4076	Onques de ce que je i quis N'i 	out	 mot dit, ce vos plevis, Mais mervellos conplaignement Et mervellos gemissement. 	10	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02473
+4076	Onques de ce que je i quis N'i 	out	 mot dit, ce vos plevis, Mais mervellos conplaignement Et mervellos gemissement. 	10	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02473
+4078	Et il autretant me priout Que l'acordase a mon seignor, Qui, a grant tort, 	ert	 a error Vers lui de moi ; 	19	ert	_	VERB	VERcjg	VerbForm=Fin	11	acl:relcl	_	XmlId=w_26_02513
+4078	Et il autretant me priout Que l'acordase a mon seignor, Qui, a grant tort, 	ert	 a error Vers lui de moi ; 	19	ert	_	VERB	VERcjg	VerbForm=Fin	11	acl:relcl	_	XmlId=w_26_02513
+4078	Et il autretant me priout Que l'acordase a mon seignor, Qui, a grant tort, 	ert	 a error Vers lui de moi ; 	19	ert	_	VERB	VERcjg	VerbForm=Fin	11	acl:relcl	_	XmlId=w_26_02513
+4078	Et il autretant me priout Que l'acordase a mon seignor, Qui, a grant tort, 	ert	 a error Vers lui de moi ; 	19	ert	_	VERB	VERcjg	VerbForm=Fin	11	acl:relcl	_	XmlId=w_26_02513
+4078	Et il autretant me priout Que l'	acordase	 a mon seignor, Qui, a grant tort, ert a error Vers lui de moi ; 	8	acordase	_	VERB	VERcjg	VerbForm=Fin	5	ccomp	_	XmlId=w_26_02502
+4079	et je li dis Que grant folie avoit requis, Que je a lui mais ne vendroie Ne ja au roi ne 	parleroie	. 	23	parleroie	_	VERB	VERcjg	VerbForm=Fin	9	conj	_	SpaceAfter=No|XmlId=w_26_02543
+408	Tant vus avrai en curt a rei 	portee	 ! 	8	portee	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04006
+4081	Conplainz i 	out	 une grant masse ; 	3	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02554
+4081	Conplainz i 	out	 une grant masse ; 	3	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02554
+4084		Partie	 me sui du tripot. » 	1	Partie	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_02571
+4086	« Iseut, ma dame, grant merci Nos a Dex fait, qui ne menti, Qant il vos a fait desevrer Du parlement sanz plus outrer, Que li rois n'a chose veüe Qui ne puise estr'en bien 	tenue	. 	43	tenue	_	VERB	VERppe	Tense=Past|VerbForm=Part	35	acl:relcl	_	SpaceAfter=No|XmlId=w_26_02630
+4086	« Iseut, ma dame, grant merci Nos a Dex fait, qui ne menti, Qant il vos a fait 	desevrer	 Du parlement sanz plus outrer, Que li rois n'a chose veüe Qui ne puise estr'en bien tenue. 	23	desevrer	_	VERB	VERinf	VerbForm=Inf	22	xcomp	_	XmlId=w_26_02610
+4088	Il est verais peres et tex Qu'il n'a cure de 	faire	 mal A ceus qui sont buen et loial. » 	13	faire	_	VERB	VERinf	VerbForm=Inf	11	acl	_	XmlId=w_26_02651
+4089	Tristran ravoit tot 	raconté	 A son mestre com out ouvré. 	4	raconté	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_02665
+409	Ja nel dirat de France li emperere Que suls i 	moerge	 en l'estrange cuntree, 	11	moerge	_	VERB	VERcjg	VerbForm=Fin	3	dislocated	_	XmlId=w_58_04018
+4090	Qant conter l'ot, Deu en mercie Que plus n'i out 	fait	 o s'amie. 	14	fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	8	dislocated	_	XmlId=w_26_02686
+4090	Qant conter l'ot, Deu en 	mercie	 Que plus n'i out fait o s'amie. 	8	mercie	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02680
+4093	A sa chanbre li rois en 	vient	. 	7	vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_02713
+4093	A sa chanbre li rois en 	vient	. 	7	vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_02713
+4095	« Sire, por Deu, dont 	venez	 vos ? 	8	venez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02731
+4095	« Sire, por Deu, dont 	venez	 vos ? 	8	venez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02731
+4096	Avez besoin, qui 	venez	 sous ? 	5	venez	_	VERB	VERcjg	VerbForm=Fin	1	csubj	_	XmlId=w_26_02738
+4100	- Sire, onques jor ne vos 	menti	. 	8	menti	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_02778
+4101	Se la mort doi recevoir ci, S'en 	dirai	 je le voir du tot : 	10	dirai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02789
+4102	Ja n'i avra 	menti	 d'un mot. 	5	menti	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_02800
+4106	Mais jel 	dirai	 sanz tricherie. 	3	dirai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02834
+4109	O ton nevo soz cel pin 	fui	. 	7	fui	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_02852
+4109	O ton nevo soz cel pin 	fui	. 	7	fui	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_02852
+4113	Qar tu penses que j'	aim	 Tristrain Par puterie et par anjen 	6	aim	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_26_02880
+4119	Tristran, tes niés, vint soz cel pin Qui 	est	 laienz en cel jardin, 	11	est	_	VERB	VERcjg	VerbForm=Fin	9	acl:relcl	_	XmlId=w_26_02948
+4119	Tristran, tes niés, 	vint	 soz cel pin Qui est laienz en cel jardin, 	6	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02943
+4128	Por vos l'ai je tant 	amé	, sire. 	7	amé	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_03029
+4129	Mais li felon, li losengier, Quil vuelent de cort 	esloignier	, Te font acroire la mençonge. 	12	esloignier	_	VERB	VERinf	VerbForm=Inf	6	acl	_	SpaceAfter=No|XmlId=w_26_03044
+413	Tant li preierent li meillor Sarrazin Qu'el faldestoed s'es Marsilies 	asis	. 	13	asis	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	advcl	_	SpaceAfter=No|XmlId=w_58_04053
+4130	Tristran s'en 	vet	 : 	4	vet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03055
+4132	A ton nevo 	parlai	 ersoir : 	4	parlai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03068
+4134	Ge li dis ce, qu'il s'en alast, Nule foiz mais ne me 	mandast	 ; 	17	mandast	_	VERB	VERcjg	VerbForm=Fin	10	conj	_	XmlId=w_26_03101
+4134	Ge li dis ce, qu'il s'en 	alast	, Nule foiz mais ne me mandast ; 	10	alast	_	VERB	VERcjg	VerbForm=Fin	4	acl	_	SpaceAfter=No|XmlId=w_26_03094
+4136	Ne ja a vos n'en 	parleroie	. 	7	parleroie	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_03116
+4137	Sire, de rien ne m'en 	creirez	 : 	8	creirez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03125
+4137	Sire, de rien ne m'en 	creirez	 : 	8	creirez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03125
+4138	Il n'i 	ot	 plus. 	4	ot	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03130
+4140	mes c'	iert	 a tort. 	3	iert	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03142
+4141	Tristran s'en 	vet	 por le descort, 	4	vet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03149
+4141	Tristran s'en 	vet	 por le descort, 	4	vet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03149
+4142	Bien sai que outre la mer 	passe	. 	7	passe	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	SpaceAfter=No|XmlId=w_26_03160
+4144	Nel vol de rien nule 	aquiter	 Ne longuement a lui parler. 	6	aquiter	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_26_03175
+4145	Sire, or t'ai 	dit	 le voir sanz falle : 	6	dit	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_03187
+4147	Ce 	saciez	, sire, sanz doutance, Je li feïse l'aquitance, Se je osase, volentiers ; 	2	saciez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_03204
+4148	Ne sol quatre besanz entiers Ne li vol 	metre	 en s'aumosniere, Por ta mesnie noveliere. 	9	metre	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_26_03231
+4148	Ne sol quatre besanz entiers Ne li vol 	metre	 en s'aumosniere, Por ta mesnie noveliere. 	9	metre	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_26_03231
+4149	Povre s'en 	vet	, 	4	vet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_03244
+415	« Mal nos avez 	baillit	, Que li Franceis asmastes a ferir. 	5	baillit	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_04063
+4151	Par grant pechié li 	donez	 fuie. 	5	donez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03254
+4152	Il n'	ira	 ja en cel païs Dex ne li soit verais amis. » 	3	ira	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03259
+4156	cent foiz la 	besse	. 	4	besse	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_03293
+4159	Ja nes 	mescrerra	 mais nul jor Por dit de nul losengeor ; 	3	mescrerra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03307
+4159	Ja nes 	mescrerra	 mais nul jor Por dit de nul losengeor ; 	3	mescrerra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03307
+4161	et 	viengent	 a lor buens. 	2	viengent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03319
+4164	N'en 	crerra	 mais Corneualans. 	3	crerra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03340
+4165	Or dit li rois a la roïne Conme le felon nain Frocine Out anoncié le parlement Et com el pin plus hautement Le fist monter por eus 	voier	 A lor asenblement, le soir. 	28	voier	_	VERB	VERinf	VerbForm=Inf	24	advcl	_	XmlId=w_26_03371
+4165	Or dit li rois a la roïne Conme le felon nain Frocine Out anoncié le parlement Et com el pin plus hautement Le fist monter por eus 	voier	 A lor asenblement, le soir. 	28	voier	_	VERB	VERinf	VerbForm=Inf	24	advcl	_	XmlId=w_26_03371
+4165	Or dit li rois a la roïne Conme le felon nain Frocine Out anoncié le parlement Et com el pin plus hautement Le fist 	monter	 por eus voier A lor asenblement, le soir. 	25	monter	_	VERB	VERinf	VerbForm=Inf	24	xcomp	_	XmlId=w_26_03368
+4165	Or 	dit	 li rois a la roïne Conme le felon nain Frocine Out anoncié le parlement Et com el pin plus hautement Le fist monter por eus voier A lor asenblement, le soir. 	2	dit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03345
+4166	« Sire, 	estïez	 vos donc el pin ? 	4	estïez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03382
+4167	Onques n'i 	ot	 parole dite Ge n'oïse, grant ne petite. 	4	ot	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03401
+4168	Qant j'	oï	 a Tristran retraire La batalle que li fis faire, Pitié en oi, 	3	oï	_	VERB	VERcjg	VerbForm=Fin	16	advcl	_	XmlId=w_26_03414
+4169	petit falli Que de l'arbre jus ne 	chaï	. 	9	chaï	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	SpaceAfter=No|XmlId=w_26_03437
+4170	Et qant je vos oï retraire Le mal q'en mer li estut traire De la serpent dont le 	garistes	, Et les grans biens que li feïstes, Et quant il vos requist quitance De ses gages, si oi pesance 	20	garistes	_	VERB	VERcjg	VerbForm=Fin	8	acl:relcl	_	SpaceAfter=No|XmlId=w_26_03458
+4170	Et qant je vos oï retraire Le mal q'en mer li 	estut	 traire De la serpent dont le garistes, Et les grans biens que li feïstes, Et quant il vos requist quitance De ses gages, si oi pesance 	13	estut	_	VERB	VERcjg	VerbForm=Fin	8	acl:relcl	_	XmlId=w_26_03451
+4170	Et qant je vos oï retraire Le mal q'en mer li 	estut	 traire De la serpent dont le garistes, Et les grans biens que li feïstes, Et quant il vos requist quitance De ses gages, si oi pesance 	13	estut	_	VERB	VERcjg	VerbForm=Fin	8	acl:relcl	_	XmlId=w_26_03451
+4172	Pitié m'en 	prist	 an l'arbre sus. 	4	prist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03499
+4177	Se il m'	amast	 de fole amor, Asez en veïsiez senblant. 	4	amast	_	VERB	VERcjg	VerbForm=Fin	11	advcl	_	XmlId=w_26_03539
+4178	Ainz, par ma foi, ne tant ne quant Ne 	veïstes	 qu'il m'aprismast Ne mespreïst ne me baisast. 	12	veïstes	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03560
+4178	Ainz, par ma foi, ne tant ne quant Ne 	veïstes	 qu'il m'aprismast Ne mespreïst ne me baisast. 	12	veïstes	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03560
+418	Jo ne lerreie, por tut l'or que Deus fist Ne por tut l'aveir ki 	seit	 en cest païs, Que jo ne li die, se tant ai de leisir, Que Charles li mandet, li reis poësteïfs : 	18	seit	_	VERB	VERcjg	VerbForm=Fin	16	acl:relcl	_	XmlId=w_58_04107
+418	Jo ne 	lerreie	, por tut l'or que Deus fist Ne por tut l'aveir ki seit en cest païs, Que jo ne li die, se tant ai de leisir, Que Charles li mandet, li reis poësteïfs : 	3	lerreie	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_04092
+4180	Ne m'	amot	 pas d'amor vilaine. 	3	amot	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03579
+4181	Sire, s'or ne nos veïsiez, Certes ne nos en 	creïsiez	. 	13	creïsiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_03597
+4184	Por mon nevo 	va	 a l'ostel ; 	4	va	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03626
+4184	Por mon nevo 	va	 a l'ostel ; 	4	va	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03626
+4185	Et se il dit ou un ou el Ou n'i velle 	venir	 por toi, Di 	13	venir	_	VERB	VERinf	VerbForm=Inf	4	conj	_	XmlId=w_26_03643
+4185	Et se il dit ou un ou el Ou n'i velle 	venir	 por toi, Di 	13	venir	_	VERB	VERinf	VerbForm=Inf	4	conj	_	XmlId=w_26_03643
+4189	Si 	est	 a grant tort, 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03670
+419	Par mei li 	mandet	, sun mortel enemi. » 	4	mandet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_04136
+4191	Dit par moi est 	meslez	 o voz, 	5	meslez	_	VERB	VERppe	Tense=Past|VerbForm=Part	1	ccomp	_	XmlId=w_26_03683
+4192	La mort me 	veut	 tot a estros. 	4	veut	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03690
+4194	por vos le 	laisera	 Bien tost que ne me tochera. 	4	laisera	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03701
+4195	Sire, por Deu, 	acordez	 m'i, Quant il sera venu ici. » 	6	acordez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03714
+4195	Sire, por Deu, 	acordez	 m'i, Quant il sera venu ici. » 	6	acordez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03714
+4197	Mot 	fist	 que bone lecherresse ; 	2	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03732
+4198	Lores 	gaboit	 a esscïent 	2	gaboit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03738
+4199	Et se 	plaignoit	 de mal talent. 	3	plaignoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03743
+420	Afublez est d'un mantel sabelin Ki fut 	cuvert	 d'un palie alexandrin. 	9	cuvert	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl:relcl	_	XmlId=w_58_04151
+420		Afublez	 est d'un mantel sabelin Ki fut cuvert d'un palie alexandrin. 	1	Afublez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04143
+4202	« 	Acordez	 m'i, 	2	Acordez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03761
+4205	« G'i 	metrai	 paine. 	4	metrai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03777
+4209	Brengain s'en 	ist	 les sauz par l'us. 	4	ist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03802
+4209	Brengain s'en 	ist	 les sauz par l'us. 	4	ist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03802
+4209	Brengain s'en 	ist	 les sauz par l'us. 	4	ist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03802
+421		Getet	 le a tere, 	1	Getet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04157
+4210	Tristran 	estoit	 a la paroi, 	2	estoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03810
+4211	Bien les oiet 	parler	 au roi. 	4	parler	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_26_03818
+4212	Brengain a par les braz 	saisie	, 	6	saisie	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_03827
+4215	D'or en avant avra loisir D'	estre	 o Yseut a son plaisir. 	8	estre	_	VERB	VERinf	VerbForm=Inf	6	acl	_	XmlId=w_26_03843
+4215	D'or en avant avra loisir D'	estre	 o Yseut a son plaisir. 	8	estre	_	VERB	VERinf	VerbForm=Inf	6	acl	_	XmlId=w_26_03843
+4216	Brengain 	mist	 Tristran a raison : 	2	mist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03851
+4217	« Sire, laienz en sa maison A li rois grant raison 	tenue	 De toi et de ta chiere drue. 	13	tenue	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_03868
+4221	Ge ai dit que ire 	as	 vers moi. 	6	as	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_26_03904
+4222	Fai grant senblant de toi proier, N'i 	venir	 mie de legier. 	10	venir	_	VERB	VERinf	VerbForm=Inf	6	conj	_	XmlId=w_26_03917
+4223	Se li rois fait de moi proiere, 	Fai	 par senblant mauvese chiere. » 	9	Fai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03930
+4227	A la chanbre painte s'en vont, La ou li rois et Yseut 	sont	. 	15	sont	_	VERB	VERcjg	VerbForm=Fin	7	advcl	_	SpaceAfter=No|XmlId=w_26_03967
+4227	A la chanbre painte s'en 	vont	, La ou li rois et Yseut sont. 	7	vont	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_03959
+4227	A la chanbre painte s'en 	vont	, La ou li rois et Yseut sont. 	7	vont	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_03959
+4228	Tristran est en la chanbre 	entrez	. 	6	entrez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_03974
+423	Mais de s'espee ne volt mie 	guerpir	 ; 	8	guerpir	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_58_04173
+4230	Ton mautalent 	quite	 a Brengain, 	3	quite	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03990
+4233	Legirement vos defendez Vers moi, qui ce m'avez mis sure Dont li mien cor el ventre 	pleure	, Si grant desroi, tel felonie ! 	19	pleure	_	VERB	VERcjg	VerbForm=Fin	8	acl	_	SpaceAfter=No|XmlId=w_26_04030
+4233	Legirement vos defendez Vers moi, qui ce m'avez mis sure Dont li mien cor el ventre 	pleure	, Si grant desroi, tel felonie ! 	19	pleure	_	VERB	VERcjg	VerbForm=Fin	8	acl	_	SpaceAfter=No|XmlId=w_26_04030
+4233	Legirement vos 	defendez	 Vers moi, qui ce m'avez mis sure Dont li mien cor el ventre pleure, Si grant desroi, tel felonie ! 	3	defendez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04014
+4239	Ne portë ire a la roïne N'a moi, qui 	sui	 de vostre orine. 	12	sui	_	VERB	VERcjg	VerbForm=Fin	9	acl:relcl	_	XmlId=w_26_04086
+4239	Ne 	portë	 ire a la roïne N'a moi, qui sui de vostre orine. 	2	portë	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04076
+424	En sun puign destre par l'orié punt la 	tint	. 	10	tint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_04184
+424	En sun puign destre par l'orié punt la 	tint	. 	10	tint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_04184
+4240	- Non 	ferai	 je, beaus niés, par foi. » 	3	ferai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04094
+4241		Acordez	 est Tristran au roi. 	1	Acordez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_04104
+4242	Li rois li a doné congié D'	estre	 a la chanbre : 	8	estre	_	VERB	VERinf	VerbForm=Inf	6	acl	_	XmlId=w_26_04117
+4243	Tristran 	vait	 a la chanbre 	2	vait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04128
+4245	Nule cure li rois n'en 	tient	. 	7	tient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_04141
+4246	Ha ! Dex, qui puet amor 	tenir	 Un an ou deus sanz descovrir ? 	8	tenir	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_26_04150
+4248	Sovent 	cline	 l'un vers son per, 	2	cline	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04166
+4249	Sovent 	vienent	 a parlement, Et a celé et voiant gent. 	2	vienent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04174
+4250	Par tot ne püent aise 	atendre	, 	6	atendre	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_26_04190
+4252	A la cort 	avoit	 trois barons 	4	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04201
+4252	A la cort 	avoit	 trois barons 	4	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04201
+4254	Par soirement s'estoient pris Que, se li rois de son païs N'en faisot son nevo 	partir	, Il nu voudroient mais soufrir, 	19	partir	_	VERB	VERinf	VerbForm=Inf	16	xcomp	_	SpaceAfter=No|XmlId=w_26_04228
+4254	Par soirement s'estoient 	pris	 Que, se li rois de son païs N'en faisot son nevo partir, Il nu voudroient mais soufrir, 	5	pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_04214
+4255	A lor chasteaus sus s'en 	trairoient	 	7	trairoient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04242
+4255	A lor chasteaus sus s'en 	trairoient	 	7	trairoient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04242
+4256	Et au roi Marc gerre 	feroient	. 	6	feroient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_04248
+4257	Qar, en un gardin, soz une ente, 	Virent	 l'autrier Yseut la gente Ovoc Tristran en tel endroit Que nus hon consentir ne doit ; 	11	Virent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04260
+4257	Qar, en un gardin, soz une ente, 	Virent	 l'autrier Yseut la gente Ovoc Tristran en tel endroit Que nus hon consentir ne doit ; 	11	Virent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04260
+4257	Qar, en un gardin, soz une ente, 	Virent	 l'autrier Yseut la gente Ovoc Tristran en tel endroit Que nus hon consentir ne doit ; 	11	Virent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04260
+4257	Qar, en un gardin, soz une ente, 	Virent	 l'autrier Yseut la gente Ovoc Tristran en tel endroit Que nus hon consentir ne doit ; 	11	Virent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04260
+4257	Qar, en un gardin, soz une ente, 	Virent	 l'autrier Yseut la gente Ovoc Tristran en tel endroit Que nus hon consentir ne doit ; 	11	Virent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04260
+4258	Et plusors foiz les ont veüz El lit roi Marc 	gesir	 toz nus. 	11	gesir	_	VERB	VERinf	VerbForm=Inf	6	xcomp	_	XmlId=w_26_04288
+4258	Et plusors foiz les ont 	veüz	 El lit roi Marc gesir toz nus. 	6	veüz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_04283
+4259	Quar, quant li rois en 	vet	 el bois, Et Tristran dit : 	7	vet	_	VERB	VERcjg	VerbForm=Fin	13	advcl	_	XmlId=w_26_04298
+4259	Quar, quant li rois en 	vet	 el bois, Et Tristran dit : 	7	vet	_	VERB	VERcjg	VerbForm=Fin	13	advcl	_	XmlId=w_26_04298
+4260	« Sire, g'en 	vois	 ; » 	6	vois	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04311
+4262		entre	 en la chanbre, 	1	entre	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04318
+4263	Iluec grant piece 	sont	 ensenble. 	4	sont	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04326
+4265		Alon	 au ro 	1	Alon	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04336
+4267	Ou il nos aint ou il nos hast, Nos volon son nevo en 	chast	. » 	15	chast	_	VERB	VERcjg	VerbForm=Fin	11	ccomp	_	SpaceAfter=No|XmlId=w_26_04358
+4269	Li roi Marc ont a raison 	mis	, 	7	mis	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_04374
+427	Envers le rei s'est Guenes 	aproismet	, 	7	aproismet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_04204
+4270	A une part ont le roi 	trait	 : 	7	trait	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_04382
+4277	Son chief 	abesse	 vers la terre, 	3	abesse	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04429
+4280	« Rois, ce dïent li troi felon, Par foi, mais nu 	consentiron	 ; 	15	consentiron	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04459
+4281	Qar bien 	savon	 de verité Que tu consenz lor cruauté, Et tu sez bien ceste mervelle. 	3	savon	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04463
+4282	Q'en 	feras	 tu ? 	3	feras	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04481
+4284	Se ton nevo n'ostes de cort, Si que jamais nen i 	retort	, Ne nos tenron a vos jamez, 	14	retort	_	VERB	VERcjg	VerbForm=Fin	5	advcl	_	SpaceAfter=No|XmlId=w_26_04502
+4284	Se ton nevo n'	ostes	 de cort, Si que jamais nen i retort, Ne nos tenron a vos jamez, 	5	ostes	_	VERB	VERcjg	VerbForm=Fin	18	advcl	_	XmlId=w_26_04493
+4286	De nos voisins feron 	partir	 De cort, que nel poon soufrir. 	5	partir	_	VERB	VERinf	VerbForm=Inf	4	xcomp	_	XmlId=w_26_04522
+4286	De nos voisins 	feron	 partir De cort, que nel poon soufrir. 	4	feron	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04521
+429	« A tort vos 	curuciez	, 	5	curuciez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_04215
+4292	Mais 	servi	 m'a d'estrange guise. 	2	servi	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_04571
+4299	Si en soit ja li consel 	pris	. 	7	pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_04632
+4302	Et il i est mot tost 	venuz	 	7	venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_04649
+4306	Ha ! or oiez qel traïson Et con faite seducion A 	dit	 au roi cil nain Frocin ! 	12	dit	_	VERB	VERppe	Tense=Past|VerbForm=Part	4	ccomp	_	XmlId=w_26_04685
+4309	« Di ton nevo q'au roi Artur, A Carduel, qui est clos de mur, Covienge qu'il 	aut	 par matin ; 	22	aut	_	VERB	VERcjg	VerbForm=Fin	19	ccomp	_	XmlId=w_26_04732
+4309	« Di ton nevo q'au roi Artur, A Carduel, qui est clos de mur, Covienge qu'il 	aut	 par matin ; 	22	aut	_	VERB	VERcjg	VerbForm=Fin	19	ccomp	_	XmlId=w_26_04732
+4309	« Di ton nevo q'au roi Artur, A Carduel, qui est clos de mur, Covienge qu'il 	aut	 par matin ; 	22	aut	_	VERB	VERcjg	VerbForm=Fin	19	ccomp	_	XmlId=w_26_04732
+4309	« Di ton nevo q'au roi Artur, A Carduel, qui est 	clos	 de mur, Covienge qu'il aut par matin ; 	15	clos	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	acl:relcl	_	XmlId=w_26_04725
+4309	« 	Di	 ton nevo q'au roi Artur, A Carduel, qui est clos de mur, Covienge qu'il aut par matin ; 	2	Di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04712
+431	Demi Espaigne vus 	durat	 il en fiet, 	4	durat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04237
+4310	Un brief escrit an parchemin Port a Artur toz les galoz, Bien seelé, a cire 	aclox	. 	18	aclox	_	VERB	VERppe	Tense=Past|VerbForm=Part	2	acl	_	SpaceAfter=No|XmlId=w_26_04753
+4310	Un brief escrit an parchemin 	Port	 a Artur toz les galoz, Bien seelé, a cire aclox. 	6	Port	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04741
+4310	Un brief escrit an parchemin 	Port	 a Artur toz les galoz, Bien seelé, a cire aclox. 	6	Port	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04741
+4310	Un brief 	escrit	 an parchemin Port a Artur toz les galoz, Bien seelé, a cire aclox. 	3	escrit	_	VERB	VERppe	Tense=Past|VerbForm=Part	2	acl	_	XmlId=w_26_04738
+4311	Rois, Tristran 	gist	 devant ton lit. 	4	gist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04758
+4312	Anevoies, en ceste nuit, Sai que voudra a lui 	parler	, Por ceu que devra la aler. 	12	parler	_	VERB	VERinf	VerbForm=Inf	7	xcomp	_	SpaceAfter=No|XmlId=w_26_04774
+4312	Anevoies, en ceste nuit, 	Sai	 que voudra a lui parler, Por ceu que devra la aler. 	7	Sai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04769
+4313	Rois, de la chanbre 	is	 a prinsome. 	6	is	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04788
+4313	Rois, de la chanbre 	is	 a prinsome. 	6	is	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04788
+4314	Deu te jur et la loi de Rome, Se Tristran l'aime folement, A lui 	vendra	 a parlement ; 	18	vendra	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_26_04809
+4314	Deu te 	jur	 et la loi de Rome, Se Tristran l'aime folement, A lui vendra a parlement ; 	3	jur	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04794
+4315	Et s'il i 	vient	, et ge nul sai, Se tu nu voiz, si me desfai, Et tuit ti home 	5	vient	_	VERB	VERcjg	VerbForm=Fin	19	advcl	_	SpaceAfter=No|XmlId=w_26_04817
+4316	outreement. 	Prové	 seront sanz soirement. 	3	Prové	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_04839
+4317	Rois, or m'en laise covenir Et a ma volenté 	sortir	, 	12	sortir	_	VERB	VERinf	VerbForm=Inf	7	conj	_	SpaceAfter=No|XmlId=w_26_04855
+4317	Rois, or m'en laise 	covenir	 Et a ma volenté sortir, 	7	covenir	_	VERB	VERinf	VerbForm=Inf	6	xcomp	_	XmlId=w_26_04850
+4318	Et se li 	çole	 l'envoier Desi qu'a l'ore du cochier. » 	4	çole	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04860
+4322	chascun s'en 	vait	. 	4	vait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_04890
+4323	Mot 	fu	 li nain de grant voidie, 	2	fu	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04893
+4325	Cil en 	entra	 chiés un pestor, 	3	entra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04908
+4325	Cil en 	entra	 chiés un pestor, 	3	entra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04908
+4327	Puis la 	lia	 a son gueron. 	3	lia	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04921
+4329	La nuit, qant ot li rois mengié, Par la sale furent 	couchié	. 	14	couchié	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_04945
+4329	La nuit, qant ot li rois mengié, Par la sale furent 	couchié	. 	14	couchié	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_04945
+433	Mult orguillos parçuner i 	avrez	 ! 	5	avrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04255
+4333	Au roi Artus, jusqu'a Carduel, Vos covendra a 	chevauchier	. 	12	chevauchier	_	VERB	VERinf	VerbForm=Inf	10	xcomp	_	SpaceAfter=No|XmlId=w_26_04984
+4333	Au roi Artus, jusqu'a Carduel, Vos covendra a 	chevauchier	. 	12	chevauchier	_	VERB	VERinf	VerbForm=Inf	10	xcomp	_	SpaceAfter=No|XmlId=w_26_04984
+4335	Niés, de ma part le 	salüez	, 	7	salüez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_04998
+4336	O lui c'un jor ne 	sejornez	. » 	7	sejornez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_05006
+4336	O lui c'un jor ne 	sejornez	. » 	7	sejornez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_05006
+4337	Du mesage ot Tristran 	parler	, 	5	parler	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	SpaceAfter=No|XmlId=w_26_05013
+4338	Au roi 	respont	 de lui porter : 	3	respont	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05017
+4339	« Rois, ge 	irai	 bien par matin. 	5	irai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05026
+434	Si ceste acorde ne volez otrier, En Sarraguce vus 	vendrat	 aseger. 	11	vendrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04267
+4340	Tristran fu 	mis	 en grant esfroi. 	3	mis	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_05046
+4341	Entre son lit et cel au roi 	Avoit	 bien le lonc d'une lance. 	8	Avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05058
+4341	Entre son lit et cel au roi 	Avoit	 bien le lonc d'une lance. 	8	Avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05058
+4343	En son cuer dist qu'il 	parleroit	 A la roïne, s'il pooit, Qant ses oncles ert endormiz. 	7	parleroit	_	VERB	VERcjg	VerbForm=Fin	4	ccomp	_	XmlId=w_26_05078
+4343	En son cuer 	dist	 qu'il parleroit A la roïne, s'il pooit, Qant ses oncles ert endormiz. 	4	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05075
+4345	Li nains la nuit en la chanbre 	ert	 : 	8	ert	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05109
+4345	Li nains la nuit en la chanbre 	ert	 : 	8	ert	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05109
+4346	Oiez conment cele nuit 	sert	. 	5	sert	_	VERB	VERcjg	VerbForm=Fin	1	ccomp	_	SpaceAfter=No|XmlId=w_26_05115
+4347	Entre deus liez la flor 	respant	, Que li pas allent paraisant, 	6	respant	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_05122
+4348	Se l'un a l'autre la nuit 	vient	 : La flor la forme des pas tient. 	9	vient	_	VERB	VERcjg	VerbForm=Fin	17	advcl	_	XmlId=w_26_05138
+4348	Se l'un a l'autre la nuit 	vient	 : La flor la forme des pas tient. 	9	vient	_	VERB	VERcjg	VerbForm=Fin	17	advcl	_	XmlId=w_26_05138
+435	Par poëstet serez 	pris	 e lïez ; 	4	pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04273
+4353	« Bien tost a ceste place Espandroit flor por nostre trace Veer, se l'un a l'autre 	iroit	. 	20	iroit	_	VERB	VERcjg	VerbForm=Fin	12	advcl	_	SpaceAfter=No|XmlId=w_26_05193
+4353	« Bien tost a ceste place 	Espandroit	 flor por nostre trace Veer, se l'un a l'autre iroit. 	7	Espandroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05180
+4354	Qui iroit or, que fous 	feroit	 ; 	7	feroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05201
+4355	Bien verra mais se or i 	vois	. » 	7	vois	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	SpaceAfter=No|XmlId=w_26_05209
+4356	Le jor devant, Tristran, el bois, En la janbe 	nafrez	 estoit D'un grant sengler, 	13	nafrez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_05224
+4356	Le jor devant, Tristran, el bois, En la janbe 	nafrez	 estoit D'un grant sengler, 	13	nafrez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_05224
+4356	Le jor devant, Tristran, el bois, En la janbe 	nafrez	 estoit D'un grant sengler, 	13	nafrez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_05224
+4356	Le jor devant, Tristran, el bois, En la janbe 	nafrez	 estoit D'un grant sengler, 	13	nafrez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_05224
+4359		Deslïez	 ert, par son pechié. 	1	Deslïez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_05241
+436		Menet	 serez dreit ad Ais le siet. 	1	Menet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04277
+4362	Et li rois 	live	 a mie nuit, 	4	live	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05259
+4363	Fors de la chanbre en est 	issuz	 ; 	7	issuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_05270
+4363	Fors de la chanbre en est 	issuz	 ; 	7	issuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_05270
+4364	O lui 	ala	 li nain boçuz. 	3	ala	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05274
+4365	Dedenz la chanbre n'	out	 clartez, Cirge ne lanpë alumez. 	5	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05283
+4365	Dedenz la chanbre n'	out	 clartez, Cirge ne lanpë alumez. 	5	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05283
+4366	Tristran se fu sus piez 	levez	. 	6	levez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_05296
+4372	El lit le roi 	chaï	 de haut. 	5	chaï	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05320
+4372	El lit le roi 	chaï	 de haut. 	5	chaï	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05320
+4375	Le sanc qui'nn 	ist	 les dras ensaigne. 	5	ist	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_26_05336
+4378	Qar trop a son delit 	entent	. 	6	entent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_05354
+4379	En plusors leus li sanc 	aüne	. 	6	aüne	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_05361
+438		Getet	 serez sur un malvais sumer. 	1	Getet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04301
+4381	A la lune Bien 	vit	 josté erent ensenble Li dui amant. 	5	vit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05372
+4382	De joie en 	trenble	, 	4	trenble	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_05383
+4383	Et 	dist	 au roi : 	2	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05386
+4385	Iluec furent li troi felon Par qui fu ceste traïson 	Porpensee	 priveement. 	11	Porpensee	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl:relcl	_	XmlId=w_26_05415
+4388		Live	 du lit, tot esfroïz, 	1	Live	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05428
+4389	Errant s'en rest mot tost 	salliz	. 	7	salliz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_05441
+439	Par jugement iloec 	perdrez	 le chef. 	4	perdrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04311
+4390	Au tresallir que Tristran fait, Li sans 	decent	 (malement vait) De la plaie sor la farine. 	9	decent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05451
+4390	Au tresallir que Tristran fait, Li sans 	decent	 (malement vait) De la plaie sor la farine. 	9	decent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05451
+4390	Au tresallir que Tristran fait, Li sans 	decent	 (malement vait) De la plaie sor la farine. 	9	decent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05451
+4391	Ne fust la nuit nus d'eus 	provez	. 	8	provez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_05487
+4392	Se ele s'en fust 	apensee	, Mot eüst bien s'anor tensee. 	6	apensee	_	VERB	VERppe	Tense=Past|VerbForm=Part	13	advcl	_	SpaceAfter=No|XmlId=w_26_05494
+4394	Li ros a sa chanbre 	revient	 ; 	6	revient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05523
+4395	Li nain, que la chandele tient, 	Vient	 avoc lui. 	9	Vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05533
+4397	Quar il 	ronfloit	 forment du nes. 	3	ronfloit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05547
+4398	Seus en la chanbre fu remés, Fors tant que a ses piés 	gesoit	 Pirinis, qui ne s'esmovoit, 	14	gesoit	_	VERB	VERcjg	VerbForm=Fin	1	advcl	_	XmlId=w_26_05565
+4398	Seus en la chanbre fu 	remés	, Fors tant que a ses piés gesoit Pirinis, qui ne s'esmovoit, 	6	remés	_	VERB	remanoir	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_05557
+4399	Et la roïne an son lit 	jut	. 	7	jut	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_05579
+4400	Sor la flor, chauz, li sanc 	parut	. 	9	parut	_	VERB	paroir	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_05589
+4401	Li rois 	choisi	 el lit le sanc : 	3	choisi	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05593
+4403	Et sor la flor en 	pert	 la trace, Du saut. 	6	pert	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05611
+4403	Et sor la flor en 	pert	 la trace, Du saut. 	6	pert	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05611
+4405	Li troi baron 	sont	 en la chanbre, 	4	sont	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05626
+4406	Tristran par ire an son lit 	prenent	 	7	prenent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05637
+4406	Tristran par ire an son lit 	prenent	 	7	prenent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05637
+4407	(	Cuelli	 l'orent cil en haïne, Por sa prooise), 	2	Cuelli	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_05639
+4407	(	Cuelli	 l'orent cil en haïne, Por sa prooise), 	2	Cuelli	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_05639
+441	El destre poign al paien l'ad 	livret	. 	8	livret	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_04330
+4410	Ne lairont justise n'en 	facent	. 	6	facent	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	SpaceAfter=No|XmlId=w_26_05667
+4418	Por Deu, qui pasion soufri, Sire, de nos pitié vos 	prenge	 ! » 	14	prenge	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05740
+442	Marsilies fut 	esculurez	 de l'ire, 	3	esculurez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04334
+4422	Bien sai, 	venuz	 sui a mau saut. 	4	venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	2	ccomp	_	XmlId=w_26_05768
+4423	Ne 	fust	 por vos a corocier, Cist plez fust ja venduz mot chier ; 	2	fust	_	VERB	VERcjg	VerbForm=Fin	12	advcl	_	XmlId=w_26_05775
+4424	Ja, por lor eulz, ne le pensasent Que ja de lor mains m'	atochasent	 ; 	16	atochasent	_	VERB	VERcjg	VerbForm=Fin	9	dislocated	_	XmlId=w_26_05804
+4424	Ja, por lor eulz, ne le 	pensasent	 Que ja de lor mains m'atochasent ; 	9	pensasent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05797
+4425	Mais envers vos n'en 	ai	 je rien. 	6	ai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05811
+4426	Or, tort a mal ou 	tort	 a bien, De moi ferez vostre plesir, 	3	tort	_	VERB	VERcjg	VerbForm=Fin	13	advcl	_	XmlId=w_26_05817
+4426	Or, 	tort	 a mal ou tort a bien, De moi ferez vostre plesir, 	3	tort	_	VERB	VERcjg	VerbForm=Fin	13	advcl	_	XmlId=w_26_05817
+4428	Sire, por Deu, de la roïne 	Aiez	 pitié ! » 	9	Aiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05847
+4430	« Qar il n'a home en ta meson, Se disoit ceste traïson Que pris eüse drüerie O la roïne par folie, Ne m'en 	trovast	 en chanp, armé. 	28	trovast	_	VERB	VERcjg	VerbForm=Fin	6	acl	_	XmlId=w_26_05882
+4430	« Qar il n'a home en ta meson, Se disoit ceste traïson Que 	pris	 eüse drüerie O la roïne par folie, Ne m'en trovast en chanp, armé. 	16	pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	14	acl	_	XmlId=w_26_05870
+4430	« Qar il n'a home en ta meson, Se disoit ceste traïson Que 	pris	 eüse drüerie O la roïne par folie, Ne m'en trovast en chanp, armé. 	16	pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	14	acl	_	XmlId=w_26_05870
+4430	« Qar il n'	a	 home en ta meson, Se disoit ceste traïson Que pris eüse drüerie O la roïne par folie, Ne m'en trovast en chanp, armé. 	5	a	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05859
+4431	Li troi qui an la chanbre 	sont	 Tristran ont pris 	7	sont	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_26_05904
+4434	Mot est 	torné	 a grant haïne. 	3	torné	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_05921
+4436	Mais en Deu tant fort se fiot Que bien savoit et bien quidoit, S'a escondit peüst venir, Nus nen osast armes 	saisir	 Encontre lui, lever ne prendre : 	25	saisir	_	VERB	VERinf	VerbForm=Inf	23	xcomp	_	XmlId=w_26_05973
+4436	Mais en Deu tant fort se fiot Que bien savoit et bien quidoit, S'a escondit peüst 	venir	, Nus nen osast armes saisir Encontre lui, lever ne prendre : 	19	venir	_	VERB	VERinf	VerbForm=Inf	23	advcl	_	SpaceAfter=No|XmlId=w_26_05967
+4436	Mais en Deu tant fort se 	fiot	 Que bien savoit et bien quidoit, S'a escondit peüst venir, Nus nen osast armes saisir Encontre lui, lever ne prendre : 	7	fiot	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05955
+4437	Bien se quidoit par chanp 	defendre	. 	6	defendre	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	SpaceAfter=No|XmlId=w_26_05986
+4438	Por ce ne vout envers le roi 	Mesfaire	 soi por nul desroi ; 	8	Mesfaire	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_26_05995
+4438	Por ce ne vout envers le roi 	Mesfaire	 soi por nul desroi ; 	8	Mesfaire	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_26_05995
+4438	Por ce ne vout envers le roi 	Mesfaire	 soi por nul desroi ; 	8	Mesfaire	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_26_05995
+4439	Qar, s'il seüst ce que en 	fut	 Et ce qui avenir lor dut, Il les eüst tüez toz trois, 	9	fut	_	VERB	VERcjg	VerbForm=Fin	6	acl:relcl	_	XmlId=w_26_06009
+444		getet	 en ad la cire. 	1	getet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04343
+4442	A mellor plait asez 	venist	. 	5	venist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_06045
+4443	Li criz 	live	 par la cité Qu'endui sont ensenble trové Tristran et la roïne Iseut Et que li rois destruire eus veut. 	3	live	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_06049
+4445	Sovent l'un d'eus a l'autre 	dit	 : 	9	dit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_06086
+4448	Ha ! roïne franche, honoree, En qel terre sera mais 	nee	 Fille de roi qui ton cors valle ? 	13	nee	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_06131
+445		Guardet	 al bref, 	1	Guardet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04349
+4450	Ja ne voie Deu en la face, Qui trovera le nain en place, Qui nu 	ferra	 d'un glaive el cors ! 	18	ferra	_	VERB	VERcjg	VerbForm=Fin	10	conj	_	XmlId=w_26_06167
+4450	Ja ne voie Deu en la face, Qui trovera le nain en place, Qui nu 	ferra	 d'un glaive el cors ! 	18	ferra	_	VERB	VERcjg	VerbForm=Fin	10	conj	_	XmlId=w_26_06167
+4450	Ja ne voie Deu en la face, Qui 	trovera	 le nain en place, Qui nu ferra d'un glaive el cors ! 	10	trovera	_	VERB	VERcjg	VerbForm=Fin	3	csubj	_	XmlId=w_26_06159
+4450	Ja ne 	voie	 Deu en la face, Qui trovera le nain en place, Qui nu ferra d'un glaive el cors ! 	3	voie	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_06152
+4451	Ahi ! Tristran, si grant dolors Sera de vos, beaus chiers amis, Qant si seroiz a destroit 	mis	 ! 	21	mis	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	advcl	_	XmlId=w_26_06194
+4452	Qant le Morhout prist ja ci port, Qui ça venoit por nos enfanz, Nos barons fist si tost taisanz Que onques n'ot un si hardi Qui s'en osast 	armer	 vers lui. 	33	armer	_	VERB	VERinf	VerbForm=Inf	32	xcomp	_	XmlId=w_26_06238
+4452	Qant le Morhout prist ja ci port, Qui ça venoit por nos enfanz, Nos barons fist si tost taisanz Que onques n'	ot	 un si hardi Qui s'en osast armer vers lui. 	25	ot	_	VERB	VERcjg	VerbForm=Fin	20	advcl	_	XmlId=w_26_06230
+4452	Qant le Morhout prist ja ci port, Qui ça 	venoit	 por nos enfanz, Nos barons fist si tost taisanz Que onques n'ot un si hardi Qui s'en osast armer vers lui. 	11	venoit	_	VERB	VERcjg	VerbForm=Fin	3	acl:relcl	_	XmlId=w_26_06216
+447	« Carle me mandet, ki France ad en baillie, Que me 	remembre	 de la dolur e l'ire, 	14	remembre	_	VERB	VERcjg	VerbForm=Fin	4	ccomp	_	XmlId=w_58_04371
+448	Ço est de Basan e de sun frere Basilie Dunt 	pris	 les chefs as puis de Haltoïe ; 	11	pris	_	VERB	VERcjg	VerbForm=Fin	8	acl	_	XmlId=w_58_04389
+448	Ço 	est	 de Basan e de sun frere Basilie Dunt pris les chefs as puis de Haltoïe ; 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04380
+449	Se de mun cors voeil 	aquiter	 la vie, Dunc li envei mun uncle l'algalife ; 	6	aquiter	_	VERB	VERinf	VerbForm=Inf	12	advcl	_	XmlId=w_58_04402
+451	Aprés 	parlat	 ses filz envers Marsilies, 	2	parlat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04423
+452	E 	dist	 al rei : 	2	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04430
+458		Vait	 s'apuier suz le pin a la tige. 	1	Vait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04472
+458		Vait	 s'apuier suz le pin a la tige. 	1	Vait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04472
+459	Enz el verger s'en est 	alez	 li reis, 	7	alez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04488
+459	Enz el verger s'en est 	alez	 li reis, 	7	alez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04488
+46	Asez est mielz qu'il i 	perdent	 les testes, Que nus perduns clere Espaigne, la bele, Ne nus aiuns les mals ne les suffraites ! » 	7	perdent	_	VERB	VERcjg	VerbForm=Fin	3	csubj	_	XmlId=w_58_00506
+460	Ses meillors humes en 	meinet	 ensembl'od sei, 	5	meinet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04496
+460	Ses meillors humes en 	meinet	 ensembl'od sei, 	5	meinet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04496
+461	E Blancandrins i 	vint	, al canud peil, E Jurfaret, ki est ses filz e ses heirs, E l'algalifes, sun uncle e sis fedeilz. 	4	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_04504
+464	De nostre prod m'ad 	plevie	 sa feid. » 	6	plevie	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04544
+466	« E vos l'i 	ameneiz	. » 	6	ameneiz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_04559
+467	E Guenes l'ad 	pris	 par la main destre as deiz, 	5	pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04566
+467	E Guenes l'ad 	pris	 par la main destre as deiz, 	5	pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04566
+468	Enz el verger l'en 	meinet	 josqu'al rei. 	6	meinet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04579
+468	Enz el verger l'en 	meinet	 josqu'al rei. 	6	meinet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04579
+468	Enz el verger l'en 	meinet	 josqu'al rei. 	6	meinet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04579
+471		Guaz	 vos en dreit par cez pels sabelines, 	1	Guaz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04620
+471		Guaz	 vos en dreit par cez pels sabelines, 	1	Guaz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04620
+476	Deus, se lui plaist, a bien le vos 	mercie	 ! » 	11	mercie	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04670
+478	« Guenes, par veir sacez, En talant 	ai	 que mult vos voeill amer. 	10	ai	_	VERB	VERcjg	VerbForm=Fin	6	ccomp	_	XmlId=w_58_04688
+478	« Guenes, par veir 	sacez	, En talant ai que mult vos voeill amer. 	6	sacez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_04684
+479	De Carlemagne vos voeill oïr 	parler	. 	6	parler	_	VERB	VERinf	VerbForm=Inf	5	xcomp	_	SpaceAfter=No|XmlId=w_58_04700
+482	Men escïent, dous cenz anz ad 	passet	. 	8	passet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_04720
+483	Par tantes teres ad sun cors 	demened	, 	7	demened	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_04728
+484	Tanz colps ad 	pris	 sur sun escut bucler, 	4	pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04733
+485	Tanz riches reis 	cunduit	 a mendisted : 	4	cunduit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04742
+490	Tant nel vos sai ne preiser ne loer Que plus n'i 	ad	 d'onur e de bontet. 	13	ad	_	VERB	VERcjg	VerbForm=Fin	6	advcl	_	XmlId=w_58_04796
+492	De tel barnage l'ad Deus 	enluminet	 Meilz voelt murir que guerpir sun barnet. » 	7	enluminet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04817
+494	« Mult me puis 	merveiller	 De Carlemagne, ki est canuz e vielz ! 	5	merveiller	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_58_04835
+495	Men escïentre dous cenz anz 	ad	 e mielz. 	6	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04850
+496	Par tantes teres ad sun cors 	traveillet	, 	7	traveillet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_04860
+497	Tanz cols ad 	pris	 de lances e d'espiez, Tanz riches reis cunduiz a mendistiet ! 	4	pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04865
+500	N'	ad	 tel vassal suz la cape del ciel. 	2	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04902
+502	Les.XII. pers, que Carles ad tant chers, 	Funt	 les enguardes a.XX. milie chevalers. 	11	Funt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04930
+506	Mien escïentre, plus 	ad	 de.II. C. anz. 	5	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04973
+507	Par tantes teres est 	alet	 cunquerant, 	5	alet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04982
+508	Tanz colps ad 	pris	 de bons espiez trenchanz, Tanz riches reis morz e vencuz en champ ! 	4	pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_04988
+511	N'	ad	 tel vassal d'ici qu'en Orïent. 	2	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05025
+513	Li.XII. per, que Carles aimet tant, 	Funt	 les enguardes a.XX. milie de Francs. 	10	Funt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05052
+517	Puis m'en 	cumbatre	 a Carlle e a Franceis ? » 	4	cumbatre	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_58_05103
+519	« Ne vus a ceste feiz ! De voz paiens mult grant perte i 	avreiz	. 	15	avreiz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_05128
+52	« Seignurs baruns, a Carlemagne 	irez	. 	7	irez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_00604
+521		tenez	 vos al saveir. 	1	tenez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05134
+522	L'empereür tant li dunez aveir N'i ait Franceis ki tot ne s'en 	merveilt	. 	16	merveilt	_	VERB	VERcjg	VerbForm=Fin	10	acl:relcl	_	SpaceAfter=No|XmlId=w_58_05154
+522	L'empereür tant li dunez aveir N'i 	ait	 Franceis ki tot ne s'en merveilt. 	9	ait	_	VERB	VERcjg	VerbForm=Fin	5	advcl	_	XmlId=w_58_05147
+522	L'empereür tant li dunez aveir N'i 	ait	 Franceis ki tot ne s'en merveilt. 	9	ait	_	VERB	VERcjg	VerbForm=Fin	5	advcl	_	XmlId=w_58_05147
+523	Par.XX. hostages que li enveiereiz En dulce France s'en 	repairerat	 li reis ; 	12	repairerat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05167
+523	Par.XX. hostages que li enveiereiz En dulce France s'en 	repairerat	 li reis ; 	12	repairerat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05167
+523	Par.XX. hostages que li enveiereiz En dulce France s'en 	repairerat	 li reis ; 	12	repairerat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05167
+524	Sa rereguarde 	lerrat	 derere sei ; 	3	lerrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05173
+525		Iert	 i sis nies, li quens Rollant, ço crei, E Oliver, li proz e li curteis. 	1	Iert	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05177
+526	Mort sunt li cunte, se est ki mei en 	creit	. 	11	creit	_	VERB	VERcjg	VerbForm=Fin	7	csubj	_	SpaceAfter=No|XmlId=w_58_05208
+53	Il 	est	 al siege a Cordres la citet. 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00607
+53	Il 	est	 al siege a Cordres la citet. 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00607
+532	Li reis 	serat	 as meillors porz de Sizer ; 	3	serat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05253
+534	Iert i sis niés, li quens Rollant, li riches, E Oliver, en qui il tant se 	fiet	. 	21	fiet	_	VERB	VERcjg	VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No|XmlId=w_58_05287
+534		Iert	 i sis niés, li quens Rollant, li riches, E Oliver, en qui il tant se fiet. 	1	Iert	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05267
+535	.XX. milie Francs 	unt	 en lur cumpaignie. 	4	unt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05292
+539	Nel 	di	 por ço, des voz iert la martirie. 	2	di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05323
+54	Branches d'olive en voz mains 	portereiz	, 	7	portereiz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_00621
+540	Altre bataille lur 	livrez	 de meïsme : 	4	livrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05336
+541	De quel que seit, Rollant n'	estuertrat	 mie. 	8	estuertrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05347
+543	N'	avrez	 mais guere en tute vostre vie. 	2	avrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05357
+548	Tere Major 	remeindreit	 en repos. » 	3	remeindreit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05401
+549	Quan l'ot Marsilie, si l'ad 	baiset	 el col, 	9	baiset	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_05414
+555	Sur les reliques de s'espee Murgleis La traïsun 	jurat	 	10	jurat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05471
+556	e si s'en est 	forsfait	. 	6	forsfait	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_05477
+557	Un faldestoed i 	out	 d'un olifant. 	4	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05484
+559	La lei i 	fut	 Mahum e Tervagan. 	4	fut	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05499
+56	Par voz saveirs sem puëz 	acorder	, Jo vos durrai or e argent asez, Teres e fiez tant cum vos en vuldrez. » 	6	acorder	_	VERB	VERinf	VerbForm=Inf	10	advcl	_	SpaceAfter=No|XmlId=w_58_00634
+561	Se en rereguarde troevet le cors Rollant, 	Cumbatrat	 sei a trestute sa gent 	9	Cumbatrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05519
+561	Se en rereguarde 	troevet	 le cors Rollant, Cumbatrat sei a trestute sa gent 	4	troevet	_	VERB	VERcjg	VerbForm=Fin	9	advcl	_	XmlId=w_58_05514
+565	Atant i 	vint	 uns paiens, Valdabruns. 	3	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05549
+566	Icil en 	vait	 al rei Marsiliun. 	3	vait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05557
+566	Icil en 	vait	 al rei Marsiliun. 	3	vait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05557
+567	Cler en riant l'ad 	dit	 a Guenelun : 	6	dit	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_05567
+570	Entre les helz 	ad	 plus de mil manguns. 	4	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05586
+571	Par amistiez, bel sire, la vos duins, Que nos aidez de Rollant le barun, Qu'en rereguarde 	trover	 le poüsum. 	22	trover	_	VERB	VERinf	VerbForm=Inf	13	xcomp	_	XmlId=w_58_05613
+571	Par amistiez, bel sire, la vos duins, Que nos 	aidez	 de Rollant le barun, Qu'en rereguarde trover le poüsum. 	13	aidez	_	VERB	VERcjg	VerbForm=Fin	9	advcl	_	XmlId=w_58_05604
+571	Par amistiez, bel sire, la vos 	duins	, Que nos aidez de Rollant le barun, Qu'en rereguarde trover le poüsum. 	9	duins	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_05600
+574	Puis se 	baiserent	 es vis e es mentuns. 	3	baiserent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05629
+575	Aprés i 	vint	 un paien, Climorins. 	3	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05638
+576	Cler en riant a Guenelun l'ad 	dit	 : 	8	dit	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_05651
+579	Si nos 	aidez	 de Rollant li marchis, 	3	aidez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05665
+580	Par quel mesure le poüssum 	hunir	. 	6	hunir	_	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_58_05676
+583	Puis se 	baiserent	 es buches e es vis. 	3	baiserent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05689
+584	Atant i 	vint	 la reine Bramimunde : 	3	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05700
+586		dist	 ele al cunte, 	1	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05713
+588	A vostre femme 	enveierai	 dous nusches, 	4	enveierai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05732
+589	Bien i 	ad	 or, matices e jacunces : 	3	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05738
+593	en sa hoese les 	butet	. 	5	butet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_05774
+597	Marsilies 	tint	 Guenelun par l'espalle, 	2	tint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05831
+60		Dist	 a ses humes : 	1	Dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00675
+600	Par cele lei que vos tenez plus salve, 	Guardez	 de nos ne turnez le curage. 	10	Guardez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05859
+601	De mun aveir vos voeill dunner grant masse,.X. muls 	cargez	 del plus fin or d'Arabe ; 	12	cargez	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	acl	_	XmlId=w_58_05878
+604	Le grant aveir en 	presentez	 al rei Carles, 	5	presentez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05908
+605	Pois me 	jugez	 Rollant a rereguarde. 	3	jugez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05915
+606	Sel pois 	trover	 a port ne a passage, Liverrai lui une mortel bataille. » 	3	trover	_	VERB	VERinf	VerbForm=Inf	10	advcl	_	XmlId=w_58_05922
+609	Pois est 	munted	, entret en sun veiage. 	3	munted	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_05950
+61	« Seignurs, vos en 	ireiz	. 	6	ireiz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_00685
+611		Venuz	 en est a la citet de Galne. 	1	Venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_05965
+611		Venuz	 en est a la citet de Galne. 	1	Venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_05965
+615	Par main en l'albe, si cum li jurz esclairet, Guenes li quens est 	venuz	 as herberges. 	17	venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_06027
+615	Par main en l'albe, si cum li jurz esclairet, Guenes li quens est 	venuz	 as herberges. 	17	venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_06027
+615	Par main en l'albe, si cum li jurz esclairet, Guenes li quens est 	venuz	 as herberges. 	17	venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_06027
+616	Li empereres est par matin 	levet	, 	6	levet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_58_06038
+618	Sur l'erbe verte 	estut	 devant sun tref. 	5	estut	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_06052
+618	Sur l'erbe verte 	estut	 devant sun tref. 	5	estut	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_06052

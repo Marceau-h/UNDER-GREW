@@ -2,8 +2,14 @@ from pathlib import Path
 import pandas as pd
 from collections import Counter
 
-main = Path("exports")
+def save_to_sheet(df, sheet, writer):
+    df.to_excel(writer, sheet_name=sheet, index=True, header=True)
+
+
+main = Path("Xports")
 stats_folder_main = Path("stats")
+
+
 for mode in ("pivot", "LEMMA"):
     stats_folder = stats_folder_main / mode
     jsons = list(main.glob("*/*.json"))
@@ -18,14 +24,21 @@ for mode in ("pivot", "LEMMA"):
         stats_file = stats_folder / corpus
         stats_file.mkdir(parents=True, exist_ok=True)
         stats_file = stats_file / (query + ".xlsx")
+        print(f"{stats_file = }")
 
         if corpus not in stats:
             stats[corpus] = {}
         stats[corpus][query] = {}
 
         df = pd.read_json(json)
+
+        if len(df) == 0:
+            print(f"{json = }")
+            print(f"{df = }")
+            continue
+
         verbes = df[mode]
-        verbes_freq = Counter(verbes)
+        verbes_freq = Counter([e.lower() for e in verbes])
         occurences = len(verbes)
 
         # print(df.head())
@@ -57,15 +70,26 @@ for mode in ("pivot", "LEMMA"):
 
             tempdf = pd.DataFrame(temp, index=["", ])
             tempdf = tempdf.T
-            tempdf.to_excel(writer, sheet_name="Globales", index=True, header=False)
+            #
+            # tempdf.to_excel(writer, sheet_name="Globales", index=True, header=False)
+            # for column in df:
+            #     column_width = max(df[column].astype(str).map(len).max(), len(column))
+            #     col_idx = df.columns.get_loc(column)
+            #     writer.sheets['my_analysis'].set_column(col_idx, col_idx, column_width)
+
+            save_to_sheet(tempdf, "Globales", writer)
 
             for verbe, content in feuilles.items():
                 tempdf = pd.DataFrame(content["stats"], index=[0])
-                tempdf.to_excel(writer, index=False, sheet_name=f"{verbe}_stats")
+                # tempdf.to_excel(writer, index=False, sheet_name=f"{verbe}_stats")
+                save_to_sheet(tempdf, f"{verbe}_stats", writer)
 
                 tempdf = pd.DataFrame(content["phrases"], columns=phrases.columns)
-                tempdf.to_excel(writer, index=False, sheet_name=f"{verbe}_phrases")
+                # tempdf.to_excel(writer, index=False, sheet_name=f"{verbe}_phrases")
+                save_to_sheet(tempdf, f"{verbe}_phrases", writer)
 
+        # fix_worksheet = columns.XLSXAutoFitColumns(stats_file)
+        # fix_worksheet.process_all_worksheets()
 
         temp["feuilles"] = feuilles
 

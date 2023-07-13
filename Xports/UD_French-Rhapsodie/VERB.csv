@@ -1,0 +1,1001 @@
+sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC
+Rhap_M0024-1,"euh, il y avait donc une, euh, jeune fille qui regardait dans une boutique, apparemment une pâtisserie, qui semblait avoir faim, qui a profité de ce que le livreur s'éloigne pour, euh, voler un, une baguette, euh, a rencontré donc Charlot à ce moment-là, lui est ",rentrée, dedans. ,61,rentrée,rentrer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,51,conj,_,_
+Rhap_M0024-1,"euh, il y avait donc une, euh, jeune fille qui regardait dans une boutique, apparemment une pâtisserie, qui semblait avoir faim, qui a profité de ce que le livreur s'éloigne pour, euh, voler un, une baguette, euh, a ",rencontré," donc Charlot à ce moment-là, lui est rentrée dedans. ",51,rencontré,rencontrer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,30,conj,_,_
+Rhap_M0024-1,"euh, il y avait donc une, euh, jeune fille qui regardait dans une boutique, apparemment une pâtisserie, qui semblait avoir faim, qui a profité de ce que le livreur s'éloigne pour, euh, ",voler," un, une baguette, euh, a rencontré donc Charlot à ce moment-là, lui est rentrée dedans. ",42,voler,voler,VERB,_,VerbForm=Inf,30,advcl,_,Subject=NoRaising
+Rhap_M0024-1,"euh, il y avait donc une, euh, jeune fille qui regardait dans une boutique, apparemment une pâtisserie, qui semblait avoir faim, qui a profité de ce que le livreur s'",éloigne," pour, euh, voler un, une baguette, euh, a rencontré donc Charlot à ce moment-là, lui est rentrée dedans. ",37,éloigne,éloigner,VERB,CCOMP,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,32,acl,_,_
+Rhap_M0024-1,"euh, il y avait donc une, euh, jeune fille qui regardait dans une boutique, apparemment une pâtisserie, qui semblait avoir faim, qui a ",profité," de ce que le livreur s'éloigne pour, euh, voler un, une baguette, euh, a rencontré donc Charlot à ce moment-là, lui est rentrée dedans. ",30,profité,profiter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14,conj,_,_
+Rhap_M0024-1,"euh, il y avait donc une, euh, jeune fille qui regardait dans une boutique, apparemment une pâtisserie, qui semblait ",avoir," faim, qui a profité de ce que le livreur s'éloigne pour, euh, voler un, une baguette, euh, a rencontré donc Charlot à ce moment-là, lui est rentrée dedans. ",25,avoir,avoir,VERB,_,VerbForm=Inf,24,xcomp,_,Subject=SubjRaising
+Rhap_M0024-1,"euh, il y avait donc une, euh, jeune fille qui regardait dans une boutique, apparemment une pâtisserie, qui ",semblait," avoir faim, qui a profité de ce que le livreur s'éloigne pour, euh, voler un, une baguette, euh, a rencontré donc Charlot à ce moment-là, lui est rentrée dedans. ",24,semblait,sembler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,14,conj,_,_
+Rhap_M0024-1,"euh, il y avait donc une, euh, jeune fille qui ",regardait," dans une boutique, apparemment une pâtisserie, qui semblait avoir faim, qui a profité de ce que le livreur s'éloigne pour, euh, voler un, une baguette, euh, a rencontré donc Charlot à ce moment-là, lui est rentrée dedans. ",14,regardait,regarder,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,12,acl:relcl,_,_
+Rhap_M0024-1,"euh, il y ",avait," donc une, euh, jeune fille qui regardait dans une boutique, apparemment une pâtisserie, qui semblait avoir faim, qui a profité de ce que le livreur s'éloigne pour, euh, voler un, une baguette, euh, a rencontré donc Charlot à ce moment-là, lui est rentrée dedans. ",5,avait,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_M0024-2,"euh, dans la confusion, donc, une, euh, une passante a dénoncé la jeune fille au livreur qui a ",couru," après la jeune fille, euh. ",25,couru,courir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,22,acl:relcl,_,_
+Rhap_M0024-2,"euh, dans la confusion, donc, une, euh, une passante a ",dénoncé," la jeune fille au livreur qui a couru après la jeune fille, euh. ",16,dénoncé,dénoncer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_M0024-3,"les policiers sont arrivés en raison du , du , du vacarme, je p~, je ",pense,. ,21,pense,penser,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,15,discourse,_,SpaceAfter=No
+Rhap_M0024-3,"les policiers sont arrivés en raison du , du , du vacarme, je ",p~,", je pense. ",18,p~,p~,VERB,DISCOURSE,_,21,reparandum,_,SpaceAfter=No
+Rhap_M0024-3,les policiers sont ,arrivés," en raison du , du , du vacarme, je p~, je pense. ",4,arrivés,arriver,VERB,ETRE,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_M0024-4,"et, euh, Charlot s'est accusé plutôt que de laisser la jeune fille s'",accuser,. ,17,accuser,accuser,VERB,_,VerbForm=Inf,12,xcomp,_,SpaceAfter=No|Subject=ObjRaising
+Rhap_M0024-4,"et, euh, Charlot s'est accusé plutôt que de ",laisser, la jeune fille s'accuser. ,12,laisser,laisser,VERB,_,VerbForm=Inf,9,advcl,_,Subject=SubjRaising
+Rhap_M0024-4,"et, euh, Charlot s'est ",accusé, plutôt que de laisser la jeune fille s'accuser. ,8,accusé,accuser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_M0024-5,"et, euh, ça s'arrête lorsque la passante, euh, indique au livreur que c'était bien la jeune fille qui avait ",volé, le pain et pas le jeune homme. ,27,volé,voler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,24,acl:relcl,_,_
+Rhap_M0024-5,"et, euh, ça s'arrête lorsque la passante, euh, ",indique, au livreur que c'était bien la jeune fille qui avait volé le pain et pas le jeune homme. ,14,indique,indiquer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7,advcl,_,_
+Rhap_M0024-5,"et, euh, ça s'",arrête," lorsque la passante, euh, indique au livreur que c'était bien la jeune fille qui avait volé le pain et pas le jeune homme. ",7,arrête,arrêter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-2,j',ai,… ,2,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,Scrap=Yes|SpaceAfter=No
+Rhap_D0006-3,"il se trouve que dans les adresses qu'on m'avait données, j'ai, euh, il y a deux rendez-vous que j'ai dû remettre parce que les gens ",vendaient,", euh, euh, des biens de famille. ",33,vendaient,vendre,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,27,advcl,_,SpaceAfter=No
+Rhap_D0006-3,"il se trouve que dans les adresses qu'on m'avait données, j'ai, euh, il y a deux rendez-vous que j'ai dû ",remettre," parce que les gens vendaient, euh, euh, des biens de famille. ",28,remettre,remettre,VERB,DoubleAux,VerbForm=Inf,27,xcomp,_,Subject=SubjRaising
+Rhap_D0006-3,"il se trouve que dans les adresses qu'on m'avait données, j'ai, euh, il y a deux rendez-vous que j'ai ",dû," remettre parce que les gens vendaient, euh, euh, des biens de famille. ",27,dû,devoir,VERB,DoubleAux,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,23,acl:relcl,_,_
+Rhap_D0006-3,"il se trouve que dans les adresses qu'on m'avait données, j'ai, euh, il y ",a," deux rendez-vous que j'ai dû remettre parce que les gens vendaient, euh, euh, des biens de famille. ",21,a,avoir,VERB,conj:reform,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,ccomp,_,_
+Rhap_D0006-3,"il se trouve que dans les adresses qu'on m'avait données, j'",ai,", euh, il y a deux rendez-vous que j'ai dû remettre parce que les gens vendaient, euh, euh, des biens de famille. ",15,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,21,reparandum,_,SpaceAfter=No
+Rhap_D0006-3,il se trouve que dans les adresses qu'on m'avait ,données,", j'ai, euh, il y a deux rendez-vous que j'ai dû remettre parce que les gens vendaient, euh, euh, des biens de famille. ",12,données,donner,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,7,acl:relcl,_,SpaceAfter=No
+Rhap_D0006-3,il se ,trouve," que dans les adresses qu'on m'avait données, j'ai, euh, il y a deux rendez-vous que j'ai dû remettre parce que les gens vendaient, euh, euh, des biens de famille. ",3,trouve,trouver,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-4,"donc, euh, on dit oui, on veut bien ",parler," avec vous, mais a~, après le déménagement. ",12,parler,parler,VERB,CCOMP,VerbForm=Inf,10,xcomp,_,Subject=SubjRaising
+Rhap_D0006-4,"donc, euh, on dit oui, on ",veut," bien parler avec vous, mais a~, après le déménagement. ",10,veut,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6,ccomp,_,Reported=Yes
+Rhap_D0006-4,"donc, euh, on ",dit," oui, on veut bien parler avec vous, mais a~, après le déménagement. ",6,dit,dire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-6,vous n',avez, pas autour de vous cette impression que… ,3,avez,avoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0006-5
+Rhap_D0006-7,c',est, plus au niveau de la fac. ,2,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-8,"je vois, euh, moi, la fac, ça m'a ",fait, beaucoup de bien. ,14,fait,faire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0006-8,je ,vois,", euh, moi, la fac, ça m'a fait beaucoup de bien. ",2,vois,voir,VERB,DISCOURSE,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,14,discourse,_,SpaceAfter=No
+Rhap_D0006-9,ça m'a ,sorti, un petit peu de mon petit cocon du septième. ,4,sorti,sortir,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0006-10,et ça m'a fait ,voir,… ,6,voir,voir,VERB,CAUSATIVE,VerbForm=Inf,0,root,_,SpaceAfter=No|Subject=OblRaising
+Rhap_D0006-11,"même si c'est quand même une fac dans le septième, enfin, ç~, il y a des gens qui ",viennent," de partout, euh. ",23,viennent,venir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,21,acl:relcl,_,_
+Rhap_D0006-11,"même si c'est quand même une fac dans le septième, enfin, ç~, il y ",a," des gens qui viennent de partout, euh. ",19,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-12,"et, euh, ça m'a frappé de voir que, euh, j'avais une amie, euh, qui vivait à vingt ans, euh, complètement autonome parce que, euh, ses parents sont divorcés et n'ont pas les moyens de faire ",vivre,… ,49,vivre,vivre,VERB,_,VerbForm=Inf,46,xcomp,_,SpaceAfter=No|Subject=ObjRaising
+Rhap_D0006-12,"et, euh, ça m'a frappé de voir que, euh, j'avais une amie, euh, qui vivait à vingt ans, euh, complètement autonome parce que, euh, ses parents sont divorcés et n'",ont, pas les moyens de faire vivre… ,43,ont,avoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,40,conj,_,_
+Rhap_D0006-12,"et, euh, ça m'a frappé de voir que, euh, j'avais une amie, euh, qui ",vivait," à vingt ans, euh, complètement autonome parce que, euh, ses parents sont divorcés et n'ont pas les moyens de faire vivre… ",23,vivait,vivre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,18,acl:relcl,_,_
+Rhap_D0006-12,"et, euh, ça m'a frappé de voir que, euh, j'",avais," une amie, euh, qui vivait à vingt ans, euh, complètement autonome parce que, euh, ses parents sont divorcés et n'ont pas les moyens de faire vivre… ",16,avais,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,10,ccomp,_,_
+Rhap_D0006-12,"et, euh, ça m'a frappé de ",voir," que, euh, j'avais une amie, euh, qui vivait à vingt ans, euh, complètement autonome parce que, euh, ses parents sont divorcés et n'ont pas les moyens de faire vivre… ",10,voir,voir,VERB,_,VerbForm=Inf,8,xcomp,_,Subject=ObjRaising
+Rhap_D0006-12,"et, euh, ça m'a ",frappé," de voir que, euh, j'avais une amie, euh, qui vivait à vingt ans, euh, complètement autonome parce que, euh, ses parents sont divorcés et n'ont pas les moyens de faire vivre… ",8,frappé,frapper,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0006-13,"euh, mh, des, d'autres gens qui venaient de, euh, qui venaient, euh, de l'étranger et, euh, qui pour pouvoir se payer, euh, la petite prépa en plus pour réussir le concours, euh, devaient ",travailler, le week-end chez Monoprix. ,49,travailler,travailler,VERB,_,VerbForm=Inf,48,xcomp,_,Subject=SubjRaising
+Rhap_D0006-13,"euh, mh, des, d'autres gens qui venaient de, euh, qui venaient, euh, de l'étranger et, euh, qui pour pouvoir se payer, euh, la petite prépa en plus pour réussir le concours, euh, ",devaient, travailler le week-end chez Monoprix. ,48,devaient,devoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,17,conj,_,_
+Rhap_D0006-13,"euh, mh, des, d'autres gens qui venaient de, euh, qui venaient, euh, de l'étranger et, euh, qui pour pouvoir se payer, euh, la petite prépa en plus pour ",réussir," le concours, euh, devaient travailler le week-end chez Monoprix. ",42,réussir,réussir,VERB,_,VerbForm=Inf,30,advcl,_,Subject=NoRaising
+Rhap_D0006-13,"euh, mh, des, d'autres gens qui venaient de, euh, qui venaient, euh, de l'étranger et, euh, qui pour pouvoir se ",payer,", euh, la petite prépa en plus pour réussir le concours, euh, devaient travailler le week-end chez Monoprix. ",32,payer,payer,VERB,_,VerbForm=Inf,30,xcomp,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_D0006-13,"euh, mh, des, d'autres gens qui venaient de, euh, qui venaient, euh, de l'étranger et, euh, qui pour ",pouvoir," se payer, euh, la petite prépa en plus pour réussir le concours, euh, devaient travailler le week-end chez Monoprix. ",30,pouvoir,pouvoir,VERB,_,VerbForm=Inf,48,advcl,_,Subject=NoRaising
+Rhap_D0006-13,"euh, mh, des, d'autres gens qui venaient de, euh, qui ",venaient,", euh, de l'étranger et, euh, qui pour pouvoir se payer, euh, la petite prépa en plus pour réussir le concours, euh, devaient travailler le week-end chez Monoprix. ",11,venaient,venir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,17,reparandum,_,_
+Rhap_D0006-13,"euh, mh, des, d'autres gens qui ",venaient," de, euh, qui venaient, euh, de l'étranger et, euh, qui pour pouvoir se payer, euh, la petite prépa en plus pour réussir le concours, euh, devaient travailler le week-end chez Monoprix. ",11,venaient,venir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,17,reparandum,_,_
+Rhap_D0006-14,"ça, c'est des petites choses, euh, qui ont beaucoup joué et, euh, qui m'ont fait, euh, ",réaliser,", euh, vraiment ce que c'était que l'argent. ",26,réaliser,réaliser,VERB,CAUSATIVE,VerbForm=Inf,14,conj,_,SpaceAfter=No|Subject=ObjRaising
+Rhap_D0006-14,"ça, c'est des petites choses, euh, qui ont beaucoup ",joué," et, euh, qui m'ont fait, euh, réaliser, euh, vraiment ce que c'était que l'argent. ",14,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7,acl:relcl,_,_
+Rhap_D0006-15,"et, euh, je ",pense, que ça a été très bénéfique. ,6,pense,penser,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-16,"vous, vous ",faites, le baby-sitter ? ,4,faites,faire,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0006-15
+Rhap_D0006-19,"enfin, vraiment cet ar~, avec cet argent-là, je me ",paye," maintenant quasiment tout, à part la nourriture et le logement. ",14,paye,payer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-19quater,,voilà,. ,1,voilà,voilà,VERB,_,_,0,root,_,SpaceAfter=No
+Rhap_D0006-21,"là, je viens de ",faire," mes, des vaccins par exemple. ",6,faire,faire,VERB,_,VerbForm=Inf,4,xcomp,_,Subject=SubjRaising
+Rhap_D0006-21,"là, je ",viens," de faire mes, des vaccins par exemple. ",4,viens,venir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-22,"ben, c'est moi qui les ai ",payés,. ,9,payés,payer,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5,advcl:cleft,_,SpaceAfter=No
+Rhap_D0006-24,ou c'est vous qui avez ,dit,", bon, quand même ? ",7,dit,dire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4,advcl:cleft,_,SpaceAfter=No
+Rhap_D0006-25,"c'est les parents, je ",pense,. ,7,pense,penser,VERB,DISCOURSE,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,4,discourse,_,SpaceAfter=No
+Rhap_D0006-27,"le fait d'a~, d'avoir été à la fac, euh, de me, m'être un peu sorti de mon petit cocon, ça m'a ",renforcé, là-dedans. ,31,renforcé,renforcer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0006-27,"le fait d'a~, d'avoir été à la fac, euh, de me, m'être un peu ",sorti," de mon petit cocon, ça m'a renforcé là-dedans. ",22,sorti,sortir,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2,acl,_,_
+Rhap_D0006-27,"le fait d'a~, d'avoir ",été," à la fac, euh, de me, m'être un peu sorti de mon petit cocon, ça m'a renforcé là-dedans. ",8,été,être,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,22,reparandum,_,_
+Rhap_D0006-28,"donc, la, la rencontre des , de la difficulté à ",vivre,", c'est le… ",14,vivre,vivre,VERB,_,VerbForm=Inf,12,acl,_,SpaceAfter=No|Subject=NoRaising
+Rhap_D0006-29bis,en ,sortant," de la famille, quoi. ",2,sortant,sortir,VERB,ETRE,Tense=Pres|VerbForm=Part,0,root,_,_
+Rhap_D0006-31,"honnêtement, on ",vit," vraiment dans un petit micro~, enfin, vraiment dans un petit microcosme. ",4,vit,vivre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-32,et ça fait du bien de ,sortir, un peu. ,7,sortir,sortir,VERB,ETRE,VerbForm=Inf,5,ccomp,_,Subject=NoRaising
+Rhap_D0006-32,et ça ,fait, du bien de sortir un peu. ,3,fait,faire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-33,"euh, vous avez des idées sur, euh, euh, le type de travail que vous ",allez,… ,19,allez,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,16,acl,_,Scrap=Yes|SpaceAfter=No
+Rhap_D0006-33,"euh, vous ",avez," des idées sur, euh, euh, le type de travail que vous allez… ",4,avez,avoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-34,vous ,allez, être médecin en France en hôpital. ,2,allez,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-35,"alors, moi, déjà, je veux ",travailler, dans le public et pas dans le privé. ,9,travailler,travailler,VERB,_,VerbForm=Inf,8,xcomp,_,Overlap=Rhap_D0006-35bis|Subject=SubjRaising
+Rhap_D0006-35,"alors, moi, déjà, je ",veux, travailler dans le public et pas dans le privé. ,8,veux,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0006-35bis
+Rhap_D0006-36,"euh, je sais pas si vous voulez ",savoir, pourquoi. ,9,savoir,savoir,VERB,_,VerbForm=Inf,8,xcomp,_,Subject=SubjRaising
+Rhap_D0006-36,"euh, je sais pas si vous ",voulez, savoir pourquoi. ,8,voulez,vouloir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,4,ccomp,_,_
+Rhap_D0006-36,"euh, je ",sais, pas si vous voulez savoir pourquoi. ,4,sais,savoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-38,"euh, parce que, euh, je ",travaille, dans le privé là. ,9,travaille,travailler,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-39,je ,fais, des petits boulots en plus. ,2,fais,faire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-40,"et, euh, c'est un endroit que j'aime pas parce que c'est vraiment uniquement ",tourné, vers l'argent. ,19,tourné,tourner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11,advcl,_,_
+Rhap_D0006-40,"et, euh, c'est un endroit que j'",aime, pas parce que c'est vraiment uniquement tourné vers l'argent. ,11,aime,aimer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,8,acl:relcl,_,_
+Rhap_D0006-41,il y a cette dimension contact avec le malade qui a complètement ,disparu,. ,13,disparu,disparaître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5,acl:relcl,_,SpaceAfter=No
+Rhap_D0006-41,il y ,a, cette dimension contact avec le malade qui a complètement disparu. ,3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-42,"et pour le coup, cette dimension, euh, spécialité de la médecine qui est encore plus renforcée parce que pour gagner encore plus, il ",faut, être le spécialiste du spécialiste du spécialiste. ,28,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19,advcl,_,_
+Rhap_D0006-42,"et pour le coup, cette dimension, euh, spécialité de la médecine qui est encore plus renforcée parce que pour ",gagner," encore plus, il faut être le spécialiste du spécialiste du spécialiste. ",23,gagner,gagner,VERB,_,VerbForm=Inf,28,advcl,_,Subject=NoRaising
+Rhap_D0006-42,"et pour le coup, cette dimension, euh, spécialité de la médecine qui est encore plus ",renforcée," parce que pour gagner encore plus, il faut être le spécialiste du spécialiste du spécialiste. ",19,renforcée,renforcer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,11,acl:relcl,_,_
+Rhap_D0006-43,"donc, ça, c'est un endroit que j'",aime," pas trop, euh. ",11,aime,aimer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,8,acl:relcl,_,_
+Rhap_D0006-44,"et en plus, euh, la vraie médecine, euh, c'est à l'hôpital qu'on, qu'on l'",apprend,. ,24,apprend,apprendre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17,advcl:cleft,_,SpaceAfter=No
+Rhap_D0006-46,"ce que, ce que, ce que j'",appelle," la vraie médecine, c'est, c'est les, les cas concrets, quel est le niveau de santé de la population, euh, quels sont les… ",10,appelle,appeler,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,7,acl:relcl,_,Overlap=Rhap_D0006-45
+Rhap_D0006-47,"tel, tel et tel cas, on les ",verrait," pas en hô~, en hôpital privé. ",10,verrait,voir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-48,"les classes moyennes, les, les ne ",vont, pas en clinique privée. ,9,vont,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-49,"euh, sinon, j'",aimerais,", euh… ",6,aimerais,aimer,VERB,_,Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,Scrap=Yes|SpaceAfter=No
+Rhap_D0006-50,"comme spécialité, je ",sais, pas. ,5,sais,savoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-51,je peux pas vous ,dire,. ,5,dire,dire,VERB,_,VerbForm=Inf,2,xcomp,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_D0006-51,je ,peux, pas vous dire. ,2,peux,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-52,mais ,voilà,. ,2,voilà,voilà,VERB,_,_,0,root,_,SpaceAfter=No
+Rhap_D0006-53,"c'est, c'est, c'est surtout l'hôpital public qui m'",attire,. ,15,attire,attirer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11,advcl:cleft,_,SpaceAfter=No
+Rhap_D0006-54,"votre, vos camarades ",sont, à peu près sur la même longueur d'ondes ? ,5,sont,être,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-55,"alors, ça div~, ça, ça ",varie, beaucoup. ,9,varie,varier,VERB,conj:reform,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0006-56
+Rhap_D0006-55,"alors, ça ",div~,", ça, ça varie beaucoup. ",4,div~,div~,VERB,_,_,9,reparandum,_,SpaceAfter=No
+Rhap_D0006-57,"il y a des gens, euh, de très bons amis, hein, mais sur, par contre, quand on parle de ça, ça se passe mal, euh, qui ",veulent,", euh, clairement, euh… ",36,veulent,vouloir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,12,acl:relcl,_,SpaceAfter=No
+Rhap_D0006-57,"il y a des gens, euh, de très bons amis, hein, mais sur, par contre, quand on parle de ça, ça se ",passe," mal, euh, qui veulent, euh, clairement, euh… ",30,passe,passer,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,parataxis:parenth,_,_
+Rhap_D0006-57,"il y a des gens, euh, de très bons amis, hein, mais sur, par contre, quand on ",parle," de ça, ça se passe mal, euh, qui veulent, euh, clairement, euh… ",24,parle,parler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,30,advcl,_,_
+Rhap_D0006-57,il y ,a," des gens, euh, de très bons amis, hein, mais sur, par contre, quand on parle de ça, ça se passe mal, euh, qui veulent, euh, clairement, euh… ",3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-58,"ils ont fait médecine parce que, euh, ça va être un métier stable, un métier où ils ",gagneront, de l'argent. ,21,gagneront,gagner,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin,18,acl:relcl,_,_
+Rhap_D0006-58,"ils ont fait médecine parce que, euh, ça ",va," être un métier stable, un métier où ils gagneront de l'argent. ",11,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,advcl,_,_
+Rhap_D0006-58,ils ont ,fait," médecine parce que, euh, ça va être un métier stable, un métier où ils gagneront de l'argent. ",3,fait,faire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0006-60,et ils ont envie de faire la spécialité qui ,rapportera, le plus. ,10,rapportera,rapporter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,8,acl:relcl,_,_
+Rhap_D0006-60,et ils ont envie de ,faire, la spécialité qui rapportera le plus. ,6,faire,faire,VERB,_,VerbForm=Inf,4,xcomp,_,Subject=SubjRaising
+Rhap_D0006-60,et ils ,ont, envie de faire la spécialité qui rapportera le plus. ,3,ont,avoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-61,"peu importe un peu, euh, les aspects dont je vous ai ",parlé,. ,14,parlé,parler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9,acl:relcl,_,SpaceAfter=No
+Rhap_D0006-61,peu ,importe," un peu, euh, les aspects dont je vous ai parlé. ",2,importe,importer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0006-62,"et il y en a d'autres, au contraire, euh, qui, euh, qui ont, qui recherchent vraiment ce contact encore plus, qui ont ",fait,… ,32,fait,faire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,23,conj,_,Overlap=Rhap_D0006-63|Scrap=Yes|SpaceAfter=No
+Rhap_D0006-62,"et il y en a d'autres, au contraire, euh, qui, euh, qui ont, qui ",recherchent," vraiment ce contact encore plus, qui ont fait… ",23,recherchent,rechercher,VERB,conj:reform,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,7,acl:relcl,_,_
+Rhap_D0006-62,"et il y en a d'autres, au contraire, euh, qui, euh, qui ",ont,", qui recherchent vraiment ce contact encore plus, qui ont fait… ",20,ont,avoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,23,reparandum,_,SpaceAfter=No
+Rhap_D0006-62,et il y en ,a," d'autres, au contraire, euh, qui, euh, qui ont, qui recherchent vraiment ce contact encore plus, qui ont fait… ",5,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-63,"il y a des spécialités délaissées parce que ça ne rapporte pas assez d'argent, je ",sais," pas, la psychiatrie, des choses comme ça ? ",18,sais,savoir,VERB,DISCOURSE,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,15,discourse,_,_
+Rhap_D0006-63,il y a des spécialités délaissées parce que ça ne ,rapporte," pas assez d'argent, je sais pas, la psychiatrie, des choses comme ça ? ",11,rapporte,rapporter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,advcl,_,_
+Rhap_D0006-63,il y ,a," des spécialités délaissées parce que ça ne rapporte pas assez d'argent, je sais pas, la psychiatrie, des choses comme ça ? ",3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0006-62
+Rhap_D0006-65,"vraiment, la psychiatrie, il faut ê~, il ",faut, être… ,7,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11,reparandum,_,_
+Rhap_D0006-65,"vraiment, la psychiatrie, il faut ",ê~,", il faut être… ",8,ê~,ê~,VERB,CCOMP,_,7,ccomp,_,Scrap=Yes|SpaceAfter=No
+Rhap_D0006-65,"vraiment, la psychiatrie, il ",faut," ê~, il faut être… ",7,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11,reparandum,_,_
+Rhap_D0006-66,"c'est comme, comment ",dire, ? ,6,dire,dire,VERB,_,VerbForm=Inf,0,root,_,ExtPos=NOUN|Graft=Yes|Subject=NoRaising
+Rhap_D0006-67,"il, il y a certains métiers où il f~, il faut être ",né,. ,15,né,naître,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13,ccomp,_,SpaceAfter=No
+Rhap_D0006-67,"il, il y a certains métiers où il f~, il ",faut, être né. ,13,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7,acl:relcl,_,_
+Rhap_D0006-67,"il, il y a certains métiers où il ",f~,", il faut être né. ",10,f~,f~,VERB,_,_,13,reparandum,_,SpaceAfter=No
+Rhap_D0006-67,"il, il y ",a," certains métiers où il f~, il faut être né. ",5,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-68,"euh, vous voyez ce que je veux ",dire, ? ,9,dire,dire,VERB,_,VerbForm=Inf,8,xcomp,_,Subject=SubjRaising
+Rhap_D0006-68,"euh, vous voyez ce que je ",veux, dire ? ,8,veux,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,5,acl:relcl,_,_
+Rhap_D0006-68,"euh, vous ",voyez, ce que je veux dire ? ,4,voyez,voir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-69,il faut être ,né, psychiatre pour être psychiatre. ,4,né,naître,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2,xcomp,_,_
+Rhap_D0006-69,il ,faut, être né psychiatre pour être psychiatre. ,2,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-70,on ,peut, pas… ,2,peut,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0006-70bis|Scrap=Yes
+Rhap_D0006-71,il faut ,avoir," un don spécial parce que la psychiatrie, c'est, c'est quelque chose. ",3,avoir,avoir,VERB,_,VerbForm=Inf,2,xcomp,_,Subject=SubjRaising
+Rhap_D0006-71,il ,faut," avoir un don spécial parce que la psychiatrie, c'est, c'est quelque chose. ",2,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-72,"euh, je ",pense," que la chirurgie, c'est pareil, hein. ",4,pense,penser,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-73,n'importe qui ,pourrait, pas être chirurgien. ,4,pourrait,pouvoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-73,n',importe, qui pourrait pas être chirurgien. ,2,importe,importer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,1,fixed,_,InIdiom=Yes
+Rhap_D0006-76,"ouais, il y ",a," des spécialités qui, euh, par ex~… ",5,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-77,"oui, ben, euh, il y a une spécialité qui m'",attire, beaucoup. ,14,attire,attirer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11,acl:relcl,_,_
+Rhap_D0006-77,"oui, ben, euh, il y ",a, une spécialité qui m'attire beaucoup. ,9,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-79,je ,parle," de la ré~, la réanimation, euh. ",2,parle,parler,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-80,n',importe, quand. ,2,importe,importer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,1,fixed,_,InIdiom=Yes
+Rhap_D0006-80bis,n',importe, quelle heure. ,2,importe,importer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,1,fixed,_,InIdiom=Yes
+Rhap_D0006-81,n',importe, quand. ,2,importe,importer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,1,fixed,_,InIdiom=Yes
+Rhap_D0006-81bis,n',importe, quelle heure. ,2,importe,importer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,1,fixed,_,InIdiom=Yes
+Rhap_D0006-82,et c'est une des moins ,payées,. ,8,payées,payé,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,4,nmod,_,SpaceAfter=No
+Rhap_D0006-83,"ah, c'est moins ",payé, que le reste. ,6,payé,payer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0006-87,"il y a énormément, euh, de fois où on ",ira, à l'hôpital. ,12,ira,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,9,acl:relcl,_,_
+Rhap_D0006-87,il y ,a," énormément, euh, de fois où on ira à l'hôpital. ",3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-88,et on sera pas ,payé, en plus. ,5,payé,payer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0006-89,vous voyez ce que je veux ,dire, ? ,7,dire,dire,VERB,_,VerbForm=Inf,6,xcomp,_,Subject=SubjRaising
+Rhap_D0006-89,vous voyez ce que je ,veux, dire ? ,6,veux,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,3,acl:relcl,_,_
+Rhap_D0006-89,vous ,voyez, ce que je veux dire ? ,2,voyez,voir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-90,je ,comprends,. ,2,comprends,comprendre,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D0006-91,"donc, ",voilà,. ,3,voilà,voilà,VERB,_,_,0,root,_,SpaceAfter=No
+Rhap_D0006-92,"euh, et sinon, les spécialités les m~, un peu moins, je sais pas si c'est ça qui vous intéresse, petit peu moins ",prises,", bah, c'est les c'est les spécialités à risques, la gynéco obstétrique, par exemple, la cancérologie. ",29,prises,prendre,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,7,acl:relcl,_,SpaceAfter=No
+Rhap_D0006-92,"euh, et sinon, les spécialités les m~, un peu moins, je sais pas si c'est ça qui vous ",intéresse,", petit peu moins prises, bah, c'est les c'est les spécialités à risques, la gynéco obstétrique, par exemple, la cancérologie. ",24,intéresse,intéresser,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,21,advcl:cleft,_,SpaceAfter=No
+Rhap_D0006-92,"euh, et sinon, les spécialités les m~, un peu moins, je ",sais," pas si c'est ça qui vous intéresse, petit peu moins prises, bah, c'est les c'est les spécialités à risques, la gynéco obstétrique, par exemple, la cancérologie. ",16,sais,savoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,13,parataxis:parenth,_,_
+Rhap_D0006-93,"ça, c'est des spécialités, euh, qui sont de moins en moins ",prises," parce que, euh, dangereuses. ",16,prises,prendre,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,6,acl:relcl,_,_
+Rhap_D0006-94,faut ,avoir, un bon avocat. ,2,avoir,avoir,VERB,_,VerbForm=Inf,1,ccomp,_,Subject=NoRaising
+Rhap_D0006-94,,faut, avoir un bon avocat. ,1,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-95,c'est des choses dont vous ,parlez," dans, en classe, euh ? ",7,parlez,parler,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,4,acl:relcl,_,_
+Rhap_D0006-98,"parce que, euh, c~, c'est, pour moi, c'est très important d'",avoir, ses idéaux. ,19,avoir,avoir,VERB,_,VerbForm=Inf,17,advcl,_,Subject=NoRaising
+Rhap_D0006-99,mais ,faut, aussi être réaliste. ,2,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-100,,voilà,. ,1,voilà,voilà,VERB,_,_,0,root,_,SpaceAfter=No
+Rhap_D0006-101,"euh, alors, j'",ai," d~, une question totalement, euh… ",6,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-102,"je vais pas vous, vous ",poser, toutes mes questions sur l'équipement du quartier. ,7,poser,poser,VERB,_,VerbForm=Inf,2,xcomp,_,Subject=SubjRaising
+Rhap_D0006-102,je ,vais," pas vous, vous poser toutes mes questions sur l'équipement du quartier. ",2,vais,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-103,"j'ai compris que ça allait, que vous étiez content, que il y ",avait," suffisamment de, d'espaces verts, de, d'équipements et caetera. ",16,avait,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,11,appos,_,_
+Rhap_D0006-103,j'ai compris que ça ,allait,", que vous étiez content, que il y avait suffisamment de, d'espaces verts, de, d'équipements et caetera. ",6,allait,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,11,reparandum,_,SpaceAfter=No
+Rhap_D0006-103,j'ai ,compris," que ça allait, que vous étiez content, que il y avait suffisamment de, d'espaces verts, de, d'équipements et caetera. ",3,compris,comprendre,VERB,_,Gender=Masc|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0006-104,"les animaux, dans les, dans les quartiers de Paris, vous en ",pensez, quoi ici ? ,15,pensez,penser,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-107,"je sais pas, je sais pas si il y a une loi qui a été ",instaurée,. ,17,instaurée,instaurer,VERB,DoubleAux,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,13,acl:relcl,_,SpaceAfter=No
+Rhap_D0006-107,"je sais pas, je sais pas si il y ",a, une loi qui a été instaurée. ,11,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6,ccomp,_,Overlap=Rhap_D0006-107bis
+Rhap_D0006-107,"je sais pas, je ",sais, pas si il y a une loi qui a été instaurée. ,2,sais,savoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,6,reparandum,_,_
+Rhap_D0006-107,je ,sais," pas, je sais pas si il y a une loi qui a été instaurée. ",2,sais,savoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,6,reparandum,_,_
+Rhap_D0006-108,"mais, euh, de plus en plus, je vois des gens qui sont respectueux et qui ramassent, qui, qui prennent leur chien, qui les font ",faire," leurs besoins dans, dans le trottoir, pas sur le trottoir justement. ",31,faire,faire,VERB,CAUSATIVE,VerbForm=Inf,16,conj,_,Subject=ObjRaising
+Rhap_D0006-108,"mais, euh, de plus en plus, je vois des gens qui sont respectueux et qui ramassent, qui, qui ",prennent," leur chien, qui les font faire leurs besoins dans, dans le trottoir, pas sur le trottoir justement. ",24,prennent,prendre,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,16,conj,_,_
+Rhap_D0006-108,"mais, euh, de plus en plus, je vois des gens qui sont respectueux et qui ",ramassent,", qui, qui prennent leur chien, qui les font faire leurs besoins dans, dans le trottoir, pas sur le trottoir justement. ",19,ramassent,ramer,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,16,conj,_,Overlap=Rhap_D0006-108bis|SpaceAfter=No
+Rhap_D0006-108,"mais, euh, de plus en plus, je ",vois," des gens qui sont respectueux et qui ramassent, qui, qui prennent leur chien, qui les font faire leurs besoins dans, dans le trottoir, pas sur le trottoir justement. ",11,vois,voir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-110,"et, euh, moi, personnellement, j'",aime, beaucoup les animaux. ,10,aime,aimer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-111,et j',ai, rien contre. ,3,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0006-112,et je trouve ça sympa d'en ,voir, dans Paris. ,8,voir,voir,VERB,_,VerbForm=Inf,3,xcomp,_,Subject=SubjRaising
+Rhap_D0006-112,et je ,trouve, ça sympa d'en voir dans Paris. ,3,trouve,trouver,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-4,trois policiers ,blessés,. ,3,blessés,blesser,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2,acl,_,SpaceAfter=No
+Rhap_M2006-5,le LKP ,lance," un appel au calme et le maire de Pointe-à-Pitre, Jacques Bangou, un cri d'alarme. ",3,lance,lancer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-7,nous ,ferons," le point sur les violences en direct avec notre envoyé spécial, Sébastien Paour, dans quelques instants. ",2,ferons,faire,VERB,_,Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin,0,root,_,_
+Rhap_M2006-8,"de la crise aux Antilles, il ne ",devrait, pas en être question au sommet social de l'Élysée cet après-midi. ,10,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-9,un face à face très ,attendu," entre Nicolas Sarkozy, les syndicats et le patronat. ",6,attendu,attendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2,acl,_,_
+Rhap_M2006-10,"pour Bernard Van Craeynest de la CFE CGC, la priorité, c'est bien de ",sauver, les emplois. ,17,sauver,sauver,VERB,_,VerbForm=Inf,0,root,_,Subject=NoRaising
+Rhap_M2006-12,"pendant ce temps, les étudiants et les enseignants-chercheurs ne ",désarment, pas. ,11,désarment,désarmer,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-13,nouvelle journée d'action hier en ,attendant, celle de demain. ,7,attendant,attendre,VERB,_,Tense=Pres|VerbForm=Part,2,acl,_,_
+Rhap_M2006-15,les avocats du berger corse ont ,quitté, le procès hier soir. ,8,quitté,quitter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_M2006-16,les parties civiles ,dénoncent, des pratiques terroristes. ,4,dénoncent,dénoncer,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-18,réponse à ,suivre, avec Hélène Chevalier au congrès de Barcelone. ,3,suivre,suivre,VERB,_,VerbForm=Inf,1,acl,_,Subject=NoRaising
+Rhap_M2006-19,c'est dans un contexte pour le moins tendu que le chef de l'État ,réunit, syndicats et patronat. ,16,réunit,réunir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5,advcl:cleft,_,_
+Rhap_M2006-19,c'est dans un contexte pour le moins ,tendu, que le chef de l'État réunit syndicats et patronat. ,9,tendu,tendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5,acl,_,_
+Rhap_M2006-20,"un rendez-vous fixé, vous l'avez ",dit,", après la forte mobilisation du vingt-neuf janvier dernier. ",8,dit,dire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3,parataxis:parenth,_,SpaceAfter=No
+Rhap_M2006-20,un rendez-vous ,fixé,", vous l'avez dit, après la forte mobilisation du vingt-neuf janvier dernier. ",3,fixé,fixer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2,acl,_,SpaceAfter=No
+Rhap_M2006-21,la réunion est savamment ,minutée,. ,5,minutée,minuter,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_M2006-22,"alors, avant d'aborder ce qui peut en sortir, je vous propose de voir où, quand et comment cela va se ",passer," avec vous, Jean-François Achilli. ",25,passer,passer,VERB,ETRE,VerbForm=Inf,23,xcomp,_,Subject=SubjRaising
+Rhap_M2006-22,"alors, avant d'aborder ce qui peut en sortir, je vous propose de voir où, quand et comment cela ",va," se passer avec vous, Jean-François Achilli. ",23,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16,ccomp,_,_
+Rhap_M2006-22,"alors, avant d'aborder ce qui peut en sortir, je vous propose de ",voir," où, quand et comment cela va se passer avec vous, Jean-François Achilli. ",16,voir,voir,VERB,_,VerbForm=Inf,14,xcomp,_,Subject=ObjRaising
+Rhap_M2006-22,"alors, avant d'aborder ce qui peut en sortir, je vous ",propose," de voir où, quand et comment cela va se passer avec vous, Jean-François Achilli. ",14,propose,proposer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-22,"alors, avant d'aborder ce qui peut en ",sortir,", je vous propose de voir où, quand et comment cela va se passer avec vous, Jean-François Achilli. ",10,sortir,sortir,VERB,ETRE,VerbForm=Inf,8,xcomp,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_M2006-22,"alors, avant d'aborder ce qui ",peut," en sortir, je vous propose de voir où, quand et comment cela va se passer avec vous, Jean-François Achilli. ",8,peut,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6,acl:relcl,_,_
+Rhap_M2006-22,"alors, avant d'",aborder," ce qui peut en sortir, je vous propose de voir où, quand et comment cela va se passer avec vous, Jean-François Achilli. ",5,aborder,aborder,VERB,_,VerbForm=Inf,3,acl,_,Subject=NoRaising
+Rhap_M2006-23,"alors, passons maintenant au détail des mesures ",discutées, et aux attentes des syndicats et du patronat. ,11,discutées,discuter,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,10,acl,_,_
+Rhap_M2006-23,"alors, ",passons, maintenant au détail des mesures discutées et aux attentes des syndicats et du patronat. ,3,passons,passer,VERB,ETRE,Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-24,"le chef de l'État annonce des mesures de justice, je cite, pour les salariés ",touchés, par la crise économique. ,18,touchés,toucher,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,17,acl,_,_
+Rhap_M2006-24,"le chef de l'État annonce des mesures de justice, je ",cite,", pour les salariés touchés par la crise économique. ",13,cite,citer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,6,parataxis:insert,_,SpaceAfter=No
+Rhap_M2006-24,le chef de l'État ,annonce," des mesures de justice, je cite, pour les salariés touchés par la crise économique. ",6,annonce,annoncer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-25,"mais Sara Ghibaudo, il ne pourra pas ",contenter, tout le monde. ,9,contenter,contenter,VERB,_,VerbForm=Inf,7,xcomp,_,Subject=SubjRaising
+Rhap_M2006-25,"mais Sara Ghibaudo, il ne ",pourra, pas contenter tout le monde. ,7,pourra,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,0,root,_,_
+Rhap_M2006-26,"et dans un sondage réalisé avant le rendez-vous d'aujourd'hui, les Français se montrent très sévères à l'égard de la politique économique du gouvernement qu'ils ",jugent, mauvaise à soixante pour cent. ,30,jugent,juger,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,23,acl:relcl,_,_
+Rhap_M2006-26,"et dans un sondage réalisé avant le rendez-vous d'aujourd'hui, les Français se ",montrent, très sévères à l'égard de la politique économique du gouvernement qu'ils jugent mauvaise à soixante pour cent. ,15,montrent,montrer,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-26,et dans un sondage ,réalisé," avant le rendez-vous d'aujourd'hui, les Français se montrent très sévères à l'égard de la politique économique du gouvernement qu'ils jugent mauvaise à soixante pour cent. ",5,réalisé,réaliser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4,acl,_,_
+Rhap_M2006-27,la mesure qu'ils ,attendent," le plus, c'est la répartition des bénéfices dans les entreprises entre patrons, actionnaires et salariés. ",5,attendent,attendre,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,2,acl:relcl,_,_
+Rhap_M2006-28,"un sondage BVA, Les Échos, France Info ",réalisé, les treize et quatorze février dernier. ,10,réalisé,réaliser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2,acl,_,_
+Rhap_M2006-30,"des jeunes cagoulés et armés ont pillé des magasins, ",brûlé, des pneus et des voitures. ,11,brûlé,brûler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7,conj,_,_
+Rhap_M2006-30,des jeunes cagoulés et armés ont ,pillé," des magasins, brûlé des pneus et des voitures. ",7,pillé,piller,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_M2006-30,des jeunes cagoulés et ,armés," ont pillé des magasins, brûlé des pneus et des voitures. ",5,armés,armer,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,3,conj,_,_
+Rhap_M2006-30,des jeunes ,cagoulés," et armés ont pillé des magasins, brûlé des pneus et des voitures. ",3,cagoulés,cagouler,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2,acl,_,_
+Rhap_M2006-32,vous vous ,trouvez, au Gosier. ,3,trouvez,trouver,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-35,on vous ,retrouve, pour un nouveau point dans le journal de huit heures. ,3,retrouve,retrouver,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-36,vous le ,savez,. ,3,savez,savoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_M2006-37,vous y étiez il y ,a, pas longtemps. ,6,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,fixed,_,InIdiom=Yes
+Rhap_M2006-38,"tout le monde est maintenant, en tout cas, suspendu à ce que Nicolas Sarkozy ",annoncera, demain lors de sa rencontre à l'Élysée avec les élus d'outre-mer. ,17,annoncera,annoncer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,13,acl:relcl,_,_
+Rhap_M2006-38,"tout le monde est maintenant, en tout cas, ",suspendu, à ce que Nicolas Sarkozy annoncera demain lors de sa rencontre à l'Élysée avec les élus d'outre-mer. ,11,suspendu,suspendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_M2006-39,"pendant ce temps, en métropole, la contestation ne ",faiblit, pas dans l'enseignement. ,11,faiblit,faiblir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-41,un millier de personnes ,était, dans les rues à Poitiers. ,5,était,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_M2006-42,les cours étaient ,suspendus, à Pau. ,4,suspendus,suspendre,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_M2006-44,les syndicats de cet enseignement supérieur et l'Unef ,réclament, toujours l'abandon des réformes en cours. ,10,réclament,réclamer,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-46,"aux États-Unis, Barack Obama a promulgué son plan de relance ",adopté, ce week-end par le congrès. ,13,adopté,adopter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10,acl,_,_
+Rhap_M2006-46,"aux États-Unis, Barack Obama a ",promulgué, son plan de relance adopté ce week-end par le congrès. ,8,promulgué,promulguer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_M2006-47,sept cent quatre-vingt-sept milliards de dollars destinés à sauver ou ,créer, plus de trois millions et demi d'emplois. ,11,créer,créer,VERB,_,VerbForm=Inf,9,conj,_,Subject=SubjRaising
+Rhap_M2006-47,sept cent quatre-vingt-sept milliards de dollars destinés à ,sauver, ou créer plus de trois millions et demi d'emplois. ,9,sauver,sauver,VERB,_,VerbForm=Inf,7,xcomp,_,Subject=SubjRaising
+Rhap_M2006-47,sept cent quatre-vingt-sept milliards de dollars ,destinés, à sauver ou créer plus de trois millions et demi d'emplois. ,7,destinés,destiner,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,4,acl,_,_
+Rhap_M2006-48,"un autre plan, destiné, celui-là, à ralentir les saisies immobilières, devrait être ",annoncé, aujourd'hui par le président américain. ,18,annoncé,annoncer,VERB,DoubleAux,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16,xcomp,_,_
+Rhap_M2006-48,"un autre plan, destiné, celui-là, à ralentir les saisies immobilières, ",devrait, être annoncé aujourd'hui par le président américain. ,16,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-48,"un autre plan, destiné, celui-là, à ",ralentir," les saisies immobilières, devrait être annoncé aujourd'hui par le président américain. ",11,ralentir,ralentir,VERB,_,VerbForm=Inf,5,ccomp,_,Subject=NoRaising
+Rhap_M2006-48,"un autre plan, ",destiné,", celui-là, à ralentir les saisies immobilières, devrait être annoncé aujourd'hui par le président américain. ",5,destiné,destiner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3,acl,_,SpaceAfter=No
+Rhap_M2006-49,cela concerne plusieurs millions d'américains à la rue faute de pouvoir ,payer, leur crédit. ,13,payer,payer,VERB,_,VerbForm=Inf,12,xcomp,_,Subject=ObjRaising
+Rhap_M2006-49,cela concerne plusieurs millions d'américains à la rue faute de ,pouvoir, payer leur crédit. ,12,pouvoir,pouvoir,VERB,_,VerbForm=Inf,10,xcomp,_,Subject=ObjRaising
+Rhap_M2006-49,cela ,concerne, plusieurs millions d'américains à la rue faute de pouvoir payer leur crédit. ,2,concerne,concerner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-50,une rallonge à ,venir,", également, dans le secteur automobile. ",4,venir,venir,VERB,_,VerbForm=Inf,2,acl,_,SpaceAfter=No|Subject=NoRaising
+Rhap_M2006-51,General Motors et Chrysler ont ,présenté, hier leur plan de restructuration à l'administration Obama. ,6,présenté,présenter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_M2006-52,ils ,demandent," vingt-deux milliards de dollars en contrepartie de suppressions d'emplois, mais pas seulement. ",2,demandent,demander,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-53,"tout est bon, vous le ",verrez,", avec Bertrand Vanier. ",7,verrez,voir,VERB,DISCOURSE,Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin,3,discourse,_,SpaceAfter=No
+Rhap_M2006-54,"l'affaire des évadés de la prison de Moulins arrêtés hier matin, vous le ",savez,", après trente-six heures de cavale. ",17,savez,savoir,VERB,DISCOURSE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,13,discourse,_,SpaceAfter=No
+Rhap_M2006-54,l'affaire des évadés de la prison de Moulins ,arrêtés," hier matin, vous le savez, après trente-six heures de cavale. ",11,arrêtés,arrêter,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5,acl,_,_
+Rhap_M2006-55,la compagne de l'un des détenus ,est, toujours en garde à vue. ,9,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-56,les enquêteurs cherchent maintenant à ,savoir, si elle a été complice dans cette évasion. ,6,savoir,savoir,VERB,_,VerbForm=Inf,3,xcomp,_,Subject=SubjRaising
+Rhap_M2006-56,les enquêteurs ,cherchent, maintenant à savoir si elle a été complice dans cette évasion. ,3,cherchent,chercher,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-57,elle se trouvait dans le parloir de la prison au moment où les deux détenus se sont ,fait, la belle. ,19,fait,faire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12,acl:relcl,_,_
+Rhap_M2006-57,elle se ,trouvait, dans le parloir de la prison au moment où les deux détenus se sont fait la belle. ,3,trouvait,trouver,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_M2006-58,le procès d'Yvan Colonna ,tourne, à la foire d'empoigne. ,6,tourne,tourner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-59,la tension est encore ,montée, d'un cran hier. ,5,montée,monter,VERB,ETRE,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_M2006-60,les avocats du berger corse ont quitté le procès en attendant que la cour d'assise se ,prononce, sur leur demande de supplément d'information. ,19,prononce,prononcer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,12,ccomp,_,_
+Rhap_M2006-60,les avocats du berger corse ont quitté le procès en ,attendant, que la cour d'assise se prononce sur leur demande de supplément d'information. ,12,attendant,attendre,VERB,_,Tense=Pres|VerbForm=Part,8,advcl,_,_
+Rhap_M2006-60,les avocats du berger corse ont ,quitté, le procès en attendant que la cour d'assise se prononce sur leur demande de supplément d'information. ,8,quitté,quitter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_M2006-61,"lundi, le président avait annoncé qu'il rendrait sa décision dans un délai raisonnable, après avoir ",entendu, notamment l'ancien préfet Bonnet. ,19,entendu,entendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14,appos,_,_
+Rhap_M2006-61,"lundi, le président avait annoncé qu'il ",rendrait," sa décision dans un délai raisonnable, après avoir entendu notamment l'ancien préfet Bonnet. ",9,rendrait,rendre,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6,ccomp,_,_
+Rhap_M2006-61,"lundi, le président avait ",annoncé," qu'il rendrait sa décision dans un délai raisonnable, après avoir entendu notamment l'ancien préfet Bonnet. ",6,annoncé,annoncer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_M2006-62,"depuis vendredi soir, la défense fait le forcing pour ",prendre, le contrôle des débats. ,11,prendre,prendre,VERB,_,VerbForm=Inf,7,advcl,_,Subject=NoRaising
+Rhap_M2006-62,"depuis vendredi soir, la défense ",fait, le forcing pour prendre le contrôle des débats. ,7,fait,faire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-63,on ,écoute, maître Sollacaro au micro de Christian Binner. ,2,écoute,écouter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-66,il le ,dit, à Laurent Doulsant. ,3,dit,dire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-67,direction maintenant Barcelone pour un congrès ,consacré, au téléphone mobile en crise lui aussi. ,7,consacré,consacrer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,acl,_,_
+Rhap_M2006-68,"pour la première fois dans l'histoire du portable, les ventes devraient ",baisser, en deux mille neuf. ,15,baisser,baisser,VERB,_,VerbForm=Inf,14,xcomp,_,Subject=SubjRaising
+Rhap_M2006-68,"pour la première fois dans l'histoire du portable, les ventes ",devraient, baisser en deux mille neuf. ,14,devraient,devoir,VERB,_,Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-69,"et derrière un sourire de façade, les constructeurs ne ",réagissent," pas tous de la même façon, Hélène Chevalier. ",11,réagissent,réagir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-71,on ,jouait, trois matchs en retard dans la vingtième journée de ligue un hier. ,2,jouait,jouer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_M2006-73,Valenciennes ,sort, de la zone de relégation après sa victoire sur Caen deux zéro. ,2,sort,sortir,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M2006-74,Nice s',impose, à Nancy deux à un. ,3,impose,imposer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D1003-1,"euh, à la base, je voulais pas ",faire, L. ,10,faire,faire,VERB,_,VerbForm=Inf,8,xcomp,_,Subject=SubjRaising
+Rhap_D1003-1,"euh, à la base, je ",voulais, pas faire L. ,8,voulais,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D1003-2,je voulais ,faire, S. ,3,faire,faire,VERB,_,VerbForm=Inf,2,xcomp,_,Subject=SubjRaising
+Rhap_D1003-2,je ,voulais, faire S. ,2,voulais,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D1003-3,"et, euh, en fin de compte, euh, on m'a pas acceptée en S parce que j'",avais, une trop mauvaise moyenne en SVT. ,22,avais,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,16,advcl,_,_
+Rhap_D1003-3,"et, euh, en fin de compte, euh, on m'a pas ",acceptée, en S parce que j'avais une trop mauvaise moyenne en SVT. ,16,acceptée,accepter,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-4,"et donc, ",voilà,. ,4,voilà,voilà,VERB,_,_,0,root,_,SpaceAfter=No
+Rhap_D1003-5,ça m'a beaucoup déçue parce que j',avais," énormément de, d'attachement pour les, les matières scientifiques. ",9,avais,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,5,advcl,_,_
+Rhap_D1003-5,ça m'a beaucoup ,déçue," parce que j'avais énormément de, d'attachement pour les, les matières scientifiques. ",5,déçue,décevoir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-6,"et, euh, et donc, j'ai ",choisi, L un peu par défaut au début. ,10,choisi,choisir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-7,"mais ensuite, je me suis rendu compte que c'était vraiment ce qui me ",plaisait,. ,16,plaisait,plaire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,13,acl:relcl,_,SpaceAfter=No
+Rhap_D1003-7,"mais ensuite, je me suis ",rendu, compte que c'était vraiment ce qui me plaisait. ,7,rendu,rendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-8,"parce que quand j'étais petite, quand j'avais onze ans, euh, enfin, même avant, à sept ans, on a commencé à énormément ",déménager, avec ma famille. ,30,déménager,déménager,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,27,ccomp,_,_
+Rhap_D1003-8,"parce que quand j'étais petite, quand j'avais onze ans, euh, enfin, même avant, à sept ans, on a ",commencé, à énormément déménager avec ma famille. ,27,commencé,commencer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-8,"parce que quand j'étais petite, quand j'",avais," onze ans, euh, enfin, même avant, à sept ans, on a commencé à énormément déménager avec ma famille. ",10,avais,avoir,VERB,conj:reform,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,23,reparandum,_,_
+Rhap_D1003-9,"et, euh, et quand j'étais petite, j'ai vraiment mal vécu le fait qu'on ",déménage, tout le temps. ,20,déménage,déménager,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17,acl,_,_
+Rhap_D1003-9,"et, euh, et quand j'étais petite, j'ai vraiment mal ",vécu, le fait qu'on déménage tout le temps. ,15,vécu,vivre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-10,"parce que j'ai démé~, ",déménagé, neuf fois dans ma vie. ,7,déménagé,déménager,VERB,conj:reform,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-10,parce que j'ai ,démé~,", déménagé neuf fois dans ma vie. ",5,démé~,démé~,VERB,_,_,7,reparandum,_,SpaceAfter=No
+Rhap_D1003-11,"et, euh, et donc, à chaque fois, je, on ",changeait, d'école. ,15,changeait,changer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D1003-12,on ,changeait," de, de, de quotidien, de, de, d'entour~, d'entour~, d'entourage. ",2,changeait,changer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D1003-13,"donc, euh, ça m'a vraiment, vraiment ",marquée,. ,11,marquée,marquer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D1003-14,et j'ai vraiment mal ,vécu, ça. ,6,vécu,vivre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-15,"et, euh, et en, quand j'ai eu onze ans, en deux mille un justement, euh, on est ",parti, au Portugal complètement. ,25,parti,partir,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-15,"et, euh, et en, quand j'ai ",eu," onze ans, en deux mille un justement, euh, on est parti au Portugal complètement. ",11,eu,avoir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,25,advcl,_,_
+Rhap_D1003-16,parce que je ,suis, d'origine portugaise. ,4,suis,être,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D1003-18,"donc, on est parti ",vivre, au Portugal. ,6,vivre,vivre,VERB,_,VerbForm=Inf,5,xcomp,_,Subject=SubjRaising
+Rhap_D1003-18,"donc, on est ",parti, vivre au Portugal. ,5,parti,partir,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-19,j'ai ,été," un an à Lisbonne et un an à Porto dans les, dans des collèges et dans des, dans des primaires portu~, euh, enfin, françaises. ",3,été,être,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-20,"donc, on ",parlait, français. ,4,parlait,parler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D1003-21,mais c',était, au Portugal. ,3,était,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D1003-22,"et, euh, et donc, j'y ai ",vécu, deux ans. ,11,vécu,vivre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-23,"et, euh, j'ai aussi très mal vécu le, la chose parce que je, je, je, je ",connaissais, aucun mot du portugais. ,24,connaissais,connaître,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,10,advcl,_,_
+Rhap_D1003-23,"et, euh, j'ai aussi très mal ",vécu," le, la chose parce que je, je, je, je connaissais aucun mot du portugais. ",10,vécu,vivre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-24,"et quand je suis arrivée là-bas, on m'a, on, en gros, on m'a mis dans le lycée, en me ",disant,", bon, enfin, dans le collège. ",27,disant,dire,VERB,_,Tense=Pres|VerbForm=Part,20,advcl,_,Scrap=Yes|SpaceAfter=No
+Rhap_D1003-24,"et quand je suis arrivée là-bas, on m'a, on, en gros, on m'a ",mis," dans le lycée, en me disant, bon, enfin, dans le collège. ",20,mis,mettre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-24,"et quand je suis arrivée là-bas, on m'",a,", on, en gros, on m'a mis dans le lycée, en me disant, bon, enfin, dans le collège. ",10,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,20,reparandum,_,SpaceAfter=No
+Rhap_D1003-24,et quand je suis ,arrivée," là-bas, on m'a, on, en gros, on m'a mis dans le lycée, en me disant, bon, enfin, dans le collège. ",5,arrivée,arriver,VERB,ETRE,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10,advcl,_,_
+Rhap_D1003-25,et je me suis sentie complètement ,abandonnée,. ,7,abandonnée,abandonner,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5,ccomp,_,SpaceAfter=No
+Rhap_D1003-25,et je me suis ,sentie, complètement abandonnée. ,5,sentie,sentir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-26,je ,connaissais, personne. ,2,connaissais,connaître,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D1003-29,"mais ils parlaient quand même, ils ",parlaient, quand même portugais. ,3,parlaient,parler,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,8,reparandum,_,_
+Rhap_D1003-29,mais ils ,parlaient," quand même, ils parlaient quand même portugais. ",3,parlaient,parler,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,8,reparandum,_,_
+Rhap_D1003-30,"parce que souvent, c'était les Portugais qui venaient dans le, le collège français pour ",avoir,", euh, en gros, un meilleur diplôme. ",18,avoir,avoir,VERB,_,VerbForm=Inf,10,advcl,_,SpaceAfter=No|Subject=NoRaising
+Rhap_D1003-30,"parce que souvent, c'était les Portugais qui ",venaient," dans le, le collège français pour avoir, euh, en gros, un meilleur diplôme. ",10,venaient,venir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,8,advcl:cleft,_,_
+Rhap_D1003-31,"et donc, euh, et donc, ",voilà,. ,9,voilà,voilà,VERB,_,_,0,root,_,SpaceAfter=No
+Rhap_D1003-32,j'ai très mal ,vécu, la chose. ,5,vécu,vivre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-33,"donc, euh, j'avais qu'un souhait, c'était re~, de ",revenir, en France. ,16,revenir,revenir,VERB,conj:reform,VerbForm=Inf,12,xcomp,_,Subject=SubjRaising
+Rhap_D1003-33,"donc, euh, j'avais qu'un souhait, c'était ",re~,", de revenir en France. ",13,re~,re~,VERB,_,_,16,reparandum,_,SpaceAfter=No
+Rhap_D1003-33,"donc, euh, j'",avais," qu'un souhait, c'était re~, de revenir en France. ",6,avais,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,12,reparandum,_,_
+Rhap_D1003-34,"donc, quand je suis ",revenue," en France, ça a été un grand soulagement. ",6,revenue,revenir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,15,advcl,_,_
+Rhap_D1003-35,"et, euh, jusque, jusqu'à la première justement où après on m'a dit tu, tu ",iras, pas en S. ,21,iras,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin,17,ccomp,_,Reported=Yes
+Rhap_D1003-35,"et, euh, jusque, jusqu'à la première justement où après on m'a ",dit," tu, tu iras pas en S. ",17,dit,dire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-36,"j'ai, euh, j'ai ga~, j'ai, j'en ai ",gardé, un très mauvais souvenir. ,16,gardé,garder,VERB,conj:reform,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-36,"j'ai, euh, j'ai ga~, j'",ai,", j'en ai gardé un très mauvais souvenir. ",2,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,16,reparandum,_,SpaceAfter=No
+Rhap_D1003-36,"j'ai, euh, j'ai ",ga~,", j'ai, j'en ai gardé un très mauvais souvenir. ",8,ga~,ga~,VERB,conj:reform,_,16,reparandum,_,SpaceAfter=No
+Rhap_D1003-36,j',ai,", euh, j'ai ga~, j'ai, j'en ai gardé un très mauvais souvenir. ",2,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,16,reparandum,_,SpaceAfter=No
+Rhap_D1003-37,"et c'est ensuite, quand je suis partie, partie en, en première L que je me suis ",rendu," compte qu'en fait, c'était un, un, un, un super, enfin, une super expérience. ",21,rendu,rendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4,advcl:cleft,_,_
+Rhap_D1003-37,"et c'est ensuite, quand je suis partie, ",partie," en, en première L que je me suis rendu compte qu'en fait, c'était un, un, un, un super, enfin, une super expérience. ",9,partie,partir,VERB,ETRE,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,11,reparandum,_,SpaceAfter=No
+Rhap_D1003-37,"et c'est ensuite, quand je suis ",partie,", partie en, en première L que je me suis rendu compte qu'en fait, c'était un, un, un, un super, enfin, une super expérience. ",9,partie,partir,VERB,ETRE,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,11,reparandum,_,SpaceAfter=No
+Rhap_D1003-38,"ça m'a~, ça m'avait beaucoup en~, ",enrichie, intérieurement. ,11,enrichie,enrichir,VERB,conj:reform,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-38,"ça m'a~, ça m'avait beaucoup ",en~,", enrichie intérieurement. ",9,en~,en~,VERB,conj:reform,_,11,reparandum,_,SpaceAfter=No
+Rhap_D1003-38,ça m',a~,", ça m'avait beaucoup en~, enrichie intérieurement. ",3,a~,a~,VERB,_,_,11,reparandum,_,SpaceAfter=No
+Rhap_D1003-39,"déjà, j'ai ",retrouvé, mes origines quand même. ,5,retrouvé,retrouver,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-40,j'ai commencé à ,apprendre, la langue. ,5,apprendre,apprendre,VERB,_,VerbForm=Inf,3,xcomp,_,Subject=SubjRaising
+Rhap_D1003-40,j'ai ,commencé, à apprendre la langue. ,3,commencé,commencer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-41,"j'ai connu s~, ",connu," beaucoup, enfin, une nouvelle culture. ",3,connu,connaître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,reparandum,_,_
+Rhap_D1003-41,j'ai ,connu," s~, connu beaucoup, enfin, une nouvelle culture. ",3,connu,connaître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,reparandum,_,_
+Rhap_D1003-42,je me suis vraiment ,ouverte, sur le monde. ,5,ouverte,ouvrir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D1003-43,"et donc, euh, c'est pour ça qu'aujourd'hui, je ",suis," en italien, en XXX, euh",14,suis,être,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,9,advcl:cleft,_,_
+Rhap_M0004-1,tu ,montes, les escaliers. ,2,montes,monter,VERB,ETRE,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0004-2,tu ,descends, jusqu'au cinéma Star. ,2,descends,descendre,VERB,ETRE,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0004-3,"arrivé au cinéma Star, il faut ",continuer," tout droit jusqu'en bas de la rue, jusqu'au rond-point. ",9,continuer,continuer,VERB,_,VerbForm=Inf,8,ccomp,_,Subject=NoRaising
+Rhap_M0004-3,"arrivé au cinéma Star, il ",faut," continuer tout droit jusqu'en bas de la rue, jusqu'au rond-point. ",8,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0004-3,,arrivé," au cinéma Star, il faut continuer tout droit jusqu'en bas de la rue, jusqu'au rond-point. ",1,arrivé,arriver,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8,advcl,_,_
+Rhap_M0004-4,"au rond-point, il faut ",tourner, à gauche. ,7,tourner,tourner,VERB,_,VerbForm=Inf,6,ccomp,_,Subject=NoRaising
+Rhap_M0004-4,"au rond-point, il ",faut, tourner à gauche. ,6,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0004-6,la gare ,est, en face. ,3,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0013-2,"ben, pour, euh, aller à la gare, vous allez, euh, vous éloigner du tram en, en ",longeant,", euh, le, le cinéma. ",25,longeant,longer,VERB,_,Tense=Pres|VerbForm=Part,18,advcl,_,SpaceAfter=No
+Rhap_M0013-2,"ben, pour, euh, aller à la gare, vous allez, euh, vous ",éloigner," du tram en, en longeant, euh, le, le cinéma. ",18,éloigner,éloigner,VERB,_,VerbForm=Inf,13,xcomp,_,Subject=SubjRaising
+Rhap_M0013-2,"ben, pour, euh, aller à la gare, vous ",allez,", euh, vous éloigner du tram en, en longeant, euh, le, le cinéma. ",13,allez,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_M0013-2,"ben, pour, euh, ",aller," à la gare, vous allez, euh, vous éloigner du tram en, en longeant, euh, le, le cinéma. ",7,aller,aller,VERB,ETRE,VerbForm=Inf,13,advcl,_,Subject=NoRaising
+Rhap_M0013-3,"et, euh, donc, euh, vous ",suivez," cette avenue, euh, tout le long. ",10,suivez,suivre,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0013-4,"elle fait un petit coude à un moment, vous ",verrez,. ,11,verrez,voir,VERB,DISCOURSE,Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin,8,discourse,_,SpaceAfter=No
+Rhap_M0013-4,elle ,fait," un petit coude à un moment, vous verrez. ",2,fait,faire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0013-5,"et, euh, donc, vous ",passez," à côté de la poste, et caetera. ",8,passez,passer,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0013-6,"et au bout d'un temps, vous allez ",arriver, sur une grande place avec une fontaine au milieu. ,11,arriver,arriver,VERB,ETRE,VerbForm=Inf,10,xcomp,_,Subject=SubjRaising
+Rhap_M0013-6,"et au bout d'un temps, vous ",allez, arriver sur une grande place avec une fontaine au milieu. ,10,allez,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0013-8,"et, euh, donc, euh, vous rencontrez à ce moment-là le, le tram que vous pouvez longer, que vous pouvez suivre, euh, en ",prenant, à gauche. ,32,prenant,prendre,VERB,_,Tense=Pres|VerbForm=Part,26,advcl,_,_
+Rhap_M0013-8,"et, euh, donc, euh, vous rencontrez à ce moment-là le, le tram que vous pouvez longer, que vous pouvez ",suivre,", euh, en prenant à gauche. ",27,suivre,suivre,VERB,conj:reform,VerbForm=Inf,26,xcomp,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_M0013-8,"et, euh, donc, euh, vous rencontrez à ce moment-là le, le tram que vous pouvez longer, que vous ",pouvez," suivre, euh, en prenant à gauche. ",21,pouvez,pouvoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,18,acl:relcl,_,_
+Rhap_M0013-8,"et, euh, donc, euh, vous rencontrez à ce moment-là le, le tram que vous pouvez ",longer,", que vous pouvez suivre, euh, en prenant à gauche. ",22,longer,longer,VERB,_,VerbForm=Inf,26,reparandum,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_M0013-8,"et, euh, donc, euh, vous rencontrez à ce moment-là le, le tram que vous ",pouvez," longer, que vous pouvez suivre, euh, en prenant à gauche. ",21,pouvez,pouvoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,18,acl:relcl,_,_
+Rhap_M0013-8,"et, euh, donc, euh, vous ",rencontrez," à ce moment-là le, le tram que vous pouvez longer, que vous pouvez suivre, euh, en prenant à gauche. ",10,rencontrez,rencontrer,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin,0,root,_,_
+Rhap_M0013-9,"et à ce moment-là, si vous le, euh, si vous suivez les rails, vous allez arriver, euh, à peu près, euh, je sais pas combien de temps, à peu près, euh, ça doit être cinq-cents, peut-être, oh, un petit kilomètre plus loin, vous allez ",arriver, à la gare. ,21,arriver,arriver,VERB,ETRE,VerbForm=Inf,60,reparandum,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_M0013-9,"et à ce moment-là, si vous le, euh, si vous suivez les rails, vous allez arriver, euh, à peu près, euh, je sais pas combien de temps, à peu près, euh, ça doit être cinq-cents, peut-être, oh, un petit kilomètre plus loin, vous ",allez, arriver à la gare. ,20,allez,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0013-9,"et à ce moment-là, si vous le, euh, si vous suivez les rails, vous allez arriver, euh, à peu près, euh, je sais pas combien de temps, à peu près, euh, ça doit ",être," cinq-cents, peut-être, oh, un petit kilomètre plus loin, vous allez arriver à la gare. ",46,être,être,VERB,_,VerbForm=Inf,45,xcomp,_,Subject=SubjRaising
+Rhap_M0013-9,"et à ce moment-là, si vous le, euh, si vous suivez les rails, vous allez arriver, euh, à peu près, euh, je sais pas combien de temps, à peu près, euh, ça ",doit," être cinq-cents, peut-être, oh, un petit kilomètre plus loin, vous allez arriver à la gare. ",45,doit,devoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,21,advcl,_,Graft=Yes
+Rhap_M0013-9,"et à ce moment-là, si vous le, euh, si vous suivez les rails, vous allez arriver, euh, à peu près, euh, je ",sais," pas combien de temps, à peu près, euh, ça doit être cinq-cents, peut-être, oh, un petit kilomètre plus loin, vous allez arriver à la gare. ",32,sais,savoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,45,reparandum,_,ExtPos=ADV|Graft=Yes
+Rhap_M0013-9,"et à ce moment-là, si vous le, euh, si vous suivez les rails, vous allez ",arriver,", euh, à peu près, euh, je sais pas combien de temps, à peu près, euh, ça doit être cinq-cents, peut-être, oh, un petit kilomètre plus loin, vous allez arriver à la gare. ",21,arriver,arriver,VERB,ETRE,VerbForm=Inf,60,reparandum,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_M0013-9,"et à ce moment-là, si vous le, euh, si vous suivez les rails, vous ",allez," arriver, euh, à peu près, euh, je sais pas combien de temps, à peu près, euh, ça doit être cinq-cents, peut-être, oh, un petit kilomètre plus loin, vous allez arriver à la gare. ",20,allez,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0013-9,"et à ce moment-là, si vous le, euh, si vous ",suivez," les rails, vous allez arriver, euh, à peu près, euh, je sais pas combien de temps, à peu près, euh, ça doit être cinq-cents, peut-être, oh, un petit kilomètre plus loin, vous allez arriver à la gare. ",15,suivez,suivre,VERB,conj:reform,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,20,advcl,_,_
+Rhap_M0013-11,vous le ,verrez,", euh, sans problème. ",3,verrez,voir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_M0013-12,vous ,connaissez," déjà un peu, ou… ? ",2,connaissez,connaître,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,Scrap=Yes
+Rhap_D0009-2,"on a nos, nos chaises qui ont besoin de ",refaire,. ,11,refaire,refaire,VERB,_,VerbForm=Inf,9,xcomp,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_D0009-2,"on a nos, nos chaises qui ",ont, besoin de refaire. ,8,ont,avoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,6,acl:relcl,_,_
+Rhap_D0009-2,on ,a," nos, nos chaises qui ont besoin de refaire. ",2,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-3,"est-ce que tu connais des, un endroit où je pourrais les ",laisser, pour le rempaillage ? ,14,laisser,laisser,VERB,_,VerbForm=Inf,12,xcomp,_,Subject=SubjRaising
+Rhap_D0009-3,"est-ce que tu connais des, un endroit où je ",pourrais, les laisser pour le rempaillage ? ,12,pourrais,pouvoir,VERB,_,Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,9,acl:relcl,_,_
+Rhap_D0009-3,est-ce que tu ,connais," des, un endroit où je pourrais les laisser pour le rempaillage ? ",5,connais,connaître,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,1,ccomp,_,_
+Rhap_D0009-3,,est,"-ce que tu connais des, un endroit où je pourrais les laisser pour le rempaillage ? ",1,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D0009-4,"ben, les chaises, il faut me les ",donner,. ,10,donner,donner,VERB,_,VerbForm=Inf,7,ccomp,_,SpaceAfter=No|Subject=NoRaising
+Rhap_D0009-4,"ben, les chaises, il ",faut, me les donner. ,7,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-7,"tu as, tu as quelqu'un qui ",peut,… ,8,peut,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6,acl:relcl,_,Overlap=Rhap_D0009-8|SpaceAfter=No
+Rhap_D0009-7,"tu as, tu ",as, quelqu'un qui peut… ,2,as,avoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,5,reparandum,_,Overlap=Rhap_D0009-8|SpaceAfter=No
+Rhap_D0009-7,tu ,as,", tu as quelqu'un qui peut… ",2,as,avoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,5,reparandum,_,Overlap=Rhap_D0009-8|SpaceAfter=No
+Rhap_D0009-10,j'ai quelqu'un qui est de Saint-Sauveur Lorzac qui ,passe,. ,10,passe,passer,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,acl:relcl,_,SpaceAfter=No
+Rhap_D0009-10,j'ai quelqu'un qui ,est, de Saint-Sauveur Lorzac qui passe. ,5,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,acl:relcl,_,_
+Rhap_D0009-10,j',ai, quelqu'un qui est de Saint-Sauveur Lorzac qui passe. ,2,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0009-7
+Rhap_D0009-11,faut que tu me les ,donnes,. ,6,donnes,donner,VERB,_,Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,1,ccomp,_,Overlap=Rhap_D0009-12|SpaceAfter=No
+Rhap_D0009-11,,faut, que tu me les donnes. ,1,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0009-12
+Rhap_D0009-13,et il faut ,compter, à peu près combien par chaise ? ,4,compter,compter,VERB,_,VerbForm=Inf,3,ccomp,_,Subject=NoRaising
+Rhap_D0009-13,et il ,faut, compter à peu près combien par chaise ? ,3,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-18,il faut ,compter,", euh, pff, l'équivalent de quarante euros, quelque chose comme ça. ",3,compter,compter,VERB,_,VerbForm=Inf,2,ccomp,_,SpaceAfter=No|Subject=NoRaising
+Rhap_D0009-18,il ,faut," compter, euh, pff, l'équivalent de quarante euros, quelque chose comme ça. ",2,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-19,"ah, je ",pensais," plus que ça, quarante, quarante-cinq. ",4,pensais,penser,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0009-20,et est-ce qu'ils ,font, aussi le cannage ? ,6,font,faire,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-21,"là, par contre, ça ",doit, être plus onéreux. ,7,doit,devoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-22,"il faut, faut ",compter," autour de soixante, soixante-dix. ",5,compter,compter,VERB,_,VerbForm=Inf,2,ccomp,_,Subject=NoRaising
+Rhap_D0009-22,"il faut, ",faut," compter autour de soixante, soixante-dix. ",2,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,reparandum,_,Overlap=Rhap_D0009-21|SpaceAfter=No
+Rhap_D0009-22,il ,faut,", faut compter autour de soixante, soixante-dix. ",2,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,reparandum,_,Overlap=Rhap_D0009-21|SpaceAfter=No
+Rhap_D0009-23bis,,voilà,. ,1,voilà,voilà,VERB,_,_,0,root,_,SpaceAfter=No
+Rhap_D0009-24,"et ils nous les, ils te les ",prennent,. ,9,prennent,prendre,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D0009-25,et il faut ,compter, combien de temps après ? ,4,compter,compter,VERB,_,VerbForm=Inf,3,ccomp,_,Subject=NoRaising
+Rhap_D0009-25,et il ,faut, compter combien de temps après ? ,3,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-28,et sais -tu que la paille a été ,abîmée, ? ,9,abîmée,abîmer,VERB,DoubleAux,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2,ccomp,_,_
+Rhap_D0009-28,et ,sais, -tu que la paille a été abîmée ? ,2,sais,savoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0009-27bis
+Rhap_D0009-29,"bon, c'",est," de, de la maison là. ",4,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-30,elle a été ,abîmée,. ,4,abîmée,abîmer,VERB,DoubleAux,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D0009-31,"parce que dessus, il y avait des, c'est pas des coussins, c'était des, des carrés de laine tissés qu'on avait eus en Tunisie et qui avaient été ",mis, dessus. ,35,mis,mettre,VERB,DoubleAux,Gender=Masc|Tense=Past|VerbForm=Part,28,conj,_,_
+Rhap_D0009-31,"parce que dessus, il y avait des, c'est pas des coussins, c'était des, des carrés de laine tissés qu'on avait ",eus, en Tunisie et qui avaient été mis dessus. ,28,eus,avoir,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,21,acl,_,_
+Rhap_D0009-31,"parce que dessus, il y avait des, c'est pas des coussins, c'était des, des carrés de laine ",tissés, qu'on avait eus en Tunisie et qui avaient été mis dessus. ,24,tissés,tisser,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,21,acl,_,_
+Rhap_D0009-31,"parce que dessus, il y ",avait," des, c'est pas des coussins, c'était des, des carrés de laine tissés qu'on avait eus en Tunisie et qui avaient été mis dessus. ",7,avait,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0009-32,XXX ,martelés,", oui. ",2,martelés,marteler,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D0009-33,"et vraiment, c'est, c'est pas ",uni,. ,10,uni,uni,VERB,_,Gender=Masc|Number=Sing,0,root,_,SpaceAfter=No
+Rhap_D0009-35,ça a ,fait," des impacts, ouais. ",3,fait,faire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,Overlap=Rhap_D0009-34
+Rhap_D0009-37,"et même, parfois, je me suis demandé si c'était pas des, des vers qui s'étaient ",introduits, dedans. ,21,introduits,introduire,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,17,advcl:cleft,_,_
+Rhap_D0009-37,"et même, parfois, je me suis ",demandé," si c'était pas des, des vers qui s'étaient introduits dedans. ",9,demandé,demander,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0009-40,"mais ce sont les, les impacts des coussins qui ont, qui ont ",pénétré, dans la paille. ,16,pénétré,pénétrer,VERB,conj:reform,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10,acl:relcl,_,_
+Rhap_D0009-40,"mais ce sont les, les impacts des coussins qui ",ont,", qui ont pénétré dans la paille. ",12,ont,avoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,16,reparandum,_,SpaceAfter=No
+Rhap_D0009-41,"ben, c'est dommage parce qu'on a tout ",perdu, comme ça. ,11,perdu,perdre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5,advcl,_,_
+Rhap_D0009-42,"ouais, non, mais tu me les ",redonnes,. ,9,redonnes,redonner,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D0009-43,il y ,a, pas de problème. ,3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-44,"et puis, bon, ce monsieur-là, il ",fait, de la… ,11,fait,faire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-45,"en plus, il ",travaille," avec de la, de, de la, pas de la, la, de la véritable paille, quoi. ",5,travaille,travailler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,0,root,_,_
+Rhap_D0009-46,"c'est pas de la paille synthétique, ni XXX, tu ",as, aucun problème. ,13,as,avoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,6,orphan,_,_
+Rhap_D0009-48,"et en une semaine ou deux, ça y est, c'est, c'est ",relivré, ,17,relivré,relivrer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9,acl,_,Overlap=Rhap_D0009-49
+Rhap_D0009-51,"bon, alors, le petit fauteuil que j'ai là, à côté, que je veux rhabiller a toujours été ",appelé, par mes parents fauteuil crapaud. ,23,appelé,appeler,VERB,DoubleAux,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0009-51,"bon, alors, le petit fauteuil que j'ai là, à côté, que je veux ",rhabiller, a toujours été appelé par mes parents fauteuil crapaud. ,19,rhabiller,rhabiller,VERB,_,VerbForm=Inf,18,xcomp,_,Subject=SubjRaising
+Rhap_D0009-51,"bon, alors, le petit fauteuil que j'ai là, à côté, que je ",veux, rhabiller a toujours été appelé par mes parents fauteuil crapaud. ,18,veux,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,10,conj,_,_
+Rhap_D0009-51,"bon, alors, le petit fauteuil que j'",ai," là, à côté, que je veux rhabiller a toujours été appelé par mes parents fauteuil crapaud. ",10,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,7,acl:relcl,_,_
+Rhap_D0009-55,"et pourquoi, qu'on ",appelle, crapaud ? ,6,appelle,appeler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0009-54
+Rhap_D0009-56,les gens se ,mettaient," vraiment dans le fond des , des , des petits salons ou des choses comme ça. ",4,mettaient,mettre,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0009-57,"et ils étaient vraiment très, très ",assis,. ,8,assis,asseoir,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,Overlap=Rhap_D0009-57bis|SpaceAfter=No
+Rhap_D0009-58,"donc, ce qui pourrait donner l'expression de, d'être ",assis, comme un crapaud. ,13,assis,asseoir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8,acl,_,_
+Rhap_D0009-58,"donc, ce qui pourrait ",donner," l'expression de, d'être assis comme un crapaud. ",6,donner,donner,VERB,_,VerbForm=Inf,5,xcomp,_,Subject=SubjRaising
+Rhap_D0009-58,"donc, ce qui ",pourrait," donner l'expression de, d'être assis comme un crapaud. ",5,pourrait,pouvoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,acl:relcl,_,_
+Rhap_D0009-59,"donc, alors, ça ",date, de quand à peu près ce fauteuil-là ? ,6,date,dater,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0009-58
+Rhap_D0009-60,"oh, c'",est," sous Napoléon trois, fin dix-neuvième siècle, fin du dix-neuvième siècle, dix-huit cent quatre-vingt. ",4,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-61,"et les pieds, crois-tu, ",crois,-tu que c'est… ? ,5,crois,croire,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,8,reparandum,_,SpaceAfter=No
+Rhap_D0009-61,"et les pieds, ",crois,"-tu, crois-tu que c'est… ? ",5,crois,croire,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,8,reparandum,_,SpaceAfter=No
+Rhap_D0009-65,"c'est, je te ",dis,", dix-huit cent soixante-dix par là. ",6,dis,dire,VERB,DISCOURSE,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,2,discourse,_,SpaceAfter=No
+Rhap_D0009-68,"normalement, c'est du bois de hêtre dessous et qui est p~, qui est ",laqué, noir. ,18,laqué,laquer,VERB,conj:reform,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7,acl:relcl,_,_
+Rhap_D0009-68,"normalement, c'",est," du bois de hêtre dessous et qui est p~, qui est laqué noir. ",4,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-69,"alors, pour le refaire, tu me dis qu'il faudrait que j'",aille," vers Isigny, Ducey. ",15,aille,aller,VERB,ETRE,Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,12,ccomp,_,_
+Rhap_D0009-69,"alors, pour le refaire, tu me dis qu'il ",faudrait," que j'aille vers Isigny, Ducey. ",12,faudrait,falloir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9,ccomp,_,_
+Rhap_D0009-69,"alors, pour le refaire, tu me ",dis," qu'il faudrait que j'aille vers Isigny, Ducey. ",9,dis,dire,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-69,"alors, pour le ",refaire,", tu me dis qu'il faudrait que j'aille vers Isigny, Ducey. ",5,refaire,refaire,VERB,_,VerbForm=Inf,9,advcl,_,SpaceAfter=No|Subject=NoRaising
+Rhap_D0009-70,"euh, oui, enfin, initialement, ils ",étaient, à Isigny. ,10,étaient,être,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0009-72,mais ils ,sont, à Ducey actuellement. ,3,sont,être,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0009-72bis
+Rhap_D0009-74,"alors, ils me ",referaient, l'assise ? ,5,referaient,refaire,VERB,_,Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-75,mais est-ce qu'il faut que je lui ,dise, aussi les accoudoirs ? ,10,dise,dire,VERB,_,Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,6,ccomp,_,_
+Rhap_D0009-75,mais est-ce qu'il ,faut, que je lui dise aussi les accoudoirs ? ,6,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-76,tu as ,vu, comment ils sont ? ,3,vu,voir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0009-77bis,,faut,. ,1,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,AttachTo=6@Rhap_D0009-75|Rel=parataxis:conj|SpaceAfter=No
+Rhap_D0009-78,"de toute façon, il faut tout ",reprendre,", hein. ",8,reprendre,reprendre,VERB,_,VerbForm=Inf,6,ccomp,_,SpaceAfter=No|Subject=NoRaising
+Rhap_D0009-78,"de toute façon, il ",faut," tout reprendre, hein. ",6,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-79,"quitte à faire le travail, il faut ",faire, l'assise et les accoudoirs. ,3,faire,faire,VERB,_,VerbForm=Inf,1,xcomp,_,Subject=SubjRaising
+Rhap_D0009-79,"quitte à faire le travail, il ",faut, faire l'assise et les accoudoirs. ,8,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-79,quitte à ,faire," le travail, il faut faire l'assise et les accoudoirs. ",3,faire,faire,VERB,_,VerbForm=Inf,1,xcomp,_,Subject=SubjRaising
+Rhap_D0009-80,ça ,changera," pas grand-chose au prix, hein. ",2,changera,changer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,0,root,_,_
+Rhap_D0009-81,est-ce que lui peut me le ,recouvrir, en même temps ? ,8,recouvrir,recouvrir,VERB,_,VerbForm=Inf,5,xcomp,_,Subject=SubjRaising
+Rhap_D0009-81,est-ce que lui ,peut, me le recouvrir en même temps ? ,5,peut,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-83,"ah, oui, il fait pas que de le remettre, le ",restaurer,. ,14,restaurer,restaurer,VERB,conj:reform,VerbForm=Inf,6,xcomp,_,Overlap=Rhap_D0009-85|SpaceAfter=No|Subject=SubjRaising
+Rhap_D0009-83,"ah, oui, il fait pas que de le ",remettre,", le restaurer. ",11,remettre,remettre,VERB,CAUSATIVE,VerbForm=Inf,14,reparandum,_,Overlap=Rhap_D0009-85|SpaceAfter=No|Subject=SubjRaising
+Rhap_D0009-83,"ah, oui, il ",fait," pas que de le remettre, le restaurer. ",6,fait,faire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-84,il ,peut,… ,2,peut,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0009-86|Scrap=Yes|SpaceAfter=No
+Rhap_D0009-88,"oh, ben, ça, ça doit pas être ",donné,", hein. ",11,donné,donner,VERB,DoubleAux,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8,xcomp,_,SpaceAfter=No
+Rhap_D0009-88,"oh, ben, ça, ça ",doit," pas être donné, hein. ",8,doit,devoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-92,"oui, mais je pense que, non, ça va, ça ",va," pas très, très loin en sellerie, euh, avec, euh… ",11,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,14,reparandum,_,SpaceAfter=No
+Rhap_D0009-92,"oui, mais je pense que, non, ça ",va,", ça va pas très, très loin en sellerie, euh, avec, euh… ",11,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,14,reparandum,_,SpaceAfter=No
+Rhap_D0009-92,"oui, mais je ",pense," que, non, ça va, ça va pas très, très loin en sellerie, euh, avec, euh… ",5,pense,penser,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-93,"est-ce que c'est, est-ce que c'est moi qui p~, est-ce que je peux sau~, lui ",amener, le tissu ? ,24,amener,amener,VERB,_,VerbForm=Inf,20,xcomp,_,Subject=SubjRaising
+Rhap_D0009-93,"est-ce que c'est, est-ce que c'est moi qui p~, est-ce que je peux ",sau~,", lui amener le tissu ? ",21,sau~,sau~,VERB,_,_,24,reparandum,_,SpaceAfter=No
+Rhap_D0009-93,"est-ce que c'est, est-ce que c'est moi qui p~, est-ce que je ",peux," sau~, lui amener le tissu ? ",20,peux,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-93,"est-ce que c'est, est-ce que c'est moi qui ",p~,", est-ce que je peux sau~, lui amener le tissu ? ",14,p~,p~,VERB,_,_,12,advcl:cleft,_,SpaceAfter=No
+Rhap_D0009-95,parce que j',ai, un rouleau de tissu de velours beige. ,4,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-97,faudrait que tu me dises aussi les teintes que je peux ,mettre, là-dessus. ,12,mettre,mettre,VERB,_,VerbForm=Inf,11,xcomp,_,Subject=SubjRaising
+Rhap_D0009-97,faudrait que tu me dises aussi les teintes que je ,peux, mettre là-dessus. ,11,peux,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,8,acl:relcl,_,_
+Rhap_D0009-97,faudrait que tu me ,dises, aussi les teintes que je peux mettre là-dessus. ,5,dises,dire,VERB,_,Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,1,ccomp,_,_
+Rhap_D0009-97,,faudrait, que tu me dises aussi les teintes que je peux mettre là-dessus. ,1,faudrait,falloir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-98,"bah, f~, déj~, déjà, les teintes, bon, faut savoir que tu ",as," une base, euh, pff… ",18,as,avoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,15,ccomp,_,_
+Rhap_D0009-98,"bah, f~, déj~, déjà, les teintes, bon, faut ",savoir," que tu as une base, euh, pff… ",15,savoir,savoir,VERB,_,VerbForm=Inf,14,ccomp,_,Subject=NoRaising
+Rhap_D0009-98,"bah, f~, déj~, déjà, les teintes, bon, ",faut," savoir que tu as une base, euh, pff… ",14,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-99,tout ,est, en fonction de ta pièce déjà. ,2,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-100,si tu ,as, une pièce lumineuse… ,3,as,avoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-101,"ben, oui, mais si je veux ",garder," les teintes de l'époque, non, c'est pas possible. ",9,garder,garder,VERB,_,VerbForm=Inf,8,xcomp,_,Overlap=Rhap_D0009-100|Subject=SubjRaising
+Rhap_D0009-101,"ben, oui, mais si je ",veux," garder les teintes de l'époque, non, c'est pas possible. ",8,veux,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,21,advcl,_,Overlap=Rhap_D0009-100
+Rhap_D0009-102,c'est pas ,obligé,. ,4,obligé,obliger,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,Overlap=Rhap_D0009-103|SpaceAfter=No
+Rhap_D0009-104,j',ai," un beige, beige clair, un velours beige clair. ",2,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0009-103bis
+Rhap_D0009-107,si c'est pour ,mettre, dans la pièce ici… ,5,mettre,mettre,VERB,_,VerbForm=Inf,0,root,_,Subject=NoRaising
+Rhap_D0009-108,"oui, mais j'aurais mis des coussins à fond, euh, rouge comme j'",ai, sur le la méridienne. ,17,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,8,acl,_,Overlap=Rhap_D0009-110
+Rhap_D0009-108,"oui, mais j'aurais ",mis," des coussins à fond, euh, rouge comme j'ai sur le la méridienne. ",6,mis,mettre,VERB,_,Gender=Masc|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0009-111,"parce que du fait que tu as déjà quelque chose d'un, d'un fond clair, je crains que le beige et le, et le, le jaunâtre un petit peu, ça ",risque, de XXX… ,38,risque,risquer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,21,ccomp,_,_
+Rhap_D0009-111,"parce que du fait que tu as déjà quelque chose d'un, d'un fond clair, je ",crains," que le beige et le, et le, le jaunâtre un petit peu, ça risque de XXX… ",21,crains,craindre,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin,0,root,_,_
+Rhap_D0009-111,parce que du fait que tu ,as," déjà quelque chose d'un, d'un fond clair, je crains que le beige et le, et le, le jaunâtre un petit peu, ça risque de XXX… ",8,as,avoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,5,acl,_,_
+Rhap_D0009-115,"ça, ça ",fait, un contraste. ,4,fait,faire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-117,"et est-ce qu'il faut que j'aie, parce que j'",aime," pas trop, la frange tout autour encore ? ",14,aime,aimer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,9,parataxis:parenth,_,_
+Rhap_D0009-117,et est-ce qu'il faut que j',aie,", parce que j'aime pas trop, la frange tout autour encore ? ",9,aie,avoir,VERB,_,Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,6,ccomp,_,SpaceAfter=No
+Rhap_D0009-117,et est-ce qu'il ,faut," que j'aie, parce que j'aime pas trop, la frange tout autour encore ? ",6,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-122,"si ça t'embête, tu ne le ",mets, pas. ,9,mets,mettre,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-122,si ça t',embête,", tu ne le mets pas. ",4,embête,embêter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9,advcl,_,SpaceAfter=No
+Rhap_D0009-124,"mais est-ce qu'il faut que les pieds soient quand même, euh, ",cachés, ? ,16,cachés,cacher,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6,ccomp,_,_
+Rhap_D0009-124,mais est-ce qu'il ,faut," que les pieds soient quand même, euh, cachés ? ",6,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0009-123
+Rhap_D0009-126,dans la mesure où tu vas pas ,mettre," de frange, c'est une XXX. ",8,mettre,mettre,VERB,_,VerbForm=Inf,6,xcomp,_,Subject=SubjRaising
+Rhap_D0009-126,dans la mesure où tu ,vas," pas mettre de frange, c'est une XXX. ",6,vas,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,3,acl:relcl,_,_
+Rhap_D0009-128,parce que j'ai ,regardé, sur un catalogue. ,5,regardé,regarder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0009-129,"et j'ai vu qu'en fait, le tissu parfois ",descendait, jusqu'au bas. ,12,descendait,descendre,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,4,ccomp,_,_
+Rhap_D0009-129,et j'ai ,vu," qu'en fait, le tissu parfois descendait jusqu'au bas. ",4,vu,voir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0009-132,"oui, mais ça le déguise pas du fait que c'est un fauteuil qui ",a, une époque. ,17,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15,acl:relcl,_,_
+Rhap_D0009-132,"oui, mais ça le ",déguise, pas du fait que c'est un fauteuil qui a une époque. ,6,déguise,déguiser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0009-134,il y ,avait, les deux. ,3,avait,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0009-135,"parce que ça donne un aspect, quand même, plus moderne si tu ",mets, le tissu tout autour. ,15,mets,mettre,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,4,advcl,_,Overlap=Rhap_D0009-136
+Rhap_D0009-135,parce que ça ,donne," un aspect, quand même, plus moderne si tu mets le tissu tout autour. ",4,donne,donner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-141,"par contre, je l'ai ",gardée, la frange. ,7,gardée,garder,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0009-143bis,ça a ,pris, la poussière. ,3,pris,prendre,VERB,_,Gender=Masc|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0009-145,"même au nettoyage, je ",crois, que c'est pas la peine. ,7,crois,croire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-147,"non, non, mais tu peux ",faire, comme ça. ,8,faire,faire,VERB,_,VerbForm=Inf,7,xcomp,_,Subject=SubjRaising
+Rhap_D0009-147,"non, non, mais tu ",peux, faire comme ça. ,7,peux,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-148,"et puis, bon, tu, tu ",vois, avec ce monsieur-là. ,9,vois,voir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-149,et puis ,voilà,. ,3,voilà,voilà,VERB,_,_,0,root,_,SpaceAfter=No
+Rhap_D0009-150,"bon, ben, écoute, j'",essaierai,. ,8,essaierai,essayer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin,0,root,_,Overlap=Rhap_D0009-150bis|SpaceAfter=No
+Rhap_D0009-150,"bon, ben, ",écoute,", j'essaierai. ",5,écoute,écouter,VERB,DISCOURSE,Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,8,discourse,_,SpaceAfter=No
+Rhap_D0009-151,"si tu tiens à aller là, il y ",a, pas de problème. ,10,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-151,si tu tiens à ,aller," là, il y a pas de problème. ",5,aller,aller,VERB,ETRE,VerbForm=Inf,3,xcomp,_,Overlap=Rhap_D0009-150|Subject=SubjRaising
+Rhap_D0009-151,si tu ,tiens," à aller là, il y a pas de problème. ",3,tiens,tenir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,10,advcl,_,Overlap=Rhap_D0009-150
+Rhap_D0009-152,"je me disais, j'",irai, peut-être à Vire. ,6,irai,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin,3,ccomp,_,Reported=Yes
+Rhap_D0009-152,je me ,disais,", j'irai peut-être à Vire. ",3,disais,dire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D0009-153,parce qu'on était allé le ,voir, ce monsieur-là. ,7,voir,voir,VERB,DoubleAux,VerbForm=Inf,5,xcomp,_,Subject=SubjRaising
+Rhap_D0009-153,parce qu'on était ,allé, le voir ce monsieur-là. ,5,allé,aller,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0009-155,je ,connais, pas. ,2,connais,connaître,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-157,je ,connais, pas. ,2,connais,connaître,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-158,"moi, je ",travaille,… ,4,travaille,travailler,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0009-159|SpaceAfter=No
+Rhap_D0009-160,"moi, je ",travaille, avec la maison Morel. ,4,travaille,travailler,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0009-161,"mais, bon, chacun va, va où il ",veut,. ,11,veut,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9,acl:relcl,_,SpaceAfter=No
+Rhap_D0009-161,"mais, bon, chacun va, ",va, où il veut. ,6,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8,reparandum,_,SpaceAfter=No
+Rhap_D0009-161,"mais, bon, chacun ",va,", va où il veut. ",6,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8,reparandum,_,SpaceAfter=No
+Rhap_D0009-162,il y ,a, pas de problème. ,3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-1,"bon, vous ",prenez, la route là. ,4,prenez,prendre,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-2,vous ,sortez,", euh, de la, euh, commune de Pontamafrey. ",2,sortez,sortir,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_M0007-3,vous allez ,arriver,. ,3,arriver,arriver,VERB,ETRE,VerbForm=Inf,2,xcomp,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_M0007-3,vous ,allez, arriver. ,2,allez,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-4,"à un moment, il y ",aura, l'échangeur de l'autoroute. ,7,aura,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,0,root,_,_
+Rhap_M0007-5,vous ,continuez,. ,2,continuez,continuer,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_M0007-6,vous ,prenez, le rond-point tout droit. ,2,prenez,prendre,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-7,vous ,passez," le pont, euh, au -dessus de la voie ferrée. ",2,passez,passer,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-8,"après, vous ",continuez, direction Saint-Jean. ,4,continuez,continuer,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-10,"après, vous ",continuez,. ,4,continuez,continuer,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_M0007-11,vous ,suivez, la route. ,2,suivez,suivre,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-12,il y ,a, un grand tournant et une grande ligne droite. ,3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-13,"vous arrivez à l'entrée de Saint-Jean-de-Maurienne, euh, où se ",situe, un garage Fiat. ,13,situe,situer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5,acl:relcl,_,_
+Rhap_M0007-13,vous ,arrivez," à l'entrée de Saint-Jean-de-Maurienne, euh, où se situe un garage Fiat. ",2,arrivez,arriver,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-14,vous ,prenez, ce rond-point à gauche. ,2,prenez,prendre,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-15,il y ,aura," Géant, euh, juste, euh, sur votre droite. ",3,aura,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,0,root,_,_
+Rhap_M0007-16,"après, vous ",continuez,. ,4,continuez,continuer,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_M0007-17,"au prochain rond-point, vous ",prenez, à gauche. ,7,prenez,prendre,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-18,vous ,descendez," la route, euh, vers les sapeurs pompiers, euh, en bas de la route. ",2,descendez,descendre,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-19,vous ,arrivez, après au fond de la route. ,2,arrivez,arriver,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-20,vous ,prenez," à gauche devant, euh, Dorhôtel. ",2,prenez,prendre,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-21,vous ,continuez, tout droit. ,2,continuez,continuer,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0007-22,vous ,arrivez,", euh, en face de la gare au bout de la ligne droite. ",2,arrivez,arriver,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_M0010-1,"alors, tu ",vas," sur le forum, là. ",4,vas,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0010-3,tu ,descends, les escaliers. ,2,descends,descendre,VERB,ETRE,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0010-4,tu ,vas, tout droit. ,2,vas,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0010-5,tu vas ,passer, devant un magasin de pantalons. ,3,passer,passer,VERB,ETRE,VerbForm=Inf,2,xcomp,_,Subject=SubjRaising
+Rhap_M0010-5,tu ,vas, passer devant un magasin de pantalons. ,2,vas,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0010-6,"ensuite, tu vas te ",retrouver, vers le cinéma Star. ,6,retrouver,retrouver,VERB,_,VerbForm=Inf,4,xcomp,_,Subject=SubjRaising
+Rhap_M0010-6,"ensuite, tu ",vas, te retrouver vers le cinéma Star. ,4,vas,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0010-7,tu ,descends, toute la pente. ,2,descends,descendre,VERB,ETRE,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0010-8,"ensuite, tu ",verras, un rond-point. ,4,verras,voir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin,0,root,_,_
+Rhap_M0010-9,tu ,tournes, à gauche. ,2,tournes,tourner,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0010-10,"et en face, normalement, il devrait y ",avoir, la gare. ,10,avoir,avoir,VERB,_,VerbForm=Inf,8,ccomp,_,Subject=NoRaising
+Rhap_M0010-10,"et en face, normalement, il ",devrait, y avoir la gare. ,8,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0017-2,"vous, vous, vous ",prenez," à droite, la droite. ",6,prenez,prendre,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0017-3,et vous allez tout droit jusqu'au prochain arrêt de tram où il y ,a, Nef Chavant. ,16,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,12,acl:relcl,_,_
+Rhap_D0017-3,et vous ,allez, tout droit jusqu'au prochain arrêt de tram où il y a Nef Chavant. ,3,allez,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0017-4,et vous ,continuez, tout droit jusqu'au deuxième arrêt. ,3,continuez,continuer,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0017-5,"et avant d'arriver au troisième, vous prenez à droite là où il y ",a," les intersions, les intersections. ",17,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13,acl:relcl,_,_
+Rhap_D0017-5,"et avant d'arriver au troisième, vous ",prenez," à droite là où il y a les intersions, les intersections. ",10,prenez,prendre,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0017-5,et avant d',arriver," au troisième, vous prenez à droite là où il y a les intersions, les intersections. ",4,arriver,arriver,VERB,ETRE,VerbForm=Inf,2,acl,_,Subject=NoRaising
+Rhap_D0017-6,et vous ,marchez, sur deux cents mètres. ,3,marchez,marcher,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0017-8,"euh, mais au , au prochain arrêt, je, je ",continue, ? ,15,continue,continuer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0017-9,"euh, au prochain arrêt, oui, vous ",continuez,", jusqu'au deuxième. ",11,continuez,continuer,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D0017-10,"et avant d'arriver au troisième, il y ",aura, une intersection des voies. ,11,aura,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,0,root,_,_
+Rhap_D0017-10,et avant d',arriver," au troisième, il y aura une intersection des voies. ",4,arriver,arriver,VERB,ETRE,VerbForm=Inf,2,acl,_,Subject=NoRaising
+Rhap_D0017-11,"et là, vous prenez à droite jusqu'à ",voir, la cathédrale. ,10,voir,voir,VERB,_,VerbForm=Inf,5,advcl,_,Subject=SubjRaising
+Rhap_D0017-11,"et là, vous ",prenez, à droite jusqu'à voir la cathédrale. ,5,prenez,prendre,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0020-2,il y ,a, plein d'autres itinéraires possibles. ,3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0020-3,"après, ça peut ",être, par la rue Lakanal. ,5,être,être,VERB,_,VerbForm=Inf,4,xcomp,_,Subject=SubjRaising
+Rhap_D0020-3,"après, ça ",peut, être par la rue Lakanal. ,4,peut,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0020-4,"donc, euh, on ",traverse, la place un petit peu en face. ,6,traverse,traverser,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0020-5,"et puis là, on ",arrive, sur la place Victor Hugo. ,6,arrive,arriver,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0020-6,et ,traversez, les rues piétonnes. ,2,traversez,traverser,VERB,_,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0020-8,"mais il me semble que le plus, géographiquement, le plus simple, c'est de, de, de ",faire," cet angle droit par la, par la place, euh, en face de la Préfecture. ",22,faire,faire,VERB,_,VerbForm=Inf,4,ccomp,_,Subject=NoRaising
+Rhap_D0020-8,mais il me ,semble," que le plus, géographiquement, le plus simple, c'est de, de, de faire cet angle droit par la, par la place, euh, en face de la Préfecture. ",4,semble,sembler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0020-9,"c'est la place, euh, je ",sais," plus quoi, Verdun. ",9,sais,savoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,13,reparandum,_,ExtPos=NOUN|Graft=Yes
+Rhap_D0020-11,est-ce que ça vous ,va, ? ,6,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-1,"alors, vous étiez un peu ",choquée," quand même, hein, non mais. ",7,choquée,choquer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-2,je ,pensais, à son procès en fait. ,2,pensais,penser,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-3
+Rhap_D2007-3,tu peux le ,dire,. ,4,dire,dire,VERB,_,VerbForm=Inf,2,xcomp,_,Overlap=Rhap_D2007-2|SpaceAfter=No|Subject=SubjRaising
+Rhap_D2007-3,tu ,peux, le dire. ,2,peux,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-2
+Rhap_D2007-4,tu ,peux,. ,2,peux,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,AttachTo=2@Rhap_D2007-3|Overlap=Rhap_D2007-2|Rel=parataxis:conj|SpaceAfter=No
+Rhap_D2007-7,"ben, c'est~, c'est-à-dire que je l'ai ",vécu," comme un show, quoi. ",10,vécu,vivre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-8bis,c'est pour ça que ça s',appelle," radio Timsit, quoi. ",8,appelle,appeler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,advcl:cleft,_,_
+Rhap_D2007-9,c'est pour ,mouiller, personne. ,4,mouiller,mouiller,VERB,_,VerbForm=Inf,0,root,_,Subject=NoRaising
+Rhap_D2007-10,on m'a dit tu ,as, l'antenne un mois. ,6,as,avoir,VERB,CCOMP,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,4,ccomp,_,Reported=Yes
+Rhap_D2007-10,on m'a ,dit, tu as l'antenne un mois. ,4,dit,dire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-11,j'ai ,dit, un mois ? ,3,dit,dire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-12,mais j',ai, l'antenne vraiment ? ,3,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,Reported=Yes
+Rhap_D2007-13,"et donc, on est ",parti,", euh, c'est vrai, avec Jean-François Alain, Alexandre XXX. ",6,parti,partir,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D2007-16,on ,écrivait, des spectacles ensemble. ,2,écrivait,écrire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-17
+Rhap_D2007-17,ça ,manque," à la radio, ça. ",2,manque,manquer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-16
+Rhap_D2007-20,"enfin, c'est, c'est vrai que c'était le côté public, direct et que, et que ça, c'est, c'est comme si je ",faisais, un spectacle. ,32,faisais,faire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,28,ccomp,_,_
+Rhap_D2007-20,"enfin, c'est, c'est vrai que c'était le côté public, direct et que, et que ça, c'est, c'",est, comme si je faisais un spectacle. ,4,est,être,AUX,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8,reparandum,_,SpaceAfter=No
+Rhap_D2007-21,"alors, en plus, comme c'est l'époque où vous tourniez Landru, il y ",a," la barbe, le bonnet. ",18,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-21,"alors, en plus, comme c'est l'époque où vous ",tourniez," Landru, il y a la barbe, le bonnet. ",13,tourniez,tourner,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin,10,acl:relcl,_,_
+Rhap_D2007-24,c'est pour ça que c',était, pas de la radio. ,7,était,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,4,advcl:cleft,_,Overlap=Rhap_D2007-24bis
+Rhap_D2007-26,je me ,planquais, sous le bureau. ,3,planquais,planquer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2007-27,on devait expliquer ce que je ,faisais,", euh. ",7,faisais,faire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,4,acl:relcl,_,SpaceAfter=No
+Rhap_D2007-27,on devait ,expliquer," ce que je faisais, euh. ",3,expliquer,expliquer,VERB,_,VerbForm=Inf,2,xcomp,_,Subject=SubjRaising
+Rhap_D2007-27,on ,devait," expliquer ce que je faisais, euh. ",2,devait,devoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2007-29,alors c'est marrant parce que vous avez ,commencé," acteur, ensuite réalisateur, ensuite scénariste, ensuite animateur radio. ",9,commencé,commencer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4,advcl,_,_
+Rhap_D2007-33,XXX je ,retiendrai, Orson Welles. ,3,retiendrai,retenir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin,0,root,_,_
+Rhap_D2007-36,il y ,a, plus de question. ,3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-37,"maintenant, on va ",faire, une interview vaudeville. ,5,faire,faire,VERB,_,VerbForm=Inf,4,xcomp,_,Subject=SubjRaising
+Rhap_D2007-37,"maintenant, on ",va, faire une interview vaudeville. ,4,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-38,"alors ça marche, ça ",marche," pour tous les deux, hein. ",3,marche,marcher,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6,reparandum,_,SpaceAfter=No
+Rhap_D2007-38,alors ça ,marche,", ça marche pour tous les deux, hein. ",3,marche,marcher,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6,reparandum,_,SpaceAfter=No
+Rhap_D2007-39,"est-ce qu'un après-midi, Emmanuelle, Emmanuelle, est-ce qu'un après-midi, en rentrant plus tôt, vous avez déjà ",surpris, votre petit ami au lit avec quelqu'un d'autre ? ,25,surpris,surprendre,VERB,_,Gender=Masc|Tense=Past|VerbForm=Part,11,ccomp,_,_
+Rhap_D2007-39,"est-ce qu'un après-midi, Emmanuelle, Emmanuelle, est-ce qu'un après-midi, en ",rentrant," plus tôt, vous avez déjà surpris votre petit ami au lit avec quelqu'un d'autre ? ",18,rentrant,rentrer,VERB,_,Tense=Pres|VerbForm=Part,25,advcl,_,_
+Rhap_D2007-39,"est-ce qu'un après-midi, Emmanuelle, Emmanuelle, ",est,"-ce qu'un après-midi, en rentrant plus tôt, vous avez déjà surpris votre petit ami au lit avec quelqu'un d'autre ? ",1,est,être,AUX,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5,cop,_,Overlap=Rhap_D2007-38bis|SpaceAfter=No
+Rhap_D2007-40,ça se ,saurait,. ,3,saurait,savoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D2007-41,il serait ,mort,. ,3,mort,mourir,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D2007-42,"moi, je ",serais, en prison. ,4,serais,être,VERB,_,Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-43,ça se ,saurait,. ,3,saurait,savoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D2007-44,"euh, moi, je, je, je préviens avant de ",rentrer,", surtout plus tôt, quoi. ",13,rentrer,rentrer,VERB,_,VerbForm=Inf,11,acl,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_D2007-44,"euh, moi, je, je, je ",préviens," avant de rentrer, surtout plus tôt, quoi. ",10,préviens,prévenir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-45,"plus tard, je ",préviens, pas. ,5,préviens,prévenir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,AttachTo=10@Rhap_D2007-44|Rel=parataxis:conj
+Rhap_D2007-46,"plus tôt, je ",préviens,. ,5,préviens,prévenir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D2007-47,"Emmanuelle, est-ce que vous avez déjà fait ",sortir, un amant ou une maîtresse par la fenêtre en catastrophe ? ,10,sortir,sortir,VERB,ETRE,VerbForm=Inf,0,root,_,Subject=ObjRaising
+Rhap_D2007-48,elle réfléchit parce qu'elle ne ,baise, que dans les voitures. ,7,baise,baiser,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2,advcl,_,_
+Rhap_D2007-48,elle ,réfléchit, parce qu'elle ne baise que dans les voitures. ,2,réfléchit,réfléchir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-49,"alors elle est, tu ",vois,… ,6,vois,voir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,3,discourse,_,SpaceAfter=No
+Rhap_D2007-50,"je, je ",suis, pas une trompeuse. ,4,suis,être,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-52,"j'aime pas, j~, non, j'",aime, pas le principe. ,2,aime,aimer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,10,reparandum,_,_
+Rhap_D2007-52,j',aime," pas, j~, non, j'aime pas le principe. ",2,aime,aimer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,10,reparandum,_,_
+Rhap_D2007-53,ça m',emmerde,. ,3,emmerde,emmerder,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D2007-54,on s'en ,va,. ,4,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-55|SpaceAfter=No
+Rhap_D2007-55,vous ,avez, des fidélités. ,2,avez,avoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-54
+Rhap_D2007-56,"si on, si on n'est pas heureux, on s'en ",va,. ,14,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D2007-59,"mais, mais ",voilà,. ,4,voilà,voilà,VERB,_,_,0,root,_,SpaceAfter=No
+Rhap_D2007-60,"ça, j'",aime, pas. ,4,aime,aimer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-62,vous ,avez, des fidélités successives en fait. ,2,avez,avoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-64,quand j'ai ,aimé,", j'ai été fidèle, mh. ",4,aimé,aimer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9,advcl,_,SpaceAfter=No
+Rhap_D2007-65,"et toi, ça t'est déjà arrivé de faire ",sortir, un amant ou une maîtresse par la fenêtre en catastrophe ? ,11,sortir,sortir,VERB,ETRE,VerbForm=Inf,8,xcomp,_,Subject=ObjRaising
+Rhap_D2007-65,"et toi, ça t'est déjà ",arrivé, de faire sortir un amant ou une maîtresse par la fenêtre en catastrophe ? ,8,arrivé,arriver,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-67,et puis il va le ,dire, ce soir. ,6,dire,dire,VERB,_,VerbForm=Inf,4,xcomp,_,Overlap=Rhap_D2007-68bis|Subject=SubjRaising
+Rhap_D2007-67,et puis il ,va, le dire ce soir. ,4,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-68bis
+Rhap_D2007-68,il y ,a, aucun problème. ,3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-68bis
+Rhap_D2007-69,s'il y a un endroit pour se confier je ,crois, que c'est la télé. ,11,crois,croire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-69bis
+Rhap_D2007-69,s'il y a un endroit pour se ,confier, je crois que c'est la télé. ,9,confier,confier,VERB,_,VerbForm=Inf,6,acl,_,Overlap=Rhap_D2007-69bis|Subject=NoRaising
+Rhap_D2007-69,s'il y ,a, un endroit pour se confier je crois que c'est la télé. ,4,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11,advcl,_,Overlap=Rhap_D2007-69bis
+Rhap_D2007-70,c',est," là, entre XXX. ",2,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-69
+Rhap_D2007-72,"tu vois, s'il y a un endroit, tu ",vois,", euh. ",2,vois,voir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,12,discourse,_,Overlap=Rhap_D2007-71|SpaceAfter=No
+Rhap_D2007-72,"tu vois, s'il y ",a," un endroit, tu vois, euh. ",7,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,12,advcl,_,Overlap=Rhap_D2007-72bis
+Rhap_D2007-72,tu ,vois,", s'il y a un endroit, tu vois, euh. ",2,vois,voir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,12,discourse,_,Overlap=Rhap_D2007-71|SpaceAfter=No
+Rhap_D2007-73,"c'est marrant, il y a des gens, ils ont des emmerdes parce qu'ils se sont ",confiés, en télé. ,21,confiés,confier,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,13,advcl,_,_
+Rhap_D2007-73,"c'est marrant, il y a des gens, ils ",ont, des emmerdes parce qu'ils se sont confiés en télé. ,13,ont,avoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-73,"c'est marrant, il y ",a," des gens, ils ont des emmerdes parce qu'ils se sont confiés en télé. ",7,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13,advcl,_,_
+Rhap_D2007-74,tu peux jamais ,avoir," de la peine pour eux, quoi. ",4,avoir,avoir,VERB,_,VerbForm=Inf,2,xcomp,_,Subject=SubjRaising
+Rhap_D2007-74,tu ,peux," jamais avoir de la peine pour eux, quoi. ",2,peux,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-75,tu ,dis, mais il est con ou quoi ? ,2,dis,dire,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-76,il a été se ,confier, en télé. ,5,confier,confier,VERB,_,VerbForm=Inf,3,xcomp,_,Subject=SubjRaising
+Rhap_D2007-76,il a ,été, se confier en télé. ,3,été,être,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-77,et puis il s'étonne que les gens le ,sachent,. ,10,sachent,savoir,VERB,_,Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,5,ccomp,_,Overlap=Rhap_D2007-78|SpaceAfter=No
+Rhap_D2007-77,et puis il s',étonne, que les gens le sachent. ,5,étonne,étonner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Reported=Yes
+Rhap_D2007-78,"je croyais, je ",croyais, XXX. ,2,croyais,croire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,5,reparandum,_,Overlap=Rhap_D2007-77|SpaceAfter=No
+Rhap_D2007-78,je ,croyais,", je croyais XXX. ",2,croyais,croire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,5,reparandum,_,Overlap=Rhap_D2007-77|SpaceAfter=No
+Rhap_D2007-79,"ah, c'était ",filmé,. ,5,filmé,filmer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,Overlap=Rhap_D2007-78|SpaceAfter=No
+Rhap_D2007-80,mais je ,savais, pas. ,3,savais,savoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2007-82,je croyais que le fait de t'habiller comme moi te ,rendrait, plus sincère. ,12,rendrait,rendre,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2,ccomp,_,_
+Rhap_D2007-82,je croyais que le fait de t',habiller, comme moi te rendrait plus sincère. ,8,habiller,habiller,VERB,_,VerbForm=Inf,5,acl,_,Subject=NoRaising
+Rhap_D2007-82,je ,croyais, que le fait de t'habiller comme moi te rendrait plus sincère. ,2,croyais,croire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2007-84,ça te ,va, bien. ,3,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-85
+Rhap_D2007-85,"XXX, ah, mais c'est vrai qu'on est ",habillé, pareil. ,12,habillé,habiller,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8,csubj,_,_
+Rhap_D2007-86,"ça te va bien, tu ",sais,. ,7,sais,savoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,4,discourse,_,Overlap=Rhap_D2007-85|SpaceAfter=No
+Rhap_D2007-86,ça te ,va," bien, tu sais. ",3,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-85
+Rhap_D2007-87,"ben, c'",est, pour ça. ,4,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-88,je ,regarde, comme ça. ,2,regarde,regarder,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-89
+Rhap_D2007-89,vous allez ,changer, tout à l'heure. ,3,changer,changer,VERB,_,VerbForm=Inf,2,xcomp,_,Overlap=Rhap_D2007-88|Subject=SubjRaising
+Rhap_D2007-89,vous ,allez, changer tout à l'heure. ,2,allez,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D2007-88
+Rhap_D2007-91,"Emmanuelle, est-ce que vous vous êtes déjà écriée ciel, mon mari, en entendant la porte d'entrée s'",ouvrir, ? ,23,ouvrir,ouvrir,VERB,_,VerbForm=Inf,17,ccomp,_,Subject=NoRaising
+Rhap_D2007-91,"Emmanuelle, est-ce que vous vous êtes déjà écriée ciel, mon mari, en ",entendant, la porte d'entrée s'ouvrir ? ,17,entendant,entendre,VERB,_,Tense=Pres|VerbForm=Part,10,advcl,_,_
+Rhap_D2007-91,"Emmanuelle, est-ce que vous vous êtes déjà ",écriée," ciel, mon mari, en entendant la porte d'entrée s'ouvrir ? ",10,écriée,écrier,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-92,"j'ai jamais m~, j'ai jamais, je me suis jamais ",mariée,. ,14,mariée,marier,VERB,conj:reform,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D2007-92,"j'ai jamais m~, j'",ai," jamais, je me suis jamais mariée. ",2,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,14,reparandum,_,_
+Rhap_D2007-92,j',ai," jamais m~, j'ai jamais, je me suis jamais mariée. ",2,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,14,reparandum,_,_
+Rhap_D2007-93,"ça t'est déjà arrivé de dire ciel, mon mari, toi en ",entendant, la porte que… ,15,entendant,entendre,VERB,_,Tense=Pres|VerbForm=Part,5,advcl,_,_
+Rhap_D2007-93,ça t'est déjà arrivé de ,dire," ciel, mon mari, toi en entendant la porte que… ",7,dire,dire,VERB,_,VerbForm=Inf,5,xcomp,_,Subject=SubjRaising
+Rhap_D2007-93,ça t'est déjà ,arrivé," de dire ciel, mon mari, toi en entendant la porte que… ",5,arrivé,arriver,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-94,ça voudrait dire que tu ,trompes, ton ma~. ,6,trompes,tromper,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,3,ccomp,_,_
+Rhap_D2007-94,ça voudrait ,dire, que tu trompes ton ma~. ,3,dire,dire,VERB,_,VerbForm=Inf,2,xcomp,_,Subject=SubjRaising
+Rhap_D2007-94,ça ,voudrait, dire que tu trompes ton ma~. ,2,voudrait,vouloir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-95,"et en plus, tu ",es," chez toi, mh. ",6,es,être,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-96,tu ,vois,", non ? ",2,vois,voir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D2007-97,je n'ai jamais ,trompé, mon mari. ,5,trompé,tromper,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-98,"est-ce que tu as déjà dit à ta petite amie mais non, c'est pas ce que tu ",crois,. ,21,crois,croire,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,18,acl:relcl,_,SpaceAfter=No
+Rhap_D2007-98,est-ce que tu as déjà ,dit," à ta petite amie mais non, c'est pas ce que tu crois. ",7,dit,dire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-99,c'est déjà ,arrivé,", ça ? ",4,arrivé,arriver,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D2007-102,ça ,sent, le César. ,2,sent,sentir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-104,et est-ce que dans l'intimité vous avez déjà ,appelé, votre petit ami ou votre fiancé par un autre prénom que le sien ? ,11,appelé,appeler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-105,c'est ,arrivé,. ,3,arrivé,arriver,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D2007-107,vous voyez ce que je veux ,dire, ? ,7,dire,dire,VERB,_,VerbForm=Inf,6,xcomp,_,Subject=SubjRaising
+Rhap_D2007-107,vous voyez ce que je ,veux, dire ? ,6,veux,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,3,acl:relcl,_,_
+Rhap_D2007-107,vous ,voyez, ce que je veux dire ? ,2,voyez,voir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-108bis,,voilà,. ,1,voilà,voilà,VERB,_,_,0,root,_,Overlap=Rhap_D2007-108quater|SpaceAfter=No
+Rhap_D2007-109,"toi, ça t'est déjà ",arrivé, ? ,7,arrivé,arriver,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-110,"euh, ben, en général, je les ",prends, toutes avec le même prénom. ,10,prends,prendre,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-112,ça ,passe," partout, hein. ",2,passe,passer,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-113,"Patrick, est-ce qu'au téléphone, vous avez déjà chauffé la mère en pensant que vous vous ",adressiez, à la fille ? ,21,adressiez,adresser,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin,17,ccomp,_,_
+Rhap_D2007-113,"Patrick, est-ce qu'au téléphone, vous avez déjà chauffé la mère en ",pensant, que vous vous adressiez à la fille ? ,17,pensant,penser,VERB,_,Tense=Pres|VerbForm=Part,13,advcl,_,_
+Rhap_D2007-113,"Patrick, est-ce qu'au téléphone, vous avez déjà ",chauffé, la mère en pensant que vous vous adressiez à la fille ? ,13,chauffé,chauffer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-116,"ce qui m'est arrivé, c'est des fois de déconner en appelant un pote et de ",tomber, sur son père. ,20,tomber,tomber,VERB,ETRE,VerbForm=Inf,13,conj,_,Subject=SubjRaising
+Rhap_D2007-116,"ce qui m'est arrivé, c'est des fois de déconner en ",appelant, un pote et de tomber sur son père. ,15,appelant,appeler,VERB,_,Tense=Pres|VerbForm=Part,13,advcl,_,_
+Rhap_D2007-116,"ce qui m'est arrivé, c'est des fois de ",déconner, en appelant un pote et de tomber sur son père. ,13,déconner,déconner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-116,ce qui m'est ,arrivé,", c'est des fois de déconner en appelant un pote et de tomber sur son père. ",5,arrivé,arriver,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,1,acl:relcl,_,SpaceAfter=No
+Rhap_D2007-119,"mais, euh, euh, se, se, se ",gourer,… ,12,gourer,gourer,VERB,_,VerbForm=Inf,0,root,_,SpaceAfter=No|Subject=NoRaising
+Rhap_D2007-120,et puis ,chauffer, comme ça… ,3,chauffer,chauffer,VERB,_,VerbForm=Inf,0,root,_,Subject=NoRaising
+Rhap_D2007-121,c'est-à-dire ,dragouiller, la mère… ,2,dragouiller,dragouiller,VERB,_,VerbForm=Inf,0,root,_,Subject=SubjRaising
+Rhap_D2007-122,ou ,draguer,… ,2,draguer,draguer,VERB,_,VerbForm=Inf,0,root,_,SpaceAfter=No|Subject=NoRaising
+Rhap_D2007-123,ou ,faire," une déclaration d'amour à la mère, non. ",2,faire,faire,VERB,_,VerbForm=Inf,0,root,_,Subject=NoRaising
+Rhap_D2007-124,"enfin surtout si elle dit oui, tu ",imagines, ? ,9,imagines,imaginer,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,6,discourse,_,_
+Rhap_D2007-124,enfin surtout si elle ,dit," oui, tu imagines ? ",5,dit,dire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-125,c'est en ,croyant, que c'était la fille. ,4,croyant,croire,VERB,_,Tense=Pres|VerbForm=Part,0,root,_,_
+Rhap_D2007-126,en ,croyant," que c'était la fille, ah, oui, non. ",2,croyant,croire,VERB,_,Tense=Pres|VerbForm=Part,0,root,_,_
+Rhap_D2007-127,j'ai toujours ,su, que c'était la mère. ,4,su,savoir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-128,tu as ,vu, ? ,3,vu,voir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,Overlap=Rhap_D2007-127
+Rhap_D2007-129,tu as ,vu, ? ,3,vu,voir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2007-130,il ,répond, d'abord. ,2,répond,répondre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2007-131,et il ,comprend, après. ,3,comprend,comprendre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-1,"écrivain, conseiller spécial du président François Mitterrand, banquier du monde, Jacques Attali a ",usé, de tous les pouvoirs dans les coulisses de l'histoire. ,19,usé,user,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-2,il s'est ,voulu," comme un homme d'idées, un homme de concepts. ",4,voulu,vouloir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-3,ses talents ,séduisent, un large public. ,3,séduisent,séduire,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-4,,considéré," par certains comme un des esprits les plus vifs, il est l'auteur de nombreux best sellers comme Mille quatre cent quatre-vingt-douze ou le Dictionnaire du vingt-et-unième siècle. ",1,considéré,considérer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16,advcl,_,_
+Rhap_D2005-5,"perçu comme un surdoué de sa génération, son action s'",étend, aux allées du pouvoir. ,12,étend,étendre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-5,,perçu," comme un surdoué de sa génération, son action s'étend aux allées du pouvoir. ",1,perçu,percevoir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12,advcl,_,_
+Rhap_D2005-6,"il devient le sherpa du président, le porteur de valises, le conseiller influent du prince qui ",négocie, au plus haut niveau avec les hommes et les États. ,21,négocie,négocier,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15,acl:relcl,_,_
+Rhap_D2005-6,il ,devient," le sherpa du président, le porteur de valises, le conseiller influent du prince qui négocie au plus haut niveau avec les hommes et les États. ",2,devient,devenir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-7,"devenu l'acteur principal de ses idées, il s'expose directement comme concepteur et président d'une banque internationale pour la reconstruction d'un monde qui ",vacille,", la Russie et le bloc de l'Est. ",28,vacille,vaciller,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,26,acl:relcl,_,SpaceAfter=No
+Rhap_D2005-7,"devenu l'acteur principal de ses idées, il s'",expose," directement comme concepteur et président d'une banque internationale pour la reconstruction d'un monde qui vacille, la Russie et le bloc de l'Est. ",11,expose,exposer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-7,,devenu," l'acteur principal de ses idées, il s'expose directement comme concepteur et président d'une banque internationale pour la reconstruction d'un monde qui vacille, la Russie et le bloc de l'Est. ",1,devenu,devenir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11,advcl,_,_
+Rhap_D2005-9,et la tourmente qu'il génère va l',emporter,. ,9,emporter,emporter,VERB,_,VerbForm=Inf,7,xcomp,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_D2005-9,et la tourmente qu'il génère ,va, l'emporter. ,7,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-9,et la tourmente qu'il ,génère, va l'emporter. ,6,génère,générer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,acl:relcl,_,_
+Rhap_D2005-10,il démissionne et se ,retire,. ,5,retire,retirer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2,conj,_,SpaceAfter=No
+Rhap_D2005-10,il ,démissionne, et se retire. ,2,démissionne,démissionner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-11,"aujourd'hui, il continue son activité de conseil et se consacre toujours à l'écriture et à l'histoire, qui ne l'a pas toujours ",reconnu,. ,27,reconnu,reconnaître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,19,acl:relcl,_,SpaceAfter=No
+Rhap_D2005-11,"aujourd'hui, il continue son activité de conseil et se ",consacre," toujours à l'écriture et à l'histoire, qui ne l'a pas toujours reconnu. ",11,consacre,consacrer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,conj,_,_
+Rhap_D2005-11,"aujourd'hui, il ",continue," son activité de conseil et se consacre toujours à l'écriture et à l'histoire, qui ne l'a pas toujours reconnu. ",4,continue,continuer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-12,je suis ,né, à Alger en mille neuf cent quarante-trois. ,3,né,naître,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-13,"donc, euh, j'ai ",connu, l'Algérie heureuse. ,7,connu,connaître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-14,je suis ,né, un premier novembre. ,3,né,naître,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-15,"donc, euh, mon anniversaire ",coïncide, avec le début de l'insurrection algérienne. ,7,coïncide,coïncider,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-16,et j',étais," d'une famille très unie, très aisée. ",3,étais,être,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-17,"euh, mon père était un autodidacte venant d'un milieu très pauvre, ayant fait aucune étude mais ayant une passion de la littérature et du savoir et ayant ",accumulé, un énorme savoir d'autodidacte. ,32,accumulé,accumuler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16,conj,_,_
+Rhap_D2005-17,"euh, mon père était un autodidacte venant d'un milieu très pauvre, ayant fait aucune étude mais ",ayant, une passion de la littérature et du savoir et ayant accumulé un énorme savoir d'autodidacte. ,15,ayant,avoir,AUX,_,Tense=Pres|VerbForm=Part,16,aux:tense,_,_
+Rhap_D2005-17,"euh, mon père était un autodidacte venant d'un milieu très pauvre, ayant ",fait, aucune étude mais ayant une passion de la littérature et du savoir et ayant accumulé un énorme savoir d'autodidacte. ,16,fait,faire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8,conj,_,_
+Rhap_D2005-17,"euh, mon père était un autodidacte ",venant," d'un milieu très pauvre, ayant fait aucune étude mais ayant une passion de la littérature et du savoir et ayant accumulé un énorme savoir d'autodidacte. ",8,venant,venir,VERB,_,Tense=Pres|VerbForm=Part,7,acl,_,_
+Rhap_D2005-18,"et j'ai vécu avec mon frère jumeau et ma sœur dans, dans une ambiance où le livre était ",sacré," et où, euh, le travail était la moindre des choses. ",21,sacré,sacrer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16,acl:relcl,_,_
+Rhap_D2005-18,et j'ai ,vécu," avec mon frère jumeau et ma sœur dans, dans une ambiance où le livre était sacré et où, euh, le travail était la moindre des choses. ",4,vécu,vivre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-19,nous sommes ,venus, en France en mille neuf cent cinquante-six. ,3,venus,venir,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-20,j',avais, douze ans. ,2,avais,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-21,"et je suis entré au , ",fait," mes études au , à Janson de Sailly à Paris. ",8,fait,faire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-21,et je suis ,entré," au , fait mes études au , à Janson de Sailly à Paris. ",4,entré,entrer,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8,reparandum,_,_
+Rhap_D2005-22,"et avec une ambition qui commençait à se cristalliser déjà autour de l'idée d'écrire et de chercher, j'ai toujours pensé qu'on n'est pas sur terre pour être heureux mais pour, euh, ",essayer, d'être utile. ,40,essayer,essayer,VERB,_,VerbForm=Inf,34,conj,_,Subject=NoRaising
+Rhap_D2005-22,"et avec une ambition qui commençait à se cristalliser déjà autour de l'idée d'écrire et de chercher, j'ai toujours pensé qu'on n'",est," pas sur terre pour être heureux mais pour, euh, essayer d'être utile. ",28,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,24,ccomp,_,_
+Rhap_D2005-22,"et avec une ambition qui commençait à se cristalliser déjà autour de l'idée d'écrire et de chercher, j'ai toujours ",pensé," qu'on n'est pas sur terre pour être heureux mais pour, euh, essayer d'être utile. ",24,pensé,penser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-22,et avec une ambition qui commençait à se cristalliser déjà autour de l'idée d'écrire et de ,chercher,", j'ai toujours pensé qu'on n'est pas sur terre pour être heureux mais pour, euh, essayer d'être utile. ",19,chercher,chercher,VERB,_,VerbForm=Inf,16,conj,_,SpaceAfter=No|Subject=NoRaising
+Rhap_D2005-22,et avec une ambition qui commençait à se cristalliser déjà autour de l'idée d',écrire," et de chercher, j'ai toujours pensé qu'on n'est pas sur terre pour être heureux mais pour, euh, essayer d'être utile. ",16,écrire,écrire,VERB,_,VerbForm=Inf,14,acl,_,Subject=NoRaising
+Rhap_D2005-22,et avec une ambition qui commençait à se ,cristalliser," déjà autour de l'idée d'écrire et de chercher, j'ai toujours pensé qu'on n'est pas sur terre pour être heureux mais pour, euh, essayer d'être utile. ",9,cristalliser,cristalliser,VERB,_,VerbForm=Inf,6,xcomp,_,Subject=SubjRaising
+Rhap_D2005-22,et avec une ambition qui ,commençait," à se cristalliser déjà autour de l'idée d'écrire et de chercher, j'ai toujours pensé qu'on n'est pas sur terre pour être heureux mais pour, euh, essayer d'être utile. ",6,commençait,commencer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,4,acl:relcl,_,_
+Rhap_D2005-24,servir à quelque chose est quelque chose qui me ,préoccupe, tout le temps. ,10,préoccupe,préoccuper,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7,acl:relcl,_,_
+Rhap_D2005-24,,servir, à quelque chose est quelque chose qui me préoccupe tout le temps. ,1,servir,servir,VERB,_,VerbForm=Inf,7,csubj,_,Subject=NoRaising
+Rhap_D2005-25,"et faire avancer le savoir ou faire avancer la littérature ou créer des, des choses qui durent et qui servent, euh, m'a ",paru, être essentiel. ,27,paru,paraître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-25,"et faire avancer le savoir ou faire avancer la littérature ou créer des, des choses qui durent et qui ",servent,", euh, m'a paru être essentiel. ",21,servent,servir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,18,conj,_,SpaceAfter=No
+Rhap_D2005-25,"et faire avancer le savoir ou faire avancer la littérature ou créer des, des choses qui ",durent," et qui servent, euh, m'a paru être essentiel. ",18,durent,devoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin,16,acl:relcl,_,_
+Rhap_D2005-25,et faire avancer le savoir ou faire avancer la littérature ou ,créer," des, des choses qui durent et qui servent, euh, m'a paru être essentiel. ",12,créer,créer,VERB,_,VerbForm=Inf,3,conj,_,Subject=NoRaising
+Rhap_D2005-25,et faire avancer le savoir ou faire ,avancer," la littérature ou créer des, des choses qui durent et qui servent, euh, m'a paru être essentiel. ",3,avancer,avancer,VERB,_,VerbForm=Inf,27,csubj,_,Subject=ObjRaising
+Rhap_D2005-25,et faire ,avancer," le savoir ou faire avancer la littérature ou créer des, des choses qui durent et qui servent, euh, m'a paru être essentiel. ",3,avancer,avancer,VERB,_,VerbForm=Inf,27,csubj,_,Subject=ObjRaising
+Rhap_D2005-26,"et très tôt, vous avez ",eu, cette conviction profonde ? ,7,eu,avoir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-27,"très tôt, dès, disons, dès quinze, seize ans, j'ai eu envie d'être un intellectuel qui ",marque, son temps. ,23,marque,marquer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,21,acl:relcl,_,_
+Rhap_D2005-27,"très tôt, dès, disons, dès quinze, seize ans, j'ai ",eu, envie d'être un intellectuel qui marque son temps. ,16,eu,avoir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-27,"très tôt, dès, ",disons,", dès quinze, seize ans, j'ai eu envie d'être un intellectuel qui marque son temps. ",6,disons,dire,VERB,_,Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,4,discourse,_,SpaceAfter=No
+Rhap_D2005-28,dans ma famille on a toujours ,fait,", euh, de la littérature et de la recherche quelque chose d'essentiel. ",7,fait,faire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D2005-29,j',ai,… ,2,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,Scrap=Yes|SpaceAfter=No
+Rhap_D2005-30,c'est pas en révolte avec mon environnement que j'ai ,voulu," ça, non. ",12,voulu,vouloir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5,advcl:cleft,_,_
+Rhap_D2005-32,"mon père était, euh, ",ét~,… ,7,ét~,ét~,VERB,_,_,0,root,_,Scrap=Yes|SpaceAfter=No
+Rhap_D2005-34,même s'ils ,parlaient," le français absolument parfaitement, sans accent, sans même aucun accent pied noir. ",4,parlaient,parler,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-35,je n'ai jamais ,eu, un environnement d'accent pied noir. ,5,eu,avoir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-36,"entre eux, ils ",parlaient, l'arabe. ,5,parlaient,parler,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-38,"enfant, je, je ",lisais, tout. ,6,lisais,lire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-39,j'ai ,lu," beaucoup, beaucoup. ",3,lu,lire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-41,j'étais très ,impressionné, par le théâtre de Marivaux qui était important pour moi. ,4,impressionné,impressionner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-42,"et puis je me suis mis un peu plus tard, c'est-à-dire vers dix-huit ans, à ",découvrir, la littérature étrangère. ,18,découvrir,découvrir,VERB,_,VerbForm=Inf,6,xcomp,_,Subject=SubjRaising
+Rhap_D2005-42,et puis je me suis ,mis," un peu plus tard, c'est-à-dire vers dix-huit ans, à découvrir la littérature étrangère. ",6,mis,mettre,VERB,_,Gender=Masc|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-43,c'était une partie assez secondaire quand même de mon activité parce que je ,faisais, beaucoup de piano aussi. ,15,faisais,faire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,4,advcl,_,_
+Rhap_D2005-44,je ,jouais, énormément de musique. ,2,jouais,jouer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-45,"et, et, et m~, mon idée c'était de faire des études de mathématiques, puisque c'était le domaine dans lequel je me trouvais être le plus doué, pour ensuite ",revenir, à la littérature. ,36,revenir,revenir,VERB,_,VerbForm=Inf,13,advcl,_,Subject=NoRaising
+Rhap_D2005-45,"et, et, et m~, mon idée c'était de faire des études de mathématiques, puisque c'était le domaine dans lequel je me ",trouvais," être le plus doué, pour ensuite revenir à la littérature. ",28,trouvais,trouver,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,23,acl:relcl,_,_
+Rhap_D2005-45,"et, et, et m~, mon idée c'était de ",faire," des études de mathématiques, puisque c'était le domaine dans lequel je me trouvais être le plus doué, pour ensuite revenir à la littérature. ",13,faire,faire,VERB,_,VerbForm=Inf,0,root,_,Subject=NoRaising
+Rhap_D2005-47,"déjà, au lycée, vous vous ",distinguez," par vos, vos, vos talents intellectuels ? ",9,distinguez,distinguer,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-48,"j'étais, euh, j'",avais, la réputation d'être un très bon élève. ,7,avais,avoir,VERB,conj:reform,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-50,j',avais, la réputation d'être très doué. ,2,avais,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-51,mais je ,faisais, pas grand-chose. ,3,faisais,faire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-52,j',étais," toujours, euh, dans les cinq premiers de la classe, mais sans plus. ",2,étais,être,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-53,"mais alors, donc, vous allez ",faire," toutes les plus grandes écoles françaises, Polytechnique, l'Ena, l'École des Mines. ",8,faire,faire,VERB,_,VerbForm=Inf,7,xcomp,_,Subject=SubjRaising
+Rhap_D2005-53,"mais alors, donc, vous ",allez," faire toutes les plus grandes écoles françaises, Polytechnique, l'Ena, l'École des Mines. ",7,allez,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-54,"alors, euh, pourquoi se ",diriger, vers ces grandes écoles ? ,7,diriger,diriger,VERB,_,VerbForm=Inf,0,root,_,Subject=NoRaising
+Rhap_D2005-56,pourquoi ne pas ,faire," de la sociologie, de l'histoire ou de la recherche ? ",4,faire,faire,VERB,_,VerbForm=Inf,0,root,_,Subject=NoRaising
+Rhap_D2005-57,"dans ma génération, euh, c'était à peu près évident quand on était bon en maths de ne pas ",gaspiller, ce talent. ,22,gaspiller,gaspiller,VERB,_,VerbForm=Inf,12,advcl,_,Subject=SubjRaising
+Rhap_D2005-58,"euh, et ça ",reste, vrai. ,5,reste,rester,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-59,"il se trouve qu'à partir de la Math Elem, je me suis ",trouvé, très bon en maths. ,15,trouvé,trouver,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3,ccomp,_,_
+Rhap_D2005-59,il se trouve qu'à ,partir," de la Math Elem, je me suis trouvé très bon en maths. ",6,partir,partir,VERB,ETRE,VerbForm=Inf,5,fixed,_,InIdiom=Yes
+Rhap_D2005-59,il se ,trouve," qu'à partir de la Math Elem, je me suis trouvé très bon en maths. ",3,trouve,trouver,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-60,"et donc, euh, pas question de gaspiller ce talent quitte à, à savoir très vite, dès ce moment-là que je ",ferais, pas un métier des mathématiques. ,26,ferais,faire,VERB,_,Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,16,ccomp,_,_
+Rhap_D2005-60,"et donc, euh, pas question de gaspiller ce talent quitte à, à ",savoir," très vite, dès ce moment-là que je ferais pas un métier des mathématiques. ",16,savoir,savoir,VERB,conj:reform,VerbForm=Inf,12,ccomp,_,Subject=NoRaising
+Rhap_D2005-60,"et donc, euh, pas question de ",gaspiller," ce talent quitte à, à savoir très vite, dès ce moment-là que je ferais pas un métier des mathématiques. ",9,gaspiller,gaspiller,VERB,_,VerbForm=Inf,7,acl,_,Subject=NoRaising
+Rhap_D2005-62,mais je voulais ,aller," à bout, au bout de ce savoir. ",4,aller,aller,VERB,ETRE,VerbForm=Inf,3,xcomp,_,Subject=SubjRaising
+Rhap_D2005-62,mais je ,voulais," aller à bout, au bout de ce savoir. ",3,voulais,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-63,et puis j',avais," toujours présent à l'esprit Lewis Carroll, mathématicien-écrivain. ",4,avais,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-64,"et en même temps, je voyais les mathématiques comme ça, c'est-à-dire comme l'autre côté du miroir qui fait ",découvrir," un univers, euh, fantastique. ",23,découvrir,découvrir,VERB,CAUSATIVE,VerbForm=Inf,17,acl:relcl,_,Subject=ObjRaising
+Rhap_D2005-64,"et en même temps, je ",voyais," les mathématiques comme ça, c'est-à-dire comme l'autre côté du miroir qui fait découvrir un univers, euh, fantastique. ",7,voyais,voir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D2005-65,"les mathématiques, je l~, je les ai ",vues," toujours comme très, euh, poétiques. ",10,vues,voir,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-66,"et est-ce qu'il y a à ce moment-là s~ un projet de, de, de ",faire, quelque chose ? ,20,faire,faire,VERB,_,VerbForm=Inf,14,acl,_,Overlap=Rhap_D2005-67|Subject=NoRaising
+Rhap_D2005-66,et est-ce qu'il y ,a," à ce moment-là s~ un projet de, de, de faire quelque chose ? ",7,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D2005-67,j',avais,… ,2,avais,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,Overlap=Rhap_D2005-67|Scrap=Yes|SpaceAfter=No
+Rhap_D2005-70,j'ai jamais eu envie d'aller ,faire, une carrière politique. ,8,faire,faire,VERB,_,VerbForm=Inf,7,xcomp,_,Subject=SubjRaising
+Rhap_D2005-70,j'ai jamais eu envie d',aller, faire une carrière politique. ,7,aller,aller,VERB,ETRE,VerbForm=Inf,5,acl,_,Subject=SubjRaising
+Rhap_D2005-70,j'ai jamais ,eu, envie d'aller faire une carrière politique. ,4,eu,avoir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D2005-71,"j'ai toujours envie de faire, euh, avancer le monde par mes idées, quitte à les ",mettre, en œuvre moi-même. ,20,mettre,mettre,VERB,_,VerbForm=Inf,17,xcomp,_,Subject=SubjRaising
+Rhap_D2005-71,"j'ai toujours envie de faire, euh, ",avancer," le monde par mes idées, quitte à les mettre en œuvre moi-même. ",10,avancer,avancer,VERB,_,VerbForm=Inf,4,acl,_,Subject=SubjRaising
+Rhap_D2005-71,j',ai," toujours envie de faire, euh, avancer le monde par mes idées, quitte à les mettre en œuvre moi-même. ",2,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0003-1,vous êtes ,venue, à Paris à quel âge ? ,3,venue,venir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-2,"eh bien, euh, ",voilà,. ,6,voilà,voilà,VERB,_,_,0,root,_,SpaceAfter=No
+Rhap_D0003-3,"mes parents, tous les deux, ont ",vécu," à Paris jeunes, hein. ",9,vécu,vivre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-4,"et puis en se mariant, ils sont partis ",vivre, en province. ,10,vivre,vivre,VERB,_,VerbForm=Inf,9,xcomp,_,Subject=SubjRaising
+Rhap_D0003-4,"et puis en se mariant, ils sont ",partis, vivre en province. ,9,partis,partir,VERB,ETRE,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-4,et puis en se ,mariant,", ils sont partis vivre en province. ",5,mariant,marier,VERB,_,Tense=Pres|VerbForm=Part,9,advcl,_,SpaceAfter=No
+Rhap_D0003-5,"et petit à petit, ils ont essayé d'avoir quelque chose à Paris, petit studio ou quelque chose comme ça pour revenir ",voir, leurs amis et puis pour y… ,25,voir,voir,VERB,_,VerbForm=Inf,24,ccomp,_,Subject=NoRaising
+Rhap_D0003-5,"et petit à petit, ils ont essayé d'avoir quelque chose à Paris, petit studio ou quelque chose comme ça pour ",revenir, voir leurs amis et puis pour y… ,24,revenir,revenir,VERB,_,VerbForm=Inf,10,advcl,_,Subject=NoRaising
+Rhap_D0003-5,"et petit à petit, ils ont essayé d'",avoir," quelque chose à Paris, petit studio ou quelque chose comme ça pour revenir voir leurs amis et puis pour y… ",10,avoir,avoir,VERB,_,VerbForm=Inf,8,xcomp,_,Subject=SubjRaising
+Rhap_D0003-5,"et petit à petit, ils ont ",essayé," d'avoir quelque chose à Paris, petit studio ou quelque chose comme ça pour revenir voir leurs amis et puis pour y… ",8,essayé,essayer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-7,"alors, ils avaient envie d'",entendre, de la musique. ,7,entendre,entendre,VERB,_,VerbForm=Inf,5,acl,_,Overlap=Rhap_D0003-8|Subject=SubjRaising
+Rhap_D0003-7,"alors, ils ",avaient, envie d'entendre de la musique. ,4,avaient,avoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,Overlap=Rhap_D0003-8
+Rhap_D0003-8bis,"alors, quand ils pouvaient, ils ",faisaient, ça. ,8,faisaient,faire,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0003-8bis,"alors, quand ils ",pouvaient,", ils faisaient ça. ",5,pouvaient,pouvoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,8,advcl,_,SpaceAfter=No
+Rhap_D0003-9,"ce qui fait que au moment, mh, de la guerre, nous ",étions, toujours en Bretagne. ,16,étions,être,VERB,_,Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin,3,ccomp,_,_
+Rhap_D0003-9,ce qui ,fait," que au moment, mh, de la guerre, nous étions toujours en Bretagne. ",3,fait,faire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,1,acl:relcl,_,_
+Rhap_D0003-11,il y avait cet endroit à Paris où on pouvait ,arriver,. ,11,arriver,arriver,VERB,ETRE,VerbForm=Inf,10,xcomp,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_D0003-11,il y avait cet endroit à Paris où on ,pouvait, arriver. ,10,pouvait,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,5,acl:relcl,_,_
+Rhap_D0003-11,il y ,avait, cet endroit à Paris où on pouvait arriver. ,3,avait,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0003-12,"il y avait deux pièces, ",voyez, ? ,7,voyez,voir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,5,discourse,_,_
+Rhap_D0003-12,il y ,avait," deux pièces, voyez ? ",3,avait,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0003-14,nous avons ,été," sous très gros bombardements américains, puis anglais. ",3,été,être,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-16,"après le bombardement anglais, mon, mon père a dit, bon, il f~, il faut partir, il ",faut,… ,19,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11,ccomp,_,_
+Rhap_D0003-16,"après le bombardement anglais, mon, mon père a dit, bon, il f~, il faut ",partir,", il faut… ",20,partir,partir,VERB,ETRE,VerbForm=Inf,23,reparandum,_,SpaceAfter=No|Subject=NoRaising
+Rhap_D0003-16,"après le bombardement anglais, mon, mon père a dit, bon, il f~, il ",faut," partir, il faut… ",19,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11,ccomp,_,_
+Rhap_D0003-16,"après le bombardement anglais, mon, mon père a dit, bon, il ",f~,", il faut partir, il faut… ",16,f~,f~,VERB,CCOMP,_,19,reparandum,_,Reported=Yes|SpaceAfter=No
+Rhap_D0003-16,"après le bombardement anglais, mon, mon père a ",dit,", bon, il f~, il faut partir, il faut… ",11,dit,dire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D0003-17,tout le monde ,partait,. ,4,partait,partir,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D0003-18,"lui, il avait passé les quatre nuits, ou trois nuits à, à ramper dans les décombres pour aider les gens à mourir parce qu'on pouvait pas ",sortir, les gens de là. ,31,sortir,sortir,VERB,ETRE,VerbForm=Inf,29,xcomp,_,Subject=SubjRaising
+Rhap_D0003-18,"lui, il avait passé les quatre nuits, ou trois nuits à, à ramper dans les décombres pour aider les gens à mourir parce qu'on ",pouvait, pas sortir les gens de là. ,29,pouvait,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,5,advcl,_,_
+Rhap_D0003-18,"lui, il avait passé les quatre nuits, ou trois nuits à, à ramper dans les décombres pour aider les gens à ",mourir, parce qu'on pouvait pas sortir les gens de là. ,25,mourir,mourir,VERB,ETRE,VerbForm=Inf,21,ccomp,_,Subject=NoRaising
+Rhap_D0003-18,"lui, il avait passé les quatre nuits, ou trois nuits à, à ramper dans les décombres pour ",aider, les gens à mourir parce qu'on pouvait pas sortir les gens de là. ,21,aider,aider,VERB,_,VerbForm=Inf,16,advcl,_,Subject=NoRaising
+Rhap_D0003-18,"lui, il avait passé les quatre nuits, ou trois nuits à, à ",ramper, dans les décombres pour aider les gens à mourir parce qu'on pouvait pas sortir les gens de là. ,16,ramper,ramper,VERB,_,VerbForm=Inf,5,advcl,_,Subject=SubjRaising
+Rhap_D0003-18,"lui, il avait ",passé," les quatre nuits, ou trois nuits à, à ramper dans les décombres pour aider les gens à mourir parce qu'on pouvait pas sortir les gens de là. ",5,passé,passer,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-20,on s'est ,retrouvé," sans eau, ni gaz, ni téléphone, ni électricité. ",4,retrouvé,retrouver,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-22,c',était, à Nantes. ,2,était,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0003-24,"et la, la Loire ",est, en bas. ,6,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0003-25,et les malheureux allaient puiser de l'eau dans la Loire et remontaient pour ,arroser,. ,15,arroser,arroser,VERB,_,VerbForm=Inf,13,advcl,_,SpaceAfter=No|Subject=NoRaising
+Rhap_D0003-25,et les malheureux allaient puiser de l'eau dans la Loire et ,remontaient, pour arroser. ,13,remontaient,remonter,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,5,conj,_,_
+Rhap_D0003-25,et les malheureux allaient ,puiser, de l'eau dans la Loire et remontaient pour arroser. ,5,puiser,puiser,VERB,_,VerbForm=Inf,4,xcomp,_,Subject=SubjRaising
+Rhap_D0003-25,et les malheureux ,allaient, puiser de l'eau dans la Loire et remontaient pour arroser. ,4,allaient,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0003-26,,voyez,", c'était, c'était effarant. ",1,voyez,voir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,4,discourse,_,SpaceAfter=No
+Rhap_D0003-28,"et les, les maisons ont ",brûlé,. ,7,brûlé,brûler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D0003-29,et il y ,avait, des gens là-dedans qui étaient prisonniers. ,4,avait,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0003-30,et on ,pouvait," pas, hein. ",3,pouvait,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,Scrap=Yes
+Rhap_D0003-31,"alors, mon père avait passé ses nuits à ",faire, ça. ,10,faire,faire,VERB,_,VerbForm=Inf,6,xcomp,_,Subject=SubjRaising
+Rhap_D0003-31,"alors, mon père avait ",passé, ses nuits à faire ça. ,6,passé,passer,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-32,"et puis quand il a entendu le bombardement anglais le de~, le dernier soir, il a ",dit," ça, ce sont les anglais. ",19,dit,dire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,Overlap=Rhap_D0003-32bis
+Rhap_D0003-32,et puis quand il a ,entendu," le bombardement anglais le de~, le dernier soir, il a dit ça, ce sont les anglais. ",6,entendu,entendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,15,reparandum,_,_
+Rhap_D0003-33,c',est, parce qu'il avait été pilote d'essai XXX dès dix-sept dix-huit. ,2,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0003-34,"alors, il a bien ",reconnu,. ,6,reconnu,reconnaître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D0003-35,il a ,dit,", ça, ce sont les anglais XXX. ",3,dit,dire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D0003-36,ils vont démolir ce qu'il faut ,démolir,", et caetera. ",3,démolir,démolir,VERB,_,VerbForm=Inf,2,xcomp,_,Subject=SubjRaising
+Rhap_D0003-36,ils vont démolir ce qu'il ,faut," démolir, et caetera. ",7,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,acl:relcl,_,_
+Rhap_D0003-36,ils vont ,démolir," ce qu'il faut démolir, et caetera. ",3,démolir,démolir,VERB,_,VerbForm=Inf,2,xcomp,_,Subject=SubjRaising
+Rhap_D0003-36,ils ,vont," démolir ce qu'il faut démolir, et caetera. ",2,vont,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Reported=Yes
+Rhap_D0003-37,et puis il a décidé de ,partir,. ,7,partir,partir,VERB,ETRE,VerbForm=Inf,5,xcomp,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_D0003-37,et puis il a ,décidé, de partir. ,5,décidé,décider,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-38,"alors, nous sommes ",partis, le lendemain. ,5,partis,partir,VERB,ETRE,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-39,"nous avons attendu, je crois, sept ou huit heures dans la gare parce que tous les officiers allemands, tout l'état major allemand ",rentraient, à Paris. ,27,rentraient,rentrer,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,3,advcl,_,_
+Rhap_D0003-39,"nous avons attendu, je ",crois,", sept ou huit heures dans la gare parce que tous les officiers allemands, tout l'état major allemand rentraient à Paris. ",6,crois,croire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,3,discourse,_,SpaceAfter=No
+Rhap_D0003-39,nous avons ,attendu,", je crois, sept ou huit heures dans la gare parce que tous les officiers allemands, tout l'état major allemand rentraient à Paris. ",3,attendu,attendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No
+Rhap_D0003-42,"dès qu'il y avait quelque chose, ça se ",passait, comme ça. ,11,passait,passer,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0003-42,dès qu'il y ,avait," quelque chose, ça se passait comme ça. ",5,avait,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,11,advcl,_,_
+Rhap_D0003-44,"et finalement, nous sommes ",rentrés, à Paris. ,6,rentrés,rentrer,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-45,et nous nous sommes ,installés, dans ce petit appartement. ,5,installés,installer,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-46,et nous sommes plus jamais ,repartis, de Paris. ,6,repartis,repartir,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0003-47,on est toujours resté à Paris en ,allant," fidèlement en Bretagne, euh, souvent, et l'été. ",8,allant,aller,VERB,ETRE,Tense=Pres|VerbForm=Part,4,advcl,_,_
+Rhap_D0003-47,on est toujours ,resté," à Paris en allant fidèlement en Bretagne, euh, souvent, et l'été. ",4,resté,rester,VERB,ETRE,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,Overlap=Rhap_D0003-47bis
+Rhap_M0012-1,"donc, euh, j'irais à pied, euh, en ",longeant," là, donc, euh, jusqu'au cinéma Nef Chavant. ",13,longeant,longer,VERB,_,Tense=Pres|VerbForm=Part,6,advcl,_,_
+Rhap_M0012-1,"donc, euh, j'",irais," à pied, euh, en longeant là, donc, euh, jusqu'au cinéma Nef Chavant. ",6,irais,aller,VERB,ETRE,Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0012-2,"ensuite, je ",continuerais, jusqu'à la Préfecture. ,4,continuerais,continuer,VERB,_,Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0012-3,je ,couperais, par la place Grenette. ,2,couperais,couper,VERB,_,Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0012-4,"donc, après, je ",longerais," le boulevard, euh, Gambetta. ",6,longerais,longer,VERB,_,Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_M0012-5,je ,traverse,", donc, le cours Jean Jaurès. ",2,traverse,traverser,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_M0012-6,et j',arrive,", euh, à Alsace-Lorraine. ",3,arrive,arriver,VERB,ETRE,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D0002-1,"euh, ils ",avaient,… ,4,avaient,avoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,Scrap=Yes|SpaceAfter=No
+Rhap_D0002-2,j'avais de la chance d'avoir des enfants qui ,travaillaient,", euh. ",11,travaillaient,travailler,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,9,acl:relcl,_,SpaceAfter=No
+Rhap_D0002-2,j'avais de la chance d',avoir," des enfants qui travaillaient, euh. ",7,avoir,avoir,VERB,_,VerbForm=Inf,5,acl,_,Subject=SubjRaising
+Rhap_D0002-2,j',avais," de la chance d'avoir des enfants qui travaillaient, euh. ",2,avais,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0002-3,je ,dirais,", c~, c'était… ",2,dirais,dire,VERB,_,Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,7,discourse,_,SpaceAfter=No
+Rhap_D0002-4,ils préféraient rigoler que de ,travailler,. ,6,travailler,travailler,VERB,_,VerbForm=Inf,3,xcomp,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_D0002-4,ils préféraient ,rigoler, que de travailler. ,3,rigoler,rigoler,VERB,_,VerbForm=Inf,2,xcomp,_,Subject=SubjRaising
+Rhap_D0002-4,ils ,préféraient, rigoler que de travailler. ,2,préféraient,préférer,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0002-6,"mais, je veux dire, ils ont ",travaillé, normalement. ,9,travaillé,travailler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0002-6,"mais, je veux ",dire,", ils ont travaillé normalement. ",5,dire,dire,VERB,_,VerbForm=Inf,4,xcomp,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_D0002-6,"mais, je ",veux," dire, ils ont travaillé normalement. ",4,veux,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,9,discourse,_,_
+Rhap_D0002-7,"et c'est vrai que, bon, habitant dans le centre de Paris, euh, les écoles sont de très bon niveau, hein, je veux ",dire,. ,30,dire,dire,VERB,_,VerbForm=Inf,29,xcomp,_,Overlap=Rhap_D0002-7bis|SpaceAfter=No|Subject=SubjRaising
+Rhap_D0002-7,"et c'est vrai que, bon, habitant dans le centre de Paris, euh, les écoles sont de très bon niveau, hein, je ",veux, dire. ,29,veux,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,26,discourse,_,Overlap=Rhap_D0002-7bis
+Rhap_D0002-7,"et c'est vrai que, bon, habitant dans le centre de Paris, euh, les écoles ",sont," de très bon niveau, hein, je veux dire. ",20,sont,être,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,4,csubj,_,_
+Rhap_D0002-7,"et c'est vrai que, bon, ",habitant," dans le centre de Paris, euh, les écoles sont de très bon niveau, hein, je veux dire. ",9,habitant,habiter,VERB,_,Tense=Pres|VerbForm=Part,20,advcl,_,_
+Rhap_D0002-8,"bon, il, il y ",a," vraiment, euh, aucun problème. ",7,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0002-9,"moi, j'ai ",eu, aucun problème scolaire pour mes enfants. ,5,eu,avoir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0002-10,"et j'ai, j'ai jamais très bien ",compris, les gens qui… ,10,compris,comprendre,VERB,conj:reform,Gender=Masc|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0002-10,et j',ai,", j'ai jamais très bien compris les gens qui… ",3,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,10,reparandum,_,SpaceAfter=No
+Rhap_D0002-11,"j~, je connaissais des gens dans le septième qui mettaient leurs enfants d'abord dans le public, puis dans le privé pour qu'ils puissent ",passer," après éventuellement, euh, euh, et qu'ils soient plus forts. ",28,passer,passer,VERB,ETRE,VerbForm=Inf,27,xcomp,_,Subject=SubjRaising
+Rhap_D0002-11,"j~, je connaissais des gens dans le septième qui mettaient leurs enfants d'abord dans le public, puis dans le privé pour qu'ils ",puissent," passer après éventuellement, euh, euh, et qu'ils soient plus forts. ",27,puissent,pouvoir,VERB,_,Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,11,advcl,_,_
+Rhap_D0002-11,"j~, je connaissais des gens dans le septième qui ",mettaient," leurs enfants d'abord dans le public, puis dans le privé pour qu'ils puissent passer après éventuellement, euh, euh, et qu'ils soient plus forts. ",11,mettaient,mettre,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,6,acl:relcl,_,_
+Rhap_D0002-11,"j~, je ",connaissais," des gens dans le septième qui mettaient leurs enfants d'abord dans le public, puis dans le privé pour qu'ils puissent passer après éventuellement, euh, euh, et qu'ils soient plus forts. ",4,connaissais,connaître,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_
+Rhap_D0002-12,"et puis après, ils étaient très étonnés parce que quand ils voulaient entrer en prépa, on les prenait après les gens qui ",venaient, du public. ,25,venaient,venir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,23,acl:relcl,_,_
+Rhap_D0002-12,"et puis après, ils étaient très étonnés parce que quand ils voulaient entrer en prépa, on les ",prenait, après les gens qui venaient du public. ,20,prenait,prendre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,8,advcl,_,_
+Rhap_D0002-12,"et puis après, ils étaient très étonnés parce que quand ils voulaient ",entrer," en prépa, on les prenait après les gens qui venaient du public. ",14,entrer,entrer,VERB,ETRE,VerbForm=Inf,13,xcomp,_,Subject=SubjRaising
+Rhap_D0002-12,"et puis après, ils étaient très étonnés parce que quand ils ",voulaient," entrer en prépa, on les prenait après les gens qui venaient du public. ",13,voulaient,vouloir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,20,advcl,_,_
+Rhap_D0002-12,"et puis après, ils étaient très ",étonnés," parce que quand ils voulaient entrer en prépa, on les prenait après les gens qui venaient du public. ",8,étonnés,étonner,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_
+Rhap_D0002-13,"bah, ça ",paraît, normal. ,4,paraît,paraître,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0002-14,"enfin, je veux ",dire,", euh, euh, les lycées du … ",5,dire,dire,VERB,_,VerbForm=Inf,4,xcomp,_,Overlap=Rhap_D0002-14bis|SpaceAfter=No|Subject=SubjRaising
+Rhap_D0002-14,"enfin, je ",veux," dire, euh, euh, les lycées du … ",4,veux,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0002-14bis
+Rhap_D0002-15,"je pense que à l'intérieur de Paris, euh, globalement, euh, les, les écoles sont, sont d'un bon niveau, ",voilà,. ,28,voilà,voilà,VERB,_,_,26,discourse,_,Overlap=Rhap_D0002-15bis|SpaceAfter=No
+Rhap_D0002-15,"je pense que à l'intérieur de Paris, euh, globalement, euh, les, les écoles sont, ",sont," d'un bon niveau, voilà. ",20,sont,être,AUX,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,22,reparandum,_,SpaceAfter=No
+Rhap_D0002-15,je ,pense," que à l'intérieur de Paris, euh, globalement, euh, les, les écoles sont, sont d'un bon niveau, voilà. ",2,pense,penser,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0002-16,je ,pense,… ,2,pense,penser,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,Scrap=Yes|SpaceAfter=No
+Rhap_D0002-17,"moi, je vois, euh, dans le vingtième j'ai des, il y ",a," des enfants qui, qui visiblement… ",17,a,avoir,VERB,conj:reform,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0002-17,"moi, je vois, euh, dans le vingtième j'",ai," des, il y a des enfants qui, qui visiblement… ",12,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,17,reparandum,_,_
+Rhap_D0002-17,"moi, je ",vois,", euh, dans le vingtième j'ai des, il y a des enfants qui, qui visiblement… ",4,vois,voir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,12,discourse,_,SpaceAfter=No
+Rhap_D0002-21,"il y a, il y a, il y a, il y a, il y ",a, des bons établissements. ,3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19,reparandum,_,SpaceAfter=No
+Rhap_D0002-21,"il y a, il y a, il y a, il y ",a,", il y a des bons établissements. ",3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19,reparandum,_,SpaceAfter=No
+Rhap_D0002-21,"il y a, il y a, il y ",a,", il y a, il y a des bons établissements. ",3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19,reparandum,_,SpaceAfter=No
+Rhap_D0002-21,"il y a, il y ",a,", il y a, il y a, il y a des bons établissements. ",3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19,reparandum,_,SpaceAfter=No
+Rhap_D0002-21,il y ,a,", il y a, il y a, il y a, il y a des bons établissements. ",3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19,reparandum,_,SpaceAfter=No
+Rhap_D0002-22,il y en ,a, des moins bons. ,4,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,AttachTo=3@Rhap_D0002-21|Rel=parataxis:conj
+Rhap_D0002-23,"alors le problème, si vous voulez, qui se pose, euh, à Paris, enfin, que je vois dans le vingtième, c'est le problème des écoles maternelles et primaires dans lequel quand vous avez effectivement un certain nombre d'enfants qui ne sont pas, qui ne ",parlent," pas couramment français, euh, pour les enseignants, c'est, c'est pas facile. ",55,parlent,parler,VERB,conj:reform,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,47,acl:relcl,_,_
+Rhap_D0002-23,"alors le problème, si vous voulez, qui se pose, euh, à Paris, enfin, que je vois dans le vingtième, c'est le problème des écoles maternelles et primaires dans lequel quand vous ",avez," effectivement un certain nombre d'enfants qui ne sont pas, qui ne parlent pas couramment français, euh, pour les enseignants, c'est, c'est pas facile. ",41,avez,avoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,67,advcl,_,_
+Rhap_D0002-23,"alors le problème, si vous voulez, qui se pose, euh, à Paris, enfin, que je ",vois," dans le vingtième, c'est le problème des écoles maternelles et primaires dans lequel quand vous avez effectivement un certain nombre d'enfants qui ne sont pas, qui ne parlent pas couramment français, euh, pour les enseignants, c'est, c'est pas facile. ",22,vois,voir,VERB,conj:reform,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,3,acl:relcl,_,_
+Rhap_D0002-23,"alors le problème, si vous voulez, qui se ",pose,", euh, à Paris, enfin, que je vois dans le vingtième, c'est le problème des écoles maternelles et primaires dans lequel quand vous avez effectivement un certain nombre d'enfants qui ne sont pas, qui ne parlent pas couramment français, euh, pour les enseignants, c'est, c'est pas facile. ",11,pose,poser,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,22,reparandum,_,SpaceAfter=No
+Rhap_D0002-23,"alors le problème, si vous ",voulez,", qui se pose, euh, à Paris, enfin, que je vois dans le vingtième, c'est le problème des écoles maternelles et primaires dans lequel quand vous avez effectivement un certain nombre d'enfants qui ne sont pas, qui ne parlent pas couramment français, euh, pour les enseignants, c'est, c'est pas facile. ",7,voulez,vouloir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,3,discourse,_,SpaceAfter=No
+Rhap_D0002-25,"et moi, je vois, les mamans que je fais travailler dans le vingtième, il ",faudrait,… ,18,faudrait,falloir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+Rhap_D0002-25,"et moi, je vois, les mamans que je fais ",travailler," dans le vingtième, il faudrait… ",12,travailler,travailler,VERB,CAUSATIVE,VerbForm=Inf,8,acl:relcl,_,Subject=ObjRaising
+Rhap_D0002-25,"et moi, je ",vois,", les mamans que je fais travailler dans le vingtième, il faudrait… ",5,vois,voir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,18,discourse,_,SpaceAfter=No
+Rhap_D0002-27,"si j'étais ministre de l'Éducation nationale, je mettrais beaucoup plus d'enseignants dans les maternelles pour qu'un enfant qui sorte de maternelle ",parle, obligatoirement français. ,27,parle,parler,VERB,_,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11,advcl,_,_
+Rhap_D0002-27,"si j'étais ministre de l'Éducation nationale, je mettrais beaucoup plus d'enseignants dans les maternelles pour qu'un enfant qui ",sorte, de maternelle parle obligatoirement français. ,24,sorte,sortir,VERB,ETRE,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,22,acl:relcl,_,_
+Rhap_D0002-27,"si j'étais ministre de l'Éducation nationale, je ",mettrais, beaucoup plus d'enseignants dans les maternelles pour qu'un enfant qui sorte de maternelle parle obligatoirement français. ,11,mettrais,mettre,VERB,_,Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0002-29,"parce que tous ces petits enfants qui arrivent, ils ",vont, en maternelle. ,11,vont,aller,VERB,ETRE,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0002-29,parce que tous ces petits enfants qui ,arrivent,", ils vont en maternelle. ",8,arrivent,arriver,VERB,ETRE,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,6,acl:relcl,_,SpaceAfter=No
+Rhap_D0002-30,"donc, c'est pas normal qu'ils arrivent en CP ne ",parlant, pas français. ,13,parlant,parler,VERB,_,Tense=Pres|VerbForm=Part,9,advcl,_,_
+Rhap_D0002-30,"donc, c'est pas normal qu'ils ",arrivent, en CP ne parlant pas français. ,9,arrivent,arriver,VERB,ETRE,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,6,csubj,_,_
+Rhap_D0002-31,"mais ils arrivent en CP ne parlant pas français parce que comme ils sont beaucoup trop nombreux en maternelle, on ne peut pas leur ",apprendre, le français. ,26,apprendre,apprendre,VERB,_,VerbForm=Inf,23,xcomp,_,Subject=SubjRaising
+Rhap_D0002-31,"mais ils arrivent en CP ne parlant pas français parce que comme ils sont beaucoup trop nombreux en maternelle, on ne ",peut, pas leur apprendre le français. ,23,peut,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,advcl,_,_
+Rhap_D0002-31,mais ils arrivent en CP ne ,parlant," pas français parce que comme ils sont beaucoup trop nombreux en maternelle, on ne peut pas leur apprendre le français. ",7,parlant,parler,VERB,_,Tense=Pres|VerbForm=Part,3,advcl,_,_
+Rhap_D0002-31,mais ils ,arrivent," en CP ne parlant pas français parce que comme ils sont beaucoup trop nombreux en maternelle, on ne peut pas leur apprendre le français. ",3,arrivent,arriver,VERB,ETRE,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0002-32,et comme les mamans ne ,parlent, pas français… ,6,parlent,parler,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0002-33
+Rhap_D0002-33,on pourrait ,imaginer, des mélanges. ,3,imaginer,imaginer,VERB,_,VerbForm=Inf,2,xcomp,_,Overlap=Rhap_D0002-32|Subject=SubjRaising
+Rhap_D0002-33,on ,pourrait, imaginer des mélanges. ,2,pourrait,pouvoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,Overlap=Rhap_D0002-32
+Rhap_D0002-34,on pourrait ,imaginer, du busing. ,3,imaginer,imaginer,VERB,_,VerbForm=Inf,2,xcomp,_,Subject=SubjRaising
+Rhap_D0002-34,on ,pourrait, imaginer du busing. ,2,pourrait,pouvoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+Rhap_D0002-36,"beh j~, j'ai vu que ça commençait à se ",faire,. ,12,faire,faire,VERB,_,VerbForm=Inf,9,xcomp,_,SpaceAfter=No|Subject=SubjRaising
+Rhap_D0002-36,"beh j~, j'ai vu que ça ",commençait, à se faire. ,9,commençait,commencer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,6,ccomp,_,_
+Rhap_D0002-36,"beh j~, j'ai ",vu, que ça commençait à se faire. ,6,vu,voir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,Overlap=Rhap_D0002-36bis
+Rhap_D0002-37,"hein, je veux ",dire,", ça, c'est un, c'est une des , des , c'est une des mesures du plan banlieue le busing. ",5,dire,dire,VERB,_,VerbForm=Inf,4,xcomp,_,Overlap=Rhap_D0002-37bis|SpaceAfter=No|Subject=SubjRaising
+Rhap_D0002-37,"hein, je ",veux," dire, ça, c'est un, c'est une des , des , c'est une des mesures du plan banlieue le busing. ",4,veux,vouloir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,11,discourse,_,Overlap=Rhap_D0002-37bis
+Rhap_D0002-38,"mais je pense surtout que, euh, dans le sixième arrondissement, les maternelles, euh, il y ",a," suffisamment d'enseignants mais que, mais que… ",21,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,ccomp,_,_

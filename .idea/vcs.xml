@@ -2,5 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UD/UD_French-FQB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UD/UD_French-GSD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UD/UD_French-PUD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UD/UD_French-ParTUT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UD/UD_French-ParisStories" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UD/UD_French-Rhapsodie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UD/UD_French-Sequoia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UD/UD_Old_French-SRCMF" vcs="Git" />
   </component>
 </project>

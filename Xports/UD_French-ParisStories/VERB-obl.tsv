@@ -1,0 +1,4 @@
+sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPREL	DEPS	MISC
+ParisStories_2019_mercrediSoir_7	hein, euh, comme d'habitude, tu la 	connais	 ! 	11	connais	connaître	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+ParisStories_2020_descenteCanoe_37	par contre mes parents, ils se sont carrément fait 	éjecter	 du du canoë. 	11	éjecter	éjecter	VERB	_	VerbForm=Inf	0	root	_	Subject=SubjRaising
+ParisStories_2019_devoirPhilosophie_6	nous avait dit aussi d'utiliser des euh, arguments hum, plutôt atypiques pas toujours euh, ceux du cours, et d'utiliser aussi euh, des exemples et des citations d'auteurs, et de savoir les expliquer et de pas les 	balancer	 que dans le vent comme ça. 	47	balancer	balancer	VERB	_	VerbForm=Inf	6	conj	_	Subject=OblRaising

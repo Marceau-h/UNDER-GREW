@@ -7,6 +7,8 @@ columns = "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC".split()
 
 ud_dir = Path("UD")
 exports_dir = Path("exports")
+expoets_extended_dir = Path("Xports")
+expoets_extended_dir.mkdir(exist_ok=True, parents=True)
 
 
 def conllu_to_dict(conllu):
@@ -39,7 +41,18 @@ for subfolder in ud_dir.iterdir():
 
         pivot_datas = []
         for line, row in df.iterrows():
-            sent = sents[row["sent_id"]]
+            try:
+                sent = sents[row["sent_id"]]
+            except Exception as e:
+                print(e)
+                try:
+                    sent = sents[str(row["sent_id"])]
+                except:
+                    print(f"{row['sent_id'] = }")
+                    print(f"{subfolder.name = }")
+                    print(sents)
+                    raise
+
             left = row["left_context"]
             pivot = row["pivot"]
             try:
@@ -73,11 +86,18 @@ for subfolder in ud_dir.iterdir():
 
         df_pivot = pd.DataFrame(pivot_datas)
 
+        # print(df.head())
+        # print(df_pivot.head())
+
         df = df.join(df_pivot)
 
-        df.to_csv(export, index=False)
-        df.to_csv(export.with_suffix('.tsv'), sep="\t", index=False)
-        df.to_excel(export.with_suffix('.xlsx'), index=False)
-        df.to_pickle(export.with_suffix('.pkl'))
-        df.to_json(export.with_suffix('.jsonl'), orient='records', lines=True)
-        df.to_json(export.with_suffix('.json'), orient='records')
+        Xport = expoets_extended_dir / subfolder.name
+        Xport.mkdir(exist_ok=True, parents=True)
+        Xport = Xport / export.name
+
+        df.to_csv(Xport.with_suffix('.csv'), index=False)
+        df.to_csv(Xport.with_suffix('.tsv'), sep="\t", index=False)
+        df.to_excel(Xport.with_suffix('.xlsx'), index=False)
+        df.to_pickle(Xport.with_suffix('.pkl'))
+        df.to_json(Xport.with_suffix('.jsonl'), orient='records', lines=True)
+        df.to_json(Xport.with_suffix('.json'), orient='records')
