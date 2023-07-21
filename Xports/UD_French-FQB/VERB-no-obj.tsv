@@ -999,3 +999,23 @@ FQB_TREC-fr-1879	Sous quel surnom le musicien Ernesto Antonio Puente Junior éta
 FQB_TREC-fr-1880	Quand est 	né	 le roi Louis XIV ? 	3	né	naître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 FQB_TREC-fr-1881	Quel est le nom scientifique de la plante 	nommée	" """"zinnia"""" ? "	9	nommée	nommer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
 FQB_TREC-fr-1883	Quelle portion de la couche d'ozone est 	appauvrie	 ? 	9	appauvrie	appauvrir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+FQB_TREC-fr-1884	Où se 	trouve	 la mer de la Tranquillité ? 	3	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+FQB_TREC-fr-1888	En quelle année fut 	inventée	 l'ampoule ? 	5	inventée	inventer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+FQB_TREC-fr-1892	D'où 	provient	 la cannelle ? 	3	provient	provenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+FQB_TREC-fr-1893	Quel général américain est 	enterré	 à Salzbourg ? 	5	enterré	enterrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+FQB_UNESCO-2	Que cela signifie-t-il pour un bien d'être 	inscrit	 sur la Liste ? 	10	inscrit	inscrire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	dislocated	_	_
+FQB_UNESCO-5	à qui appartient un bien dès lors que il est 	inscrit	 sur la Liste du patrimoine mondial ? 	11	inscrit	inscrire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	_
+FQB_UNESCO-5	à qui 	appartient	 un bien dès lors que il est inscrit sur la Liste du patrimoine mondial ? 	3	appartient	appartenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+FQB_UNESCO-9	à qui 	puis	-je adresser une suggestion ? 	3	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+FQB_UNESCO-10	Qui puis-je informer d'une menace 	pesant	 sur un bien du patrimoine mondial ou un bien sur la Liste du patrimoine mondial en péril ? 	8	pesant	peser	VERB	_	Tense=Pres|VerbForm=Part	7	acl	_	_
+FQB_UNESCO-10	Qui 	puis	-je informer d'une menace pesant sur un bien du patrimoine mondial ou un bien sur la Liste du patrimoine mondial en péril ? 	2	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+FQB_UNESCO-11	Comment puis-je 	contribuer	 au Fonds du patrimoine mondial ? 	4	contribuer	contribuer	VERB	_	VerbForm=Inf	2	xcomp	_	_
+FQB_UNESCO-11	Comment 	puis	-je contribuer au Fonds du patrimoine mondial ? 	2	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+FQB_UNESCO-12	Comment ce Fonds est-il 	utilisé	 ? 	6	utilisé	utiliser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+FQB_UNESCO-15	Comment puis-je obtenir/	utiliser	 les photos de sites du patrimoine mondial ? 	6	utiliser	utiliser	VERB	_	VerbForm=Inf	4	conj	_	_
+FQB_UNESCO-15	Comment 	puis	-je obtenir/utiliser les photos de sites du patrimoine mondial ? 	2	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+FQB_UNESCO-16	Je suis photographe, comment 	puis	-je proposer mes services ou vendre mes photos à l'UNESCO ? 	6	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
+FQB_UNESCO-20		Puis	-je utiliser le logo du patrimoine mondial dans des brochures, publicités ou d'autres média ? 	1	Puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+FQB_UNESCO-23	Comment puis-je 	devenir	 partenaire ? 	4	devenir	devenir	VERB	_	VerbForm=Inf	2	xcomp	_	_
+FQB_UNESCO-23	Comment 	puis	-je devenir partenaire ? 	2	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+FQB_UNESCO-24	Comment 	travailler	/faire un stage au Centre du patrimoine mondial de l'UNESCO ? 	2	travailler	travailler	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No

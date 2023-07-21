@@ -2,13 +2,13 @@ from pathlib import Path
 import pandas as pd
 from collections import Counter
 
+
 def save_to_sheet(df, sheet, writer):
     df.to_excel(writer, sheet_name=sheet, index=True, header=True)
 
 
 main = Path("Xports")
 stats_folder_main = Path("stats")
-
 
 for mode in ("pivot", "LEMMA"):
     stats_folder = stats_folder_main / mode
@@ -50,7 +50,7 @@ for mode in ("pivot", "LEMMA"):
             "nb_occurences": occurences,
             "nb_verbes": len(verbes.unique()),
             **tuplverbes,
-            }
+        }
 
         feuilles = {}
 
@@ -70,32 +70,73 @@ for mode in ("pivot", "LEMMA"):
 
             tempdf = pd.DataFrame(temp, index=["", ])
             tempdf = tempdf.T
-            #
-            # tempdf.to_excel(writer, sheet_name="Globales", index=True, header=False)
-            # for column in df:
-            #     column_width = max(df[column].astype(str).map(len).max(), len(column))
-            #     col_idx = df.columns.get_loc(column)
-            #     writer.sheets['my_analysis'].set_column(col_idx, col_idx, column_width)
 
             save_to_sheet(tempdf, "Globales", writer)
 
             for verbe, content in feuilles.items():
                 tempdf = pd.DataFrame(content["stats"], index=[0])
-                # tempdf.to_excel(writer, index=False, sheet_name=f"{verbe}_stats")
                 save_to_sheet(tempdf, f"{verbe}_stats", writer)
 
                 tempdf = pd.DataFrame(content["phrases"], columns=phrases.columns)
-                # tempdf.to_excel(writer, index=False, sheet_name=f"{verbe}_phrases")
                 save_to_sheet(tempdf, f"{verbe}_phrases", writer)
 
-        # fix_worksheet = columns.XLSXAutoFitColumns(stats_file)
-        # fix_worksheet.process_all_worksheets()
 
         temp["feuilles"] = feuilles
 
-
         stats[corpus][query] = temp
 
+    with pd.ExcelWriter(stats_folder / "stats.xlsx", engine='xlsxwriter') as writer:
+        for corpus, content in stats.items():
+            tempdf = pd.DataFrame(content).T
+            save_to_sheet(tempdf, corpus, writer)
 
+# Round 2
+for mode in ("pivot", "LEMMA"):
+    stats["all"] = {}
 
+    for corpus in stats:
+        if corpus == "all":
+            continue
+        for k, v in stats[corpus]["VERB"].items():
+            if k == "feuilles":
+                if k not in stats["all"]:
+                    stats["all"][k] = {}
+                for verbe, content3 in v.items():
+                    if verbe not in stats["all"][k]:
+                        stats["all"][k][verbe] = {}
+                        stats["all"][k][verbe]["stats"] = {}
+                        stats["all"][k][verbe]["phrases"] = []
 
+                    for k2, v2 in content3["stats"].items():
+                        if k2 not in stats["all"][k][verbe]["stats"]:
+                            stats["all"][k][verbe]["stats"][k2] = 0
+
+                        stats["all"][k][verbe]["stats"][k2] += v2
+
+                    stats["all"][k][verbe]["phrases"] += content3["phrases"]
+
+            else:
+                if k not in stats["all"]:
+                    stats["all"][k] = 0
+
+                stats["all"][k] += v
+
+    temp = stats["all"].copy()
+    temp.pop("feuilles")
+    stats_file = stats_folder_main / mode / "all.xlsx"
+
+    with pd.ExcelWriter(stats_file, engine='xlsxwriter') as writer:
+
+        tempdf = pd.DataFrame(temp, index=["", ])
+        tempdf = tempdf.T
+
+        tempdf = tempdf.sort_values(tempdf.columns[0], ascending=False)
+
+        save_to_sheet(tempdf, "Globales", writer)
+
+        for verbe, content in stats["all"]["feuilles"].items():
+            tempdf = pd.DataFrame(content["stats"], index=[0])
+            save_to_sheet(tempdf, f"{verbe}_stats", writer)
+
+            tempdf = pd.DataFrame(content["phrases"], columns=phrases.columns)
+            save_to_sheet(tempdf, f"{verbe}_phrases", writer)
