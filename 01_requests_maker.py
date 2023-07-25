@@ -61,6 +61,20 @@ for corpus in corpora:
         "clust2":"no"
         }""" % (pat_value, corpus)
 
+        # payload = f"""
+        # {{"pattern":{pat_value},",
+        # "corpus":"{corpus}",
+        # "lemma":true,
+        # "upos":true,
+        # "xpos":false,
+        # "features":true,
+        # "tf_wf":false,
+        # "order":"init",
+        # "context":false,
+        # "clust1":"no",
+        # "clust2":"no"
+        # }}"""
+
         payload = f"param={urllib.parse.quote(payload)}"
 
         headers = {'content-type': "application/x-www-form-urlencoded"}
@@ -70,7 +84,11 @@ for corpus in corpora:
         res = conn.getresponse()
         data = res.read()
 
-        uuid = json.loads(data.decode("utf-8"))["data"]["uuid"]
+        data = json.loads(data.decode("utf-8"))
+
+        # print(data)
+
+        uuid = data["data"]["uuid"]
 
         # print(uuid)
 
