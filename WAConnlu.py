@@ -72,4 +72,4 @@ for i, segment in enumerate(segments):
     with open(WAC / f"{batch_first_sent_id}_{batch_last_sent_id}.conllu", "w", encoding="utf-8") as f:
         f.write(srtio.getvalue())
 
-    batch_first_sent_id = batch_last_sent_id
+    batch_first_sent_id = batch_last_sent_id + 1
