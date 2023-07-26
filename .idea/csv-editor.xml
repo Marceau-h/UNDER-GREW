@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Xports/UD_French-PUD/VERB.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Xports/UD_French-Sequoia/VERB-obl.csv">
           <value>
             <Attribute>

@@ -1,4 +1,5 @@
 openpyxl
 
-pandas  # ~=2.0.3
-tqdm  # ~=4.65.0
+pandas~=2.0.3
+tqdm~=4.65.0
+spacy
