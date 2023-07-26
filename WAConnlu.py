@@ -4,7 +4,7 @@ from tqdm.auto import tqdm
 from io import StringIO
 from pathlib import Path
 
-WAC = Path("WAC")
+WAC = Path("UD/WAC")
 WAC.mkdir(exist_ok=True, parents=True)
 
 nlp = spacy.load("fr_core_news_sm")
@@ -26,20 +26,21 @@ def get_all(sent):
     #     yield "_"
     #     yield "_"
     #
+    deps = [token.dep_.lower() for token in doc]
     return [
         {
-            "ID": i,
+            "ID": i+1,
             "FORM": token.text,
             "LEMMA": token.lemma_,
             "UPOS": token.pos_,
             "XPOS": token.tag_,
             "FEATS": "_",
-            "HEAD": token.head.i + 1,
-            "DEPREL": token.dep_.lower(),
+            "HEAD": token.head.i + 1 if deps[i] != "root" else 0,
+            "DEPREL": deps[i],
             "DEPS": "_",
             "MISC": "_"
         }
-        for i, token in enumerate(doc, 1)
+        for i, token in enumerate(doc)
     ]
 
 with open(file, "r", encoding="utf-8") as f:
@@ -47,24 +48,28 @@ with open(file, "r", encoding="utf-8") as f:
 
 # lines = lines[:10000]
 segments = []
-for i in range(0, len(lines), 100000):
-    end = i + 100000 if i + 100000 < len(lines) else len(lines)
+len_seg = 30_000
+for i in range(0, len(lines), len_seg):
+    end = min(len(lines), i + len_seg)
     segments.append(lines[i:end])
 
+batch_first_sent_id = 1
 for i, segment in enumerate(segments):
+    batch_last_sent_id = batch_first_sent_id + len(segment) - 1
     pbar = tqdm(segment, total=len(segment))
 
     srtio = StringIO()
     srtio.write("# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC\n")
-    for i, l in enumerate(pbar):
+    for j, l in enumerate(pbar):
         l = l.strip().replace(u"\x92", "'").replace(u"\x9c", "œ").replace(u"\xad", "")
         l = l.rsplit("\t", 1)
-        srtio.write(f"# sent_id = {i}\n")
+        srtio.write(f"# sent_id = {batch_first_sent_id + j}\n")
         srtio.write(f"# text = {l[1]}\n")
         for token in get_all(l[1]):
             srtio.write("\t".join([str(v) for v in token.values()]) + "\n")
         srtio.write("\n")
 
-    with open(WAC / f"{i}.conllu", "w", encoding="utf-8") as f:
+    with open(WAC / f"{batch_first_sent_id}_{batch_last_sent_id}.conllu", "w", encoding="utf-8") as f:
         f.write(srtio.getvalue())
 
+    batch_first_sent_id = batch_last_sent_id
