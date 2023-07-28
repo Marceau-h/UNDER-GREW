@@ -12,6 +12,9 @@ nlp = spacy.load("fr_core_news_sm")
 # file = "/home/marceau/Téléchargements/fra_mixed_2009_1M/fra_mixed_2009_1M-sentences.txt"
 file = r"C:\Users\marce\Downloads\fra_mixed_2009_1M\fra_mixed_2009_1M-sentences.txt"
 
+def no_empty(s:str) -> str:
+    return s if s else "_"
+
 def get_all(sent):
     doc = nlp(sent)
     # headers = "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC".split()
@@ -31,15 +34,15 @@ def get_all(sent):
     return [
         {
             "ID": i+1,
-            "FORM": token.text,
-            "LEMMA": token.lemma_,
-            "UPOS": token.pos_,
-            "XPOS": token.tag_,
-            "FEATS": token.morph,
+            "FORM": no_empty(token.text),
+            "LEMMA": no_empty(token.lemma_),
+            "UPOS": no_empty(token.pos_),
+            "XPOS": no_empty(token.tag_),
+            "FEATS": no_empty(token.morph),
             "HEAD": token.head.i + 1 if deps[i] != "root" else 0,
             "DEPREL": deps[i],
-            "DEPS": token.dep_,
-            "MISC": "_" if token.whitespace_ else "SpaceAfter=No",
+            "DEPS": no_empty(token.dep_),
+            "MISC": "SpaceAfter=No" if not token.whitespace_ else "_",
         }
         for i, token in enumerate(doc)
     ]
