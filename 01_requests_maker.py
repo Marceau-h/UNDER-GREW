@@ -19,18 +19,20 @@ patterns = {
     'VERB-indirect-obj': 'pattern {V [upos=VERB]; V -[iobj]-> I}',
     'VERB-obl': 'pattern {V [upos=VERB]; V -[obl]-> I}',
     'VERB-no-obj': 'pattern {V [upos=VERB];} without {V -[obj|iobj|obl]-> O}',
+    'VERB-no-direct-obj': 'pattern {V [upos=VERB];} without {V -[obj]-> O}',
 }
 
 # This must be in the list of corpora available on the website
 corpora = [
-    'UD_French-FQB@2.12',
-    'UD_French-GSD@2.12',
-    'UD_French-PUD@2.12',
-    'UD_French-ParTUT@2.12',
-    'UD_French-Sequoia@2.12',
-    'UD_French-ParisStories@2.12',
-    'UD_French-Rhapsodie@2.12',
-    'UD_Old_French-SRCMF@2.12'
+    # 'UD_French-FQB@2.12',
+    # 'UD_French-GSD@2.12',
+    # 'UD_French-PUD@2.12',
+    # 'UD_French-ParTUT@2.12',
+    # 'UD_French-Sequoia@2.12',
+    # 'UD_French-ParisStories@2.12',
+    # 'UD_French-Rhapsodie@2.12',
+    # 'UD_Old_French-SRCMF@2.12',
+    'WAC'
 ]
 
 pivot = 'V'  # 'V' or 'O' or 'I' for tsv exports

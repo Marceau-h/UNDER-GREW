@@ -34,11 +34,11 @@ def get_all(sent):
             "LEMMA": token.lemma_,
             "UPOS": token.pos_,
             "XPOS": token.tag_,
-            "FEATS": "_",
+            "FEATS": token.morph,
             "HEAD": token.head.i + 1 if deps[i] != "root" else 0,
             "DEPREL": deps[i],
-            "DEPS": "_",
-            "MISC": "_"
+            "DEPS": token.dep_,
+            "MISC": "" if token.whitespace_ else "SpaceAfter=No",
         }
         for i, token in enumerate(doc)
     ]
@@ -56,7 +56,8 @@ for i in range(0, len(lines), len_seg):
 batch_first_sent_id = 1
 for i, segment in enumerate(segments):
     batch_last_sent_id = batch_first_sent_id + len(segment) - 1
-    pbar = tqdm(segment, total=len(segment))
+
+    pbar = tqdm(segment, total=len(segment), desc=f"Fichier {i+1}/{len(segments)} : ", leave=False)
 
     srtio = StringIO()
     srtio.write("# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC\n")
