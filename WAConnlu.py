@@ -9,7 +9,8 @@ WAC.mkdir(exist_ok=True, parents=True)
 
 nlp = spacy.load("fr_core_news_sm")
 
-file = "/home/marceau/Téléchargements/fra_mixed_2009_1M/fra_mixed_2009_1M-sentences.txt"
+# file = "/home/marceau/Téléchargements/fra_mixed_2009_1M/fra_mixed_2009_1M-sentences.txt"
+file = r"C:\Users\marce\Downloads\fra_mixed_2009_1M\fra_mixed_2009_1M-sentences.txt"
 
 def get_all(sent):
     doc = nlp(sent)
@@ -38,7 +39,7 @@ def get_all(sent):
             "HEAD": token.head.i + 1 if deps[i] != "root" else 0,
             "DEPREL": deps[i],
             "DEPS": token.dep_,
-            "MISC": "" if token.whitespace_ else "SpaceAfter=No",
+            "MISC": "_" if token.whitespace_ else "SpaceAfter=No",
         }
         for i, token in enumerate(doc)
     ]
