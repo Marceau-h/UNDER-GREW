@@ -24,7 +24,7 @@ for mode in ("pivot", "LEMMA"):
         stats_file = stats_folder / corpus
         stats_file.mkdir(parents=True, exist_ok=True)
         stats_file = stats_file / (query + ".xlsx")
-        print(f"{stats_file = }")
+        # print(f"{stats_file = }")
 
         if corpus not in stats:
             stats[corpus] = {}

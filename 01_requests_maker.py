@@ -16,22 +16,25 @@ main = Path.cwd() / "exports"  # can be changed to a specific folder
 patterns = {
     'VERB': 'pattern {V [upos=VERB]}',
     'VERB-direct-obj': 'pattern {V [upos=VERB]; V -[obj]-> O}',
-    'VERB-indirect-obj': 'pattern {V [upos=VERB]; V -[iobj]-> I}',
-    'VERB-obl': 'pattern {V [upos=VERB]; V -[obl]-> I}',
-    'VERB-no-obj': 'pattern {V [upos=VERB];} without {V -[obj|iobj|obl]-> O}',
     'VERB-no-direct-obj': 'pattern {V [upos=VERB];} without {V -[obj]-> O}',
+    'VERB-indirect-obj': 'pattern {V [upos=VERB]; V -[iobj]-> I}',
+    'VERB-no-indirect-obj': 'pattern {V [upos=VERB];} without {V -[iobj]-> I}',
+    'VERB-obl': 'pattern {V [upos=VERB]; V -[obl]-> I}',
+    'VERB-no-obl': 'pattern {V [upos=VERB];} without {V -[obl]-> I}',
+    'VERB-obj': 'pattern {V [upos=VERB]; V -[obj|iobj|obl]-> O}',
+    'VERB-no-obj': 'pattern {V [upos=VERB];} without {V -[obj|iobj|obl]-> O}',
 }
 
 # This must be in the list of corpora available on the website
 corpora = [
-    # 'UD_French-FQB@2.12',
-    # 'UD_French-GSD@2.12',
-    # 'UD_French-PUD@2.12',
-    # 'UD_French-ParTUT@2.12',
-    # 'UD_French-Sequoia@2.12',
-    # 'UD_French-ParisStories@2.12',
-    # 'UD_French-Rhapsodie@2.12',
-    # 'UD_Old_French-SRCMF@2.12',
+    'UD_French-FQB@2.12',
+    'UD_French-GSD@2.12',
+    'UD_French-PUD@2.12',
+    'UD_French-ParTUT@2.12',
+    'UD_French-Sequoia@2.12',
+    'UD_French-ParisStories@2.12',
+    'UD_French-Rhapsodie@2.12',
+    'UD_Old_French-SRCMF@2.12',
     'WAC'
 ]
 

@@ -20,6 +20,9 @@ def conllu_to_dict(conllu):
 
 
 for subfolder in ud_dir.iterdir():
+    if subfolder.name == "WAC":
+        continue
+
     if not subfolder.is_dir():
         print(f"{subfolder} is not a folder")
         continue
@@ -27,7 +30,7 @@ for subfolder in ud_dir.iterdir():
     all_txt = StringIO()
     for connlu in subfolder.glob("*.conllu"):
         # print(connlu)
-        with open(connlu, "r") as f:
+        with open(connlu, "r", encoding="utf-8") as f:
             all_txt.write(f.read())
 
     sents = [s.split("# sent_id = ")[-1] for s in all_txt.getvalue().split("\n\n") if s != ""]
