@@ -41,7 +41,7 @@ def get_all(sent):
             "FEATS": no_empty(token.morph),
             "HEAD": token.head.i + 1 if deps[i] != "root" else 0,
             "DEPREL": deps[i],
-            "DEPS": no_empty(token.dep_),
+            "DEPS": "_",  # no_empty(token.dep_),
             "MISC": "SpaceAfter=No" if not token.whitespace_ else "_",
         }
         for i, token in enumerate(doc)
