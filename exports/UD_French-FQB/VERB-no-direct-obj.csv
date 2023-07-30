@@ -1,0 +1,1026 @@
+sent_id,left_context,pivot,right_context
+FQB_CAF-2,,Puis,-je avoir une aide au logement ? 
+FQB_CAF-3,Quelles démarches ,dois,-je effectuer pour avoir droit à une aide au logement ? 
+FQB_CAF-4,Pour quel type de logement puis-je ,bénéficier, d'une aide au logement ? 
+FQB_CAF-4,Pour quel type de logement ,puis,-je bénéficier d'une aide au logement ? 
+FQB_CAF-5,à combien s',élève, mon aide au logement ? 
+FQB_CAF-6,à partir de quand puis-je ,bénéficier, d'une aide au logement ? 
+FQB_CAF-6,à partir de quand ,puis,-je bénéficier d'une aide au logement ? 
+FQB_CAF-6,à ,partir, de quand puis-je bénéficier d'une aide au logement ? 
+FQB_CAF-7,Quels sont les revenus ,pris, en compte pour calculer mon aide au logement ? 
+FQB_CAF-8,à partir de quand puis-je ,bénéficier, d'une aide au logement ? 
+FQB_CAF-8,à partir de quand ,puis,-je bénéficier d'une aide au logement ? 
+FQB_CAF-8,à ,partir, de quand puis-je bénéficier d'une aide au logement ? 
+FQB_CAF-9,Puis-je bénéficier d'une aide au logement si je loue un logement ,appartenant, à un membre de ma famille ? 
+FQB_CAF-9,Puis-je ,bénéficier, d'une aide au logement si je loue un logement appartenant à un membre de ma famille ? 
+FQB_CAF-9,,Puis,-je bénéficier d'une aide au logement si je loue un logement appartenant à un membre de ma famille ? 
+FQB_CAF-10,"Je suis en colocation, puis-je ",bénéficier, d'une aide au logement ? 
+FQB_CAF-10,"Je suis en colocation, ",puis,-je bénéficier d'une aide au logement ? 
+FQB_CAF-11,"Je déménage, vais-je ",continuer, à toucher le même montant d'aide au logement ? 
+FQB_CAF-11,"Je déménage, ",vais,-je continuer à toucher le même montant d'aide au logement ? 
+FQB_CAF-11,Je ,déménage,", vais-je continuer à toucher le même montant d'aide au logement ? "
+FQB_CAF-12,"Mon loyer augmente, mon aide au logement va-t-elle ",augmenter, aussi ? 
+FQB_CAF-12,"Mon loyer augmente, mon aide au logement ",va,-t-elle augmenter aussi ? 
+FQB_CAF-12,Mon loyer ,augmente,", mon aide au logement va-t-elle augmenter aussi ? "
+FQB_CAF-13,"Je n'arrive plus à payer mon loyer ou mon prêt, la Caf ",peut, elle m'aider ? 
+FQB_CAF-13,Je n',arrive," plus à payer mon loyer ou mon prêt, la Caf peut elle m'aider ? "
+FQB_CAF-14,"Ma situation familiale ou professionnelle change, est-ce que mon aide au logement sera ",modifiée, ? 
+FQB_CAF-14,"Ma situation familiale ou professionnelle change, ",est,-ce que mon aide au logement sera modifiée ? 
+FQB_CAF-14,Ma situation familiale ou professionnelle ,change,", est-ce que mon aide au logement sera modifiée ? "
+FQB_CAF-16,Comment la Caf ,peut,-elle m'aider ? 
+FQB_CAF-17,Quelles sont les conditions pour ,bénéficier, d'une allocation logement ? 
+FQB_CAF-18,Pour quels types de logement puis-je ,bénéficier, d'une aide au logement ? 
+FQB_CAF-18,Pour quels types de logement ,puis,-je bénéficier d'une aide au logement ? 
+FQB_CAF-19,Peut-on être en colocation et ,bénéficier, d'une aide au logement ? 
+FQB_CAF-19,,Peut,-on être en colocation et bénéficier d'une aide au logement ? 
+FQB_CAF-20,Puis-je bénéficier d'une aide au logement si je loue un logement ,appartenant, à un membre de ma famille ? 
+FQB_CAF-20,Puis-je ,bénéficier, d'une aide au logement si je loue un logement appartenant à un membre de ma famille ? 
+FQB_CAF-20,,Puis,-je bénéficier d'une aide au logement si je loue un logement appartenant à un membre de ma famille ? 
+FQB_CAF-21,Quelles démarches dois-je effectuer pour demander et ,recevoir, une aide au logement ? 
+FQB_CAF-21,Quelles démarches ,dois,-je effectuer pour demander et recevoir une aide au logement ? 
+FQB_CAF-22,Pendant combien de temps puis-je ,bénéficier, d'une aide au logement ? 
+FQB_CAF-22,Pendant combien de temps ,puis,-je bénéficier d'une aide au logement ? 
+FQB_CAF-23,Quelles pièces justificatives ,adresser, lord de ma demande ? 
+FQB_CAF-24,Quelles ressources ,mentionner, sur ma demande ? 
+FQB_CAF-25,à partir de quand puis-je ,bénéficier, d'une aide au logement ? 
+FQB_CAF-25,à partir de quand ,puis,-je bénéficier d'une aide au logement ? 
+FQB_CAF-25,à ,partir, de quand puis-je bénéficier d'une aide au logement ? 
+FQB_CAF-26,à combien s',élève, mon aide au logement ? 
+FQB_CAF-28,Comment est calculée mon aide au logement si je ,vis, en couple ? 
+FQB_CAF-28,Comment est ,calculée, mon aide au logement si je vis en couple ? 
+FQB_CAF-30,,Dois,-je faire une nouvelle demande ? 
+FQB_CAF-31-pre,Je vais ,devenir, salarié et je garde le même logement. 
+FQB_CAF-31-pre,Je ,vais, devenir salarié et je garde le même logement. 
+FQB_CAF-32,Vais-je ,continuer, à percevoir l'aide au logement étudiant ? 
+FQB_CAF-32,,Vais,-je continuer à percevoir l'aide au logement étudiant ? 
+FQB_CAF-35-pre,Je vais ,partir, en stage en France ou à l'étranger. 
+FQB_CAF-35-pre,Je ,vais, partir en stage en France ou à l'étranger. 
+FQB_CAF-36,Puis-je ,bénéficier, d'une aide au logement ? 
+FQB_CAF-36,,Puis,-je bénéficier d'une aide au logement ? 
+FQB_CLEF03-1,Où se ,trouve, Hébron ? 
+FQB_CLEF03-2,Quand le cardinal Juan Jesus Posadas Ocampo est-il ,mort, ? 
+FQB_CLEF03-3,Pendant combien de temps Mark Kauffman a-t-il ,travaillé, pour le magazine Life ? 
+FQB_CLEF03-7,Pour quelle compagnie Marty McKewon ,travaille,-t-il ? 
+FQB_CLEF03-9,Où Richard Zwetchkenbaum ,travaille,-t-il ? 
+FQB_CLEF03-14,Quel montant une commission de transport de comté en Californie a-t-elle consacré pour l'achat de téléphones ,destinés, à des handicapés ? 
+FQB_CLEF03-20,Qui a été ,élu, gouverneur de la Californie ? 
+FQB_CLEF03-22,Combien de prisonniers américains ont-ils été ,libérés, par le Viêt-nam du Nord en 1973 ? 
+FQB_CLEF03-25,Quand le mur de Berlin a-t-il été ,construit, ? 
+FQB_CLEF03-32,À quelle époque le défunt président des Philippines Ferdinand E. Marcos a-t-il été ,renversé, ? 
+FQB_CLEF03-33,Dans quelle ville Jorge Machado est-il ,né, ? 
+FQB_CLEF03-35,À quel moment l'Afghanistan a-t-il été ,envahi, par l'Union soviétique ? 
+FQB_CLEF03-40,Où est ,né, Guillermo Ortiz ? 
+FQB_CLEF03-41,Quelle compagnie produit des cigarettes avec ce qui est ,appelé, le Y-1 ? 
+FQB_CLEF03-45,Où se trouve l'écosystème artificiel ,appelé," """"Biosphère 2"""" ? "
+FQB_CLEF03-45,Où se ,trouve," l'écosystème artificiel appelé """"Biosphère 2"""" ? "
+FQB_CLEF03-48,Où se ,trouve, la célèbre salle d'opéra La Scala ? 
+FQB_CLEF03-49,Où Raymond Pettibon ,travaille,-t-il ? 
+FQB_CLEF03-55,Dans quel centre de recherche l'océanographe John Potter ,travaille,-t-il ? 
+FQB_CLEF03-58-inf,Donner le titre d'un poème ,composé, par Mussorgsky. 
+FQB_CLEF03-59,Où les purussaurus ,vivaient,-ils avant leur extinction ? 
+FQB_CLEF03-60,Qui John J. Famalaro est-il ,accusé, d'avoir tué ? 
+FQB_CLEF03-63,À quelle époque la journaliste Charlotta Bass a-t-elle ,vécu, ? 
+FQB_CLEF03-68,Dans quelle ville les avocats Cochran et Shapiro ,travaillent,-ils ? 
+FQB_CLEF03-70,À quel moment la Loi sur la réforme des impôts est-elle ,entrée, en vigueur ? 
+FQB_CLEF03-72,Combien de cubains sont autorisés à ,immigrer, aux États-Unis chaque année ? 
+FQB_CLEF03-72,Combien de cubains sont ,autorisés, à immigrer aux États-Unis chaque année ? 
+FQB_CLEF03-74,Comment Vitas Gerulaitis est-il ,mort, ? 
+FQB_CLEF03-78,Où le directeur Michelangelo Antonioni est-il ,né, ? 
+FQB_CLEF03-83,Quelle est l'abréviation connue du fonds des Nations Unis ,consacré, aux enfants ? 
+FQB_CLEF03-83,Quelle est l'abréviation ,connue, du fonds des Nations Unis consacré aux enfants ? 
+FQB_CLEF03-84,À quel parti Noriega a-t-il ,appartenu, ? 
+FQB_CLEF03-86,Où le plan de Mulberry a-t-il été ,stipulé, ? 
+FQB_CLEF03-89,Quelle est l'amende la plus élevée qu'on ,peut, imposer à un conspirateur ? 
+FQB_CLEF03-91,Combien de Porto Ricains ,habitent, dans le comté de Los Angeles ? 
+FQB_CLEF03-95,Où Nnenna Freelon ,habite,-t-elle ? 
+FQB_CLEF03-98,De quoi est ,fait, le magma ? 
+FQB_CLEF03-99,De quelle maladie ,souffre, Rebecca Maxwell ? 
+FQB_CLEF03-100,"Où l'organisme """"Operation Unity"""" est-il ",situé, ? 
+FQB_CLEF03-102,D'où Edwin Tang ,vient,-il ? 
+FQB_CLEF03-104,En quelle année Avery Clayton a-t-il été ,embauché, pour peindre des murales à l'occasion des jeux olympiques d'été ? 
+FQB_CLEF03-107,Quel parti est ,connu, sous le nom de PKK ? 
+FQB_CLEF03-114,Où Irving Mitchell Felt est-il ,décédé, ? 
+FQB_CLEF03-115,Pour quelle compagnie Sid Gregory ,travaille,-t-il ? 
+FQB_CLEF03-117,À quelle date est ,né, Lothar Matthaeus ? 
+FQB_CLEF03-120,Pour quelle compagnie Tom Kalinske ,travaille,-t-il ? 
+FQB_CLEF03-121,Combien y avait-il de Texans qui ont ,combattu, pour l'indépendance à l'Alamo ? 
+FQB_CLEF03-125,Quelle est la compagnie ,dirigée, par J. Patrick Rooney ? 
+FQB_CLEF03-126,Quel est le titre du premier film dans lequel a ,joué, McKee ? 
+FQB_CLEF03-127,Dans quelle ville Emil Fischer est-il ,né, ? 
+FQB_CLEF03-132,À quelle époque Genghis Khan a-t-il ,vécu, ? 
+FQB_CLEF03-134,De quel matériau est ,fait, la sculpture de garçon à tête de poulet ? 
+FQB_CLEF03-138,Où la chanteuse Julie Kelly ,enseigne,-t-elle ? 
+FQB_CLEF03-139,À quel moment l'Arménie est-elle ,devenue, indépendante ? 
+FQB_CLEF03-142,En quelle année la Crimée est-elle ,devenue, une partie de l'Ukraine ? 
+FQB_CLEF03-143,Quand Kellie O'Sullivan a-t-elle été ,kidnappée, ? 
+FQB_CLEF03-144,En quelle année Ross Perot s'est-il ,présenté, dans la course à la présidence ? 
+FQB_CLEF03-147,Où se ,trouvent, les îles Pribilof ? 
+FQB_CLEF03-151-inf,Donner le nom d'une équipe pour laquelle Tim Crews a ,joué,. 
+FQB_CLEF03-154,Quel est le nom du serpent à plumes ,vénéré, comme un dieu par les Aztèques ? 
+FQB_CLEF03-155,Quel est le musée ,dirigé, par Henry Hopkins ? 
+FQB_CLEF03-166,Quel est le mois où est ,entré, en vigueur l'embargo de l'ONU sur le pétrole visant Haïti ? 
+FQB_CLEF03-169,Dans quel pays le Mont Kilimanjaro se ,trouve,-t-il ? 
+FQB_CLEF03-171,À quel moment l'Alaska est-il ,devenu, un état ? 
+FQB_CLEF03-175,À quel endroit Greenpeace a-t-il été ,fondé, ? 
+FQB_CLEF03-178,Quand Shapour Bakhtiar est-il ,mort, ? 
+FQB_CLEF03-179,À quelle date la Déclaration d'indépendance a-t-elle été ,signée, ? 
+FQB_CLEF03-181,Combien d'anciens esclaves se sont ,installés, au Libéria au 19e siècle ? 
+FQB_CLEF03-182,"Quand le """"Pike"""" a-t-il ",fermé, ? 
+FQB_CLEF03-184,Où se ,trouve, Requena ? 
+FQB_CLEF03-188,Pour quelle équipe de baseball Tom Glavine ,joue,-t-il ? 
+FQB_CLEF03-189,Combien de personnes sont mortes dans l'écrasement d'un avion ,survenu, dans les Everglades en 1972 ? 
+FQB_CLEF03-189,Combien de personnes sont ,mortes, dans l'écrasement d'un avion survenu dans les Everglades en 1972 ? 
+FQB_CLEF03-190,En quelle année a été ,tourné," le film """"War Games"""" ? "
+FQB_CLEF03-191,Dans quelle ville l'exposition itinérante de Mike Kelley est-elle ,présentée, ? 
+FQB_CLEF03-194,Quel était le prix ,attribué, à Elizabeth Neufeld ? 
+FQB_CLEF03-197,En quelle année s'est ,disloquée, l'Union soviétique ? 
+FQB_CLEF03-199,Qui a ,dit," : """"Laissez Yeltsin prendre sa vodka et la Tchétchénie obtenir sa liberté"""" ? "
+FQB_INSEE-1,Quand l'agent recenseur ,passe,-t-il ? 
+FQB_INSEE-5,"Je n'ai pas vu l'agent recenseur, à qui ",dois,-je m'adresser ? 
+FQB_INSEE-6,Peut-on ,répondre, par Internet ? 
+FQB_INSEE-6,,Peut,-on répondre par Internet ? 
+FQB_INSEE-9,Est-il obligatoire de ,répondre, ? 
+FQB_INSEE-10,Je n'ai pas été ,recensé," malgré un avis de passage de l'Insee, à qui le signaler ? "
+FQB_INSEE-11,Pourquoi ,dois,-je donner mon nom et mon prénom alors que l'enquête est anonyme ? 
+FQB_INSEE-12,J'ai contracté un Pacs : comment ,dois,-je remplir mon questionnaire ? 
+FQB_INSEE-14,Pourquoi la notion de handicap ne ,figure,-t-elle pas dans le questionnaire de l'enquête annuelle de recensement ? 
+FQB_INSEE-15,Doit-on ,répondre, à toutes les questions ? 
+FQB_INSEE-15,,Doit,-on répondre à toutes les questions ? 
+FQB_INSEE-16,,Peut,-on rectifier son bulletin en cas d'erreur ? 
+FQB_INSEE-17,Que ,deviennent, les questionnaires ? 
+FQB_INSEE-18,Comment le recensement se ,passe,-t-il dans les départements d'outre-mer ? 
+FQB_INSEE-19,Comment le recensement se ,passe,-t-il dans les collectivités d'outre-mer ? 
+FQB_INSEE-20,"J'ai une résidence secondaire, où ",dois,-je me faire recenser ? 
+FQB_INSEE-21,"Un de mes enfants loge dans une autre ville pour ses études, ",doit,-il remplir un bulletin individuel ? 
+FQB_INSEE-21,Un de mes enfants ,loge," dans une autre ville pour ses études, doit-il remplir un bulletin individuel ? "
+FQB_INSEE-22,"Mon conjoint est absent pendant la semaine pour raisons professionnelles, ",doit,-il remplir un bulletin individuel ? 
+FQB_INSEE-23,"J'ai la garde alternée de mes enfants, ",dois,-je remplir un bulletin individuel pour eux ? 
+FQB_INSEE-25,Comment ,accéder, aux résultats du recensement ? 
+FQB_INSEE-27,Quand ,disposera,-t-on des nouvelles populations légales ? 
+FQB_Impots-1,"J'ai perdu mon avis d'imposition, ",puis,-je obtenir un duplicata ? 
+FQB_Impots-2,Je souhaite ,savoir, comment retrouver mon taux marginal d'imposition à l'impôt sur le revenu ? 
+FQB_Impots-2,Je ,souhaite, savoir comment retrouver mon taux marginal d'imposition à l'impôt sur le revenu ? 
+FQB_Impots-3,Je constate une erreur dans le calcul de mon impôt sur le revenu : comment procéder pour que celle-ci soit ,corrigée, ? 
+FQB_Impots-3,Je constate une erreur dans le calcul de mon impôt sur le revenu : comment ,procéder, pour que celle-ci soit corrigée ? 
+FQB_Impots-4,Qu'est-ce que le revenu fiscal de référence et à quoi ,sert,-il ? 
+FQB_Impots-5,,Puis,-je obtenir un étalement du paiement de mon impôt en cas de baisse importante de mes revenus ? 
+FQB_Impots-6,"Je veux me mensualiser, comment dois-je ",faire, ? 
+FQB_Impots-6,"Je veux me mensualiser, comment ",dois,-je faire ? 
+FQB_Impots-6,Je veux me ,mensualiser,", comment dois-je faire ? "
+FQB_Impots-6,Je ,veux," me mensualiser, comment dois-je faire ? "
+FQB_Impots-7-pre,Je viens de ,constater, que mon avis d'imposition ne contient pas mes prélèvements d'impôt mensuels. 
+FQB_Impots-7-pre,Je ,viens, de constater que mon avis d'imposition ne contient pas mes prélèvements d'impôt mensuels. 
+FQB_Impots-8,Que ,dois,-je faire ? 
+FQB_Impots-9,Peut-on se ,mensualiser, pour régler ses contributions sociales ? 
+FQB_Impots-9,,Peut,-on se mensualiser pour régler ses contributions sociales ? 
+FQB_Impots-10,Que ,puis,"-je faire si je rencontre des difficultés pour le paiement de mon impôt sur le revenu, ma taxe d'habitation ou ma taxe foncière ? "
+FQB_Impots-11,J'ai reçu un chèque et je voudrais savoir si je ,peux, obtenir cette somme en espèces ? 
+FQB_Impots-11,J'ai reçu un chèque et je voudrais ,savoir, si je peux obtenir cette somme en espèces ? 
+FQB_Impots-11,J'ai reçu un chèque et je ,voudrais, savoir si je peux obtenir cette somme en espèces ? 
+FQB_Impots-12,"EN dessous de quel montant, le paiement de l'impôt sur le revenu et des impôts locaux n'est pas ",exigé, ? 
+FQB_Impots-14,Quand et comment ,va,-t-on me verser la prime pour l'emploi ? 
+FQB_Impots-15,"Je viens de déménager et, je n'ai pas reçu mon chèque pour la prime pour l'emploi, comment ",faire, pour l'obtenir ? 
+FQB_Impots-15,Je viens de ,déménager," et, je n'ai pas reçu mon chèque pour la prime pour l'emploi, comment faire pour l'obtenir ? "
+FQB_Impots-15,Je ,viens," de déménager et, je n'ai pas reçu mon chèque pour la prime pour l'emploi, comment faire pour l'obtenir ? "
+FQB_Impots-16,"Par rapport à l'année dernière, ma prime pour l'emploi a ",diminué,", pour quelles raisons ? "
+FQB_Impots-20,"Je viens de déménager, quelles démarches ",dois,-je effectuer auprès des services fiscaux ? 
+FQB_Impots-20,Je viens de ,déménager,", quelles démarches dois-je effectuer auprès des services fiscaux ? "
+FQB_Impots-20,Je ,viens," de déménager, quelles démarches dois-je effectuer auprès des services fiscaux ? "
+FQB_Impots-21,"Je suis célibataire, divorcé, séparé ou veuf et je n'ai plus d'enfant à charge : puis-je ",bénéficier, d'une ½ part supplémentaire ? 
+FQB_Impots-21,"Je suis célibataire, divorcé, séparé ou veuf et je n'ai plus d'enfant à charge : ",puis,-je bénéficier d'une ½ part supplémentaire ? 
+FQB_Impots-24,"Si je loue une ou plusieurs pièces de ma résidence principale, comment ",dois,-je déclarer ce revenu ? 
+FQB_Impots-25,Comment déclarer les revenus provenant de la location d'un logement ,meublé, ? 
+FQB_Impots-25,Comment déclarer les revenus ,provenant, de la location d'un logement meublé ? 
+FQB_Impots-26,Comment dois-je déclarer les loyers ,provenant, de la location d'un bien immobilier vide ? 
+FQB_Impots-26,Comment ,dois,-je déclarer les loyers provenant de la location d'un bien immobilier vide ? 
+FQB_Impots-27,Comment déclarer les revenus ,provenant, de mon activité d'auto-entrepreneur ? 
+FQB_Impots-29,"Des travaux ont été réalisé dans ma résidence principale, je sais que le crédit d'impôt est ",limité,", quel est le montant maximum ? "
+FQB_Impots-29,"Des travaux ont été réalisé dans ma résidence principale, je ",sais," que le crédit d'impôt est limité, quel est le montant maximum ? "
+FQB_Impots-29,Des travaux ont été ,réalisé," dans ma résidence principale, je sais que le crédit d'impôt est limité, quel est le montant maximum ? "
+FQB_Impots-31,Si quelqu'un vient ,travailler," chez moi, ai-je droit à une réduction d'impôt ? "
+FQB_Impots-31,Si quelqu'un ,vient," travailler chez moi, ai-je droit à une réduction d'impôt ? "
+FQB_Impots-33,Puis-je déduire les intérêts d'emprunt ,liés, à cet achat ? 
+FQB_Impots-33,,Puis,-je déduire les intérêts d'emprunt liés à cet achat ? 
+FQB_Impots-35,"Je suis dans l'obligation de prendre mes repas à l'extérieur de mon domicile, que ",puis,-je déduire ? 
+FQB_Impots-36,Que puis-je déduire de mes revenus au titres des pensions alimentaires ,versées, à mes enfants ? 
+FQB_Impots-36,Que ,puis,-je déduire de mes revenus au titres des pensions alimentaires versées à mes enfants ? 
+FQB_Impots-37,Comment ,accéder, à mon espace personnel ? 
+FQB_Impots-38,"Je n'arrive plus à accéder à mon """"espace personnel"""", que ",puis,-je faire ? 
+FQB_Impots-38,Je n'arrive plus à ,accéder," à mon """"espace personnel"""", que puis-je faire ? "
+FQB_Impots-38,Je n',arrive," plus à accéder à mon """"espace personnel"""", que puis-je faire ? "
+FQB_Impots-39,"J'ai égaré mes identifiants me permettant d'accéder à mon espace personnel, comment ",puis,-je les obtenir ? 
+FQB_Impots-39,J'ai égaré mes identifiants me permettant d',accéder," à mon espace personnel, comment puis-je les obtenir ? "
+FQB_Impots-39,J'ai égaré mes identifiants me ,permettant," d'accéder à mon espace personnel, comment puis-je les obtenir ? "
+FQB_Impots-40,Comment consulter et ,imprimer, les avis de taxe foncière ou de taxe d'habitation de toutes mes résidences ? 
+FQB_Impots-41,Comment ,passer, d'un espace personnel à un autre ? 
+FQB_Impots-43,Comment ,procéder, pour la mise à jour de mon dossier fiscal en ligne ? 
+FQB_Impots-44,à quelle date ,vais,-je recevoir mon avis de Taxe Foncière ? 
+FQB_Impots-46,De quoi s',agit,-il ? 
+FQB_Impots-47-pre,Je viens de me ,mensualiser, pour la taxe foncière. 
+FQB_Impots-47-pre,Je ,viens, de me mensualiser pour la taxe foncière. 
+FQB_Impots-48,Est-ce que je ,dois, régler malgré tout son montant à la date limite de paiement ? 
+FQB_Impots-48,,Est,-ce que je dois régler malgré tout son montant à la date limite de paiement ? 
+FQB_Impots-49,"J'ai plus de 75 ans, suis-je ",exonéré, de Taxe Foncière ? 
+FQB_Impots-53,"Je vais installer une piscine, cela ",va, t-il modifier le montant de ma taxe foncière ? 
+FQB_Impots-53,Je ,vais," installer une piscine, cela va t-il modifier le montant de ma taxe foncière ? "
+FQB_Impots-54,à quelle date ,vais, je recevoir mon avis de taxe d'habitation ? 
+FQB_Impots-55,"J'ai déménagé en cours d'année, ma taxe d'habitation sera-t-elle ",diminuée, au prorata du temps d'occupation du logement ? 
+FQB_Impots-55,J'ai ,déménagé," en cours d'année, ma taxe d'habitation sera-t-elle diminuée au prorata du temps d'occupation du logement ? "
+FQB_Impots-56,"Je suis non imposable à l'impôt sur le revenu, ",vais,-je payer une taxe d'habitation 
+FQB_Impots-57,"Je perçois le RSA, ",dois, je payer ma taxe d'habitation ? 
+FQB_Impots-59,Que ,dois,-je faire ? 
+FQB_Impots-60,"Je n'ai pas de téléviseur mais un ordinateur avec une carte télévision, ",dois,-je payer la contribution à l'audiovisuel public ? 
+FQB_Impots-61,"Je n'ai pas de téléviseur, que ",dois,-je faire pour le signaler et pour ne pas payer de contribution à l'audiovisuel public ? 
+FQB_Impots-63,Combien ,puis,-je donner à mes enfants et à mes petits enfants sans payer de droits ? 
+FQB_Impots-65,"Je vais vendre une maison, ",vais,-je payer un impôt ? 
+FQB_Impots-65,Je ,vais," vendre une maison, vais-je payer un impôt ? "
+FQB_Impots-66,"J'ai un impôt à payer sur une plus-value immobilière, puis-je déduire les travaux ",effectués, dans ce logement ? 
+FQB_Impots-66,"J'ai un impôt à payer sur une plus-value immobilière, ",puis,-je déduire les travaux effectués dans ce logement ? 
+FQB_Impots-66,J'ai un impôt à ,payer," sur une plus-value immobilière, puis-je déduire les travaux effectués dans ce logement ? "
+FQB_Impots-68,Que faire si vous êtes ,exonéré, ? 
+FQB_Impots-71,Comment ,puis,"-je, en tant que particulier, obtenir un certificat (ou quitus fiscal) lorsque j'ai acheté un véhicule dans un pays de l'union européenne ? "
+FQB_Impots-72,Que ,dois,-je faire auprès de vos services en cas de décès de l'un de mes parents ? 
+FQB_Impots-76,Où ,puis,-je trouver mon numéro fiscal ? 
+FQB_PoleEmploi-5,Pourquoi ,devez,-vous avoir un espace personnel ? 
+FQB_PoleEmploi-6-pre,Vous avez été ,déconnecté(e), lord de votre demande d'inscription en ligne. 
+FQB_PoleEmploi-8,Vous ,venez," de valider votre demande d'inscription en ligne, quelles sont les prochaines étapes ? "
+FQB_PoleEmploi-11,"Vous avez remboursé un trop perçu, ",devez,-vous le déduire ? 
+FQB_PoleEmploi-11,Vous avez remboursé un trop ,perçu,", devez-vous le déduire ? "
+FQB_PoleEmploi-12,,Devez,-vous déclarer vos allocations ? 
+FQB_PoleEmploi-13,Comment connaître le montant que vous ,devez, déclarer ? 
+FQB_PoleEmploi-16,Vous êtes inscrit en tant que demandeur d'emploi et vous ,souhaitez, créer votre dossier de recherche d'emploi ? 
+FQB_PoleEmploi-16,Vous êtes ,inscrit, en tant que demandeur d'emploi et vous souhaitez créer votre dossier de recherche d'emploi ? 
+FQB_PoleEmploi-26,Pourquoi vos codes ne sont-ils pas ,reconnus, ? 
+FQB_PoleEmploi-28,Votre employeur ne vous a pas proposé d',adhérer, au CSP ? 
+FQB_PoleEmploi-28,Votre employeur ne vous a pas ,proposé, d'adhérer au CSP ? 
+FQB_PoleEmploi-29,Quels sont les recours ,ouverts, aux victimes de discrimination ? 
+FQB_TREC-fr-9,À quelle distance se ,trouve, Yaroslavl de Moscou ? 
+FQB_TREC-fr-10-imp,"Nommez le créateur du soulier qui a entraîné des millions d'imitations en plastique, ",connues," sous le noms de """"souliers Jelly"""". "
+FQB_TREC-fr-13,À combien se ,louait, une coccinelle Volkswagen en 1966 ? 
+FQB_TREC-fr-15,Quand fut ,construite, la voie ferrée du train léger Docklands de Londres ? 
+FQB_TREC-fr-17,Combien de temps a ,duré, le procès pour meurtre de Charles Manson ? 
+FQB_TREC-fr-19,"Qui était chef de la secte des davidiens, ",confrontée, par le FBI à Waco (Texas) en 1993 ? 
+FQB_TREC-fr-20,Où est ,basée, Inoco ? 
+FQB_TREC-fr-26,"Quel est le nom du versant """"féminin"""" d'El Niño, qui ",a, comme résultat de refroidir la température et d'entraîner un climat sec ? 
+FQB_TREC-fr-27,Où s'est ,tenue, la sixième rencontre annuelle des experts en foresterie de l'Indonésie et de la Malaysia ? 
+FQB_TREC-fr-28,Qui est surtout connu pour avoir été le premier Afro-américain à ,jouer, dans la ligue majeure de baseball ? 
+FQB_TREC-fr-28,Qui est surtout ,connu, pour avoir été le premier Afro-américain à jouer dans la ligue majeure de baseball ? 
+FQB_TREC-fr-29,Quelle étoile est la plus lumineuse ,vue, de la Terre ? 
+FQB_TREC-fr-31,Où est ,né, Ulysses S. Grant ? 
+FQB_TREC-fr-34,Où est ,enterrée, l'actrice Marion Davies ? 
+FQB_TREC-fr-36,À quel jour de la semaine ,tombait, Noël en 1990 ? 
+FQB_TREC-fr-37,Quel était le nom de l'hélicoptère américain ,tiré, en plein vol au dessus de la Corée du Nord ? 
+FQB_TREC-fr-38,Où est ,né, George Washington ? 
+FQB_TREC-fr-39,Qui fut ,choisi, comme premier président noir des chefs d'État major militaires ? 
+FQB_TREC-fr-41,Quel taux-limite d'alcool dans le sang est ,permis, dans l'État de la Californie ? 
+FQB_TREC-fr-42,Quel était le taux de croissance ,visé, pour M3 en 1992 ? 
+FQB_TREC-fr-43,Quel costumier a décidé que Michael Jackson ne ,devrait, porter qu'un seul gant ? 
+FQB_TREC-fr-43,Quel costumier a ,décidé, que Michael Jackson ne devrait porter qu'un seul gant ? 
+FQB_TREC-fr-44,Qui est directeur du groupe international nommé l'Organisation du génome humain (hugo) qui tente présentement de coordonner à travers le monde la recherche ,portant, sur la carte du génome humain ? 
+FQB_TREC-fr-44,Qui est directeur du groupe international nommé l'Organisation du génome humain (hugo) qui ,tente, présentement de coordonner à travers le monde la recherche portant sur la carte du génome humain ? 
+FQB_TREC-fr-44,Qui est directeur du groupe international ,nommé, l'Organisation du génome humain (hugo) qui tente présentement de coordonner à travers le monde la recherche portant sur la carte du génome humain ? 
+FQB_TREC-fr-45,En quelle année est ,morte," Lucelly Garcia, une ancienne ambassadrice de la Colombie au Honduras ? "
+FQB_TREC-fr-48,Où est ,situé, l'immense complexe nucléaire de la Corée du Nord ? 
+FQB_TREC-fr-50,Quand a été ,construite, la première maison en béton au Dubaï ? 
+FQB_TREC-fr-52,Qui a inventé le cône en plastique ,servant, à la circulation routière ? 
+FQB_TREC-fr-54,Quand Nixon est-il ,mort, ? 
+FQB_TREC-fr-55,Où sont ,situés, les quartiers généraux de Microsoft ? 
+FQB_TREC-fr-57,Quel est l'acronyme du système qui évalue l'efficacité de l'air ,climatisé, ? 
+FQB_TREC-fr-61,Quel marque de rhum blanc est encore ,produite, à Cuba ? 
+FQB_TREC-fr-63,Quel sous-marin atomique a ,coulé, dans la mer de Norvège le 7 avril 1989 ? 
+FQB_TREC-fr-70,Combien de vies ont été ,perdues," dans l'écrasement d'un vol de China Airlines à Nagoya, au Japon ? "
+FQB_TREC-fr-72,Quand la version originale de l'émission Howdy Doody a-t-elle cessé d'être ,diffusée, ? 
+FQB_TREC-fr-72,Quand la version originale de l'émission Howdy Doody a-t-elle ,cessé, d'être diffusée ? 
+FQB_TREC-fr-73,Où ,est, le Taj Mahal ? 
+FQB_TREC-fr-75,Quel cancer est généralement ,associé, au sida ? 
+FQB_TREC-fr-76,En quelle année la Nouvelle-Zélande a-t-elle été ,exclue, du pacte anzus ? 
+FQB_TREC-fr-80,Quel est le nom du composé anti-cancérigène très prometteur qui est ,dérivé, de l'if du Pacifique ? 
+FQB_TREC-fr-85,Quel ancien membre du Ku Klux Klan a remporté un poste ,élu, aux États-Unis ? 
+FQB_TREC-fr-87,Qui a ,succédé, à Willy Brant comme chancelier de la République fédérale d'Allemagne ? 
+FQB_TREC-fr-89,À quel âge Rossini a-t-il ,cessé, de composer des opéras ? 
+FQB_TREC-fr-96,À quel moment de la journée l'empereur Hirohito est-il ,mort, ? 
+FQB_TREC-fr-98,Où se ,situe, le sommet le plus élevé au Japon ? 
+FQB_TREC-fr-100,Qu'est-ce qui est ,tenu, pour avoir été le désastre financier le plus coûteux que l'industrie de l'assurance ait jamais connu ? 
+FQB_TREC-fr-103,Combien de gens sont morts lorsque l'Estonia a ,coulé, en 1994 ? 
+FQB_TREC-fr-103,Combien de gens sont ,morts, lorsque l'Estonia a coulé en 1994 ? 
+FQB_TREC-fr-108,Quelle compagnie a créé le navigateur Internet ,nommé, Mosaic ? 
+FQB_TREC-fr-109,Où Buzz Aldrin veut-il construire une station spatiale permanente et ,habitée, ? 
+FQB_TREC-fr-109,Où Buzz Aldrin ,veut,-il construire une station spatiale permanente et habitée ? 
+FQB_TREC-fr-111,Combien de temps ,dure, le voyage entre Tokyo et Niigata ? 
+FQB_TREC-fr-113,Comment nomme-t-on l'état médical d'un enfant ,né, sans cerveau ? 
+FQB_TREC-fr-114,Le nouveau matériau de carbone vitrifié inventé par l'Institut de Tokyo pour la technologie est combien de fois plus résistant que celui ,fait, de cellulose ? 
+FQB_TREC-fr-114,Le nouveau matériau de carbone vitrifié ,inventé, par l'Institut de Tokyo pour la technologie est combien de fois plus résistant que celui fait de cellulose ? 
+FQB_TREC-fr-114,Le nouveau matériau de carbone ,vitrifié, inventé par l'Institut de Tokyo pour la technologie est combien de fois plus résistant que celui fait de cellulose ? 
+FQB_TREC-fr-118,Quel pourcentage des espèces animales et végétales de la planète se ,trouve, dans les forêts amazoniennes ? 
+FQB_TREC-fr-119,Quel lauréat du prix Nobel a été ,expulsé, des Philippines avant la conférence sur le Timor oriental ? 
+FQB_TREC-fr-121,Qui remporta la première élection présidentielle générale ,tenue, à Malawi en mai 1994 ? 
+FQB_TREC-fr-124,À quoi ,servait," l'""""agent orange"""" pendant la guerre du Viêtnam ? "
+FQB_TREC-fr-125,Dans quelle ville se ,trouve, la Déclaration d'indépendance américaine ? 
+FQB_TREC-fr-126,Quand Israël a-t-il ,commencé, à rendre la Bande de Gaza et Jéricho à l'olp ? 
+FQB_TREC-fr-128,Qui fut le deuxième homme à ,marcher, sur la lune ? 
+FQB_TREC-fr-130,Quand le Yémen a-t-il été ,réunifié, ? 
+FQB_TREC-fr-133,"Comment nomme-t-on la technique par laquelle l'on sème certaines plantes dans un sol contaminé aux métaux toxiques afin que ces plantes ingèrent ces métaux, qu'elles soient récoltées, puis que les métaux soient ",recouvrés, à fins de recyclage ? 
+FQB_TREC-fr-133,"Comment nomme-t-on la technique par laquelle l'on sème certaines plantes dans un sol contaminé aux métaux toxiques afin que ces plantes ingèrent ces métaux, qu'elles soient ",récoltées,", puis que les métaux soient recouvrés à fins de recyclage ? "
+FQB_TREC-fr-133,Comment nomme-t-on la technique par laquelle l'on sème certaines plantes dans un sol ,contaminé," aux métaux toxiques afin que ces plantes ingèrent ces métaux, qu'elles soient récoltées, puis que les métaux soient recouvrés à fins de recyclage ? "
+FQB_TREC-fr-134,Où ,prévoit,"-on amarrer le navire de commerce Lane Victory, que des vétérans de la marine marchande convertissent en musée flottant ? "
+FQB_TREC-fr-135,Quel célèbre chef communiste est ,mort, à Mexico ? 
+FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y compris chez les êtres humains, par lequel des cellules sont programmées à se """"",suicider, ? 
+FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y compris chez les êtres humains, par lequel des cellules sont ",programmées," à se """"suicider"""" ? "
+FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y ",compris," chez les êtres humains, par lequel des cellules sont programmées à se """"suicider"""" ? "
+FQB_TREC-fr-139,Combien de gens les Nations Unies se sont-elles ,engagées, à aider à restaurer l'ordre et à distribuer de l'aide humanitaire en Somalie en septembre 1992 ? 
+FQB_TREC-fr-140,Combien de gens furent ,tués," au sol à cause du bombardement du vol 103 de Pan Am au dessus de Lockerbie (Écosse), le 21 décembre 1988 ? "
+FQB_TREC-fr-141,Combien de temps ,dure, le voyage en train de Bristol à Londres ? 
+FQB_TREC-fr-143,D'où provient la majorité de la marijuana qui ,entre, aux États-Unis ? 
+FQB_TREC-fr-143,D'où ,provient, la majorité de la marijuana qui entre aux États-Unis ? 
+FQB_TREC-fr-144,Combien de mégawatts produira en Indonésie le projet énergétique mis sur pied par un consortium ,mené, par Mission Energy des États-Unis ? 
+FQB_TREC-fr-144,Combien de mégawatts produira en Indonésie le projet énergétique ,mis, sur pied par un consortium mené par Mission Energy des États-Unis ? 
+FQB_TREC-fr-148,Combien de soldats furent ,impliqués, dans la dernière invasion américaine du Panama ? 
+FQB_TREC-fr-149,Où est basée l'équipe de basketball ,nommée," les """"Bulls"""" ? "
+FQB_TREC-fr-149,Où est ,basée," l'équipe de basketball nommée les """"Bulls"""" ? "
+FQB_TREC-fr-151,Où est ,mort, Dylan Thomas ? 
+FQB_TREC-fr-156,Quand le Général Manuel Noriega a-t-il été évincé de son poste de dirigeant du Panama et ,remis, aux autorités américaines ? 
+FQB_TREC-fr-156,Quand le Général Manuel Noriega a-t-il été ,évincé, de son poste de dirigeant du Panama et remis aux autorités américaines ? 
+FQB_TREC-fr-157,Où ,est, le Collège Dartmouth ? 
+FQB_TREC-fr-158,Combien de mines se ,trouvent, toujours dans les Malouines après la fin de la guerre ? 
+FQB_TREC-fr-161,À combien s',élève, la richesse de Bill Gates ? 
+FQB_TREC-fr-163,Quel État est ,représenté, par Charles Robb ? 
+FQB_TREC-fr-169,Qui a été ,battu, par les Bulls de Chicago lord du championnat de 1993 ? 
+FQB_TREC-fr-172,Où ,est, le télescope Keck ? 
+FQB_TREC-fr-174,Quand Jaco Pastorius est-il ,décédé, ? 
+FQB_TREC-fr-175,Quand Beethoven est-il ,décédé, ? 
+FQB_TREC-fr-181,De quel roman s',inspire, le film Blade Runner ? 
+FQB_TREC-fr-184,Quand la Reine Victoria est-elle ,née, ? 
+FQB_TREC-fr-185,Quand s'est ,déroulée, la bataille de la Somme ? 
+FQB_TREC-fr-187,Où a été ,assassiné, Lincoln ? 
+FQB_TREC-fr-188,Quand l'amendement accordant le suffrage aux femmes a-t-il été ,ratifié, ? 
+FQB_TREC-fr-189,Où ,est, le Qatar ? 
+FQB_TREC-fr-190,Où est se ,trouve, South Bend ? 
+FQB_TREC-fr-190,Où ,est, se trouve South Bend ? 
+FQB_TREC-fr-191,Où est ,né, Harry Truman ? 
+FQB_TREC-fr-197,Qu'a dit Richard Feynman lorsqu'il ,apprit, qu'il recevrait le prix Nobel de physique ? 
+FQB_TREC-fr-198,Comment est ,mort, Socrate ? 
+FQB_TREC-fr-200,Quelle est la hauteur de la réplique du Matterhorn qui se ,trouve, à Disneyland ? 
+FQB_TREC-fr-201,Quel est le nom du premier cosmonaute russe à avoir ,marché, dans l'espace ? 
+FQB_TREC-fr-202,Où est ,situé, le Belize ? 
+FQB_TREC-fr-203,Quelle dose quotidienne d'acide folique une femme enceinte ,devrait,-elle obtenir ? 
+FQB_TREC-fr-204,À quel type de pont ,appartient, le Golden Gate ? 
+FQB_TREC-fr-206,À quelle distance se ,trouve, la Lune ? 
+FQB_TREC-fr-207,Pour quelle raison Francis Scott Key est-il surtout ,connu, ? 
+FQB_TREC-fr-214,Combien d'hexagones se ,trouvent, sur un ballon de soccer ? 
+FQB_TREC-fr-217,Dans quel habitat ,vit, la mésange ? 
+FQB_TREC-fr-223,Où ,est, le Monténégro ? 
+FQB_TREC-fr-226,Où ,est, le Danube ? 
+FQB_TREC-fr-227,D'où ,provient, la rosée ? 
+FQB_TREC-fr-230,À quand ,remonte, la dernière éruption du Vésuve ? 
+FQB_TREC-fr-234,Qui a construit le premier avion pouvant ,voler, ? 
+FQB_TREC-fr-234,Qui a construit le premier avion ,pouvant, voler ? 
+FQB_TREC-fr-235,Combien d'astronautes sont ,allés, sur la Lune ? 
+FQB_TREC-fr-240,Il y a combien d'années que le vaisseau Titanic a ,coulé, ? 
+FQB_TREC-fr-240,Il y ,a, combien d'années que le vaisseau Titanic a coulé ? 
+FQB_TREC-fr-243,D'où ,provient, l'oukoulélé ? 
+FQB_TREC-fr-245,Où ,peut,-on trouver l'attrape-mouche de Vénus ? 
+FQB_TREC-fr-249,Où se ,trouve, la Vallée des rois ? 
+FQB_TREC-fr-250,Où ,vivait, le peuple des Mayas ? 
+FQB_TREC-fr-252,Quand fut ,inventée, la première toilette à chasse ? 
+FQB_TREC-fr-255,Qui a pensé à ,enseigner, aux gens comment nouer leurs lacets de chaussure ? 
+FQB_TREC-fr-255,Qui a ,pensé, à enseigner aux gens comment nouer leurs lacets de chaussure ? 
+FQB_TREC-fr-256,Qui est ,enterré, dans la grande pyramide de Gizeh ? 
+FQB_TREC-fr-258,Où les homards aiment-ils ,vivre, ? 
+FQB_TREC-fr-258,Où les homards ,aiment,-ils vivre ? 
+FQB_TREC-fr-259,De quoi ,descendent, les oiseaux ? 
+FQB_TREC-fr-262,Quel est le nom de la dynastie japonaise ayant ,régné, le plus longtemps ? 
+FQB_TREC-fr-263,Quand est ,né, Babe Ruth ? 
+FQB_TREC-fr-266,Où est ,né, Pythagore ? 
+FQB_TREC-fr-270,Où ,est, l'Orénoque ? 
+FQB_TREC-fr-273,Qui fut le tout premier président américain à ,démissionner, ? 
+FQB_TREC-fr-275,Environ combien de soldats sont ,morts, dans la Deuxième Guerre mondiale ? 
+FQB_TREC-fr-283,Où se ,trouve, le rocher Ayer ? 
+FQB_TREC-fr-285,Quand la première voie ferrée reliant la côte est à la côte ouest fut-elle ,complétée, ? 
+FQB_TREC-fr-288,À quelle vitesse une corvette peut-elle ,rouler, ? 
+FQB_TREC-fr-288,À quelle vitesse une corvette ,peut,-elle rouler ? 
+FQB_TREC-fr-289,John C. Calhoun et Henry Clay sont ,connus, comme étant qui ? 
+FQB_TREC-fr-291,Quand la période carolingienne ,débuta,-t-elle ? 
+FQB_TREC-fr-302,"Aux États-Unis, combien de personnes par année meurent d'un empoisonnement ",dû, à une morsure de serpent ? 
+FQB_TREC-fr-302,"Aux États-Unis, combien de personnes par année ",meurent, d'un empoisonnement dû à une morsure de serpent ? 
+FQB_TREC-fr-304,Où se ,trouve," la """"Tornado Alley"""" ? "
+FQB_TREC-fr-306,Où ,vivent, les hyènes ? 
+FQB_TREC-fr-310,Où ,est, le pont sur la rivière Kwaï ? 
+FQB_TREC-fr-315,Pourquoi les autruches ne peuvent-elles pas ,voler, ? 
+FQB_TREC-fr-315,Pourquoi les autruches ne ,peuvent,-elles pas voler ? 
+FQB_TREC-fr-317,Où ,est, Guam ? 
+FQB_TREC-fr-320,Où est ,située, la Roumanie ? 
+FQB_TREC-fr-321,Où fut ,fondée, la compagnie De Beers ? 
+FQB_TREC-fr-328,Quel était le nom de l'homme ,tué, en duel avec Aaron Burr ? 
+FQB_TREC-fr-330,"Quand le """"Slinky"""" fut-il ",inventé, ? 
+FQB_TREC-fr-332,Combien de temps cela prendrait-il pour ,aller, de la Terre à Mars ? 
+FQB_TREC-fr-336,Quand la compagnie Microsoft fut-elle ,établie, ? 
+FQB_TREC-fr-339,Comment se ,nommait, le jeu de balle des anciens Mayas ? 
+FQB_TREC-fr-344,Qui fut ,considéré, comme le père de la psychologie ? 
+FQB_TREC-fr-350,Combien de violons stradivarius furent ,fabriqués, ? 
+FQB_TREC-fr-352,Qui a inventé le jeu ,connu," sous le nom de """"bowling"""" ? "
+FQB_TREC-fr-356,D'où ,provient, le chocolat ? 
+FQB_TREC-fr-359,Où se ,trouve, Melbourne ? 
+FQB_TREC-fr-361,À quelle chaleur s',élève, l'intérieur d'un volcan actif ? 
+FQB_TREC-fr-364,Combien de gens ,vivaient, au Nebraska au milieu des années 1980 ? 
+FQB_TREC-fr-367,Quand ,est, le véritable anniversaire de Martin Luther King Junior ? 
+FQB_TREC-fr-368,Où ,est, Trinidad ? 
+FQB_TREC-fr-369,Où ,vivaient, les Inuits ? 
+FQB_TREC-fr-373,Où ,est, le désert du Kalahari ? 
+FQB_TREC-fr-375,Dans quel océan a ,coulé, le Titanic ? 
+FQB_TREC-fr-377,À quelle vitesse la Terre ,tourne,-t-elle autour du Soleil ? 
+FQB_TREC-fr-382,Quand ,vécu, Mahomet ? 
+FQB_TREC-fr-387,En quelle année le Montana est-il ,devenu, un État ? 
+FQB_TREC-fr-388,Quels étaient les noms des trois vaisseaux ,empruntés, par Christophe Colomb ? 
+FQB_TREC-fr-390,Où est ,né, John Adams ? 
+FQB_TREC-fr-393,Où se ,trouve, votre corps calleux ? 
+FQB_TREC-fr-397,Quand la porte de Brandebourg à Berlin fut-elle ,construite, ? 
+FQB_TREC-fr-403-imp,Dites-moi près de quelle ville se ,trouve, le parc Kentucky Horse. 
+FQB_TREC-fr-403-imp,,Dites,-moi près de quelle ville se trouve le parc Kentucky Horse. 
+FQB_TREC-fr-412-imp,Nommez un film dans lequel a ,joué, Jude Law. 
+FQB_TREC-fr-413,Où ,sont, les quartiers généraux américains de Procter et Gamble ? 
+FQB_TREC-fr-422,Quand la princesse Diana et le prince Charles se sont-ils ,mariés, ? 
+FQB_TREC-fr-425,Combien de mois une maternité humaine normale ,dure,-t-elle ? 
+FQB_TREC-fr-428,Où est ,situé, Logan International ? 
+FQB_TREC-fr-430,Où est ,situé, le pays basque ? 
+FQB_TREC-fr-435,Comment Bob Marley est-il ,mort, ? 
+FQB_TREC-fr-436,Ray Charles est surtout connu pour avoir ,joué, de quel instrument ? 
+FQB_TREC-fr-436,Ray Charles est surtout ,connu, pour avoir joué de quel instrument ? 
+FQB_TREC-fr-440,Où est ,né, Poe ? 
+FQB_TREC-fr-441,Quel roi s'est vu ,forcé, d'accepter la Magna Carta ? 
+FQB_TREC-fr-441,Quel roi s'est ,vu, forcé d'accepter la Magna Carta ? 
+FQB_TREC-fr-448,Où est ,situé, le collège Rider ? 
+FQB_TREC-fr-451,Où ,est, l'aéroport McCarren ? 
+FQB_TREC-fr-453,Quand ,tombe, le jour de la Bastille ? 
+FQB_TREC-fr-455,Colin Powell est surtout ,connu, pour quelle raison ? 
+FQB_TREC-fr-457,Où ,est, l'université Webster ? 
+FQB_TREC-fr-459,Quand John D. Rockefeller est-il ,né, ? 
+FQB_TREC-fr-461,Qui est l'auteur du livre sur le piratage informatique qui s',intitule," """"The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage"""" ? "
+FQB_TREC-fr-464,Où ,est, le siège social d'Eli Lilly ? 
+FQB_TREC-fr-465,De quel collège Hillary Clinton a-t-elle été ,diplômée, ? 
+FQB_TREC-fr-466,Où ,est, Glasgow ? 
+FQB_TREC-fr-471,En quelle année est ,mort, Hitler ? 
+FQB_TREC-fr-472,Quand la Guerre civile américaine s'est-elle ,terminée, ? 
+FQB_TREC-fr-485,Où ,est, Amsterdam ? 
+FQB_TREC-fr-487,Quel était le titre du film dans lequel ,jouaient, Sharon Stone et Arnold Schwarzenegger ? 
+FQB_TREC-fr-488,Dans quel continent se ,situe, la Bolivie ? 
+FQB_TREC-fr-490,D'où ,proviennent, les cochons d'Inde ? 
+FQB_TREC-fr-497,Qui jouait le rôle de Jake dans l'émission télévisée ,intitulée," """"Jake and the Fatman"""" ? "
+FQB_TREC-fr-498,Qui jouait le rôle de Fatman dans l'émission télévisée ,intitulée," """"Jake and the Fatman"""" ? "
+FQB_TREC-fr-499,Où ,est, le Venezuela ? 
+FQB_TREC-fr-500,Dans quelle ville de la Floride se ,trouve, Sea World ? 
+FQB_TREC-fr-502,Quelle est l'une des villes dans lesquelles est ,située, l'université du Minnesota ? 
+FQB_TREC-fr-503,À quel genre de sport s',adonne, l'équipe des Sabres de Buffalo ? 
+FQB_TREC-fr-505,Dans quelle ville est ,situé, l'hôpital général du Massachusetts ? 
+FQB_TREC-fr-507,Quand a ,commencé, la loterie californienne ? 
+FQB_TREC-fr-508,Où ,est, Las Vegas ? 
+FQB_TREC-fr-509,Quand Beethoven est-il ,né, ? 
+FQB_TREC-fr-511,Où ,est, l'université Tufts ? 
+FQB_TREC-fr-512,Dans quel film Madilyn Kahn a-t-elle ,joué, avec Gene Wilder ? 
+FQB_TREC-fr-517,Dans quelle province se ,situe, Edmonton ? 
+FQB_TREC-fr-520,Quand fut ,produite, la première Barbie ? 
+FQB_TREC-fr-524,Où s'est premièrement ,développé, le wicca ? 
+FQB_TREC-fr-526,D'où sont ,extraits, les diamants ? 
+FQB_TREC-fr-527,Où a été ,établie, la NFL ? 
+FQB_TREC-fr-530,Sous quel autre nom étaient ,connus," les """"Little Rascals"""" ? "
+FQB_TREC-fr-534,Où ,est, le château de Windsor ? 
+FQB_TREC-fr-535,Qui jouait le personnage de Rosanne Rosanna-Dana dans l'émission télévisée ,intitulée," """"Saturday Night Live"""" ? "
+FQB_TREC-fr-537,De quel animal ,proviennent," les """"buffalo wings"""" ? "
+FQB_TREC-fr-538,Quand fut ,inventé, le code à barres ? 
+FQB_TREC-fr-541,Quelle était la raison d',être, du projet Manhattan ? 
+FQB_TREC-fr-547,Quand fut ,construit, le barrage Hoover ? 
+FQB_TREC-fr-551,Quel est le nom de la peinture de Michel-Ange qui représente deux mains dont les doigts se ,touchent, ? 
+FQB_TREC-fr-556,Combien de copies d'un album doivent être ,vendues, afin que celui-ci soit un disque d'or ? 
+FQB_TREC-fr-556,Combien de copies d'un album ,doivent, être vendues afin que celui-ci soit un disque d'or ? 
+FQB_TREC-fr-557,Quand se ,déroule, le Festival des tulipes au Michigan ? 
+FQB_TREC-fr-561-imp,Nommez une motocyclette ,fabriquée, aux États-Unis. 
+FQB_TREC-fr-563-imp,Nommez un film dans lequel a ,joué, l'actrice Sandra Bullock. 
+FQB_TREC-fr-564,Où ,est, le Musée Thomas Edison ? 
+FQB_TREC-fr-568,Dans quel État se ,trouve, le magasin Filenes ? 
+FQB_TREC-fr-569,Combien de calcium ,devrait, prendre une femme adulte quotidiennement ? 
+FQB_TREC-fr-570,Dans quelle équipe de hockey ,jouait, Wayne Gretzky ? 
+FQB_TREC-fr-571,Quelle couleur de teinture à cheveux ,devrait,-on utiliser pour simplement masquer un peu de gris ? 
+FQB_TREC-fr-572,Combien de temps cela prendrait-il pour que un bon d'épargne de 50 $ ,arrive, à maturité ? 
+FQB_TREC-fr-575,De quel sport ,jouent, les Badgers du Wisconsin ? 
+FQB_TREC-fr-577,,Pouvez,"-vous me nommer un horloger de Londres, en Angleterre ? "
+FQB_TREC-fr-578,Quel était le nom de la comédie télévisée dans laquelle Alyssa Milano ,jouait, auprès de Tony Danza ? 
+FQB_TREC-fr-580,D'où ,provient, le yoga ? 
+FQB_TREC-fr-582,Pour quelle station de radio Paul Harvey ,travaillait,-il ? 
+FQB_TREC-fr-583,Quelle est le nom de la chanson dans laquelle Will Smith ,chante, au sujet des parents ? 
+FQB_TREC-fr-585,Quelle mannequin célèbre était ,mariée, avec Billy Joel ? 
+FQB_TREC-fr-587,Dans quel livre ,peut,-on trouver l'histoire d'Aladin ? 
+FQB_TREC-fr-588,Quand a ,commencé, la Première Guerre mondiale ? 
+FQB_TREC-fr-589,Dans quel État se ,trouvent, les chutes de Niagara ? 
+FQB_TREC-fr-590,Quel est le nom de l'actrice qui a ,joué," dans le film """"Silence of the Lambs"""" ? "
+FQB_TREC-fr-592,Où ,pourrait,-on faire un tour de locomotive à vapeur ? 
+FQB_TREC-fr-593,Quand a été ,réalisé, le film Caligula ? 
+FQB_TREC-fr-595,Où ,est, la Birmanie ? 
+FQB_TREC-fr-596,Combien de milles d'autoroute au gallon ,permet, de parcourir la Fiesta de Ford ? 
+FQB_TREC-fr-601,Quand ,vécut, l'homme de Néanderthal ? 
+FQB_TREC-fr-604,Dans quel État Martha Stewart ,vit,-elle ? 
+FQB_TREC-fr-606,Pour quelle raison Cushman et Wakefield sont-ils ,connus, ? 
+FQB_TREC-fr-607,Pour quelle raison D. B. Cooper est-il ,connu, ? 
+FQB_TREC-fr-608,Quand Nostradamus est-il ,né, ? 
+FQB_TREC-fr-612,Qui a créé la bande dessinée ,intitulée, Garfield ? 
+FQB_TREC-fr-612,Qui a créé la bande ,dessinée, intitulée Garfield ? 
+FQB_TREC-fr-613,Où est ,située, l'île de Man ? 
+FQB_TREC-fr-615,Quel jour est ,connu," comme étant le """"jour national de la prière"""" ? "
+FQB_TREC-fr-616,À quoi ,sert, une brassière d'automobile ? 
+FQB_TREC-fr-624,Comment Teddy Roosevelt était-il ,lié, à FDR ? 
+FQB_TREC-fr-628,Dans quelle ville se ,trouve," la station de radio 94,5 kdge ? "
+FQB_TREC-fr-629,Quel président est ,devenu, juge en chef suite à sa présidence ? 
+FQB_TREC-fr-633,Combien de temps ,vit, le bernard-l'hermite ? 
+FQB_TREC-fr-637,Quelle vedette de la lutte est ,devenue," """"l'Incroyable Hulk"""" ? "
+FQB_TREC-fr-640,Quand le premier Wall Street Journal fut-il ,publié, ? 
+FQB_TREC-fr-651,Quelle actrice a ,joué," dans """"The Lion in Winter"""" ? "
+FQB_TREC-fr-652,Où est ,née, Tesla ? 
+FQB_TREC-fr-658,Où se ,trouve, le Kings 'Canyon ? 
+FQB_TREC-fr-659,Où ,est, la clinique Mayo ? 
+FQB_TREC-fr-662,Où ,vit, mère Angélique ? 
+FQB_TREC-fr-665,En quelle année la première automobile a-t-elle été ,fabriquée, ? 
+FQB_TREC-fr-673,De quel sport ,jouent, les Cavaliers de Cleaveland ? 
+FQB_TREC-fr-674,En quelle année la compagnie Avery Dennison a-t-elle été ,fondée, ? 
+FQB_TREC-fr-676-imp,Nommez une troupe de ballet pour laquelle Mikhail Baryshnikov a ,dansé,. 
+FQB_TREC-fr-677,Quel était le nom de l'émission télévisée dans laquelle ,jouait," Karl Maden et dont le titre renfermait """"San Fransisco"""" ? "
+FQB_TREC-fr-682,Quel type de chevaux ,figurent, dans les annonces de Budweiser ? 
+FQB_TREC-fr-684,Quand l'art de la courte-pointe a-t-il ,commencé, ? 
+FQB_TREC-fr-686,Où est ,situé, l'Institut Smithsonian ? 
+FQB_TREC-fr-687,En quelle année s'est ,terminée, la Guerre du Viêtnam ? 
+FQB_TREC-fr-688,De quel pays ,proviennent, les chocolats Godiva ? 
+FQB_TREC-fr-693,Dans quelle ville ,vivaient, les Flintstones ? 
+FQB_TREC-fr-696,Où ,est, Sainte-Lucie ? 
+FQB_TREC-fr-697,Quel président américain est ,enterré," à Washington, D. C. ? "
+FQB_TREC-fr-698,Où ,est, Ocho Rios ? 
+FQB_TREC-fr-699,En quelle année est ,paru, le premier disque de Janet Jackson ? 
+FQB_TREC-fr-705,L'aspartame est aussi ,connu, comme étant quoi ? 
+FQB_TREC-fr-707,L'aspartame est ,connu, sous quel autre nom ? 
+FQB_TREC-fr-708,Comment est aussi ,appelé, l'aspartame ? 
+FQB_TREC-fr-713,Qu'est-ce qui pousse les touristes à ,aller, à Reims ? 
+FQB_TREC-fr-715,Que ,pourrait,-on voir à Reims ? 
+FQB_TREC-fr-716,Qu'est-ce qui vaut la peine d'être ,vu, à Reims ? 
+FQB_TREC-fr-717,Que ,peut,-on voir à Reims ? 
+FQB_TREC-fr-718,Jude Law ,était, dans quel film ? 
+FQB_TREC-fr-719,Jude Law a ,joué, dans quel film ? 
+FQB_TREC-fr-720,Quel est un film dans lequel Jude Law a ,joué, ? 
+FQB_TREC-fr-721,Dans quel film ,jouait, Jude Law ? 
+FQB_TREC-fr-722,Dans quel film ou dans quels films ,apparaît, Jude Law ? 
+FQB_TREC-fr-725,À quel endroit aux États-Unis ,sont, les bureaux d'entreprise de Procter et Gamble ? 
+FQB_TREC-fr-727,Où Procter et Gamble sont-ils ,basés, aux États-Unis ? 
+FQB_TREC-fr-728,Quelle est la quantité quotidienne d'acide folique ,recommandée, pour les femmes enceintes ? 
+FQB_TREC-fr-729,Combien d'acide folique une femme enceinte ,devrait,-elle obtenir chaque jour ? 
+FQB_TREC-fr-730,Quelle est la quantité quotidienne d'acide folique ,recommandée, pour une femme qui attend un bébé ? 
+FQB_TREC-fr-731,Quelle quantité d'acide folique une femme attendant un bébé ,devrait,-elle prendre quotidiennement ? 
+FQB_TREC-fr-732-imp,Nommez le premier cosmonaute russe à avoir ,marché, dans l'espace. 
+FQB_TREC-fr-733,Qui fut le premier cosmonaute russe à avoir ,marché, dans l'espace ? 
+FQB_TREC-fr-734,Qui fut le premier Russe à ,marcher, dans l'espace ? 
+FQB_TREC-fr-741,Quand CNN est-elle ,entrée, en ondes ? 
+FQB_TREC-fr-743,À qui ,appartient, CNN ? 
+FQB_TREC-fr-747,Pour quelle raison Jane Goodall est-elle ,connue, ? 
+FQB_TREC-fr-752,Comment la thalassémie est-elle ,définie, ? 
+FQB_TREC-fr-755,Quelle boisson gazeuse ,devrait,-on boire pour avoir le plus de caféine ? 
+FQB_TREC-fr-761,Quel est le nom ,donné, à un groupe d'oies ? 
+FQB_TREC-fr-763,Combien de temps ,dure, la gestation humaine ? 
+FQB_TREC-fr-765,Combien de mois ,dure, une grossesse humaine normale ? 
+FQB_TREC-fr-772,Où ,est, l'aéroport Logan ? 
+FQB_TREC-fr-773,Dans quelle ville ,est, l'aéroport Logan ? 
+FQB_TREC-fr-775,Logan International est ,situé, dans quelle ville ? 
+FQB_TREC-fr-776,L'aéroport de quelle ville se ,nomme, l'aéroport international Logan ? 
+FQB_TREC-fr-777,Quelle ville est ,desservie, par l'aéroport international Logan ? 
+FQB_TREC-fr-786,Comment se ,nommait, le fils de Darth Vader ? 
+FQB_TREC-fr-790,De quel instrument ,joue, Ray Charles ? 
+FQB_TREC-fr-791,Le musicien Ray Charles ,joue, de quel instrument ? 
+FQB_TREC-fr-792,Ray Charles ,joue, de quel instrument ? 
+FQB_TREC-fr-793,Ray Charles est surtout connu pour ,jouer, de quel instrument ? 
+FQB_TREC-fr-793,Ray Charles est surtout ,connu, pour jouer de quel instrument ? 
+FQB_TREC-fr-794,Quand Dick Clark est-il ,né, ? 
+FQB_TREC-fr-795,La fête de Dick Clark ,est, quand ? 
+FQB_TREC-fr-799,Où ,est, le lieu de naissance de Poe ? 
+FQB_TREC-fr-802,Qui fut le roi ,forcé, de signer la Magna Carta ? 
+FQB_TREC-fr-807,Le corps calleux se ,trouve, dans quelle partie du corps ? 
+FQB_TREC-fr-812,"Par qui fut inventé le """"Silly Putty"""" fut ",inventé, ? 
+FQB_TREC-fr-812,Par qui fut ,inventé," le """"Silly Putty"""" fut inventé ? "
+FQB_TREC-fr-814,Quand fut ,érigée, la porte de Brandebourg de Berlin ? 
+FQB_TREC-fr-816,À quelle date ,est, le Boxing Day ? 
+FQB_TREC-fr-817,Le Boxing Day est ,célébré, à quelle date ? 
+FQB_TREC-fr-819,Quelle ville est ,desservie, par l'aéroport McCarren ? 
+FQB_TREC-fr-820,Dans quelle ville est ,situé, l'aéroport McCarren ? 
+FQB_TREC-fr-822,Où est ,situé, l'aéroport McCarren ? 
+FQB_TREC-fr-825,Par qui ont été ,créés," """"Les Muppets"""" ? "
+FQB_TREC-fr-834,Quel est le nom ,donné, à l'équivalent islamique de la Croix-Rouge ? 
+FQB_TREC-fr-835,Pour quelle raison Colin Powell est-il surtout ,connu, ? 
+FQB_TREC-fr-836,Colin Powell est surtout ,connu, d'après quelle réalisation ? 
+FQB_TREC-fr-839,À quelle période de l'année la majorité des gens ,volent,-ils ? 
+FQB_TREC-fr-842,À quelle période de l'année le vol aérien ,est,-il à son plus haut niveau ? 
+FQB_TREC-fr-845,Comment se ,nomme, l'équipe de baseball de Pittsburg dans la Ligue Majeure ? 
+FQB_TREC-fr-847,Dans quelle ville se ,trouve, l'Orange Bowl ? 
+FQB_TREC-fr-848,L'Orange Bowl ,est, dans quelle ville ? 
+FQB_TREC-fr-849,L'Orange Bowl est ,situé, dans quelle ville ? 
+FQB_TREC-fr-850,Où ,est, l'Orange Bowl ? 
+FQB_TREC-fr-851,À quand ,remonte, la dernière éruption du mont Sainte-Hélène ? 
+FQB_TREC-fr-852,À quand ,remonte, la dernière grande éruption du mont Sainte-Hélène ? 
+FQB_TREC-fr-853,À quand ,remonte, la dernière éruption importante du mont Sainte-Hélène ? 
+FQB_TREC-fr-856,Où ,peut,-on trouver le collège Rider ? 
+FQB_TREC-fr-857,Où est ,situé, le collège Rider ? 
+FQB_TREC-fr-858,Le collège Rider se ,trouve, dans quelle ville ? 
+FQB_TREC-fr-859,Où ,est, le collège Rider ? 
+FQB_TREC-fr-867,Comment s',appelle, l'alphabet juif ? 
+FQB_TREC-fr-868,L'alphabet juif s',appelle, comment ? 
+FQB_TREC-fr-869,L'alphabet juif est ,connu, sous quel nom ? 
+FQB_TREC-fr-873,"Le """"Kentucky Horse Park"""" ",est, près de quelle ville américaine ? 
+FQB_TREC-fr-874,Où est ,situé," le """"Kentucky Horse Park"""" ? "
+FQB_TREC-fr-875,Où ,est," le """"Kentucky Horse Park"""" ? "
+FQB_TREC-fr-876,Près de quelle ville se ,trouve," le """"Kentucky Horse Park"""" ? "
+FQB_TREC-fr-877,"Le """"Kentucky Horse Park"""" est ",situé, près de quelle ville ? 
+FQB_TREC-fr-883,Les moteurs rotatifs étaient ,produits, par quelle compagnie ? 
+FQB_TREC-fr-885,Les automobiles à moteur rotatif étaient ,produites, par quelle compagnie ? 
+FQB_TREC-fr-886,Les moteurs rotatifs étaient ,produits, par qui ? 
+FQB_TREC-fr-893,Pour quoi les Black Hills sont-elles surtout ,connues, ? 
+FQB_TREC-fr-895,Dans quel comté se ,trouve," Modesto, en Californie ? "
+FQB_TREC-fr-898,Quand Hawaii est-elle ,devenue, un État ? 
+FQB_TREC-fr-902,Pourquoi la lune ,devient,-t-elle orange ? 
+FQB_TREC-fr-905,De qui est la tête ,figurant, sur le 10 cent ? 
+FQB_TREC-fr-908,Quand l'Idaho est-il ,devenu, un État ? 
+FQB_TREC-fr-913,En quelle année le Titanic a-t-il ,coulé, ? 
+FQB_TREC-fr-914,Qui fut le premier Américain à ,marcher, dans l'espace ? 
+FQB_TREC-fr-916,Quelle rivière aux États-Unis est ,connue," sous le nom de """"Big Muddy"""" ? "
+FQB_TREC-fr-921,Quelle ligne imaginaire se ,trouve, à mi-chemin du Pôle Nord et du Pôle Sud ? 
+FQB_TREC-fr-922,Où ,est, l'aéroport John Wayne ? 
+FQB_TREC-fr-923,Dans quel hémisphère se ,trouvent, les Philippines ? 
+FQB_TREC-fr-925,Où se ,trouvent, les montagnes Rocheuses ? 
+FQB_TREC-fr-928,Quand John F. Kennedy a-t-il été ,élu, président ? 
+FQB_TREC-fr-929,Quel âge avait Elvis Presley lorsqu'il est ,mort, ? 
+FQB_TREC-fr-930,Où ,est, le fleuve Orénoque ? 
+FQB_TREC-fr-931,À quelle distance du filet se ,trouve, la ligne de service au tennis ? 
+FQB_TREC-fr-934,"Le tissu nommé """"lin"""" est fabriqué à ",partir, de quelle plante ? 
+FQB_TREC-fr-934,"Le tissu nommé """"lin"""" est ",fabriqué, à partir de quelle plante ? 
+FQB_TREC-fr-934,Le tissu ,nommé," """"lin"""" est fabriqué à partir de quelle plante ? "
+FQB_TREC-fr-940,Combien de temps Rip Van Winkle a-t-il ,dormi, ? 
+FQB_TREC-fr-950,Quand Elvis Presley est-il ,mort, ? 
+FQB_TREC-fr-952,Où ,est, Milan ? 
+FQB_TREC-fr-953,Quelle est la vitesse à laquelle ,volent, les oiseaux-mouches ? 
+FQB_TREC-fr-956,Quelle rivière s',écoule," entre Fargo, au Dakota du Nord, et Moorhead, au Minnesota ? "
+FQB_TREC-fr-968,Où est ,situé," le """"Mall of the America"""" ? "
+FQB_TREC-fr-976,Qui fut ,élu, président de l'Afrique du Sud en 1994 ? 
+FQB_TREC-fr-978,Quand Rosa Parks est-elle ,née, ? 
+FQB_TREC-fr-985,Qu'est-ce que la publication ,assistée, par ordinateur ? 
+FQB_TREC-fr-987,En quelle année le Canada s'est-il ,joint, aux Nations Unies ? 
+FQB_TREC-fr-989,Où ,est, l'Île-du-Prince-Édouard ? 
+FQB_TREC-fr-990,En quelle année fut ,découvert, le mercure ? 
+FQB_TREC-fr-998,Dans quel comté se ,trouve," Phoenix, en Arizona ? "
+FQB_TREC-fr-1002,Quand les jumeaux de William Shakespeare sont-ils ,nés, ? 
+FQB_TREC-fr-1010,Quand s'est ,écrasé, le Hindenberg ? 
+FQB_TREC-fr-1011,Quel minéral ,aide, à prévenir l'ostéoporose ? 
+FQB_TREC-fr-1013,Où ,est, Perth ? 
+FQB_TREC-fr-1014,En quelle année a ,débuté, la Deuxième Guerre mondiale ? 
+FQB_TREC-fr-1019,Quel président n'était pas ,marié, ? 
+FQB_TREC-fr-1021,Pendant quelle saison se ,produisent, la majorité des orages électriques ? 
+FQB_TREC-fr-1024,À quelle distance s',étend, un mille nautique ? 
+FQB_TREC-fr-1027,Quel était le premier satellite à ,aller, dans l'espace ? 
+FQB_TREC-fr-1029,Quelle est la faille majeure ,située, près du Kentucky ? 
+FQB_TREC-fr-1030,Où ,est, le tunnel Holland ? 
+FQB_TREC-fr-1033,Où ,sont, les plaquettes ? 
+FQB_TREC-fr-1036,Où ,sont, les Archives nationales ? 
+FQB_TREC-fr-1047,Quand l'Algérie a-t-elle été ,colonisée, ? 
+FQB_TREC-fr-1049,Sur quel continent se ,trouve, l'Égypte ? 
+FQB_TREC-fr-1052,Pour peupler quelle colonie des condamnés britanniques furent-ils ,utilisés, à la fin des années 1700 ? 
+FQB_TREC-fr-1057,Où se ,trouve, le volcan Mauna Loa ? 
+FQB_TREC-fr-1060,Quand Lyndon B. Johnson est-il ,né, ? 
+FQB_TREC-fr-1064,En quelle année les Braves de Milwaukee sont-ils ,devenus, les Braves d'Atlanta ? 
+FQB_TREC-fr-1065,À quelle vitesse l'alcool est-il ,absorbé, ? 
+FQB_TREC-fr-1068,Où se ,trouve, la forêt nationale Shawnee ? 
+FQB_TREC-fr-1070,Où se ,trouve, le Louvre ? 
+FQB_TREC-fr-1071,Quand a été ,émis, le premier timbre-poste ? 
+FQB_TREC-fr-1072,Quelles couleurs primaires ,doit,-on mélanger pour obtenir l'orange ? 
+FQB_TREC-fr-1073,À quelle distance se ,trouve, Pluton du Soleil ? 
+FQB_TREC-fr-1074,Dans quel étendue d'eau se ,trouvent, les Îles Canaries ? 
+FQB_TREC-fr-1076,Où ,est, l'Euphrate ? 
+FQB_TREC-fr-1078,De quoi est ,composé, le gaz naturel ? 
+FQB_TREC-fr-1080,Quel dirigeant français a été ,défait, à la bataille de Waterloo ? 
+FQB_TREC-fr-1082,Où est ,mort, Howard Hughes ? 
+FQB_TREC-fr-1087,Quand a ,ouvert, le premier magasin Wal-Mart ? 
+FQB_TREC-fr-1091,Qui a inventé le jeu de cerceau ,appelé," """"hula hoop"""" ? "
+FQB_TREC-fr-1093,De quoi est ,fait, le pastrami ? 
+FQB_TREC-fr-1095,De quelle ville est le journal qui s',appelle, The Enquirer ? 
+FQB_TREC-fr-1099,Où est ,situé, le volcan Mons olympus ? 
+FQB_TREC-fr-1106,Dans quelle province se ,trouve, Montréal ? 
+FQB_TREC-fr-1107,Quel bâtiment de New York est ,connu, sous le nom des tours jumelles ? 
+FQB_TREC-fr-1111,Comment s'appellent les points qui se ,trouvent, sur les dominos ? 
+FQB_TREC-fr-1111,Comment s',appellent, les points qui se trouvent sur les dominos ? 
+FQB_TREC-fr-1115,En quelle année la Mona Lisa a-t-elle été ,peinte, ? 
+FQB_TREC-fr-1118,Quelle chaîne de montagne nord-américaine s',étend, du Maine à la Géorgie ? 
+FQB_TREC-fr-1119,De quoi est ,fait, le plastique ? 
+FQB_TREC-fr-1122,Où se ,trouve, le Grand Canyon ? 
+FQB_TREC-fr-1130,Où ,vivent, la majorité des gens en Pologne ? 
+FQB_TREC-fr-1132,Où est ,située, la mer de la Tranquillité ? 
+FQB_TREC-fr-1133,À quelle vitesse ,voyage, le son ? 
+FQB_TREC-fr-1134,Dans quelle province française le cognac est-il ,produit, ? 
+FQB_TREC-fr-1139,Quel est le plus long pont ,suspendu, des États-Unis ? 
+FQB_TREC-fr-1146,Qu'est-ce qu'Edward Binney et Howard Smith ,on, inventé en 1903 ? 
+FQB_TREC-fr-1147,De quoi est ,faite, la statue de la Liberté ? 
+FQB_TREC-fr-1149,Quelle planète est ,connue," comme étant la planète """"rouge"""" ? "
+FQB_TREC-fr-1154,Qui fut le premier Afro-américain à ,jouer, pour les Dodgers de Brooklyn ? 
+FQB_TREC-fr-1157,De quel instrument ,jouait, Glenn Miller ? 
+FQB_TREC-fr-1163,Comment Janice Joplin est-elle ,morte, ? 
+FQB_TREC-fr-1169,À quoi ,sert, l'oesophage ? 
+FQB_TREC-fr-1171,En quelle année l'Oklahoma est-il ,devenu, un État ? 
+FQB_TREC-fr-1173,De quoi est ,fait, un miroir ? 
+FQB_TREC-fr-1178,Où est ,enterré, Hitler ? 
+FQB_TREC-fr-1191,Quel âge doit-on avoir pour ,pouvoir, louer une voiture en Italie ? 
+FQB_TREC-fr-1191,Quel âge ,doit,-on avoir pour pouvoir louer une voiture en Italie ? 
+FQB_TREC-fr-1197,À quelle date Neil Armstrong a-t-il ,atterri, sur la Lune ? 
+FQB_TREC-fr-1198,Quand Hiroshima a-t-elle été ,bombardée, ? 
+FQB_TREC-fr-1199,Où ,est, la rivière Savannah ? 
+FQB_TREC-fr-1200,Quelle fut la première femme ,tuée, pendant la Guerre du Viêtnam ? 
+FQB_TREC-fr-1205,Où se ,trouve, la tour Eiffel ? 
+FQB_TREC-fr-1210,Qui fut le premier président américain à ,apparaître, à la télévision ? 
+FQB_TREC-fr-1211,Où est ,situé, le musée de la Little League ? 
+FQB_TREC-fr-1215,Quand le Président Kennedy a-t-il été ,assassiné, ? 
+FQB_TREC-fr-1218,À quelle date est ,né, Dwight D. Eisenhower ? 
+FQB_TREC-fr-1222,Quand Abraham Lincoln est-il ,né, ? 
+FQB_TREC-fr-1225,En quelle année Mozart est-il ,né, ? 
+FQB_TREC-fr-1231,De quel fruit est ,faite, la sauce Melba ? 
+FQB_TREC-fr-1233,Quel est le pourcentage d'eau ,contenu, dans le corps humain ? 
+FQB_TREC-fr-1242,En quelle année l'émission de télévision d'Andy Griffith a-t-elle ,débuté, ? 
+FQB_TREC-fr-1245,Où est ,situé, le lac Champlain ? 
+FQB_TREC-fr-1259,À quelle altitude se ,trouve, Saint-Louis (MO) ? 
+FQB_TREC-fr-1260,De quelle couleur devient le papier de tournesol lorsqu'il est ,mis, en contact avec un acide puissant ? 
+FQB_TREC-fr-1260,De quelle couleur ,devient, le papier de tournesol lorsqu'il est mis en contact avec un acide puissant ? 
+FQB_TREC-fr-1263,Quel port de mer soviétique est ,situé, sur la mer Noire ? 
+FQB_TREC-fr-1269,Quand la Caroline du Nord s'est-elle ,joint, à l'union ? 
+FQB_TREC-fr-1270,Où les ampullaires ,vivent,-ils ? 
+FQB_TREC-fr-1277,Quel est le premier président américain à s'être ,rendu, à sa cérémonie d'investiture en automobile ? 
+FQB_TREC-fr-1279,Quand Ulysses S. Grant est-il ,né, ? 
+FQB_TREC-fr-1281,Qui a ,vécu, dans la château Neuschwanstein ? 
+FQB_TREC-fr-1282,Qu',est, que le propylène de glycol ? 
+FQB_TREC-fr-1296,Quand ,est, la Fête des pères ? 
+FQB_TREC-fr-1299,Le journal de quelle ville s',appelle, The Star ? 
+FQB_TREC-fr-1301,Où est ,située, la ligne Mason-Dixon ? 
+FQB_TREC-fr-1304,Quel président américain est apparu dans l'émission Laugh-In (,Rions,) ? 
+FQB_TREC-fr-1304,Quel président américain est ,apparu, dans l'émission Laugh-In (Rions) ? 
+FQB_TREC-fr-1305,De quoi sont ,faites, les cigarettes ? 
+FQB_TREC-fr-1312,"Quel représentant du Congrès, originaire du Texas, ",siège, sur le Comité des Forces armées ? 
+FQB_TREC-fr-1318,Sur quel continent se ,trouve, l'Argentine ? 
+FQB_TREC-fr-1319,Quel monastère fut ,pris, d'assaut par les Vikings vers la fin du huitième siècle ? 
+FQB_TREC-fr-1321,Où se ,trouve, la plus haute montagne russe ? 
+FQB_TREC-fr-1325,Quel est le nom ,donné, au tigre de l'université de l'État de la Louisiane ? 
+FQB_TREC-fr-1326,Où sont ,conservés, les joyaux de la Couronne britannique ? 
+FQB_TREC-fr-1335,Quels gaz se ,trouvent, dans la troposphère ? 
+FQB_TREC-fr-1338,Quelle est l'actrice ,connue, pour son rôle dans le film Gypsy ? 
+FQB_TREC-fr-1344,Quelles couleurs ,doit,-on mélanger pour obtenir la couleur rose ? 
+FQB_TREC-fr-1347,Quand Thomas Jefferson est-il ,né, ? 
+FQB_TREC-fr-1348,À quelle température un réfrigérateur devrait-il être ,maintenu, ? 
+FQB_TREC-fr-1348,À quelle température un réfrigérateur ,devrait,-il être maintenu ? 
+FQB_TREC-fr-1349,Quand le téléphone fut-il ,inventé, ? 
+FQB_TREC-fr-1351,Où ,était, le premier terrain de golf aux États-Unis ? 
+FQB_TREC-fr-1356,Quel est le parc national ,situé, en Utah ? 
+FQB_TREC-fr-1359,Comment appelle-t-on un mot qui s',épelle, de la même façon à l'envers qu'à l'endroit ? 
+FQB_TREC-fr-1363,Qu'est-ce que l'intérêt ,composé, ? 
+FQB_TREC-fr-1368,Quel type de polymère est ,utilisé, dans les vestes pare-balles ? 
+FQB_TREC-fr-1374,Quel était le nom du premier satellite américain ,envoyé, dans l'espace ? 
+FQB_TREC-fr-1376,Quelle est la sorte de gaz qui se ,trouve, dans une ampoule fluorescente ? 
+FQB_TREC-fr-1380,Quelle ville est aussi ,connue," sous le nom de """"Gateway to the West"""" ? "
+FQB_TREC-fr-1381,À quelle distance se ,trouve, la Lune ? 
+FQB_TREC-fr-1385,Qu',est, que la biodiversité ? 
+FQB_TREC-fr-1390,Quelle est la devise monétaire ,utilisée, en Zambie ? 
+FQB_TREC-fr-1395,Avec qui est ,marié, Tom Cruise ? 
+FQB_TREC-fr-1397,Quelle est la foule la plus nombreuse qui soit jamais ,allée, voir Michael Jordan ? 
+FQB_TREC-fr-1398,En quelle année l'Alaska fut-elle ,achetée, ? 
+FQB_TREC-fr-1399,Quelle ville écossaise mythique ,apparaît, une journée tous les cent ans ? 
+FQB_TREC-fr-1400,Quand le télégraphe a-t-il été ,inventé, ? 
+FQB_TREC-fr-1403,Quand le moteur à combustion interne a-t-il été ,inventé, ? 
+FQB_TREC-fr-1406,Quand l'histoire de Roméo et Juliette se ,passe,-t-elle ? 
+FQB_TREC-fr-1409,Quel chanteur de rock 'n roll démodé était aussi ,connu," sous le nom de """"Killer"""" ? "
+FQB_TREC-fr-1413,Quelle rivière est ,connue," sous le nom de """"China 's Sorrow"""" ? "
+FQB_TREC-fr-1415,Où ,habite, le vice-président lorsqu'il est en fonction ? 
+FQB_TREC-fr-1416,Quand fut ,fondé, Wendy 's ? 
+FQB_TREC-fr-1418,Quand s'est ,tenu, le procès Rosenberg ? 
+FQB_TREC-fr-1419,En quelle année l'Alaska est-elle ,devenue, un État ? 
+FQB_TREC-fr-1422,Quels deux pays européens sont reliés par le tunnel du Saint-Gotthard ,creusé, dans les Alpes ? 
+FQB_TREC-fr-1422,Quels deux pays européens sont ,reliés, par le tunnel du Saint-Gotthard creusé dans les Alpes ? 
+FQB_TREC-fr-1427,Quel fut le premier aéronef à ,aller, sur la Lune ? 
+FQB_TREC-fr-1430,Quel âge devez-vous avoir pour vous ,marier, en Caroline du Sud ? 
+FQB_TREC-fr-1430,Quel âge ,devez,-vous avoir pour vous marier en Caroline du Sud ? 
+FQB_TREC-fr-1432,Où ,est, la Devil 's Tower ? 
+FQB_TREC-fr-1434,De quel site Lindbergh s'est-il ,envolé, en 1927 ? 
+FQB_TREC-fr-1435,Dans quelle nation se ,trouve, la Kaaba ? 
+FQB_TREC-fr-1437,Combien d'États étaient toujours ,unis, après que les États du Sud aient fait sécession ? 
+FQB_TREC-fr-1438,Dans quelle étendue d'eau le fleuve Colorado se ,jette,-t-il ? 
+FQB_TREC-fr-1443,Quand Bob Marley est-il ,mort, ? 
+FQB_TREC-fr-1444,Quelle dirigeante a ,succédé, à Ferdinand Marcos comme présidente des Philippines ? 
+FQB_TREC-fr-1445,Quand ,est, l'anniversaire de Snoop Dog ? 
+FQB_TREC-fr-1446,Comment est ,mort, le Mahatma Gandhi ? 
+FQB_TREC-fr-1448,Comment se ,nomme, la peur des éclairs ? 
+FQB_TREC-fr-1451,Où fut ,construit, le premier McDonald ? 
+FQB_TREC-fr-1452,Quel est le nom ,donné, à un recueil de poésie ? 
+FQB_TREC-fr-1453,Où fut ,ouvert, le premier magasin J. C. Penney ? 
+FQB_TREC-fr-1457,Qui ,succéda, à Ferdinand Marcos ? 
+FQB_TREC-fr-1461,À quel chef d'État fut ,décerné, le prix Nobel de la paix en 2000 ? 
+FQB_TREC-fr-1462,Où se ,trouve, la plus vieille synagogue des États-Unis ? 
+FQB_TREC-fr-1467,En quelle année le Dakota du Sud est-il ,devenu, un État ? 
+FQB_TREC-fr-1468,En quoi quelqu'chose de pétrifié a-t-il été ,transformé, ? 
+FQB_TREC-fr-1470,Quand le Président Herbert Hoover est-il ,décédé, ? 
+FQB_TREC-fr-1471,À quelle vitesse ,court, un guépard ? 
+FQB_TREC-fr-1473,Quand Lyndon B. Johnson est-il ,né, ? 
+FQB_TREC-fr-1482,Dans quel comté se ,trouve," Wilmington, au Delaware ? "
+FQB_TREC-fr-1483,Où se ,trouve, le point le plus élevé sur Terre ? 
+FQB_TREC-fr-1486,Où le pianiste Roger Williams a-t-il ,grandi, ? 
+FQB_TREC-fr-1489,Sur quel continent se ,trouve, l'Inde ? 
+FQB_TREC-fr-1493,Quand est ,né, Davy Crockett ? 
+FQB_TREC-fr-1495,Comment la mère de Molly Shannon est-elle ,morte, ? 
+FQB_TREC-fr-1496,Dans quel pays se ,trouve, Berlin ? 
+FQB_TREC-fr-1500,Où ,est, l'université Georgetown ? 
+FQB_TREC-fr-1501,Quelle proportion de l'électricité américaine est ,issue, de l'énergie nucléaire ? 
+FQB_TREC-fr-1502,En quelle année le Président Kennedy a-t-il été ,tué, ? 
+FQB_TREC-fr-1504,Où ,est, la mer de Salton ? 
+FQB_TREC-fr-1510,Où ,est, le journal d'Anne Frank ? 
+FQB_TREC-fr-1518,En quelle année Marco Polo s'est-il ,rendu, en Asie ? 
+FQB_TREC-fr-1519,Où est ,né, Hans Christian Anderson ? 
+FQB_TREC-fr-1524,Quel est le nom du parc de baseball dans lequel ,jouent, les Brewers de Milwaukee ? 
+FQB_TREC-fr-1525,Quelle université fut ,fondée, par Thomas Jefferson ? 
+FQB_TREC-fr-1526,Quelle ville est ,reconnue, comme étant la ville de l'amour fraternel ? 
+FQB_TREC-fr-1527,Quand a ,débuté, la guerre des Six Jours ? 
+FQB_TREC-fr-1528,Où ,vécut, Kublai Khan ? 
+FQB_TREC-fr-1534,De quels deux gaz le Soleil est-il principalement ,composé, ? 
+FQB_TREC-fr-1536,Quelle ville se ,trouve, au bord du lac Washington ? 
+FQB_TREC-fr-1537,Combien de collèges électoraux ,votent, au Tennessee ? 
+FQB_TREC-fr-1539,Quelle est le bonbon ,préféré, de Ronald Reagan ? 
+FQB_TREC-fr-1541,Quel président ,figure, sur un vint-cinq cents ? 
+FQB_TREC-fr-1542,Où ,est, la base aérienne de Hill ? 
+FQB_TREC-fr-1546,En quelle année a été ,réalisé," le film """"Ole Yeller"""" ? "
+FQB_TREC-fr-1548,Quel est le prénom du premier Gehrig à avoir ,joué, pour les Yankees de New York ? 
+FQB_TREC-fr-1549,En quelle année l'ordinateur personnel a-t-il été ,inventé, ? 
+FQB_TREC-fr-1556,Dans quel cimetière Thurgood Marshall est-il ,enterré, ? 
+FQB_TREC-fr-1561,Quand le premier brevet pour le cornet à crème glacée a-t-il été ,déposé, ? 
+FQB_TREC-fr-1562,Quand la guerre de Sécession américaine a-t-elle ,débuté, ? 
+FQB_TREC-fr-1564,Quand Led Zeppelin est-il ,apparu, à la BBC ? 
+FQB_TREC-fr-1566,Quel poète célèbre est ,mort, pendant la Guerre civile espagnole ? 
+FQB_TREC-fr-1567,Quand fut ,fondé, le parti des Panthères noires en Californie ? 
+FQB_TREC-fr-1570,Quel est l'âge légal pour ,voter, en Argentine ? 
+FQB_TREC-fr-1572,En l'honneur de qui l'État de Pennsylvanie fut-il ,nommé, ? 
+FQB_TREC-fr-1574,"Quand """"The Simpsons"""" ont-ils été ",diffusés, pour la première fois à la télévision ? 
+FQB_TREC-fr-1577,De quel poème de Burns ,provient," le vers : """"the best laid plans of mice and men"""" ? "
+FQB_TREC-fr-1580,Quel nom donne-t-on à la science qui ,consiste, à dessiner des cartes ? 
+FQB_TREC-fr-1584,Quand George W. Bush a-t-il été ,élu, gouverneur du Texas ? 
+FQB_TREC-fr-1586,Quand le pont Golden Gate a-t-il été ,achevé, ? 
+FQB_TREC-fr-1588,Quand Apollo 11 fut-il ,lancé, ? 
+FQB_TREC-fr-1590,De quoi se ,nourrissent, les sauterelles ? 
+FQB_TREC-fr-1592,Quand le Reichstag a-t-il ,brûlé, ? 
+FQB_TREC-fr-1593,Quel pourcentage de la population égyptienne ,habite, au Caire ? 
+FQB_TREC-fr-1594,Quel long poème de Lewis Carroll a été ,adapté, en comédie musicale à Londres ? 
+FQB_TREC-fr-1596,En quelle année Mussolini s'est-il ,emparé, du pouvoir en Italie ? 
+FQB_TREC-fr-1597,Où se ,trouve, le Consulat français à New York ? 
+FQB_TREC-fr-1601,Quand Einstein est-il ,décédé, ? 
+FQB_TREC-fr-1602,Qui détient le record de l'artiste enfant le mieux ,payé, ? 
+FQB_TREC-fr-1603,Quand Robert E. Lee s'est-il ,rendu, pendant la guerre de Sécession américaine ? 
+FQB_TREC-fr-1605,Quelle distance coureriez-vous si vous ,participiez, à un marathon ? 
+FQB_TREC-fr-1616,Quand ,est, l'anniversaire de Gerald Ford ? 
+FQB_TREC-fr-1618,Où est ,produite, la bile ? 
+FQB_TREC-fr-1621,Quel est le nom du pays ,situé, dans les Pyrénées entre la France et l'Espagne ? 
+FQB_TREC-fr-1624,En quelle année est ,apparu," le """"Nouveau Coke"""" ? "
+FQB_TREC-fr-1627,Qu'est-ce qui est ,écrit, sur la tombe américaine du soldat inconnu ? 
+FQB_TREC-fr-1628,Quelle est la surface ,couverte, par les Everglades ? 
+FQB_TREC-fr-1629,Où est ,enterrée, Mae West ? 
+FQB_TREC-fr-1630,Quand le chien a-t-il été ,domestiqué, ? 
+FQB_TREC-fr-1636,Quand la bataille de Chancellorsville s'est-elle ,déroulée, ? 
+FQB_TREC-fr-1637,Quel est le nom de l'étoile à cinq pointes généralement ,utilisée, par les satanistes ? 
+FQB_TREC-fr-1639,Quelle est la profession du personnage de John Cusack dans le film de 1999 ,intitulé, À la limite ? 
+FQB_TREC-fr-1644,À quelle distance du Soleil se ,trouve, Saturne ? 
+FQB_TREC-fr-1645,Combien la Station spatiale internationale ,devrait,-elle coûter ? 
+FQB_TREC-fr-1646,Quand la première bombe atomique fut-elle ,larguée, ? 
+FQB_TREC-fr-1647,Sur quel continent se ,trouve, l'Écosse ? 
+FQB_TREC-fr-1649,En quelle année la navette Challenger a-t-elle ,explosé, ? 
+FQB_TREC-fr-1650,Dans quel comté se ,trouve," Elmira, New York ? "
+FQB_TREC-fr-1652,Quand les États-Unis sont-ils ,entrés, dans la Deuxième Guerre mondiale ? 
+FQB_TREC-fr-1654,Où se ,trouve, l'université Prairie View A & M ? 
+FQB_TREC-fr-1655,Où est ,né, Abraham Lincoln ? 
+FQB_TREC-fr-1656,À quelle vitesse se ,déplace, un iguane (en milles à l'heure) ? 
+FQB_TREC-fr-1658,En quelle année est ,né, Robert Frost ? 
+FQB_TREC-fr-1659,Où est ,né, Bob Dylan ? 
+FQB_TREC-fr-1662,Quand Jérusalem fut-elle ,envahie, par le Général Titus ? 
+FQB_TREC-fr-1665,Quand Marian Anderson a-t-elle ,chanté, au mémorial Lincoln ? 
+FQB_TREC-fr-1671,Où ,est, le Big Ben ? 
+FQB_TREC-fr-1673,À quelle période de l'année le faucon pèlerin s',accouple,-t-il ? 
+FQB_TREC-fr-1674,quel jour Neil Armstrong a-t-il ,atterri, sur la Lune ? 
+FQB_TREC-fr-1677,Comment est ,mort, Micky Mantle ? 
+FQB_TREC-fr-1680,Quel pays fut ,dirigé, par le roi Arthur ? 
+FQB_TREC-fr-1681,Quand Houdini est-il ,décédé, ? 
+FQB_TREC-fr-1682,Quand Martin Luther King Junior est-il ,né, ? 
+FQB_TREC-fr-1683,Sous quel nom l'acteur de film d'horreur William Henry Pratt est-il surtout ,connu, ? 
+FQB_TREC-fr-1688,En quelle année fut ,construite, l'arche Gateway ? 
+FQB_TREC-fr-1691,"Où le film """"Somewhere in Time"""" a-t-il été ",tourné, ? 
+FQB_TREC-fr-1693,Quand Jackie Robinson est-il ,né, ? 
+FQB_TREC-fr-1694,En quelle année la Californie est-elle ,devenue, un territoire ? 
+FQB_TREC-fr-1695,"De quelle race était le cheval de Roy Roger, ",nommé, Trigger ? 
+FQB_TREC-fr-1696,Quand le crayon a-t-il été ,inventé, ? 
+FQB_TREC-fr-1697,Où se ,trouve, la statue de la Liberté ? 
+FQB_TREC-fr-1698,Quand Jules César est-il ,né, ? 
+FQB_TREC-fr-1699,Dans quelle ville se ,trouve, l'université de Purdue ? 
+FQB_TREC-fr-1700,Où est ,situé, le Stonehenge de l'Amérique ? 
+FQB_TREC-fr-1701,Où a été ,enterré, le Président Lincoln ? 
+FQB_TREC-fr-1705,De quoi est ,fait, le rhum ? 
+FQB_TREC-fr-1711,Quand le premier avion à réaction fut-il ,inventé, ? 
+FQB_TREC-fr-1713,Comment se ,nomme, la phobie du chiffre 13 ? 
+FQB_TREC-fr-1714,Dans quelle province du Canada se ,trouvent, les chutes Niagara ? 
+FQB_TREC-fr-1715,Quelle quantité de vitamine C ,devrait,-on prendre quotidiennement ? 
+FQB_TREC-fr-1718,Quand la maison blanche fut-elle ,construite, ? 
+FQB_TREC-fr-1720,Quel est le résultat lorsqu'une partie est ,annulée, au baseball ? 
+FQB_TREC-fr-1721,À quelle distance le monticule se ,trouve,-t-il du marbre à la balle molle ? 
+FQB_TREC-fr-1722,En quelle année la poète Emily Dickinson est-elle ,décédée, ? 
+FQB_TREC-fr-1726,Quel est le nom de la kippa ,portée, lord d'un mariage juif ? 
+FQB_TREC-fr-1731,À quelle fréquence le gouvernement américain ,procède,-t-il à une recension officielle de la population ? 
+FQB_TREC-fr-1735,Dans quelle ville se ,trouve, l'université Southwestern ? 
+FQB_TREC-fr-1737,Quelle quantité de sommeil un enfant ,devrait,-il avoir la nuit ? 
+FQB_TREC-fr-1738,Où était ,stationnée, la troupe F ? 
+FQB_TREC-fr-1740,De quoi est ,faite, la Coupe Stanley ? 
+FQB_TREC-fr-1741,Quel auteur a ,écrit," sous le nom de plume """"Boz"""" ? "
+FQB_TREC-fr-1747,Où est ,situé, le centre national des ouragans ? 
+FQB_TREC-fr-1749,Quand Spoutnik fut-il ,lancé, ? 
+FQB_TREC-fr-1751,Où est ,situé, le parc national Mesa Verde ? 
+FQB_TREC-fr-1753,"Quand le Mémorial des vétérans de la guerre du Viêtnam à Washington, D. C. a-t-il été ",construit, ? 
+FQB_TREC-fr-1754,Quand s'est ,déroulée, la guerre du Golfe ? 
+FQB_TREC-fr-1756,Quand se ,tient, le semaine de la mode à New York ? 
+FQB_TREC-fr-1760,Où est ,né, C. S. Lewis ? 
+FQB_TREC-fr-1767,Quand a été ,fabriquée, la première Ford Mustang ? 
+FQB_TREC-fr-1768,Dans quelle série télévisée Pierce Brosnan a-t-il ,joué, ? 
+FQB_TREC-fr-1770,Quelle est la plus haute température ,enregistrée," à San Antonio, au Texas ? "
+FQB_TREC-fr-1771,Quand ,fut, le jour J ? 
+FQB_TREC-fr-1776,En quelle année le premier phare américain a-t-il ,ouvert, ? 
+FQB_TREC-fr-1778,Quand Walt Disney est-il ,mort, ? 
+FQB_TREC-fr-1781,En quelle année Blanche-Neige est-il ,sorti, ? 
+FQB_TREC-fr-1782,Qui fut la première femme à se ,présenter, pour le poste de président ? 
+FQB_TREC-fr-1783,Dans quel pays les automobiles Volvo sont-elles ,fabriquées, ? 
+FQB_TREC-fr-1785,Dans quel cours d'eau se ,jette, l'Euphrate ? 
+FQB_TREC-fr-1787,Quand ,est, la fête de David Lee Roth ? 
+FQB_TREC-fr-1790,Dans quel pays se ,trouve, la ville sainte de La Mecque ? 
+FQB_TREC-fr-1791,En quelle année Mir a-t-elle été ,démontée, ? 
+FQB_TREC-fr-1797,Comment Adolf Hitler est-il ,mort, ? 
+FQB_TREC-fr-1798,Sur quel continent se ,trouve, l'Égypte ? 
+FQB_TREC-fr-1800,Quel président fut ,assermenté, dans un avion ? 
+FQB_TREC-fr-1801,Où se ,trouve, le plus petit os du corps ? 
+FQB_TREC-fr-1805,Qui a été ,élu, président de l'Afrique du Sud en 1994 ? 
+FQB_TREC-fr-1807,Combien de passagers un avion de type Boeing 747 ,peut,-il transporter ? 
+FQB_TREC-fr-1809,Quand le palais de Buckingham fut-il ,construit," à Londres, en Angleterre ? "
+FQB_TREC-fr-1810,Où sont ,conservés, les bijoux de la couronne royale britannique ? 
+FQB_TREC-fr-1811,Quand la pénicilline fut-elle ,utilisée, pour la première fois ? 
+FQB_TREC-fr-1812,Quel était la nom de la pièce de théâtre à la représentation de laquelle A. Lincoln est ,mort, ? 
+FQB_TREC-fr-1813,Quand furent ,émis, les premiers timbres-poste aux États-Unis ? 
+FQB_TREC-fr-1814,Quel cadeau est ,approprié, pour un premier anniversaire ? 
+FQB_TREC-fr-1816,Quel âge faut-il avoir pour ,devenir, président des États-Unis ? 
+FQB_TREC-fr-1816,Quel âge ,faut,-il avoir pour devenir président des États-Unis ? 
+FQB_TREC-fr-1817,Qui fut le premier président à ,parler, à la radio ? 
+FQB_TREC-fr-1818,Où Golda Meir a-t-elle ,grandi, ? 
+FQB_TREC-fr-1819,Quand Marilyn Monroe s'est-elle ,suicidée, ? 
+FQB_TREC-fr-1820,Quand ,est, l'indépendance du Mexique ? 
+FQB_TREC-fr-1824,Le vaisseau Magellan a permis aux scientifiques de faire des recherches ,approfondies, sur quelle planète ? 
+FQB_TREC-fr-1824,Le vaisseau Magellan a ,permis, aux scientifiques de faire des recherches approfondies sur quelle planète ? 
+FQB_TREC-fr-1825,En quelle année est ,paru, le Nintendo 64 ? 
+FQB_TREC-fr-1827,Où s'est ,déroulée, la bataille de l'Alamo ? 
+FQB_TREC-fr-1830,Dans quelle ville se ,termine, le tour de France ? 
+FQB_TREC-fr-1835,Qui était l'ennemi ,juré, de Sherlock Holmes ? 
+FQB_TREC-fr-1837,En quelle année fut ,construit," Ebbets Field, chef-lieu des Dodgers de Brooklyn ? "
+FQB_TREC-fr-1839,Quel pays fut ,formé, en 1948 ? 
+FQB_TREC-fr-1841,Quelle est la dernière strophe du poème d'Edgar Allen Poe ,intitulé," """"The Raven"""" ? "
+FQB_TREC-fr-1843,Pendant quel mois ,naissent, le plus de bébés ? 
+FQB_TREC-fr-1845,Dans quelle province se ,trouve, Calgary ? 
+FQB_TREC-fr-1852,Quand Henri VIII a-t-il ,régné, sur l'Angleterre ? 
+FQB_TREC-fr-1853,Où se ,trouvait, la prison Andersonville ? 
+FQB_TREC-fr-1854,Quelle était la profession de William Shakespeare avant que il ne ,commence, à composer des pièces de théâtre ? 
+FQB_TREC-fr-1855,À quelle vitesse ,tourne, la Terre ? 
+FQB_TREC-fr-1856,Quelle ville est ,connue, comme étant la capitale du caoutchouc ? 
+FQB_TREC-fr-1858-imp,Dites-moi où est ,située, la compagnie DuPont. 
+FQB_TREC-fr-1858-imp,,Dites,-moi où est située la compagnie DuPont. 
+FQB_TREC-fr-1860,À quelle comédie musicale de Broadway ,appartient," la chanson """"The Story is Me"""" ? "
+FQB_TREC-fr-1861,Où est ,né, Bill Gates ? 
+FQB_TREC-fr-1864,Quel était le nom du premier enfant de parents anglais à être ,né, en Amérique ? 
+FQB_TREC-fr-1866,Quelle partie de l'oeil continue à ,grandir, au cours de la vie d'une personne ? 
+FQB_TREC-fr-1866,Quelle partie de l'oeil ,continue, à grandir au cours de la vie d'une personne ? 
+FQB_TREC-fr-1867,Dans quelle ville italienne se ,trouve," la cathédrale Santa Maria del Fiore, ou le Duomo ? "
+FQB_TREC-fr-1868,Quelle capitale se ,trouve, sur le fleuve Susquehanna ? 
+FQB_TREC-fr-1870,Dans quel pays se ,trouve, Pretoria ? 
+FQB_TREC-fr-1872,Comment est ,morte, Eva Peron ? 
+FQB_TREC-fr-1875,Dans quel comté se ,trouve," Saint-Paul, au Minnesota ? "
+FQB_TREC-fr-1876,À quelle distance de la Terre se ,trouve, le Soleil ? 
+FQB_TREC-fr-1878,En quelle année fut ,inventé, le phonographe ? 
+FQB_TREC-fr-1879,Sous quel surnom le musicien Ernesto Antonio Puente Junior était-il mieux ,connu, ? 
+FQB_TREC-fr-1880,Quand est ,né, le roi Louis XIV ? 
+FQB_TREC-fr-1881,Quel est le nom scientifique de la plante ,nommée," """"zinnia"""" ? "
+FQB_TREC-fr-1883,Quelle portion de la couche d'ozone est ,appauvrie, ? 
+FQB_TREC-fr-1884,Où se ,trouve, la mer de la Tranquillité ? 
+FQB_TREC-fr-1888,En quelle année fut ,inventée, l'ampoule ? 
+FQB_TREC-fr-1892,D'où ,provient, la cannelle ? 
+FQB_TREC-fr-1893,Quel général américain est ,enterré, à Salzbourg ? 
+FQB_UNESCO-2,Que cela signifie-t-il pour un bien d'être ,inscrit, sur la Liste ? 
+FQB_UNESCO-5,à qui appartient un bien dès lors que il est ,inscrit, sur la Liste du patrimoine mondial ? 
+FQB_UNESCO-5,à qui ,appartient, un bien dès lors que il est inscrit sur la Liste du patrimoine mondial ? 
+FQB_UNESCO-9,à qui ,puis,-je adresser une suggestion ? 
+FQB_UNESCO-10,Qui puis-je informer d'une menace ,pesant, sur un bien du patrimoine mondial ou un bien sur la Liste du patrimoine mondial en péril ? 
+FQB_UNESCO-10,Qui ,puis,-je informer d'une menace pesant sur un bien du patrimoine mondial ou un bien sur la Liste du patrimoine mondial en péril ? 
+FQB_UNESCO-11,Comment puis-je ,contribuer, au Fonds du patrimoine mondial ? 
+FQB_UNESCO-11,Comment ,puis,-je contribuer au Fonds du patrimoine mondial ? 
+FQB_UNESCO-12,Comment ce Fonds est-il ,utilisé, ? 
+FQB_UNESCO-15,Comment puis-je obtenir/,utiliser, les photos de sites du patrimoine mondial ? 
+FQB_UNESCO-15,Comment ,puis,-je obtenir/utiliser les photos de sites du patrimoine mondial ? 
+FQB_UNESCO-16,"Je suis photographe, comment ",puis,-je proposer mes services ou vendre mes photos à l'UNESCO ? 
+FQB_UNESCO-20,,Puis,"-je utiliser le logo du patrimoine mondial dans des brochures, publicités ou d'autres média ? "
+FQB_UNESCO-23,Comment puis-je ,devenir, partenaire ? 
+FQB_UNESCO-23,Comment ,puis,-je devenir partenaire ? 
+FQB_UNESCO-24,Comment ,travailler,/faire un stage au Centre du patrimoine mondial de l'UNESCO ? 
