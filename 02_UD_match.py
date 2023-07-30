@@ -20,8 +20,8 @@ def conllu_to_dict(conllu):
 
 
 for subfolder in ud_dir.iterdir():
-    if subfolder.name == "WAC":
-        continue
+    # if subfolder.name == "WAC":
+    #     continue
 
     if not subfolder.is_dir():
         print(f"{subfolder} is not a folder")
