@@ -41,7 +41,7 @@ for subdir in main.iterdir():
 
     file_all = subdir / "VERB.csv"
     file_direct = subdir / "VERB-direct-obj.csv"
-    file_no_direct = subdir / "VERB-no-direct-obj.csv"
+    file_no_direct = subdir / "VERB-no-obj.csv"
 
 
     df_all = pd.read_csv(file_all).fillna("")
@@ -50,6 +50,10 @@ for subdir in main.iterdir():
     df_no_direct = pd.read_csv(file_no_direct).fillna("")
 
     for_stats["all"] = stats(df_all, df_all, df_all_pristine)
+
+    df_all = df_no_direct
+
+    for_stats["no_direct"] = stats(df_no_direct, df_all, df_all_pristine)
 
     lst_lemmas_all = df_all["LEMMA"].tolist()
     lst_lemmas_direct = df_direct["LEMMA"].tolist()
@@ -89,7 +93,7 @@ for subdir in main.iterdir():
     #     for k2, v2 in v.items():
     #         print(f"\t{k2}: {v2}")
 
-
+    df_all.to_csv(filtres / f"{subdir.name}-all.csv")
     df = pd.DataFrame(for_stats).T
     df.to_csv(filtres / f"{subdir.name}.csv")
 
