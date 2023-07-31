@@ -9,8 +9,8 @@ WAC.mkdir(exist_ok=True, parents=True)
 
 nlp = spacy.load("fr_core_news_sm")
 
-# file = "/home/marceau/Téléchargements/fra_mixed_2009_1M/fra_mixed_2009_1M-sentences.txt"
-file = r"C:\Users\marce\Downloads\fra_mixed_2009_1M\fra_mixed_2009_1M-sentences.txt"
+file = "/home/marceau/Téléchargements/fra_mixed_2009_1M/fra_mixed_2009_1M-sentences.txt"
+# file = r"C:\Users\marce\Downloads\fra_mixed_2009_1M\fra_mixed_2009_1M-sentences.txt"
 
 def no_empty(s:str) -> str:
     return s if s else "_"
@@ -67,6 +67,11 @@ for i, segment in enumerate(segments):
     srtio.write("# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC\n")
     for j, l in enumerate(pbar):
         l = l.strip().replace(u"\x92", "'").replace(u"\x9c", "œ").replace(u"\xad", "")
+        l = l.replace(r''''"''', "'").replace("''", "'")
+
+        if not l:
+            continue
+
         l = l.rsplit("\t", 1)
         srtio.write(f"# sent_id = {batch_first_sent_id + j}\n")
         srtio.write(f"# text = {l[1]}\n")
