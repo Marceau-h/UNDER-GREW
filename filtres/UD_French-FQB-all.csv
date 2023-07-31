@@ -1,0 +1,85 @@
+,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC
+1,FQB_CAF-3,Quelles démarches ,dois,-je effectuer pour avoir droit à une aide au logement ? ,3,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+38,FQB_CAF-21,Quelles démarches ,dois,-je effectuer pour demander et recevoir une aide au logement ? ,3,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+49,FQB_CAF-30,,Dois,-je faire une nouvelle demande ? ,1,Dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+88,FQB_CLEF03-83,Quelle est l'abréviation ,connue, du fonds des Nations Unis consacré aux enfants ? ,5,connue,connaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4,acl,_,_
+106,FQB_CLEF03-126,Quel est le titre du premier film dans lequel a ,joué, McKee ? ,12,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8,acl:relcl,_,_
+116,FQB_CLEF03-151-inf,Donner le nom d'une équipe pour laquelle Tim Crews a ,joué,. ,12,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,acl:relcl,_,SpaceAfter=No
+127,FQB_CLEF03-188,Pour quelle équipe de baseball Tom Glavine ,joue,-t-il ? ,8,joue,jouer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+136,FQB_INSEE-5,"Je n'ai pas vu l'agent recenseur, à qui ",dois,-je m'adresser ? ,12,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,5,advcl,_,SpaceAfter=No
+141,FQB_INSEE-11,Pourquoi ,dois,-je donner mon nom et mon prénom alors que l'enquête est anonyme ? ,2,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+142,FQB_INSEE-12,J'ai contracté un Pacs : comment ,dois,-je remplir mon questionnaire ? ,8,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,5,parataxis,_,SpaceAfter=No
+145,FQB_INSEE-15,,Doit,-on répondre à toutes les questions ? ,1,Doit,devoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+150,FQB_INSEE-20,"J'ai une résidence secondaire, où ",dois,-je me faire recenser ? ,8,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,2,advcl,_,SpaceAfter=No
+151,FQB_INSEE-21,"Un de mes enfants loge dans une autre ville pour ses études, ",doit,-il remplir un bulletin individuel ? ,14,doit,devoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5,advcl,_,SpaceAfter=No
+153,FQB_INSEE-22,"Mon conjoint est absent pendant la semaine pour raisons professionnelles, ",doit,-il remplir un bulletin individuel ? ,12,doit,devoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,advcl,_,SpaceAfter=No
+154,FQB_INSEE-23,"J'ai la garde alternée de mes enfants, ",dois,-je remplir un bulletin individuel pour eux ? ,10,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,2,advcl,_,SpaceAfter=No
+164,FQB_Impots-6,"Je veux me mensualiser, comment dois-je ",faire, ? ,9,faire,faire,VERB,_,VerbForm=Inf,7,xcomp,_,_
+165,FQB_Impots-6,"Je veux me mensualiser, comment ",dois,-je faire ? ,7,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,2,advcl,_,SpaceAfter=No
+170,FQB_Impots-8,Que ,dois,-je faire ? ,2,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+179,FQB_Impots-15,"Je viens de déménager et, je n'ai pas reçu mon chèque pour la prime pour l'emploi, comment ",faire, pour l'obtenir ? ,22,faire,faire,VERB,_,VerbForm=Inf,11,advcl,_,_
+183,FQB_Impots-20,"Je viens de déménager, quelles démarches ",dois,-je effectuer auprès des services fiscaux ? ,8,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,2,advcl,_,SpaceAfter=No
+188,FQB_Impots-24,"Si je loue une ou plusieurs pièces de ma résidence principale, comment ",dois,-je déclarer ce revenu ? ,14,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+192,FQB_Impots-26,Comment ,dois,-je déclarer les loyers provenant de la location d'un bien immobilier vide ? ,2,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+217,FQB_Impots-48,Est-ce que je ,dois, régler malgré tout son montant à la date limite de paiement ? ,5,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,1,ccomp,_,_
+226,FQB_Impots-57,"Je perçois le RSA, ",dois, je payer ma taxe d'habitation ? ,6,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,2,advcl,_,_
+227,FQB_Impots-59,Que ,dois,-je faire ? ,2,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+228,FQB_Impots-60,"Je n'ai pas de téléviseur mais un ordinateur avec une carte télévision, ",dois,-je payer la contribution à l'audiovisuel public ? ,15,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,3,advcl,_,SpaceAfter=No
+229,FQB_Impots-61,"Je n'ai pas de téléviseur, que ",dois,-je faire pour le signaler et pour ne pas payer de contribution à l'audiovisuel public ? ,9,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,3,advcl,_,SpaceAfter=No
+238,FQB_Impots-72,Que ,dois,-je faire auprès de vos services en cas de décès de l'un de mes parents ? ,2,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+240,FQB_PoleEmploi-5,Pourquoi ,devez,-vous avoir un espace personnel ? ,2,devez,devoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+243,FQB_PoleEmploi-11,"Vous avez remboursé un trop perçu, ",devez,-vous le déduire ? ,8,devez,devoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,3,advcl,_,SpaceAfter=No
+245,FQB_PoleEmploi-12,,Devez,-vous déclarer vos allocations ? ,1,Devez,devoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+246,FQB_PoleEmploi-13,Comment connaître le montant que vous ,devez, déclarer ? ,7,devez,devoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,4,acl:relcl,_,_
+253,FQB_TREC-fr-10-imp,"Nommez le créateur du soulier qui a entraîné des millions d'imitations en plastique, ",connues," sous le noms de """"souliers Jelly"""". ",17,connues,connaître,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,13,acl,_,_
+261,FQB_TREC-fr-28,Qui est surtout connu pour avoir été le premier Afro-américain à ,jouer, dans la ligue majeure de baseball ? ,12,jouer,jouer,VERB,_,VerbForm=Inf,10,acl,_,_
+272,FQB_TREC-fr-43,Quel costumier a décidé que Michael Jackson ne ,devrait, porter qu'un seul gant ? ,9,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,ccomp,_,_
+276,FQB_TREC-fr-44,Qui est directeur du groupe international ,nommé, l'Organisation du génome humain (hugo) qui tente présentement de coordonner à travers le monde la recherche portant sur la carte du génome humain ? ,8,nommé,nommer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,acl,_,_
+301,FQB_TREC-fr-108,Quelle compagnie a créé le navigateur Internet ,nommé, Mosaic ? ,8,nommé,nommer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,acl,_,_
+306,FQB_TREC-fr-114,Le nouveau matériau de carbone vitrifié inventé par l'Institut de Tokyo pour la technologie est combien de fois plus résistant que celui ,fait, de cellulose ? ,24,fait,faire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,23,acl,_,_
+307,FQB_TREC-fr-114,Le nouveau matériau de carbone vitrifié ,inventé, par l'Institut de Tokyo pour la technologie est combien de fois plus résistant que celui fait de cellulose ? ,7,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3,acl,_,_
+333,FQB_TREC-fr-149,Où est basée l'équipe de basketball ,nommée," les """"Bulls"""" ? ",8,nommée,nommer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5,acl,_,_
+360,FQB_TREC-fr-203,Quelle dose quotidienne d'acide folique une femme enceinte ,devrait,-elle obtenir ? ,10,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+398,FQB_TREC-fr-302,"Aux États-Unis, combien de personnes par année meurent d'un empoisonnement ",dû, à une morsure de serpent ? ,14,dû,devoir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13,acl,_,_
+415,FQB_TREC-fr-352,Qui a inventé le jeu ,connu," sous le nom de """"bowling"""" ? ",6,connu,connaître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5,acl,_,_
+433,FQB_TREC-fr-412-imp,Nommez un film dans lequel a ,joué, Jude Law. ,7,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3,acl:relcl,_,_
+440,FQB_TREC-fr-436,Ray Charles est surtout connu pour avoir ,joué, de quel instrument ? ,8,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5,xcomp,_,_
+458,FQB_TREC-fr-487,Quel était le titre du film dans lequel ,jouaient, Sharon Stone et Arnold Schwarzenegger ? ,10,jouaient,jouer,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,7,acl:relcl,_,_
+472,FQB_TREC-fr-512,Dans quel film Madilyn Kahn a-t-elle ,joué, avec Gene Wilder ? ,8,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+487,FQB_TREC-fr-556,Combien de copies d'un album ,doivent, être vendues afin que celui-ci soit un disque d'or ? ,7,doivent,devoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+490,FQB_TREC-fr-563-imp,Nommez un film dans lequel a ,joué, l'actrice Sandra Bullock. ,7,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3,acl:relcl,_,_
+493,FQB_TREC-fr-569,Combien de calcium ,devrait, prendre une femme adulte quotidiennement ? ,4,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+494,FQB_TREC-fr-570,Dans quelle équipe de hockey ,jouait, Wayne Gretzky ? ,6,jouait,jouer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+495,FQB_TREC-fr-571,Quelle couleur de teinture à cheveux ,devrait,-on utiliser pour simplement masquer un peu de gris ? ,7,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+497,FQB_TREC-fr-575,De quel sport ,jouent, les Badgers du Wisconsin ? ,4,jouent,jouer,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+499,FQB_TREC-fr-578,Quel était le nom de la comédie télévisée dans laquelle Alyssa Milano ,jouait, auprès de Tony Danza ? ,13,jouait,jouer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,7,acl:relcl,_,_
+507,FQB_TREC-fr-590,Quel est le nom de l'actrice qui a ,joué," dans le film """"Silence of the Lambs"""" ? ",10,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7,acl:relcl,_,_
+528,FQB_TREC-fr-651,Quelle actrice a ,joué," dans """"The Lion in Winter"""" ? ",4,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+534,FQB_TREC-fr-673,De quel sport ,jouent, les Cavaliers de Cleaveland ? ,4,jouent,jouer,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+537,FQB_TREC-fr-677,Quel était le nom de l'émission télévisée dans laquelle ,jouait," Karl Maden et dont le titre renfermait """"San Fransisco"""" ? ",11,jouait,jouer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,7,acl:relcl,_,_
+556,FQB_TREC-fr-719,Jude Law a ,joué, dans quel film ? ,4,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+557,FQB_TREC-fr-720,Quel est un film dans lequel Jude Law a ,joué, ? ,10,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4,acl:relcl,_,_
+558,FQB_TREC-fr-721,Dans quel film ,jouait, Jude Law ? ,4,jouait,jouer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+563,FQB_TREC-fr-729,Combien d'acide folique une femme enceinte ,devrait,-elle obtenir chaque jour ? ,8,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+565,FQB_TREC-fr-731,Quelle quantité d'acide folique une femme attendant un bébé ,devrait,-elle prendre quotidiennement ? ,11,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+583,FQB_TREC-fr-790,De quel instrument ,joue, Ray Charles ? ,4,joue,jouer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+584,FQB_TREC-fr-791,Le musicien Ray Charles ,joue, de quel instrument ? ,5,joue,jouer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+585,FQB_TREC-fr-792,Ray Charles ,joue, de quel instrument ? ,3,joue,jouer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+586,FQB_TREC-fr-793,Ray Charles est surtout connu pour ,jouer, de quel instrument ? ,7,jouer,jouer,VERB,_,VerbForm=Inf,5,xcomp,_,_
+649,FQB_TREC-fr-934,Le tissu ,nommé," """"lin"""" est fabriqué à partir de quelle plante ? ",3,nommé,nommer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2,acl,_,_
+686,FQB_TREC-fr-1072,Quelles couleurs primaires ,doit,-on mélanger pour obtenir l'orange ? ,4,doit,devoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+714,FQB_TREC-fr-1154,Qui fut le premier Afro-américain à ,jouer, pour les Dodgers de Brooklyn ? ,7,jouer,jouer,VERB,_,VerbForm=Inf,5,acl,_,_
+715,FQB_TREC-fr-1157,De quel instrument ,jouait, Glenn Miller ? ,4,jouait,jouer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_
+722,FQB_TREC-fr-1191,Quel âge ,doit,-on avoir pour pouvoir louer une voiture en Italie ? ,3,doit,devoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+761,FQB_TREC-fr-1338,Quelle est l'actrice ,connue, pour son rôle dans le film Gypsy ? ,5,connue,connaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4,acl,_,_
+762,FQB_TREC-fr-1344,Quelles couleurs ,doit,-on mélanger pour obtenir la couleur rose ? ,3,doit,devoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+765,FQB_TREC-fr-1348,À quelle température un réfrigérateur ,devrait,-il être maintenu ? ,6,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+795,FQB_TREC-fr-1430,Quel âge ,devez,-vous avoir pour vous marier en Caroline du Sud ? ,3,devez,devoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+831,FQB_TREC-fr-1524,Quel est le nom du parc de baseball dans lequel ,jouent, les Brewers de Milwaukee ? ,12,jouent,jouer,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,7,acl:relcl,_,_
+843,FQB_TREC-fr-1548,Quel est le prénom du premier Gehrig à avoir ,joué, pour les Yankees de New York ? ,11,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8,acl,_,_
+881,FQB_TREC-fr-1645,Combien la Station spatiale internationale ,devrait,-elle coûter ? ,6,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+906,FQB_TREC-fr-1695,"De quelle race était le cheval de Roy Roger, ",nommé, Trigger ? ,11,nommé,nommer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,acl,_,_
+917,FQB_TREC-fr-1715,Quelle quantité de vitamine C ,devrait,-on prendre quotidiennement ? ,6,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+925,FQB_TREC-fr-1737,Quelle quantité de sommeil un enfant ,devrait,-il avoir la nuit ? ,7,devrait,devoir,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+937,FQB_TREC-fr-1768,Dans quelle série télévisée Pierce Brosnan a-t-il ,joué, ? ,9,joué,jouer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+998,FQB_TREC-fr-1881,Quel est le nom scientifique de la plante ,nommée," """"zinnia"""" ? ",9,nommée,nommer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8,acl,_,_
