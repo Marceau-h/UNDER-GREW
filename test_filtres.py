@@ -41,23 +41,23 @@ for subdir in main.iterdir():
 
     file_all = subdir / "VERB.csv"
     file_direct = subdir / "VERB-direct-obj.csv"
-    file_no_direct = subdir / "VERB-no-obj.csv"
+    file_no_obj = subdir / "VERB-no-obj.csv"
 
 
     df_all = pd.read_csv(file_all).fillna("")
     df_all_pristine = pd.read_csv(file_all).fillna("")
     df_direct = pd.read_csv(file_direct).fillna("")
-    df_no_direct = pd.read_csv(file_no_direct).fillna("")
+    df_no_obj = pd.read_csv(file_no_obj).fillna("")
 
     for_stats["all"] = stats(df_all, df_all, df_all_pristine)
 
-    df_all = df_no_direct
+    df_all = df_no_obj
 
-    for_stats["no_direct"] = stats(df_no_direct, df_all, df_all_pristine)
+    for_stats["no_obj"] = stats(df_no_obj, df_all, df_all_pristine)
 
     lst_lemmas_all = df_all["LEMMA"].tolist()
     lst_lemmas_direct = df_direct["LEMMA"].tolist()
-    lst_lemmas_no_direct = df_no_direct["LEMMA"].tolist()
+    lst_lemmas_no_direct = df_no_obj["LEMMA"].tolist()
 
     in_both = set(lst_lemmas_direct).intersection(lst_lemmas_no_direct)
 
@@ -99,16 +99,7 @@ for subdir in main.iterdir():
 
     upset_data = {
         "all": {s for s in df_all_pristine["sent_id"].tolist()},
-        "in_both": {s for s in df_in_both["sent_id"].tolist()},
-        "ten_or_more": {s for s in df_ten_or_more["sent_id"].tolist()},
-        "no_pass": {s for s in df_no_pass["sent_id"].tolist()},
-        "no_pron": {s for s in df_no_pron["sent_id"].tolist()},
-    }
-
-    upset_data = from_contents(upset_data)
-
-    upset_data = {
-        "all": {s for s in df_all_pristine["sent_id"].tolist()},
+        "no_obj": {s for s in df_no_obj["sent_id"].tolist()},
         "in_both": {s for s in df_in_both["sent_id"].tolist()},
         "ten_or_more": {s for s in df_ten_or_more["sent_id"].tolist()},
         "no_pass": {s for s in df_no_pass["sent_id"].tolist()},
