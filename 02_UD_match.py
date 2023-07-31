@@ -45,22 +45,28 @@ for subfolder in ud_dir.iterdir():
         pivot_datas = []
         for line, row in df.iterrows():
             try:
-                sent = sents[row["sent_id"]]
+                sent = sents[str(row["sent_id"])]
             except Exception as e:
-                print(e)
-                try:
-                    sent = sents[str(row["sent_id"])]
-                except:
-                    print(f"{row['sent_id'] = }")
-                    print(f"{subfolder.name = }")
-                    print(sents)
-                    raise
+
+                print(f"{row['sent_id'] = }")
+                print(f"{subfolder.name = }")
+                print(sents)
+                raise
 
             left = row["left_context"]
             pivot = row["pivot"]
+            pivot = pivot.replace('""', '"')
+
+            if pivot == "":
+                print(f"{row['sent_id'] = }")
+                print(f"{subfolder.name = }")
+                print(f"{left = }")
+                print(f"{pivot = }")
+                raise Exception("pivot is empty")
             try:
                 # count = left.count(pivot) if left != "" else 0
-                count = sum(1 for e in left if e == pivot) - sum(1 for e in re.findall(fr"\w*{pivot}\w*", left) if e)
+                count = sum(1 for e in left if e == pivot)
+                count -= sum(1 for e in re.findall(fr"\w*{re.escape(pivot)}\w*", left) if e)
                 # print(count)
                 # print(left)
                 count = count if count >= 0 else 0
@@ -80,6 +86,7 @@ for subfolder in ud_dir.iterdir():
                 print(f"{words = }")
                 print(f"{pivot = }")
                 print(f"{count = }")
+                print(f"{subfolder.name = }")
                 raise
             # print(sent[token_nb])
 
