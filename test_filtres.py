@@ -4,12 +4,17 @@ from pathlib import Path
 from upsetplot import from_contents, UpSet, plot
 
 
+def make_percent(a: int, b: int):
+    # return int(f"{a/b*100:.2f}".replace(".", ","))
+    return round(a / b * 100, 2)
+
+
 def stats(df, dfall, dfallpristine):
     return {
         "# sent": len(df),
         "# sent successif": len(dfall),
-        "% sent": len(df) / len(dfallpristine),
-        "% sent successif": len(dfall) / len(dfallpristine),
+        "% sent": make_percent(len(df), len(dfallpristine)),
+        "% sent successif": make_percent(len(dfall), len(dfallpristine)),
     }
 
 
@@ -24,7 +29,6 @@ def atleast(i: int, df: pd.DataFrame, col: str, val: str):
 main = Path("Xports")
 filtres = Path("filtres")
 filtres.mkdir(exist_ok=True)
-
 
 for subdir in main.iterdir():
 
@@ -42,7 +46,6 @@ for subdir in main.iterdir():
     file_all = subdir / "VERB.csv"
     file_direct = subdir / "VERB-direct-obj.csv"
     file_no_obj = subdir / "VERB-no-obj.csv"
-
 
     df_all = pd.read_csv(file_all).fillna("")
     df_all_pristine = pd.read_csv(file_all).fillna("")
@@ -66,12 +69,12 @@ for subdir in main.iterdir():
 
     for_stats["in_both"] = stats(df_in_both, df_all, df_all_pristine)
 
-    ten_or_more = [x for x in lst_lemmas_all if lst_lemmas_all.count(x) >= 10]
+    five_or_more = [x for x in lst_lemmas_all if lst_lemmas_all.count(x) >= 5]
 
-    df_ten_or_more = df_all_pristine[df_all_pristine["LEMMA"].isin(ten_or_more)]
-    df_all = df_all[df_all["LEMMA"].isin(ten_or_more)]
+    df_five_or_more = df_all_pristine[df_all_pristine["LEMMA"].isin(five_or_more)]
+    df_all = df_all[df_all["LEMMA"].isin(five_or_more)]
 
-    for_stats["ten_or_more"] = stats(df_ten_or_more, df_all, df_all_pristine)
+    for_stats["five_or_more"] = stats(df_five_or_more, df_all, df_all_pristine)
 
     lst_feats_all = df_all_pristine["FEATS"].tolist()
 
@@ -101,7 +104,7 @@ for subdir in main.iterdir():
         "all": {s for s in df_all_pristine["sent_id"].tolist()},
         "no_obj": {s for s in df_no_obj["sent_id"].tolist()},
         "in_both": {s for s in df_in_both["sent_id"].tolist()},
-        "ten_or_more": {s for s in df_ten_or_more["sent_id"].tolist()},
+        "five_or_more": {s for s in df_five_or_more["sent_id"].tolist()},
         "no_pass": {s for s in df_no_pass["sent_id"].tolist()},
         "no_pron": {s for s in df_no_pron["sent_id"].tolist()},
     }
@@ -116,37 +119,43 @@ for subdir in main.iterdir():
     )
 
     upset.style_subsets(
-        present=["all", "in_both", "ten_or_more", "no_pass", "no_pron"],
+        present=["all", "in_both", "five_or_more", "no_pass", "no_pron", "no_obj"],
         facecolor="gray",
     )
 
     upset.style_subsets(
-        present=["all", "in_both", "ten_or_more", "no_pron"],
+        present=["all", "in_both", "five_or_more", "no_pron", "no_obj"],
         absent=["no_pass"],
         facecolor="blue",
     )
 
     upset.style_subsets(
-        present=["all", "ten_or_more", "no_pass", "no_pron"],
+        present=["all", "five_or_more", "no_pass", "no_pron", "no_obj"],
         absent=["in_both"],
         facecolor="green",
     )
 
     upset.style_subsets(
-        present=["all", "in_both", "no_pass", "no_pron"],
-        absent=["ten_or_more"],
+        present=["all", "in_both", "no_pass", "no_pron", "no_obj"],
+        absent=["five_or_more"],
         facecolor="red",
     )
 
     upset.style_subsets(
-        present=["all", "in_both", "ten_or_more", "no_pass"],
+        present=["all", "in_both", "five_or_more", "no_pass", "no_obj"],
         absent=["no_pron"],
         facecolor="yellow",
     )
 
+    upset.style_subsets(
+        present=["all", "in_both", "five_or_more", "no_pass", "no_pron"],
+        absent=["no_obj"],
+        facecolor="purple",
+    )
+
     fig = plt.figure()
     fig.figsize = (20, 40)
-    fig.legend(loc=7)
+    # fig.legend(loc=7)
 
     upset.make_grid(
         fig

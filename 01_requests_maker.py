@@ -3,9 +3,9 @@ from pprint import pprint
 import http.client
 import urllib.parse
 from time import sleep
+from io import StringIO
 
 import pandas as pd
-from io import StringIO
 from tqdm.auto import tqdm
 from pathlib import Path
 
