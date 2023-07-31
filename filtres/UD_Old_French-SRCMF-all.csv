@@ -1185,15 +1185,22 @@
 1207,11681,Or est Amors tornee a fable Por ce que cil qui rien n'en santent Dïent qu'il ,aiment,", ",19,aiment,amer,VERB,VERcjg,VerbForm=Fin,16,ccomp,_,SpaceAfter=No|XmlId=w_YvainKu_166
 1208,11682,mes il ,mantent,", ",3,mantent,mentir,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_170
 1211,11686,"Car mout valt mialz, ce m'est avis, Uns cortois ",morz, c'uns vilains vis. ,13,morz,morir,VERB,VERppe,Tense=Past|VerbForm=Part,12,acl,_,XmlId=w_YvainKu_216
+1212,11687,Por ce me plest a reconter Chose qui face a ,escouter, Del roi qui fu de tel tesmoing Qu'an en parole et pres et loing ; ,11,escouter,escouter,VERB,VERinf,VerbForm=Inf,9,xcomp,_,XmlId=w_YvainKu_232
+1214,11691,"Si ot de tex cui mout greva Et qui mout grant parole an firent, Por ce que onques mes nel virent A si grant feste an chanbre antrer Por dormir ne por ",reposer, ; ,34,reposer,reposer,VERB,VERinf,VerbForm=Inf,31,conj,_,XmlId=w_YvainKu_323
 1222,11707,"- Certes, Kex, ja fussiez crevez, ",Fet," la reïne, au mien cuidier, Se ne vos poïssiez vuidier Del venin don vos estes plains. ",10,Fet,faire,VERB,VERcjg,VerbForm=Fin,8,parataxis,_,XmlId=w_YvainKu_590
 1225,11709,"- Dame, se nos n'i gaeignons, ",Fet," Kex, an vostre conpaignie, Gardez que nos n'i perdiens mie. ",10,Fet,faire,VERB,VERcjg,VerbForm=Fin,17,parataxis,_,XmlId=w_YvainKu_630
 1226,11713,Cist plez ne doit avant ,venir,", ",6,venir,venir,VERB,VERinf,VerbForm=Inf,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_686
 1228,11718,et si ,respont, : ,3,respont,respondre,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_724
 1229,11719,"« Dame, ",fet," il, de la tançon Ne sui mie en grant sospeçon ; ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,11,parataxis,_,XmlId=w_YvainKu_729
+1236,11726,Mes je ne ,conterai," huimés, Se ma dame m'an leisse an pes, ",4,conterai,conter,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_820
 1237,11728,"- Dame, trestuit cil qui sont ci, ",Fet," Kex, boen gré vos en savront ",10,Fet,faire,VERB,VERcjg,VerbForm=Fin,17,parataxis,_,XmlId=w_YvainKu_864
 1239,11733,"- Qualogrenant, ",dist," la reïne, Ne vos chaille de l'ataïne Monseignor Keu le seneschal ; ",4,dist,dire,VERB,VERcjg,VerbForm=Fin,10,parataxis,_,XmlId=w_YvainKu_912
+1241,11736,Ne por lui ne lessiez a dire Chose qui nos pleise a ,oïr,", Se de m'amor volez joïr, ",13,oïr,öir,VERB,VERinf,VerbForm=Inf,11,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_967
+1242,11741,or ,escotez, ! ,2,escotez,escouter,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_1043
 1247,11749,ne ,demore,", ",2,demore,demorer,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_1119
 1249,11750,Einz s'an part en mout petit d'ore Se li cuers n'est si esveilliez Qu'au ,prendre, soit apareilliez ; ,19,prendre,prendre,VERB,VERinf,VerbForm=Inf,21,advcl,_,XmlId=w_YvainKu_1139
+1253,11751,"Car, s'il la puet an son ",oïr," Prendre, et anclorre, et retenir, Les oroilles sont voie et doiz Par ou s'an vient au cuer la voiz ; ",9,oïr,öir,VERB,VERinf,VerbForm=Inf,10,obj,_,XmlId=w_YvainKu_1151
+1261,11790,Et ele me mena ,seoir," El plus bel praelet del monde, Clos de bas mur a la reonde. ",5,seoir,sëoir,VERB,VERinf,VerbForm=Inf,4,xcomp,_,XmlId=w_YvainKu_1650
 1263,11791,"La la trovai si afeitiee, Si bien ",parlant,", si anseigniee, De tel solaz et de tel estre Que mout m'i delitoit a estre, ",9,parlant,parler,VERB,VERppa,Tense=Pres|VerbForm=Part,5,conj,_,SpaceAfter=No|XmlId=w_YvainKu_1674
 1268,11797,Aprés ,mangier, itant me dist Li vavasors qu'il ne savoit Le terme puis que il avoit Herbergié chevalier errant Qui aventure alast querant ; ,2,mangier,mangier,VERB,VERinf,VerbForm=Inf,5,advcl,_,XmlId=w_YvainKu_1774
 1270,11806,"Lors que l'en pot le jor veoir, Si fu bien ",fette, ma proiere ; ,13,fette,faire,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_1888
@@ -1203,6 +1210,7 @@
 1281,11825,Et je cuidai qu'il ne seüst ,Parler, ne reison point n'eüst. ,8,Parler,parler,VERB,VERinf,VerbForm=Inf,7,xcomp,_,XmlId=w_YvainKu_2243
 1282,11827,“ ,Va,", car me di Se tu es boene chose ou non ! ” ",2,Va,aler,VERB,VERcjg,VerbForm=Fin,6,discourse,_,SpaceAfter=No|XmlId=w_YvainKu_2261
 1286,11840,- N'i a celi qui s'ost movoir Des que ele me voit ,venir, ; ,15,venir,venir,VERB,VERinf,VerbForm=Inf,14,xcomp,_,XmlId=w_YvainKu_2411
+1287,11843,"Ne nus ne s'i porroit fier, Fors moi, s'antr'eles s'estoit mis, Qu'il ne fust maintenant ",ocis,. ,24,ocis,ocire,VERB,VERppe,Tense=Past|VerbForm=Part,7,ccomp,_,SpaceAfter=No|XmlId=w_YvainKu_2481
 1288,11846,"- Je sui, ",fet," il, uns chevaliers Qui quier ce que trover ne puis ; ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,9,parataxis,_,XmlId=w_YvainKu_2508
 1289,11847,Assez ai ,quis,", ",3,quis,querre,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_2523
 1290,11851,et ,quier, ,2,quier,querre,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_2552
@@ -1212,13 +1220,17 @@
 1303,11871,Espoir si fu tierce ,passee, ,5,passee,passer,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_2873
 1304,11874,Ne cuit c'onques si fort pleüst Que d'eve i ,passast," une gote, ",12,passast,passer,VERB,VERcjg,VerbForm=Fin,6,advcl,_,XmlId=w_YvainKu_2923
 1311,11882,"Que volentiers m'an repantisse Tot maintenant, se je ",poïsse,", Quant je oi le perron crosé De l'eve au bacin arosé. ",11,poïsse,pöoir,VERB,VERcjg,VerbForm=Fin,5,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_3048
+1324,11900,S',escoutai, tant qu'il orent fet Lor servise trestot a tret ; ,2,escoutai,escouter,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_3283
 1326,11903,Tant i fui que j'oï ,venir," Chevaliers, ",7,venir,venir,VERB,VERinf,VerbForm=Inf,6,xcomp,_,XmlId=w_YvainKu_3338
 1327,11906,Tel noise et tel bruit demenoit Uns seus chevaliers qui ,venoit,. ,11,venoit,venir,VERB,VERcjg,VerbForm=Fin,9,acl:relcl,_,SpaceAfter=No|XmlId=w_YvainKu_3363
 1328,11907,Quant ge le vi tot seul ,venant,", Mon cheval restraing maintenant ",7,venant,venir,VERB,VERppa,Tense=Pres|VerbForm=Part,4,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_3371
 1329,11908,N'a ,monter, demore ne fis ; ,3,monter,monter,VERB,VERinf,VerbForm=Inf,6,xcomp,_,XmlId=w_YvainKu_3379
 1330,11909,"Et cil, come mautalentis, ",Vint," plus tost c'uns alerions, Fiers par sanblant come lions. ",7,Vint,venir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_3390
+1331,11910,De si haut con il pot ,crier," Me comança a desfier, ",7,crier,crïer,VERB,VERinf,VerbForm=Inf,3,advcl,_,XmlId=w_YvainKu_3409
 1332,11911,Et ,dist, : ,2,dist,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_3416
 1333,11914,Mes se je ,puis,", sire vasax, Sor vos retornera cist max Del domage qui est paranz ; ",4,puis,pöoir,VERB,VERcjg,VerbForm=Fin,11,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_3459
+1337,11932,Si grant cop con je poi ,ferir," Li donai, c'onques ne m'an fains ; ",7,ferir,ferir,VERB,VERinf,VerbForm=Inf,2,advcl,_,XmlId=w_YvainKu_3679
+1339,11943,si me ,sejornai, ; ,3,sejornai,sejorner,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_3824
 1340,11949,Mes jus totes mes armes mis Por plus ,aler, legieremant ; ,9,aler,aler,VERB,VERinf,VerbForm=Inf,6,advcl,_,XmlId=w_YvainKu_3891
 1341,11951,"Qant je ving la nuit a ostel, Trovai mon oste tot autel, Ausi lié et ausi cortois Come j'avoie ",fet, einçois. ,23,fet,faire,VERB,VERppe,Tense=Past|VerbForm=Part,11,advcl,_,XmlId=w_YvainKu_3922
 1343,11954,"Et disoient c'onques mes hom N'an eschapa, que il seüssent Ne que il oï dire eüssent, De la don j'estoie venuz, Qu'il n'i fust ",morz, ou retenuz. ,33,morz,morir,VERB,VERppe,Tense=Past|VerbForm=Part,9,advcl,_,XmlId=w_YvainKu_4006
@@ -1231,6 +1243,8 @@
 1354,11965,,Fet," Kex, qui teire ne se pot. ",1,Fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_4114
 1356,11968,Aprés ,mangier,", sanz remuer, Vet chascuns Loradin tuer, ",2,mangier,mangier,VERB,VERinf,VerbForm=Inf,7,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_4148
 1362,11978,,fet," la reïne, ",1,fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_4266
+1363,11979,Que vostre leingue onques ne ,fine, ? ,6,fine,finer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_4275
+1366,11985,La vostre leingue si ,esploite, Qu'ele vos fet par tot haïr : ,5,esploite,esploitier,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_4328
 1367,11987,Bien ,sachiez,", ",2,sachiez,savoir,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_4345
 1369,11990,"- Certes, dame, de ses ranposnes, ",Fet," messire Yvains, ne me chaut. ",10,Fet,faire,VERB,VERcjg,VerbForm=Fin,16,parataxis,_,XmlId=w_YvainKu_4385
 1370,11996,Or savez vos bien se je ,mant,. ,7,mant,mentir,VERB,VERcjg,VerbForm=Fin,2,ccomp,_,SpaceAfter=No|XmlId=w_YvainKu_4437
@@ -1249,15 +1263,24 @@
 1395,12053,"Messire Yvains maintenant monte, Qu'il vangera, s'il ",puet,", la honte Son cosin einz que il retort. ",12,puet,pöoir,VERB,VERcjg,VerbForm=Fin,8,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_5196
 1396,12053,Messire Yvains maintenant ,monte,", Qu'il vangera, s'il puet, la honte Son cosin einz que il retort. ",4,monte,monter,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_5188
 1397,12055,si ,monta," sus, ",2,monta,monter,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_5216
+1399,12061,"Messire Yvains ne sejorna, Puis qu'",armez," fu, ne tant ne quant, ",8,armez,armer,VERB,VERppe,Tense=Past|VerbForm=Part,4,advcl,_,XmlId=w_YvainKu_5285
+1405,12065,"Qui que le doie conparer, Ne ",finera," tant que il voie Le pin qui la fontainne onbroie, Et le perron et la tormante Qui grausle et pluet et tone et vante. ",8,finera,finer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_5361
 1406,12066,"La nuit ot, ce poez savoir, Tel oste com il vost ",avoir, ; ,14,avoir,avoir,VERB,VERinf,VerbForm=Inf,10,acl,_,XmlId=w_YvainKu_5401
 1407,12067,Car plus de bien et plus d'enor Trueve il assez el vavasor Que ne vos ai conté et ,dit, ; ,20,dit,dire,VERB,VERppe,Tense=Past|VerbForm=Part,18,conj,_,XmlId=w_YvainKu_5422
+1408,12068,Et an la pucele revit De san et de biauté cent tanz Que n'ot ,conté," Calogrenanz, ",16,conté,conter,VERB,VERppe,Tense=Past|VerbForm=Part,12,acl,_,XmlId=w_YvainKu_5439
+1409,12070,Ja n'iert tot dit ne tot ,conté,", ",8,conté,conter,VERB,VERppe,Tense=Past|VerbForm=Part,5,conj,_,SpaceAfter=No|XmlId=w_YvainKu_5473
 1410,12071,Que leingue ne puet pas retreire Tant d'enor con prodon set ,feire,. ,13,feire,faire,VERB,VERinf,VerbForm=Inf,6,obj,_,SpaceAfter=No|XmlId=w_YvainKu_5487
+1411,12079,Sanz arester et sanz ,seoir,", Verssa sor le perron de plain De l'eve le bacin tot plain. ",5,seoir,sëoir,VERB,VERinf,VerbForm=Inf,2,conj,_,SpaceAfter=No|XmlId=w_YvainKu_5566
 1415,12082,Et fist tel tans con ,faire, dut. ,6,faire,faire,VERB,VERinf,VerbForm=Inf,4,acl,_,XmlId=w_YvainKu_5592
 1423,12100,N'onques d'un estal ne se muevent Ne plus que ,feïssent, dui gres ; ,12,feïssent,faire,VERB,VERcjg,VerbForm=Fin,8,advcl,_,XmlId=w_YvainKu_5795
 1424,12103,Que mialz qu'il ,pueent, les anploient. ,5,pueent,pöoir,VERB,VERcjg,VerbForm=Fin,7,advcl,_,XmlId=w_YvainKu_5823
 1430,12111,"Et de ce firent mout que preu C'onques lor cheval an nul leu Ne ferirent ne maheignierent, Qu'il ne ",vostrent," ne ne deignierent, ",23,vostrent,voloir,VERB,VERcjg,VerbForm=Fin,18,advcl,_,XmlId=w_YvainKu_5944
+1439,12129,Et cil de ,chacier," s'esvertue, ",4,chacier,chacier,VERB,VERinf,VerbForm=Inf,6,xcomp,_,XmlId=w_YvainKu_6193
 1440,12130,Qu'il crient sa poinne avoir perdue Se ,mort," ou vif ne le retient, ",9,mort,morir,VERB,VERppe,Tense=Past|VerbForm=Part,14,amod,_,XmlId=w_YvainKu_6205
 1443,12141,"Et l'espee est an son aguet Desus, qui tret et fiert et ",prant,", ",15,prant,prendre,VERB,VERcjg,VerbForm=Fin,11,conj,_,SpaceAfter=No|XmlId=w_YvainKu_6364
+1444,12141,"Et l'espee est an son aguet Desus, qui tret et ",fiert," et prant, ",13,fiert,ferir,VERB,VERcjg,VerbForm=Fin,11,conj,_,XmlId=w_YvainKu_6362
+1445,12141,"Et l'espee est an son aguet Desus, qui ",tret," et fiert et prant, ",11,tret,traire,VERB,VERcjg,VerbForm=Fin,3,acl:relcl,_,XmlId=w_YvainKu_6360
+1448,12144,Ensi desus la porte estoient Dui trabuchet qui sostenoient Amont une porte colant De fer esmolue et ,tranchant, ; ,18,tranchant,trenchier,VERB,VERppa,Tense=Pres|VerbForm=Part,16,conj,_,XmlId=w_YvainKu_6404
 1452,12146,S'estoit ,pris, et dehachiez toz Cui la porte ateignoit desoz. ,3,pris,prendre,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_6421
 1461,12163,Ensi fu messire Yvains ,pris,. ,5,pris,prendre,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_6631
 1464,12170,"« Certes, fet ele, chevaliers, Je criem que mal soiez ",venuz, : ,14,venuz,venir,VERB,VERppe,Tense=Past|VerbForm=Part,10,ccomp,_,XmlId=w_YvainKu_6750
@@ -1273,15 +1296,21 @@
 1489,12217,Quant il ot ,mangié," et beü, Furent par leanz espandu Li chevalier qui le queroient, Qui lor seignor vangier voloient, Qui ja estoit an bieres mis. ",4,mangié,mangier,VERB,VERppe,Tense=Past|VerbForm=Part,11,advcl,_,XmlId=w_YvainKu_7308
 1490,12221,"Mes, qui que veigne et qui que ",voise,", Ne vos movez ja por la noise, ",9,voise,aler,VERB,VERcjg,VerbForm=Fin,5,conj,_,SpaceAfter=No|XmlId=w_YvainKu_7368
 1491,12221,"Mes, qui que ",veigne," et qui que voise, Ne vos movez ja por la noise, ",5,veigne,venir,VERB,VERcjg,VerbForm=Fin,13,advcl,_,XmlId=w_YvainKu_7364
+1497,12235,Et virent del cheval ,tranchié,", Devant la porte, la mitié. ",5,tranchié,trenchier,VERB,VERppe,Tense=Past|VerbForm=Part,4,acl,_,SpaceAfter=No|XmlId=w_YvainKu_7573
+1498,12236,"Lors si cuidoient estre cert, Qant li huis seroient overt, Que dedanz celui troveroient Que il por ",ocirre, queroient. ,20,ocirre,ocire,VERB,VERinf,VerbForm=Inf,21,advcl,_,XmlId=w_YvainKu_7601
 1501,12240,Et l'autre mitié trovee ont Del cheval ,mort, devant le suel ; ,9,mort,morir,VERB,VERppe,Tense=Past|VerbForm=Part,8,acl,_,XmlId=w_YvainKu_7647
 1505,12243,Et ,disoient, : ,2,disoient,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_7680
 1510,12248,,Morz," ou vis est ceanz li cors, ",1,Morz,morir,VERB,VERppe,Tense=Past|VerbForm=Part,7,acl,_,XmlId=w_YvainKu_7741
+1513,12252,Ne de lui ne trovomes rien Fors que les esperons ,tranchiez, Qui li cheïrent de ses piez. ,11,tranchiez,trenchier,VERB,VERppe,Tense=Past|VerbForm=Part,10,acl,_,XmlId=w_YvainKu_7780
+1518,12261,Qu'il n'i fu ,feruz, ne tochiez. ,6,feruz,ferir,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_7868
+1519,12262,Mes assez ,ferirent, antor ,3,ferirent,ferir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_7874
 1520,12264,"Quequ'il aloient reverchant Desoz liz et desoz eschames, ",Vint, une des plus beles dames C'onques veïst riens terriene. ,11,Vint,venir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_7908
 1522,12267,"A la foiee, si crioit Si haut com ele ",pooit," plus, ",11,pooit,pöoir,VERB,VERcjg,VerbForm=Fin,8,advcl,_,XmlId=w_YvainKu_7958
 1526,12274,"Que son seignor en voit porter Devant li, en la biere, ",mort,", Don ja ne cuide avoir confort ; ",14,mort,morir,VERB,VERppe,Tense=Past|VerbForm=Part,3,acl,_,SpaceAfter=No|XmlId=w_YvainKu_8022
 1529,12280,Et la processions ,passa,", ",4,passa,passer,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_8114
 1530,12282,"Que li sans chauz, clers, et vermauz Rissi au ",mort, parmi la plaie ; ,12,mort,morir,VERB,VERppe,Tense=Past|VerbForm=Part,10,ccomp,_,XmlId=w_YvainKu_8139
 1534,12284,Lors ont par tot cerchié et ,quis," Et reverchié et tremué, Si que tuit furent tressué De grant angoisse et de tooil Qu'il orent por le sanc vermoil Qui devant aus fu degotez. ",7,quis,querre,VERB,VERppe,Tense=Past|VerbForm=Part,5,conj,_,XmlId=w_YvainKu_8177
+1536,12285,Puis fu mout ,feruz," et botez Messire Yveins, la ou il jut ; ",4,feruz,ferir,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_8210
 1538,12290,Et ,dit, chascuns et cil et cist : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_8259
 1540,12299,Einz tex force ne fu ,veüe," Ne si lez torz con tu me fez, ",6,veüe,vëoir,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_8374
 1546,12324,Et tant ont quis et tribolé Que de ,querre, sont saolé ; ,9,querre,querre,VERB,VERinf,VerbForm=Inf,11,xcomp,_,XmlId=w_YvainKu_8634
@@ -1292,10 +1321,13 @@
 1555,12343,"Parmi cele fenestre agueite Messire Yvains la bele dame, Qui ",dit, : ,12,dit,dire,VERB,VERcjg,VerbForm=Fin,9,acl:relcl,_,XmlId=w_YvainKu_8890
 1559,12355,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_9030
 1564,12362,"Ci poez ester et seoir, Et anz et fors les genz ",veoir," Qui passeront parmi la voie, ",13,veoir,vëoir,VERB,VERinf,VerbForm=Inf,3,conj,_,XmlId=w_YvainKu_9100
+1565,12362,Ci poez ester et ,seoir,", Et anz et fors les genz veoir Qui passeront parmi la voie, ",5,seoir,sëoir,VERB,VERinf,VerbForm=Inf,3,conj,_,SpaceAfter=No|XmlId=w_YvainKu_9092
 1568,12369,"Et met, s'il ",puet,", le san a oevre. ",6,puet,pöoir,VERB,VERcjg,VerbForm=Fin,2,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_9185
 1569,12374,S'estez an pes tant que je ,veigne,", ",8,veigne,venir,VERB,VERcjg,VerbForm=Fin,2,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_9234
 1572,12380,"Que del cors qu'il voit qu'an enfuet Li poise, quant avoir n'en puet Aucune chose qui l'an port Tesmoing qu'il l'a ocis et ",mort,. ,31,mort,morir,VERB,VERppe,Tense=Past|VerbForm=Part,29,conj,_,SpaceAfter=No|XmlId=w_YvainKu_9327
+1573,12392,Cos d'espee ,garist, ,4,garist,garir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_9516
 1579,12404,Mes or est ele bien ,venue,", ",6,venue,venir,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_9668
+1581,12406,Et ci li fet boen ,sejorner,. ,6,sejorner,sejorner,VERB,VERinf,VerbForm=Inf,4,csubj,_,SpaceAfter=No|XmlId=w_YvainKu_9680
 1582,12413,Qant en ot anfoï le ,mort,", S'an partirent totes les genz ; ",6,mort,morir,VERB,VERppe,Tense=Past|VerbForm=Part,4,obj,_,SpaceAfter=No|XmlId=w_YvainKu_9768
 1583,12424,An ce ,voloir," l'a Amors mis, Qui a la fenestre l'a pris ; ",3,voloir,voloir,VERB,VERinf,VerbForm=Inf,7,xcomp,_,XmlId=w_YvainKu_9888
 1584,12425,Mes de son ,voloir," se despoire, ",4,voloir,voloir,VERB,VERinf,VerbForm=Inf,6,advcl,_,XmlId=w_YvainKu_9905
@@ -1303,8 +1335,10 @@
 1588,12427,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_9923
 1589,12431,"Par foi, je ne cuit pas ",savoir,", ",8,savoir,savoir,VERB,VERinf,VerbForm=Inf,6,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_9962
 1590,12434,D'or endroit ai ge ,dit," que sages, ",6,dit,dire,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_9985
+1594,12458,et aguisent Qant je les voi ronpre et ,tranchier, ; ,9,tranchier,trenchier,VERB,VERinf,VerbForm=Inf,7,conj,_,XmlId=w_YvainKu_10220
 1597,12462,De ce qu'ele ,plore, me duel ,5,plore,plorer,VERB,VERcjg,VerbForm=Fin,2,acl,_,XmlId=w_YvainKu_10273
 1610,12497,Mialz vialt ,morir, que il s'en aut. ,3,morir,morir,VERB,VERinf,VerbForm=Inf,0,root,_,XmlId=w_YvainKu_10752
+1616,12503,Comant puet donc boen siegle avoir Qui voit qu'an le quiert por ,ocirre, ? ,14,ocirre,ocire,VERB,VERinf,VerbForm=Inf,12,advcl,_,XmlId=w_YvainKu_10850
 1618,12506,"- Certes, fet il, ma dolce amie, ",Morir," n'i voldroie je mie, ",11,Morir,morir,VERB,VERinf,VerbForm=Inf,0,root,_,XmlId=w_YvainKu_10869
 1619,12506,"- Certes, ",fet," il, ma dolce amie, Morir n'i voldroie je mie, ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,11,parataxis,_,XmlId=w_YvainKu_10862
 1621,12511,,Fet, cele qui bien set antendre Ou ceste parole vialt tendre. ,1,Fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_10910
@@ -1319,7 +1353,9 @@
 1635,12568,Tant ,paroles, que trop m'enuies. ,2,paroles,parler,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_11529
 1636,12569,"- A ben eor, ",fet," ele, dame, Bien i pert que vos estes fame, Qui se corroce quant ele ot Nelui qui bien feire li lot. » ",6,fet,faire,VERB,VERcjg,VerbForm=Fin,13,parataxis,_,XmlId=w_YvainKu_11539
 1637,12574,Se li orroit volentiers ,dire,", ",5,dire,dire,VERB,VERinf,VerbForm=Inf,3,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_11614
+1640,12576,An ce ,panser, a atendu Jusque tant que ele revint ; ,3,panser,penser,VERB,VERinf,VerbForm=Inf,5,advcl,_,XmlId=w_YvainKu_11624
 1641,12586,- Se tu ne ,manz,", Dex me confonde ! ",5,manz,mentir,VERB,VERcjg,VerbForm=Fin,9,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_11728
+1642,12597,ne ,escoute,. ,2,escoute,escouter,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_11828
 1643,12599,Mes bien puis ,dire,", ",4,dire,dire,VERB,VERinf,VerbForm=Inf,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_11840
 1644,12607,Et si vos pruef par estovoir Que mialz valut cil qui conquist Vostre seignor que il ne ,fist, : ,18,fist,faire,VERB,VERcjg,VerbForm=Fin,8,acl,_,XmlId=w_YvainKu_11940
 1645,12611,"- Or ai ge oï desreison, La plus grant c'onques mes fust ",dite,. ,15,dite,dire,VERB,VERppe,Tense=Past|VerbForm=Part,6,acl:relcl,_,SpaceAfter=No|XmlId=w_YvainKu_11975
@@ -1337,6 +1373,8 @@
 1677,12699,"Car qui peor a de son onbre, S'il ",puet,", volentiers se desconbre D'ancontre de lance ou de dart, ",11,puet,pöoir,VERB,VERcjg,VerbForm=Fin,15,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_13075
 1678,12701,Et la dame ,respont, : ,4,respont,respondre,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_13100
 1679,12707,,Alez, ! ,1,Alez,aler,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_13141
+1681,12711,Ici ,fine, li parlemanz. ,2,fine,finer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_13164
+1687,12718,Si a ,esploitié, come sages. ,3,esploitié,esploitier,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_13274
 1688,12719,,fet, ele. ,1,fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_13281
 1689,12720,Quant ,venra, Messire Yveins ? ,2,venra,venir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_13285
 1692,12723,,Venez," donc tost, Celeemant et an repost, Demantres qu'avoec moi n'est nus. ",1,Venez,venir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_13299
@@ -1344,8 +1382,10 @@
 1697,12736,"- Certes, ",fet," il, ce voel je bien, ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,8,parataxis,_,XmlId=w_YvainKu_13491
 1698,12750,Que sanz prison n'est nus qui ,ainme,. ,8,ainme,amer,VERB,VERcjg,VerbForm=Fin,6,acl:relcl,_,SpaceAfter=No|XmlId=w_YvainKu_13622
 1699,12752,Si crient il estre mal ,venuz,", ",6,venuz,venir,VERB,VERppe,Tense=Past|VerbForm=Part,2,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_13646
+1701,12754,Sor une grant coute vermoille Troverent la dame ,seant,. ,9,seant,sëoir,VERB,VERppa,Tense=Pres|VerbForm=Part,8,amod,_,SpaceAfter=No|XmlId=w_YvainKu_13667
 1703,12758,"Et s'estut loing cele part la, Tant que la pucele ",parla, ,13,parla,parler,VERB,VERcjg,VerbForm=Fin,3,advcl,_,XmlId=w_YvainKu_13733
 1704,12759,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_13735
+1705,12763,« En ça vos ,traiez,", Chevaliers, ",5,traiez,traire,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_13790
 1706,12775,"- Einz mes, ",fet," ele, n'oï tel, ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,9,parataxis,_,XmlId=w_YvainKu_13919
 1707,12777,"- Dame, nule force si forz N'est come cele, sanz mantir, Qui me comande a consantir Vostre ",voloir, del tot an tot. ,22,voloir,voloir,VERB,VERinf,VerbForm=Inf,20,obl,_,XmlId=w_YvainKu_13968
 1708,12777,"- Dame, nule force si forz N'est come cele, sanz ",mantir,", Qui me comande a consantir Vostre voloir del tot an tot. ",14,mantir,mentir,VERB,VERinf,VerbForm=Inf,7,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_13960
@@ -1357,9 +1397,11 @@
 1715,12795,- ,Sachiez," donc, ",2,Sachiez,savoir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_14347
 1718,12799,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_14372
 1720,12807,Ce vos puis bien conter et ,dire,", ",7,dire,dire,VERB,VERinf,VerbForm=Inf,5,conj,_,SpaceAfter=No|XmlId=w_YvainKu_14461
+1723,12820,Au chief de la sale ot un banc Ou la dame s'ala ,seoir,", La ou tuit la porent veoir. ",14,seoir,sëoir,VERB,VERinf,VerbForm=Inf,13,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_14588
 1725,12824,"« Seignor, ",fet," il, guerre nos sourt : ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,9,parataxis,_,XmlId=w_YvainKu_14654
 1727,12826,Ençois que la quinzainne ,past,", Sera trestote alee a gast, Se boen mainteneor n'i a. ",5,past,passer,VERB,VERcjg,VerbForm=Fin,9,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_14688
 1729,12828,,Morz," est ses sires, ",1,Morz,morir,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_14725
+1731,12831,C'est granz diax que po a ,vescu,. ,8,vescu,vivre,VERB,VERppe,Tense=Past|VerbForm=Part,1,acl,_,SpaceAfter=No|XmlId=w_YvainKu_14762
 1734,12839,De son ,voloir, an grant la tienent ; ,3,voloir,voloir,VERB,VERinf,VerbForm=Inf,7,advcl,_,XmlId=w_YvainKu_14845
 1736,12841,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_14878
 1738,12854,Tuit ,dïent, : ,2,dïent,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_15026
@@ -1375,12 +1417,14 @@
 1756,12899,Ensi messire Kex ,parloit,", ",4,parloit,parler,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_15569
 1757,12900,Et messire Gauvains ,disoit, : ,4,disoit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_15574
 1759,12903,"- Sire, ",fet," il, et je m'an tes, ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,11,parataxis,_,XmlId=w_YvainKu_15622
+1761,12907,Ne tarda puis gueires granmant Que messire Yvains sanz arest Entra ,armez, en la forest ,12,armez,armer,VERB,VERppe,Tense=Past|VerbForm=Part,7,acl,_,XmlId=w_YvainKu_15686
 1762,12908,"Et vint plus tost que les galos Sor.i. cheval mout grant et gros, Fort et hardi et tost ",alant,. ,21,alant,aler,VERB,VERppa,Tense=Pres|VerbForm=Part,12,conj,_,SpaceAfter=No|XmlId=w_YvainKu_15710
 1764,12912,"« Kex, ",fet," li rois, des qu'il vos plest Et devant toz l'avez rovee, Ne vos doit pas estre vehee. » ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,25,parataxis,_,XmlId=w_YvainKu_15764
 1765,12914,et puis si ,monte,. ,4,monte,monter,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_15795
 1768,12931,Et fu assez qui ,dire, sot : ,5,dire,dire,VERB,VERinf,VerbForm=Inf,0,root,_,XmlId=w_YvainKu_15948
 1771,12940,,fet, li rois. ,1,fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_16045
 1772,12941,Ne vos conoistroie des mois Au ,parler, se ne vos veoie Ou se nomer ne vos ooie. » ,7,parler,parler,VERB,VERinf,VerbForm=Inf,3,advcl,_,XmlId=w_YvainKu_16055
+1774,12951,"et prie, Se lui ne poise, qu'il lor die Comant il avoit ",esploitié,", ",16,esploitié,esploitier,VERB,VERppe,Tense=Past|VerbForm=Part,12,ccomp,_,SpaceAfter=No|XmlId=w_YvainKu_16173
 1776,12962,Maintenant ,montent,", ",2,montent,monter,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_16290
 1777,12965,Qant la dame oï les noveles Del roi qui ,vient,", s'en a grant joie. ",10,vient,venir,VERB,VERcjg,VerbForm=Fin,8,acl:relcl,_,SpaceAfter=No|XmlId=w_YvainKu_16348
 1779,12974,"« Bien vaingne, ",font," il, ceste rote Qui de tant prodomes est plainne. ",5,font,faire,VERB,VERcjg,VerbForm=Fin,3,parataxis,_,XmlId=w_YvainKu_16438
@@ -1398,6 +1442,7 @@
 1827,13071,Se j'avoie si bele amie Con vos ,avez,", biax dolz conpainz ! Foi que je doi Deu et toz sainz, Mout a enviz la leisseroie. ",9,avez,avoir,VERB,VERcjg,VerbForm=Fin,5,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_17762
 1829,13077,Ou face folie ou ,savoir,", Ne leira que congié ne praigne De retorner an la Bretaigne. ",5,savoir,savoir,VERB,VERinf,VerbForm=Inf,3,conj,_,SpaceAfter=No|XmlId=w_YvainKu_17862
 1830,13083,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_17949
+1831,13085,"Congié maintenant li requiert Messire Yvains, de convoier Le roi et d'aler tornoier, Que l'an ne l'apialt ",recreant,. ,23,recreant,recroire,VERB,VERppa,Tense=Pres|VerbForm=Part,22,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_17987
 1833,13086,Et ele ,dit, : ,3,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_17991
 1834,13090,Se vos ,mantez,", je dirai voir. ",3,mantez,mentir,VERB,VERcjg,VerbForm=Fin,6,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_18040
 1835,13093,Messire Yvains ,pleure, ,3,pleure,plorer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_18116
@@ -1406,7 +1451,10 @@
 1844,13117,"Des qu'il le vost, il fu tost ",fet, ; ,10,fet,faire,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_18414
 1847,13123,"La dame, por ce qu'ele ",plore,", Prie li rois de remenoir Et de raler a son menoir ; ",8,plore,plorer,VERB,VERcjg,VerbForm=Fin,5,acl,_,SpaceAfter=No|XmlId=w_YvainKu_18501
 1855,13145,Et si le fist tant ,demorer," Que toz li anz fu trespassez Et de tot l'autre encor assez, Tant que a la miäost vint, Que li rois cort et feste tint. ",6,demorer,demorer,VERB,VERinf,VerbForm=Inf,4,xcomp,_,XmlId=w_YvainKu_18800
+1856,13156,"Entr'ax seoit li rois Artus, Quant Yvains tant encomança A panser, que des lors en ça Que a sa dame ot congié pris, Ne fu tant de ",panser," sorpris Con de celui, ",13,panser,penser,VERB,VERinf,VerbForm=Inf,11,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_18929
+1857,13156,"Entr'ax seoit li rois Artus, Quant Yvains tant encomança A ",panser,", que des lors en ça Que a sa dame ot congié pris, Ne fu tant de panser sorpris Con de celui, ",13,panser,penser,VERB,VERinf,VerbForm=Inf,11,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_18929
 1860,13160,Tant pansa qu'il virent ,venir, Une dameisele a droiture ; ,6,venir,venir,VERB,VERinf,VerbForm=Inf,5,xcomp,_,XmlId=w_YvainKu_18986
+1861,13160,Tant ,pansa, qu'il virent venir Une dameisele a droiture ; ,2,pansa,penser,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_18982
 1867,13174,Cil n'anblent pas les cuers qui ,ainment,", ",8,ainment,amer,VERB,VERcjg,VerbForm=Fin,1,acl:relcl,_,SpaceAfter=No|XmlId=w_YvainKu_19154
 1868,13175,"Si a tex qui larrons les claiment, Qui en ",amer, sont non veant ,11,amer,amer,VERB,VERinf,VerbForm=Inf,14,obl,_,XmlId=w_YvainKu_19166
 1869,13184,et si li raportast Einçois que fust ,passez, li anz. ,8,passez,passer,VERB,VERppe,Tense=Past|VerbForm=Part,4,advcl,_,XmlId=w_YvainKu_19268
@@ -1416,6 +1464,7 @@
 1878,13218,Si l'an leissierent seul ,aler, : ,6,aler,aler,VERB,VERinf,VerbForm=Inf,4,xcomp,_,XmlId=w_YvainKu_19658
 1879,13219,Bien sevent que de lor ,parler, Ne de lor siegle n'a il soing. ,6,parler,parler,VERB,VERinf,VerbForm=Inf,12,obj,_,XmlId=w_YvainKu_19665
 1880,13220,Et il ,va, tant que il fu loing Des tantes et des paveillons. ,3,va,aler,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_19677
+1883,13228,Et il s'an vet plus que le pas Tant qu'il trova delez un parc.I. garçon qui tenoit.i. arc Et.v. saietes barbelees Qui mout erent ,tranchanz, et lees. ,30,tranchanz,trenchier,VERB,VERppa,Tense=Pres|VerbForm=Part,25,acl:relcl,_,XmlId=w_YvainKu_19787
 1886,13237,Et si ,fist," il, ",3,fist,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_19902
 1887,13242,Et cil ,vient," la qui mout covoite Le pain, ",3,vient,venir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_19951
 1891,13247,Qu'a toz ,mangiers, est force fains Desatranpree et desconfite. ,4,mangiers,mangier,VERB,VERinf,VerbForm=Inf,6,acl,_,XmlId=w_YvainKu_19997
@@ -1428,6 +1477,7 @@
 1909,13289,Et savoir et ,veoir," puet l'an Qu'il n'est mie bien an son san, ",4,veoir,vëoir,VERB,VERinf,VerbForm=Inf,2,conj,_,XmlId=w_YvainKu_20507
 1910,13295,La dame ,dist, : ,3,dist,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_20619
 1911,13298,Mes tost ,aler," nos an covient, ",3,aler,aler,VERB,VERinf,VerbForm=Inf,6,xcomp,_,XmlId=w_YvainKu_20661
+1923,13346,"Derriers.i. grant chasne s'areste Tant que cil ot dormi assez, Qui fu ",gariz," et respassez, Et rot son san et son mimoire. ",16,gariz,garir,VERB,VERppe,Tense=Past|VerbForm=Part,9,acl:relcl,_,XmlId=w_YvainKu_21172
 1925,13352,Si se mervoille a desmesure Comant et par quel aventure Cele robe estoit la ,venue, ; ,15,venue,venir,VERB,VERppe,Tense=Past|VerbForm=Part,3,ccomp,_,XmlId=w_YvainKu_21237
 1927,13354,Et dit que morz est et traïz S'einsi l'a trové ne ,veü, Riens nule qui l'ait coneü. ,14,veü,vëoir,VERB,VERppe,Tense=Past|VerbForm=Part,12,conj,_,XmlId=w_YvainKu_21265
 1929,13354,Et dit que ,morz, est et traïz S'einsi l'a trové ne veü Riens nule qui l'ait coneü. ,4,morz,morir,VERB,VERppe,Tense=Past|VerbForm=Part,2,ccomp,_,XmlId=w_YvainKu_21255
@@ -1445,8 +1495,16 @@
 1951,13406,"Si con je crui de cest vasal Don cuidai bien et joie avoir, Si ai perdu de mon ",avoir, Tot le meillor et le plus chier. ,13,avoir,avoir,VERB,VERinf,VerbForm=Inf,9,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_21908
 1953,13408,"- Ha ! dame, or ",dites," vos mout bien, ",7,dites,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_21942
 1954,13411,Et monseignor Yvain aeisent De quanqu'eles pueent ne ,sevent, ; ,10,sevent,savoir,VERB,VERcjg,VerbForm=Fin,8,conj,_,XmlId=w_YvainKu_21977
+1957,13419,Tant ,sejorna," qu'a.i. mardi Vint au chastel li cuens Aliers A sergenz et a chevaliers, ",2,sejorna,sejorner,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_22046
+1959,13424,,Armé," et desarmé s'an issent Tant que les coreors ateignent, Qui por ax movoir ne se deignent, Einz les atendent a.i. pas. ",1,Armé,armer,VERB,VERppe,Tense=Past|VerbForm=Part,6,xcomp,_,XmlId=w_YvainKu_22083
+1960,13425,"Et messire Yvains fiert el tas, Qui tant a esté ",sejornez, Qu'an sa force fu retornez ; ,12,sejornez,sejorner,VERB,VERppe,Tense=Past|VerbForm=Part,2,acl:relcl,_,XmlId=w_YvainKu_22121
+1966,13444,Et vit assez gisanz par terre Des afolez et des ,ocis,", Des suens et de ses anemis, Et plus des autres que des suens. ",11,ocis,ocire,VERB,VERppe,Tense=Past|VerbForm=Part,8,conj,_,SpaceAfter=No|XmlId=w_YvainKu_22356
 1968,13446,Et ,disoient, et cil et celes Qui el chastel remés estoient Et des batailles l'esgardoient : ,2,disoient,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_22400
+1970,13449,Tot autresi antr'ax se fiert Con li lyons antre les dains Quant l'engoisse et ,chace, la fains. ,17,chace,chacier,VERB,VERcjg,VerbForm=Fin,15,conj,_,XmlId=w_YvainKu_22451
+1971,13450,"Et tuit nostre autre chevalier An sont plus hardi et plus fier, Que ja, se par lui seul ne fust, Lance brisiee n'i eüst N'espee traite por ",ferir,. ,33,ferir,ferir,VERB,VERinf,VerbForm=Inf,31,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_22487
 1979,13466,Se il eüst an sa conpaigne Auques de si ,fez," conpaignons, Li fel de coi nos nos pleignons S'en alast come desconfiz ",10,fez,faire,VERB,VERppe,Tense=Past|VerbForm=Part,11,acl,_,XmlId=w_YvainKu_22703
+1983,13474,La chace mout longuemant dure Tant que cil qui fuient estanchent Et cil qui ,chacent, lor detranchent Toz lor chevax et esboelent. ,15,chacent,chacier,VERB,VERcjg,VerbForm=Fin,13,acl:relcl,_,XmlId=w_YvainKu_22877
+1987,13475,"Les vis desor les morz roelent, Qui s'antrafolent et ",ocïent, ; ,12,ocïent,ocire,VERB,VERcjg,VerbForm=Fin,10,conj,_,XmlId=w_YvainKu_22896
 1989,13475,Les vis desor les ,morz," roelent, Qui s'antrafolent et ocïent ; ",5,morz,morir,VERB,VERppe,Tense=Past|VerbForm=Part,6,advcl,_,XmlId=w_YvainKu_22890
 1992,1348,,Respunt, Rollant : ,1,Respunt,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_12414
 1997,1349,« ,Vencut, est le culvert. ,2,Vencut,_,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_58_12418
@@ -1455,23 +1513,29 @@
 2004,1351,La bataille est ,aduree, endementres. ,4,aduree,_,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_58_12437
 2007,13528,et ,vint, avant ,2,vint,venir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_23546
 2008,1353,,Fierent," li un, ",1,Fierent,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_12448
+2010,13535,"A s'espee, qui soef ",tranche,", Va le felon serpant requerre ; ",7,tranche,trenchier,VERB,VERcjg,VerbForm=Fin,3,acl:relcl,_,SpaceAfter=No|XmlId=w_YvainKu_23632
+2011,13538,,Fiert, ,1,Fiert,ferir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_23653
 2014,13543,c'onques moins ne ,pot,. ,5,pot,pöoir,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_23707
 2016,13546,"Oez que fist li lyons donques, Con ",fist," que preuz et deboneire, Com il li comança a feire Sanblant que a lui se randoit, ",3,fist,faire,VERB,VERcjg,VerbForm=Fin,1,ccomp,_,XmlId=w_YvainKu_23738
 2018,1355,"Tant'hanste i ad e fraite e sanglente, Tant gunfanun ",rumpu, e tant'enseigne ! ,12,rumpu,_,VERB,VERppe,Tense=Past|VerbForm=Part,11,acl,_,XmlId=w_58_12468
 2019,1355,Tant'hanste i ad e ,fraite," e sanglente, Tant gunfanun rumpu e tant'enseigne ! ",6,fraite,_,VERB,VERppe,Tense=Past|VerbForm=Part,2,acl,_,XmlId=w_58_12462
+2022,13562,Si le semont feins et nature D'aler an proie et de ,chacier, Por sa vitaille porchacier ; ,13,chacier,chacier,VERB,VERinf,VerbForm=Inf,8,conj,_,XmlId=w_YvainKu_23934
 2023,13563,Ce vialt nature que il ,face,. ,6,face,faire,VERB,VERcjg,VerbForm=Fin,1,acl,_,SpaceAfter=No|XmlId=w_YvainKu_23945
 2027,13574,et si l'escrie Ausi com uns brachez ,feïst, ; ,9,feïst,faire,VERB,VERcjg,VerbForm=Fin,4,advcl,_,XmlId=w_YvainKu_24060
 2029,1358,Karles li magnes en ,pluret,", ",5,pluret,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_58_12505
 2033,13593,Mes del ,mangier," ne fu deduiz, ",3,mangier,mangier,VERB,VERinf,VerbForm=Inf,5,advcl,_,XmlId=w_YvainKu_24255
 2034,13597,Einz l'a tot adés regardé Tant qu'il ot de son gras lardé Tant mangié que il n'en ,vost, plus. ,21,vost,voloir,VERB,VERcjg,VerbForm=Fin,16,advcl,_,XmlId=w_YvainKu_24313
 2042,13611,Li lyons cuide ,mort, veoir Son conpaignon et son seignor ; ,4,mort,morir,VERB,VERppe,Tense=Past|VerbForm=Part,5,xcomp,_,XmlId=w_YvainKu_24526
+2045,13616,et ,crie, ,2,crie,crïer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_24564
 2048,13622,Ja fust ses ,voloirs, aconpliz Quant cil de pasmeisons revint ; ,4,voloirs,voloir,VERB,VERinf,VerbForm=Inf,5,csubj,_,XmlId=w_YvainKu_24631
 2052,13626,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_24696
 2053,13629,Comant puis je demorer ci Et ,veoir, les choses ma dame ? ,7,veoir,vëoir,VERB,VERinf,VerbForm=Inf,4,conj,_,XmlId=w_YvainKu_24730
 2056,13634,et je si ,faz,. ,4,faz,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_24781
+2057,13636,Haïr et ,ocirre, se doit ; ,3,ocirre,ocire,VERB,VERinf,VerbForm=Inf,1,conj,_,XmlId=w_YvainKu_24807
 2058,1364,"El plait ad Ais en fut juget a pendre, De ses parenz ensembl'od lui tels trente Ki de ",murir, nen ourent esperance. ,21,murir,_,VERB,VERinf,VerbForm=Inf,24,acl,_,XmlId=w_58_12566
 2060,13647,"Queque cil ensi se demante, Une cheitive, une dolante, Estoit en la chapele anclose, Qui ",vit, et oï ceste chose Par le mur qui estoit crevez. ,20,vit,vëoir,VERB,VERcjg,VerbForm=Fin,8,acl:relcl,_,XmlId=w_YvainKu_24957
 2061,13649,« Dex ! ,fet," ele, que voi ge la ? ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,8,parataxis,_,XmlId=w_YvainKu_24984
+2062,13652,"- Je sui, fet ele, une cheitive, La plus dolante riens qui ",vive,. » ,16,vive,vivre,VERB,VERcjg,VerbForm=Fin,14,acl:relcl,_,SpaceAfter=No|XmlId=w_YvainKu_25026
 2063,13652,"- Je sui, ",fet," ele, une cheitive, La plus dolante riens qui vive. » ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,9,parataxis,_,XmlId=w_YvainKu_25015
 2065,1366,Mult ben i ,fiert," Oliver e Rollant, ",4,fiert,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_12583
 2066,13660,"- Par foi, ",fet," ele, jel sai bien, ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,9,parataxis,_,XmlId=w_YvainKu_25114
@@ -1484,20 +1548,25 @@
 2083,13687,,Morz, i eüsse esté et pris Se ne fust vostre boene aïe. ,1,Morz,morir,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_25520
 2085,1369,E li Franceis i ,fierent, cumunement. ,5,fierent,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_12610
 2088,13700,An plainne cort et ,veant," toz, M'amist que por vos l'oi traïe, ",5,veant,vëoir,VERB,VERppa,Tense=Pres|VerbForm=Part,3,advcl,_,XmlId=w_YvainKu_25742
+2089,13701,"Et je n'oi consoil ne aïe Fors de moi seule, qui disoie C'onques vers ma dame n'avoie Traïson feite ne ",pansee,. ,25,pansee,penser,VERB,VERppe,Tense=Past|VerbForm=Part,23,conj,_,SpaceAfter=No|XmlId=w_YvainKu_25778
 2094,1372,,Voillet," o nun, tut i laisset sun tens. ",1,Voillet,_,VERB,VERppe,Tense=Past|VerbForm=Part,7,advcl,_,XmlId=w_58_12633
 2097,13723,Et il ,respont, : ,3,respont,respondre,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_26063
 2098,13725,"Ja, que je puise, n'i ",morroiz,. ,9,morroiz,morir,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_26088
 2099,13725,"Ja, que je ",puise,", n'i morroiz. ",5,puise,pöoir,VERB,VERcjg,VerbForm=Fin,9,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_26084
+2100,13727,Mes de ,conter, ne de retreire As genz qui je sui ne vos chaille ! ,3,conter,conter,VERB,VERinf,VerbForm=Inf,14,xcomp,_,XmlId=w_YvainKu_26117
 2101,13734,Que mialz est que je seule ,muire, Que je les veïsse deduire De vostre mort et de la moie. ,7,muire,morir,VERB,VERcjg,VerbForm=Fin,2,csubj,_,XmlId=w_YvainKu_26218
 2102,13737,"- Mout avez or dit grant enui, ",Fet," messire Yvains, bele amie. ",9,Fet,faire,VERB,VERcjg,VerbForm=Fin,5,parataxis,_,XmlId=w_YvainKu_26267
 2103,13747,"- Sire, ",fet," ele, Dex vos doint Et boen ostel et boene nuit, ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,9,parataxis,_,XmlId=w_YvainKu_26388
 2104,13750,S'ont tant ,alé, qu'il vindrent pres D'un fort recet a.i. baron Qui clos estoit tot anviron De mur espés et fort et haut. ,4,alé,aler,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_26435
 2109,13759,"Mes del lyon, que ",venir," voient Avoec lui, duremant s'esfroient ; ",6,venir,venir,VERB,VERinf,VerbForm=Inf,7,xcomp,_,XmlId=w_YvainKu_26553
+2110,13760,"Si li dïent que, s'il li plest, Son lyon a la porte lest, Qu'il ne les afost et ",ocie,. ,24,ocie,ocire,VERB,VERcjg,VerbForm=Fin,22,conj,_,SpaceAfter=No|XmlId=w_YvainKu_26585
 2111,13761,Et il ,respont, : ,3,respont,respondre,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_26589
 2113,13769,Cil ,responent, : ,2,responent,respondre,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_26647
 2114,1377,Chiedent i ,fuildres," e menut e suvent, ",3,fuildres,_,VERB,VERcjg,VerbForm=Fin,1,csubj,_,XmlId=w_58_12691
 2115,1377,,Chiedent," i fuildres e menut e suvent, ",1,Chiedent,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_12689
 2117,13771,Et ,vont," tant qu'il ont ancontré Chevaliers, dames et sergenz Et dameiseles avenanz, Qui le saluent et descendent Et a lui desarmer entandent ; ",2,vont,aler,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_26661
+2118,13774,Et Dex vos i doint ,sejorner, Tant que vos an puisiez torner A grant joie et a grant enor. » ,6,sejorner,sejorner,VERB,VERinf,VerbForm=Inf,5,xcomp,_,XmlId=w_YvainKu_26708
+2120,13780,Si recomancent a ,crier, ,4,crier,crïer,VERB,VERinf,VerbForm=Inf,2,xcomp,_,XmlId=w_YvainKu_26772
 2121,13781,Et ,plorent, ,2,plorent,plorer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_26774
 2122,13783,Ensi mout longuemant ne finent De joie feire et de ,plorer, : ,11,plorer,plorer,VERB,VERinf,VerbForm=Inf,8,conj,_,XmlId=w_YvainKu_26790
 2125,13789,"« Por Deu, fet il, biax dolz chiers sire, Ice pleiroit vos il a dire Por coi m'avez tant enoré Et tant fet joie, et puis ",ploré, ? ,32,ploré,plorer,VERB,VERppe,Tense=Past|VerbForm=Part,24,conj,_,XmlId=w_YvainKu_26896
@@ -1517,6 +1586,8 @@
 2149,13860,"Moi ne covient il plus proier, Mes que li jaianz si tost veingne Qu'aillors ",mantir, ne me coveingne ; ,17,mantir,mentir,VERB,VERinf,VerbForm=Inf,20,xcomp,_,XmlId=w_YvainKu_27984
 2150,13860,"Moi ne covient il plus proier, Mes que li jaianz si tost ",veingne, Qu'aillors mantir ne me coveingne ; ,14,veingne,venir,VERB,VERcjg,VerbForm=Fin,3,advcl,_,XmlId=w_YvainKu_27981
 2151,13867,Et mout pansent qu'il soit preudon Por la conpaingnie au lyon Qui ausi dolcemant se gist Lez lui con uns aigniax ,feïst,. ,23,feïst,faire,VERB,VERcjg,VerbForm=Fin,15,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_28102
+2156,13876,et ,reposerent,", ",2,reposerent,reposer,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_28183
+2159,13882,Le seignor del chastel meïsme Apele ,oiant," toz, ",7,oiant,öir,VERB,VERppa,Tense=Pres|VerbForm=Part,6,xcomp,_,XmlId=w_YvainKu_28248
 2160,13886,Que plus ,demorer, ne me loist. ,3,demorer,demorer,VERB,VERinf,VerbForm=Inf,6,xcomp,_,XmlId=w_YvainKu_28277
 2162,13892,"Lors li ofre a doner del suen Li sires, s'il an vialt avoir, Ou soit de terre ou d'autre ",avoir,", Mes que ancor un po atende. ",15,avoir,avoir,VERB,VERinf,VerbForm=Inf,3,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_28402
 2163,13893,Et il ,respont, : ,3,respont,respondre,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_28422
@@ -1526,6 +1597,7 @@
 2170,13907,Einçois ,demore, ,2,demore,demorer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_28640
 2172,13908,et si atant Tant que li jaianz ,vient," batant, Qui les chevaliers amenoit ; ",8,vient,venir,VERB,VERcjg,VerbForm=Fin,3,advcl,_,XmlId=w_YvainKu_28648
 2174,1391,,Dist, l'arcevesques : ,1,Dist,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_12827
+2181,13926,"Par po que li preudon n'enrage, Qui ot celui qui a putage Dit que sa fille li metra, Ou or androit, si quel verra, Seront ",ocis, si.iv. fil ; ,31,ocis,ocire,VERB,VERppe,Tense=Past|VerbForm=Part,20,conj,_,XmlId=w_YvainKu_28904
 2183,13927,S'a tel destrece come cil Qui mialz s'ameroit ,morz, que vis. ,11,morz,morir,VERB,VERppe,Tense=Past|VerbForm=Part,10,xcomp,_,XmlId=w_YvainKu_28919
 2185,13929,Et ,plore, formant ,2,plore,plorer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_28931
 2187,13931,Et lors li ancomance a ,dire," Messire Yvains, con frans et dolz : ",6,dire,dire,VERB,VERinf,VerbForm=Inf,4,xcomp,_,XmlId=w_YvainKu_28941
@@ -1535,11 +1607,16 @@
 2194,13953,"Car de lui ont mout grant peor Que li maufez, li anemis, Qui avoit maint prodome ocis ",Veant," lor ialz, enmi la place, Autretel de lui ne reface. ",20,Veant,vëoir,VERB,VERppa,Tense=Pres|VerbForm=Part,19,advcl,_,XmlId=w_YvainKu_29216
 2196,13958,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_29279
 2197,13963,,Fet," cil, qui nel dote de rien. ",1,Fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_29332
+2201,13974,"Et cil, qui tint l'espee ",treite,", Li a une anvaïe feite ; ",8,treite,traire,VERB,VERppe,Tense=Past|VerbForm=Part,7,acl,_,SpaceAfter=No|XmlId=w_YvainKu_29490
+2205,13988,Et cuide ,ferir,", ",3,ferir,ferir,VERB,VERinf,VerbForm=Inf,2,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_29632
 2212,14000,"Et, se uns granz chasnes cheïst, Ne cuit que graindre esfrois feïst Que li jaianz ",fist, au cheoir. ,18,fist,faire,VERB,VERcjg,VerbForm=Fin,12,acl,_,XmlId=w_YvainKu_29748
 2217,1401,"Luisent cil elme as perres d'or gemmees, E cil escuz e cez bronies ",sasfrees, ; ,16,sasfrees,_,VERB,VERppe,Tense=Past|VerbForm=Part,15,acl,_,XmlId=w_58_12940
 2218,1401,Luisent cil elme as perres d'or ,gemmees,", E cil escuz e cez bronies sasfrees ; ",8,gemmees,_,VERB,VERppe,Tense=Past|VerbForm=Part,5,acl,_,SpaceAfter=No|XmlId=w_58_12932
 2219,1401,,Luisent," cil elme as perres d'or gemmees, E cil escuz e cez bronies sasfrees ; ",1,Luisent,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_12925
+2220,14010,Si li prïent de retorner Por deduire et por ,sejorner, Tot maintenant que fet avra Son afeire la ou il va. ,10,sejorner,sejorner,VERB,VERinf,VerbForm=Inf,7,conj,_,XmlId=w_YvainKu_29873
+2223,14012,Il ne set mie deviner S'il porra bien ou mal ,finer, ; ,12,finer,finer,VERB,VERinf,VerbForm=Inf,5,ccomp,_,XmlId=w_YvainKu_29910
 2224,14013,"Mes au seignor itant dist il Que il vialt que si.iiii. fil Et sa fille praignent le nain, S'aillent a monseignor Gauvain, Quant il savront qu'il iert ",venuz,", ",33,venuz,venir,VERB,VERppe,Tense=Past|VerbForm=Part,29,ccomp,_,SpaceAfter=No|XmlId=w_YvainKu_29944
+2225,14014,Et comant il s'ert contenuz Vialt que il soit dit et ,conté, ; ,13,conté,conter,VERB,VERppe,Tense=Past|VerbForm=Part,11,conj,_,XmlId=w_YvainKu_29958
 2226,14014,Et comant il s'ert contenuz Vialt que il soit ,dit, et conté ; ,11,dit,dire,VERB,VERppe,Tense=Past|VerbForm=Part,7,ccomp,_,XmlId=w_YvainKu_29956
 2228,14015,Que por neant fait sa bonté Qui vialt qu'ele ne soit ,seüe,. ,13,seüe,savoir,VERB,VERppe,Tense=Past|VerbForm=Part,8,ccomp,_,SpaceAfter=No|XmlId=w_YvainKu_29972
 2229,14016,Et cil ,dïent, : ,3,dïent,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_29976
@@ -1551,8 +1628,10 @@
 2236,14030,"Mes einçois mout prié li ot Li sires, plus bel que il ",pot,", Qu'il ses.iiii. filz an menast : ",14,pot,pöoir,VERB,VERcjg,VerbForm=Fin,11,acl,_,SpaceAfter=No|XmlId=w_YvainKu_30166
 2237,14031,"N'i ot nul qui ne se penast De lui servir, se il ",volsist, ; ,15,volsist,voloir,VERB,VERcjg,VerbForm=Fin,8,advcl,_,XmlId=w_YvainKu_30190
 2238,14038,"Mes ainz que il poïst venir A la chapele, en fu fors treite La dameisele, et la rez ",feite, Ou ele devoit estre mise Trestote nue en sa chemise. ,21,feite,faire,VERB,VERppe,Tense=Past|VerbForm=Part,14,conj,_,XmlId=w_YvainKu_30271
+2240,14047,Vers la presse toz eslessiez S'an vet ,criant, : ,9,criant,crïer,VERB,VERppa,Tense=Pres|VerbForm=Part,8,xcomp,_,XmlId=w_YvainKu_30382
 2246,1406,La traïsun ne poet estre ,celee, ; ,6,celee,_,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_58_12983
 2247,14061,Et de ce granz pitiez li prant Qu'il ot et ,voit, et si antant Les povres dames qui feisoient Estrange duel ,12,voit,vëoir,VERB,VERcjg,VerbForm=Fin,10,conj,_,XmlId=w_YvainKu_30531
+2248,14061,Et de ce granz pitiez li prant Qu'il ,ot, et voit et si antant Les povres dames qui feisoient Estrange duel ,10,ot,öir,VERB,VERcjg,VerbForm=Fin,3,acl,_,XmlId=w_YvainKu_30529
 2249,14062,et si ,disoient, : ,3,disoient,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_30544
 2252,14071,N'iert mes qui ,die, ne qui lot : ,5,die,dire,VERB,VERcjg,VerbForm=Fin,2,csubj,_,XmlId=w_YvainKu_30637
 2257,14085,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_30797
@@ -1562,17 +1641,23 @@
 2263,14095,« Ha ! ,dist," il, fame, chose avere De voir dire et de mantir large ! Mout est po sages qui encharge, Por ta parole, si grant fes ; ",4,dist,dire,VERB,VERcjg,VerbForm=Fin,22,parataxis,_,XmlId=w_YvainKu_30929
 2264,14096,Mout est li chevaliers malvés Qui ,venuz," est morir por toi, ",7,venuz,venir,VERB,VERppe,Tense=Past|VerbForm=Part,4,acl:relcl,_,XmlId=w_YvainKu_30965
 2265,14100,Et cil ,respont,", cui mout enuie : ",3,respont,respondre,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_30999
+2269,14109,"Et dit, sor le peril de s'ame, C'onques traïson vers sa dame Ne fist, ne dist, ne ne ",pansa,. ,25,pansa,penser,VERB,VERcjg,VerbForm=Fin,18,conj,_,SpaceAfter=No|XmlId=w_YvainKu_31129
 2270,14109,"Et dit, sor le peril de s'ame, C'onques traïson vers sa dame Ne fist, ne ",dist,", ne ne pansa. ",21,dist,dire,VERB,VERcjg,VerbForm=Fin,18,conj,_,SpaceAfter=No|XmlId=w_YvainKu_31125
 2271,14111,"Si la desfandrai, se je ",puis,", ",7,puis,pöoir,VERB,VERcjg,VerbForm=Fin,3,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_31146
+2272,14116,Et cil respont mout folemant Que il met an son nuisemant Trestot quanque lui plest et ,siet,", Mes que li lyons ne lor griet. ",17,siet,sëoir,VERB,VERcjg,VerbForm=Fin,15,conj,_,SpaceAfter=No|XmlId=w_YvainKu_31221
 2273,14120,Cil ,responent, : ,2,responent,respondre,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_31275
 2274,14121,"« Que que tu dies, Se tu ton lyon ne chasties Et se nel fez an pes ester, Donc n'as tu ci que ",demorer,. ,27,demorer,demorer,VERB,VERinf,VerbForm=Inf,23,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_31303
 2275,14127,,Fet," cil, qui bien an set le voir. ",1,Fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_31350
+2278,14132,Li lyons s'est arrieres ,trez,. ,6,trez,traire,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_31403
 2281,14153,"Si se desfant vers ax si bien Que de son droit n'en portent rien, Tant que li seneschax relieve, Qui de tot son ",pooir, li grieve ; ,27,pooir,pöoir,VERB,VERinf,VerbForm=Inf,29,advcl,_,XmlId=w_YvainKu_31623
 2285,14159,Et si li prïent de boen cuer Que sofrir ne vuelle a nul fuer Que cil i soit ,morz, ne conquis Qui por li s'est an painne mis. ,19,morz,morir,VERB,VERppe,Tense=Past|VerbForm=Part,9,ccomp,_,XmlId=w_YvainKu_31702
 2286,1417,Puis si chevalchet od sa grant ost ,banie,. ,8,banie,_,VERB,VERppe,Tense=Past|VerbForm=Part,7,acl,_,SpaceAfter=No|XmlId=w_58_13074
+2288,14170,"Qu'arrieres ne l'en puet chacier, Por ",ferir," ne por menacier, Messire Yvains en nule guise ; ",10,ferir,ferir,VERB,VERinf,VerbForm=Inf,7,advcl,_,XmlId=w_YvainKu_31858
 2293,1418,Devant ,chevalchet," un Sarrazin, Abisme : ",2,chevalchet,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_13077
 2296,14186,"Or a, tot ensi com il ",vialt,", Sa dameisele delivree ",8,vialt,voloir,VERB,VERcjg,VerbForm=Fin,12,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_32043
+2299,14193,"Neïs la dame, qui avoit Son cuer et si ne le savoit, Li pria mout qu'il li pleüst A ",sejorner, tant qu'il eüst Respassé son lyon et lui. ,23,sejorner,sejorner,VERB,VERinf,VerbForm=Inf,21,xcomp,_,XmlId=w_YvainKu_32170
 2300,14194,Et il ,dit, : ,3,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_32183
+2302,14196,Lors ,finera, mes travauz toz. ,2,finera,finer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_32212
 2303,14197,"- Certes, ",fet," ele, ce me poise. ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,9,parataxis,_,XmlId=w_YvainKu_32220
 2304,14200,"- Dame, ",fet," il, que qu'il me griet, Trestot me plest ce que li siet, ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,15,parataxis,_,XmlId=w_YvainKu_32263
 2310,14217,"- Dame, ",fet," il, Dex vos en oie ! » ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,10,parataxis,_,XmlId=w_YvainKu_32507
@@ -1583,8 +1668,11 @@
 2320,1424,Unches nuls hom nel vit ,juer, ne rire. ,6,juer,_,VERB,VERinf,VerbForm=Inf,5,xcomp,_,XmlId=w_58_13141
 2322,14244,"- Ce presant, ",fet," il, vuel je prendre, ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,10,parataxis,_,XmlId=w_YvainKu_32815
 2329,14257,Et la dame est aprés ,venue, Et si fil et ses filles totes ; ,6,venue,venir,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_32930
+2330,14264,"Jorz i sejorna ne sai quanz, Tant que il et ses lyons furent ",Gari, et que raler s'an durent. ,15,Gari,garir,VERB,VERppe,Tense=Past|VerbForm=Part,3,advcl,_,XmlId=w_YvainKu_33019
+2332,14267,"Aprés sa mort, ensi avint De.ii. filles que il avoit Que l'ainznee dist qu'ele avroit Trestote la terre a delivre Toz les jorz qu'ele avroit a ",vivre,", ",32,vivre,vivre,VERB,VERinf,VerbForm=Inf,30,obj,_,SpaceAfter=No|XmlId=w_YvainKu_33091
 2334,14271,"Et dist que, se ele ",pooit,", Einçois de li a cort vanroit. ",7,pooit,pöoir,VERB,VERcjg,VerbForm=Fin,14,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_33155
 2336,14274,Ne ,demore, ,2,demore,demorer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_33171
+2337,14275,ne ne ,sejorne,", ",3,sejorne,sejorner,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_33174
 2342,14300,"« Rois, ",fet," ele, je ving a toi Et a ta cort querre consoil ; ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,8,parataxis,_,XmlId=w_YvainKu_33491
 2343,14303,Mes ne feroie pas ,savoir, Se je sanz congié m'an aloie. ,5,savoir,savoir,VERB,VERinf,VerbForm=Inf,3,xcomp,_,XmlId=w_YvainKu_33527
 2344,14304,"Et sache ma suer tote voie Qu'avoir porroit ele del mien Par amors, s'ele ",voloit," bien, ",18,voloit,voloir,VERB,VERcjg,VerbForm=Fin,8,advcl,_,XmlId=w_YvainKu_33553
@@ -1594,6 +1682,7 @@
 2350,14312,"Mes se uns chevaliers s'en ose Por li armer, qui que il soit, Qui voelle desresnier son droit, Si ",veingne, trestot maintenant. ,24,veingne,venir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_33677
 2351,14314,,Fet," li rois, ",1,Fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_33688
 2353,14316,Et cele ,dit, : ,3,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_33719
+2355,14346,Si ,cria," tant que ele oï.I. cor, don mout se resjoï, ",2,cria,crïer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_34095
 2358,14362,et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_34293
 2359,14363,« Bien ,veigniez,", Pucele, qui que vos soiez. ",3,veigniez,venir,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_34297
 2360,14366,,Fet, la pucele ; ,1,Fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_34320
@@ -1618,10 +1707,13 @@
 2400,14440,"- Sire, ",fet," ele, Dex m'an gart ! ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,10,parataxis,_,XmlId=w_YvainKu_35268
 2401,1445,"Pierres i ad, ametistes e topazes, Esterminals e carbuncles ki ",ardent, ; ,13,ardent,_,VERB,VERcjg,VerbForm=Fin,11,acl:relcl,_,XmlId=w_58_13347
 2402,14451,et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_35386
+2404,14454,Mes se jel ,chaz," et je l'ataing, Que me valdra se je nel praing ? ",4,chaz,chacier,VERB,VERcjg,VerbForm=Fin,12,advcl,_,XmlId=w_YvainKu_35412
 2406,14457,Ensi ,parlant," s'est tant hastee, Trestoz ses palefroiz tressue ; ",2,parlant,parler,VERB,VERppa,Tense=Pres|VerbForm=Part,6,xcomp,_,XmlId=w_YvainKu_35455
 2408,14464,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_35524
 2410,1448,Turpins i ,fiert,", ki nient ne l'esparignet, ",3,fiert,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_58_13366
+2413,14485,"- N'ai soing, fet il, de ",reposer, ; ,10,reposer,reposer,VERB,VERinf,VerbForm=Inf,4,acl,_,XmlId=w_YvainKu_35807
 2414,14485,"- N'ai soing, ",fet," il, de reposer ; ",6,fet,faire,VERB,VERcjg,VerbForm=Fin,3,parataxis,_,XmlId=w_YvainKu_35803
+2415,14487,Ne je ne ,reposerai," mie, ",4,reposerai,reposer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_35820
 2416,14489,"Et se de moi grant afeire a Cele por cui vos me querez, Ja ne vos an desesperez Que je tot mon ",pooir, n'en face. ,24,pooir,pöoir,VERB,VERinf,VerbForm=Inf,27,xcomp,_,XmlId=w_YvainKu_35861
 2417,14492,De ,passer," oltre n'orent cure, ",2,passer,passer,VERB,VERinf,VerbForm=Inf,5,xcomp,_,XmlId=w_YvainKu_35906
 2419,14495,Et les genz qui ,venir, les voient Trestuit au chevalier disoient : ,5,venir,venir,VERB,VERinf,VerbForm=Inf,7,xcomp,_,XmlId=w_YvainKu_35927
@@ -1630,6 +1722,7 @@
 2422,1450,"Le cors li trenchet trés l'un costet qu'a l'altre, Que ",mort, l'abat en une voide place. ,15,mort,_,VERB,VERppe,Tense=Past|VerbForm=Part,17,xcomp,_,XmlId=w_58_13398
 2423,14500,- Ha ! ,fet," il, gent fole et vilainne, Gent de tote malvestié plainne, Qui a toz biens avez failli, Por coi m'avez si asailli ? ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,30,parataxis,_,XmlId=w_YvainKu_35965
 2424,14501,Vos le savroiz assez S'ancore.i. po avant ,passez, ! ,10,passez,passer,VERB,VERcjg,VerbForm=Fin,3,advcl,_,XmlId=w_YvainKu_36006
+2425,14508,"- Gent sanz enor et sanz bonté, Fet messire Yvains, qui ",escote,", Gent enuieuse, gent estoute, Por coi m'asauz ? ",14,escote,escouter,VERB,VERcjg,VerbForm=Fin,10,acl:relcl,_,SpaceAfter=No|XmlId=w_YvainKu_36101
 2426,14508,"- Gent sanz enor et sanz bonté, ",Fet," messire Yvains, qui escote, Gent enuieuse, gent estoute, Por coi m'asauz ? ",9,Fet,faire,VERB,VERcjg,VerbForm=Fin,25,parataxis,_,XmlId=w_YvainKu_36096
 2427,1451,,Dient, Franceis : ,1,Dient,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_13406
 2428,14513,,Fist," une dame auques d'aage Qui mout estoit cortoise et sage, ",1,Fist,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_36142
@@ -1662,6 +1755,9 @@
 2466,14592,S',ala, tant come fos naïs Qu'il s'anbati an cest peril. ,2,ala,aler,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_36993
 2468,14603,"Et li rois, qui grant peor ot, S'an delivra si con il ",pot, ; ,16,pot,pöoir,VERB,VERcjg,VerbForm=Fin,12,advcl,_,XmlId=w_YvainKu_37140
 2476,14617,Ja tant chevir ne nos savrons Que mialz en aiens a ,mangier,. ,12,mangier,mangier,VERB,VERinf,VerbForm=Inf,10,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_37292
+2478,14619,Que ja de l'uevre de noz mains N'avra chascune por son ,vivre, Que.iiii. deniers de la livre ; ,14,vivre,vivre,VERB,VERinf,VerbForm=Inf,10,advcl,_,XmlId=w_YvainKu_37322
+2480,14627,Qu'il nos menace a mahaignier Des manbres quant nos ,reposons, ; ,11,reposons,reposer,VERB,VERcjg,VerbForm=Fin,4,advcl,_,XmlId=w_YvainKu_37428
+2481,14628,Et por ce ,reposer, n'osons. ,4,reposer,reposer,VERB,VERinf,VerbForm=Inf,6,xcomp,_,XmlId=w_YvainKu_37433
 2483,14631,Et ce nos fet anragier d'ire Que maintes foiz ,morir," veomes Chevaliers juenes et prodomes, Qui as.ii. maufez se conbatent ; ",11,morir,morir,VERB,VERinf,VerbForm=Inf,12,xcomp,_,XmlId=w_YvainKu_37469
 2484,14632,"L'ostel mout chieremant achatent, Ausi con vos ",feroiz," demain, ",10,feroiz,faire,VERB,VERcjg,VerbForm=Fin,5,advcl,_,XmlId=w_YvainKu_37492
 2485,14633,"Que trestot seul, de vostre main, Vos covandra, ",voilliez," ou non, Conbatre et perdre vostre non Encontre les.ii. vis deables. ",12,voilliez,voloir,VERB,VERcjg,VerbForm=Fin,10,advcl,_,XmlId=w_YvainKu_37506
@@ -1669,7 +1765,9 @@
 2488,14636,Des or mes ,aler," m'an covient Et veoir genz qui leanz sont, Savoir quel chiere il me feront. ",4,aler,aler,VERB,VERinf,VerbForm=Inf,7,xcomp,_,XmlId=w_YvainKu_37553
 2489,14637,- Or ,alez,", sire, ",3,alez,aler,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_37573
 2490,14639,Lors ,vet, tant qu'il vint en la sale ; ,2,vet,aler,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_37591
+2492,14655,Si se porent mout esjoïr De li bien veoir et ,oïr,", ",11,oïr,öir,VERB,VERinf,VerbForm=Inf,9,conj,_,SpaceAfter=No|XmlId=w_YvainKu_37766
 2495,14665,"Et qui an garist autremant, Il n'",ainme, mie lëaumant. ,9,ainme,amer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_37875
+2496,14665,Et qui an ,garist," autremant, Il n'ainme mie lëaumant. ",4,garist,garir,VERB,VERcjg,VerbForm=Fin,9,dislocated,_,XmlId=w_YvainKu_37870
 2497,14667,Mes tost ,deïst, ,3,deïst,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_37901
 2499,14671,Ne n',ainment," mes si con il suelent, ",3,ainment,amer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_37921
 2500,14672,Que nes oïr ,parler, n'an vuelent. ,4,parler,parler,VERB,VERinf,VerbForm=Inf,3,xcomp,_,XmlId=w_YvainKu_37931
@@ -1680,13 +1778,16 @@
 2509,14707,Qant il ,dit, : ,3,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_38393
 2510,14710,,Fet, li sires de la meison. ,1,Fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_38421
 2512,14713,Je vos ferai ja ci ,venir,.II. miens sergenz mout granz et forz ; ,6,venir,venir,VERB,VERinf,VerbForm=Inf,3,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_38456
+2513,14714,S'ancontre aus vos poez desfandre Et aus endeus vaincre et ,ocirre,", Ma fille a seignor vos desirre, ",12,ocirre,ocire,VERB,VERinf,VerbForm=Inf,6,conj,_,SpaceAfter=No|XmlId=w_YvainKu_38490
 2515,14716,"- Sire, ",fet," il, je n'en quier point. ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,10,parataxis,_,XmlId=w_YvainKu_38517
 2518,14722,,dit," li sire, ",1,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_38569
 2524,14731,"Ce est costume et rante asise, Qui trop avra longue duree, Que ma fille n'iert mariee Tant que ",morz, ou conquis les voie. ,22,morz,morir,VERB,VERppe,Tense=Past|VerbForm=Part,25,acl,_,XmlId=w_YvainKu_38695
 2531,14737,Atant ,vienent,", hideus et noir, Amedui li fil d'un netun. ",2,vienent,venir,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_38745
 2534,14741,Et ensi armé com il ,vindrent,", Escuz reonz sor lor chiés tindrent, Forz et legiers por escremir. ",6,vindrent,venir,VERB,VERcjg,VerbForm=Fin,3,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_38820
+2535,14741,Et ensi ,armé," com il vindrent, Escuz reonz sor lor chiés tindrent, Forz et legiers por escremir. ",3,armé,armer,VERB,VERppe,Tense=Past|VerbForm=Part,13,xcomp,_,XmlId=w_YvainKu_38817
 2537,14743,Qu'il ,set, mout bien ,3,set,savoir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_38849
 2539,14750,"Et quant cil le voient, si ",dïent, : ,8,dïent,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_38910
+2540,14752,Ou vos vos randez ,recreanz, ; ,5,recreanz,recroire,VERB,VERppa,Tense=Pres|VerbForm=Part,4,xcomp,_,XmlId=w_YvainKu_38930
 2541,14755,"Que li lyeons vos eideroit Mout volentiers, se il ",pooit,. ,11,pooit,pöoir,VERB,VERcjg,VerbForm=Fin,5,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_38977
 2542,14756,"- Vos meïsmes, qui le dotez, ",Fet," messire Yvains, l'en ostez, ",9,Fet,faire,VERB,VERcjg,VerbForm=Fin,15,parataxis,_,XmlId=w_YvainKu_38987
 2543,14758,"et mout me siet, S'il onques ",puet,", que il vos griet, ",9,puet,pöoir,VERB,VERcjg,VerbForm=Fin,4,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_39007
@@ -1695,14 +1796,17 @@
 2546,14770,Si ,dïent, : ,2,dïent,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_39145
 2547,14772,- ,Fet," iert, des que vos le volez. » ",2,Fet,faire,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_39153
 2563,14805,"Mout i avoit cos andurez Et randuz, tant con il plus ",pot,", ",13,pot,pöoir,VERB,VERcjg,VerbForm=Fin,5,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_39520
+2566,14808,"Et lor escu n'estoient mie Tel que rien en ostast espee, Tant fust ",tranchanz, ne aceree. ,16,tranchanz,trenchier,VERB,VERppa,Tense=Pres|VerbForm=Part,11,advcl,_,XmlId=w_YvainKu_39551
 2568,14814,Ne n',avront,", tant con vis les sache. ",3,avront,avoir,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_39612
 2578,14831,"Qu'an son venir si le navra Li lyeons, qui mout ",vint," iriez, Que leidemant fu anpiriez. ",13,vint,venir,VERB,VERcjg,VerbForm=Fin,9,acl:relcl,_,XmlId=w_YvainKu_39846
 2579,14831,Qu'an son ,venir," si le navra Li lyeons, qui mout vint iriez, Que leidemant fu anpiriez. ",4,venir,venir,VERB,VERinf,VerbForm=Inf,7,obl,_,XmlId=w_YvainKu_39837
 2583,14839,Mes tant i a que ,parler, puet ,6,parler,parler,VERB,VERinf,VerbForm=Inf,4,advcl,_,XmlId=w_YvainKu_39912
 2584,1484,Pleine sa hanste el camp ,mort, le tresturnet. ,6,mort,_,VERB,VERppe,Tense=Past|VerbForm=Part,8,xcomp,_,XmlId=w_58_13694
 2585,14840,Et ,dist,", si com il li pot dire : ",2,dist,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_39915
+2587,14847,"- Di donc, fet cil, se tu otroies Que vaincuz et ",recreanz, soies. ,14,recreanz,recroire,VERB,VERppa,Tense=Pres|VerbForm=Part,12,conj,_,XmlId=w_YvainKu_40022
 2589,14847,"- Di donc, ",fet," cil, se tu otroies Que vaincuz et recreanz soies. ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,2,parataxis,_,XmlId=w_YvainKu_40013
 2591,14848,"- Sire, ",fet," il, il i pert bien : ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,9,parataxis,_,XmlId=w_YvainKu_40028
+2592,14849,"Veincuz sui, maleoit gré mien, Et ",recreanz,", ",9,recreanz,recroire,VERB,VERppa,Tense=Pres|VerbForm=Part,1,conj,_,SpaceAfter=No|XmlId=w_YvainKu_40044
 2594,1485,Aprés ,escriet, : ,2,escriet,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_13699
 2596,1486,« Cist sunt bon a ,cunfundre, ! ,6,cunfundre,_,VERB,VERinf,VerbForm=Inf,4,acl,_,XmlId=w_58_13706
 2597,14861,"- Et je, ",fet," il, la vos redoing. ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,10,parataxis,_,XmlId=w_YvainKu_40131
@@ -1726,6 +1830,7 @@
 2625,14927,« ,Alez,", ",2,Alez,aler,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_40900
 2626,14928,,fet," il, ",1,fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_40902
 2633,14940,et si l'enore De quanqu'ele onques set ne ,puet,. ,11,puet,pöoir,VERB,VERcjg,VerbForm=Fin,9,conj,_,SpaceAfter=No|XmlId=w_YvainKu_41088
+2635,14943,Que trop i avroit a ,conter, ; ,6,conter,conter,VERB,VERinf,VerbForm=Inf,4,obj,_,XmlId=w_YvainKu_41117
 2636,14944,Tot vos trespas jusqu'au ,monter," L'andemain, que il s'an partirent. ",6,monter,monter,VERB,VERinf,VerbForm=Inf,3,advcl,_,XmlId=w_YvainKu_41124
 2639,14948,"Puis si atendoit la venue Sa seror, qui ",vient, et aproche. ,10,vient,venir,VERB,VERcjg,VerbForm=Fin,7,acl:relcl,_,XmlId=w_YvainKu_41179
 2642,14952,"La querele, tot sanz ",mantir,", Eüst desresnié quitemant Par reison et par jugemant Se cil seus jorz fust trespassez. ",6,mantir,mentir,VERB,VERinf,VerbForm=Inf,9,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_41228
@@ -1735,6 +1840,9 @@
 2652,14966,"« Sire, ore ",passe,", ",5,passe,passer,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_41447
 2654,14971,"Se ma suer deüst revenir, N'i eüst mes que ",demorer,. ,12,demorer,demorer,VERB,VERinf,VerbForm=Inf,9,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_41488
 2657,14972,"Deu an puisse je aorer, Quant el ne ",vient, ne ne repeire ! ,10,vient,venir,VERB,VERcjg,VerbForm=Fin,5,advcl,_,XmlId=w_YvainKu_41499
+2659,14978,Que je n'an respondroie mes A ma seror tant con je ,vive, ; ,13,vive,vivre,VERB,VERcjg,VerbForm=Fin,5,advcl,_,XmlId=w_YvainKu_41570
+2662,14981,"« Amie, a cort real Doit en atendre, par ma foi, Tant con la justise le roi ",Siet, et atant por droiturier. ,21,Siet,sëoir,VERB,VERcjg,VerbForm=Fin,9,advcl,_,XmlId=w_YvainKu_41622
+2663,14983,"Qu'ancor vendra trestot a tans Vostre suer ci, si con je ",pans,. » ,14,pans,penser,VERB,VERcjg,VerbForm=Fin,3,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_41649
 2664,14985,Seul a seul ,venoient," andui, ",4,venoient,venir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_41674
 2666,1499,e li Sarrazins ,chiet, ; ,4,chiet,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_13800
 2668,14993,"De la joie que il en ot Li dist, au plus tost que il ",pot, : ,16,pot,pöoir,VERB,VERcjg,VerbForm=Fin,9,advcl,_,XmlId=w_YvainKu_41748
@@ -1752,6 +1860,7 @@
 2698,15077,Or ,dites, : ,2,dites,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_42849
 2699,15079,Car s'il ,font," tant qu'il s'antrevaignent, Grant peor ai qu'il ne maintaignent Tant la bataille et la meslee Qu'el soit de l'une part oltree. ",4,font,faire,VERB,VERcjg,VerbForm=Fin,13,advcl,_,XmlId=w_YvainKu_42873
 2714,1510,« ,Ferez," i, chevaler ! » ",2,Ferez,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_13871
+2724,15106,Si lessent ,reposer, lor vainnes ,3,reposer,reposer,VERB,VERinf,VerbForm=Inf,2,xcomp,_,XmlId=w_YvainKu_43294
 2725,15109,Einz cort li uns a l'autre sore Plus fieremant qu'ainz mes ne ,firent,", ",15,firent,faire,VERB,VERcjg,VerbForm=Fin,10,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_43325
 2732,15140,"N'ont plus de la bataille cure, Que por la nuit qui ",vient, oscure Que por ce que mout s'antredotent. ,14,vient,venir,VERB,VERcjg,VerbForm=Fin,12,acl:relcl,_,XmlId=w_YvainKu_43752
 2733,15145,Messire Yvains ,parla," einçois, Qui mout estoit preuz et cortois ; ",3,parla,parler,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_43800
@@ -1760,6 +1869,7 @@
 2739,15160,"- Par foi, ",fet," messire Gauvains, N'iestes si estonez ne vains Que je autant ou plus ne soie ; ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,12,parataxis,_,XmlId=w_YvainKu_43981
 2740,15163,Que larges estiez del rendre Plus que je n'estoie del ,prendre,. ,12,prendre,prendre,VERB,VERinf,VerbForm=Inf,10,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_44046
 2746,15170,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_44131
+2747,15174,Einz me clamasse a ,recreant," Devant le cop, ",5,recreant,recroire,VERB,VERppa,Tense=Pres|VerbForm=Part,3,xcomp,_,XmlId=w_YvainKu_44175
 2748,15176,,fet, messire Gauvains. ,1,fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_44187
 2751,15182,,Fet, messire Gauvains li douz. ,1,Fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_44256
 2755,15192,,Fet, ses amis et ses conpainz. ,1,Fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_44328
@@ -1767,7 +1877,10 @@
 2763,15204,"« Seignor, ",fet," li rois, dites nos Qui a si tost mis antre vos Ceste amistié et ceste acorde, ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,8,parataxis,_,XmlId=w_YvainKu_44453
 2764,15206,"- Sire, ja ne vos iert teüe, ",Fet," messire Gauvains, ses niés, La mescheance et li meschiés Don ceste bataille a esté. ",10,Fet,faire,VERB,VERcjg,VerbForm=Fin,8,parataxis,_,XmlId=w_YvainKu_44494
 2766,1521,Plus est isnels que nen ,est, uns falcuns. ,2,est,_,AUX,VERcjg,VerbForm=Fin,3,cop,_,XmlId=w_58_13958
+2769,15218,"Mes bien sache li rois, mes sire, Que je sui de ceste bataille Oltrez et ",recreanz, sanz faille. ,18,recreanz,recroire,VERB,VERppa,Tense=Pres|VerbForm=Part,16,conj,_,XmlId=w_YvainKu_44702
 2770,15219,,fet, cil et cil. ,1,fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_44715
+2772,15222,Einz fet chascuns par force entendre Au roi et a totes ses genz Qu'il est oltrez et ,recreanz,. ,19,recreanz,recroire,VERB,VERppa,Tense=Pres|VerbForm=Part,17,conj,_,SpaceAfter=No|XmlId=w_YvainKu_44768
+2774,15224,Et li ,oïrs," mout li pleisoit Et ce avoec que il veoit Qu'il s'estoient entracolé, ",3,oïrs,öir,VERB,VERinf,VerbForm=Inf,6,csubj,_,XmlId=w_YvainKu_44786
 2775,15226,"« Seignor, ",fet," il, antre vos deus A grant amor, ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,10,parataxis,_,XmlId=w_YvainKu_44818
 2779,15232,"« Ou est, ",fet," il, la dameisele Qui sa seror a fors botee De sa terre et deseritee Par force et par male merci ? ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,3,parataxis,_,XmlId=w_YvainKu_44904
 2781,15233,"- Sire, ",fet," ele, je sui ci. ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,8,parataxis,_,XmlId=w_YvainKu_44930
@@ -1779,13 +1892,16 @@
 2795,15265,,Fet," li rois, ",1,Fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_45300
 2796,1527,Pleine sa hanste l'abat ,mort, des arçuns : ,6,mort,_,VERB,VERppe,Tense=Past|VerbForm=Part,5,xcomp,_,XmlId=w_58_14005
 2800,15274,"Et queque il s'antrebeisoient, Le lyon corrant ",venir," voient, Qui son seignor querant aloit. ",10,venir,venir,VERB,VERinf,VerbForm=Inf,11,xcomp,_,XmlId=w_YvainKu_45421
+2802,15276,Lors veïssiez genz arriers ,treire, ; ,5,treire,traire,VERB,VERinf,VerbForm=Inf,2,xcomp,_,XmlId=w_YvainKu_45448
 2804,15278,"« Estez, ",fet," messire Yvains, tuit. ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,2,parataxis,_,XmlId=w_YvainKu_45461
 2806,1528,« ,Ferez,", Paien, ",2,Ferez,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_58_14010
 2807,15281,Ne doutez ja que mal vos face Li lyeons que ,venir, veez. ,11,venir,venir,VERB,VERinf,VerbForm=Inf,12,xcomp,_,XmlId=w_YvainKu_45486
 2809,15291,Desarmé sont ensi ,parlant,", ",4,parlant,parler,VERB,VERppa,Tense=Pres|VerbForm=Part,1,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_45640
 2810,15298,Et cil del garir se pena Tant que lor plaies lor sena Au mialz et au plus tost qu'il ,pot,. ,21,pot,pöoir,VERB,VERcjg,VerbForm=Fin,14,acl,_,SpaceAfter=No|XmlId=w_YvainKu_45748
+2811,15298,Et cil del ,garir, se pena Tant que lor plaies lor sena Au mialz et au plus tost qu'il pot. ,4,garir,garir,VERB,VERinf,VerbForm=Inf,6,xcomp,_,XmlId=w_YvainKu_45731
 2814,1530,,Dient, Franceis : ,1,Dient,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_14021
 2822,15304,"Maintenant que messire Yvains Santi qu'il fu gariz et sains, Si s'an parti, que nus nel ",sot, ; ,21,sot,savoir,VERB,VERcjg,VerbForm=Fin,16,advcl,_,XmlId=w_YvainKu_45875
+2823,15304,Maintenant que messire Yvains Santi qu'il fu ,gariz," et sains, Si s'an parti, que nus nel sot ; ",9,gariz,garir,VERB,VERppe,Tense=Past|VerbForm=Part,5,ccomp,_,XmlId=w_YvainKu_45863
 2826,1531,"Li quens Rollant, quant il veit Sansun ",mort,", Poëz saveir que mult grant doel en out. ",9,mort,_,VERB,VERppe,Tense=Past|VerbForm=Part,8,acl,_,SpaceAfter=No|XmlId=w_58_14043
 2831,15316,et trestuit ,dïent, : ,3,dïent,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_46007
 2835,15321,,fet, Lunete. ,1,fet,faire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_46066
@@ -1800,6 +1916,7 @@
 2849,15363,et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_46733
 2850,15364,"« Trestot einsi Con tu l'as dit, et je le di, Que, si m'aïst Dex et li sainz, Que ja mes cuers ne sera fainz Que je tot mon ",pooir, n'en face. ,36,pooir,pöoir,VERB,VERinf,VerbForm=Inf,39,xcomp,_,XmlId=w_YvainKu_46770
 2851,15365,"L'amor li randrai et la grace Que il sialt a sa dame avoir, Puis que j'en ai force et ",pooir,. » ,23,pooir,pöoir,VERB,VERinf,VerbForm=Inf,21,conj,_,SpaceAfter=No|XmlId=w_YvainKu_46797
+2852,15366,Or a bien Lunete ,esploité, ; ,5,esploité,esploitier,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_46804
 2854,15369,"A bele chiere, a lié sanblant, ",Monte, Lunete ; ,9,Monte,monter,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_46841
 2855,1537,"Ambure ocit, ki quel blasme ne quil ",lot,. ,9,lot,_,VERB,VERcjg,VerbForm=Fin,6,conj,_,SpaceAfter=No|XmlId=w_58_14129
 2856,15370,si s'an ,va,", Tant que delez le pin trova Celui qu'ele ne cuidoit pas Trover a si petit de pas, ",4,va,aler,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_46847
@@ -1817,12 +1934,15 @@
 2871,15401,Ensi s'an vont ,parlant," adés, Et li lyeons toz jorz aprés, Tant qu'au chastel vindrent tuit troi. ",5,parlant,parler,VERB,VERppa,Tense=Pres|VerbForm=Part,4,xcomp,_,XmlId=w_YvainKu_47232
 2872,15403,Et la dame mout s'esjoï Tantost con la novele oï De sa pucele qui venoit Et de ce que ele amenoit Le lyeon et le chevalier Qu'ele voloit mout acointier Et mout conoistre et mout ,veoir,. ,38,veoir,vëoir,VERB,VERinf,VerbForm=Inf,32,conj,_,SpaceAfter=No|XmlId=w_YvainKu_47312
 2874,15403,Et la dame mout s'esjoï Tantost con la novele oï De sa pucele qui ,venoit, Et de ce que ele amenoit Le lyeon et le chevalier Qu'ele voloit mout acointier Et mout conoistre et mout veoir. ,16,venoit,venir,VERB,VERcjg,VerbForm=Fin,14,acl:relcl,_,XmlId=w_YvainKu_47290
+2876,15404,"A ses piez s'est lessiez cheoir Messire Yvains, trestoz ",armez,. ,12,armez,armer,VERB,VERppe,Tense=Past|VerbForm=Part,8,acl,_,SpaceAfter=No|XmlId=w_YvainKu_47325
 2878,15409,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_47384
 2879,15410,« Mes ,pooirs, est toz suens. ,3,pooirs,pöoir,VERB,VERinf,VerbForm=Inf,6,csubj,_,XmlId=w_YvainKu_47388
 2880,15412,"- Certes, dame, ja nel deïsse, ",Fet," Lunete, s'il ne fust voirs. ",10,Fet,faire,VERB,VERcjg,VerbForm=Fin,8,parataxis,_,XmlId=w_YvainKu_47414
 2881,15413,Toz an est vostres li ,pooirs, Assez plus que dit ne vos ai. ,6,pooirs,pöoir,VERB,VERinf,VerbForm=Inf,4,csubj,_,XmlId=w_YvainKu_47428
 2882,15416,Einz n',eüstes, ,3,eüstes,avoir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_47455
 2883,15424,Et ,dit, : ,2,dit,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_47543
+2885,15427,Or as tu ,esploitié, mout bien ! ,4,esploitié,esploitier,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_47576
+2888,15433,Messire Yvains ,ot, ,3,ot,öir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_47670
 2889,15434,et antant Que ses afeires si bien ,prant," Qu'il avra sa pes et s'acorde, ",8,prant,prendre,VERB,VERcjg,VerbForm=Fin,2,ccomp,_,XmlId=w_YvainKu_47678
 2890,15435,Et ,dist, : ,2,dist,dire,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_47689
 2891,15439,Folie me fist ,demorer,", ",4,demorer,demorer,VERB,VERinf,VerbForm=Inf,3,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_47716
@@ -4426,6 +4546,8 @@
 5544,YvainKu-1134.new,"- Dame, ",fet," il, vostre merci ; ",4,fet,faire,VERB,VERcjg,VerbForm=Fin,8,parataxis,_,XmlId=w_YvainKu_14043
 5546,YvainKu-1147.new,"- Dame, tant que ",amer, me fet. ,6,amer,amer,VERB,VERinf,VerbForm=Inf,8,xcomp,_,XmlId=w_YvainKu_14224
 5547,YvainKu-1147.new.1,- ,Amer, ? ,2,Amer,amer,VERB,VERinf,VerbForm=Inf,0,root,_,XmlId=w_YvainKu_14229
+5548,YvainKu-1149.new,An tel qu'aillors ,pansser, ne puis ; ,5,pansser,penser,VERB,VERinf,VerbForm=Inf,7,xcomp,_,XmlId=w_YvainKu_14282
+5549,YvainKu-1149.new.3,"En tel, s'il vos plest, a delivre, Que por vos vuel morir ou ",vivre,. ,18,vivre,vivre,VERB,VERinf,VerbForm=Inf,16,conj,_,SpaceAfter=No|XmlId=w_YvainKu_14321
 5550,YvainKu-1149.new.3,"En tel, s'il vos plest, a delivre, Que por vos vuel ",morir, ou vivre. ,16,morir,morir,VERB,VERinf,VerbForm=Inf,15,xcomp,_,XmlId=w_YvainKu_14319
 5551,YvainKu-160.new,- Tex con tu ,voiz, ; ,5,voiz,vëoir,VERB,VERcjg,VerbForm=Fin,2,acl,_,XmlId=w_YvainKu_2295
 5553,YvainKu-2043.new,"- Ha ! Dex, ",fet," il, por quel forfet ? ",6,fet,faire,VERB,VERcjg,VerbForm=Fin,11,parataxis,_,XmlId=w_YvainKu_25195
