@@ -19,10 +19,10 @@ patterns = {
     'VERB-no-direct-obj': 'pattern {V [upos=VERB];} without {V -[obj]-> O}',
     'VERB-indirect-obj': 'pattern {V [upos=VERB]; V -[iobj]-> I}',
     'VERB-no-indirect-obj': 'pattern {V [upos=VERB];} without {V -[iobj]-> I}',
-    'VERB-obl': 'pattern {V [upos=VERB]; V -[obl]-> I}',
-    'VERB-no-obl': 'pattern {V [upos=VERB];} without {V -[obl]-> I}',
+    'VERB-obl': 'pattern {V [upos=VERB]; V -[obl|obl:mod|obl:arg|obl:agent]-> I}',
+    'VERB-no-obl': 'pattern {V [upos=VERB];} without {V -[obl|obl:mod|obl:arg|obl:agent]-> I}',
     'VERB-obj': 'pattern {V [upos=VERB]; V -[obj|iobj|obl]-> O}',
-    'VERB-no-obj': 'pattern {V [upos=VERB];} without {V -[obj|iobj|obl]-> O}',
+    'VERB-no-obj': 'pattern {V [upos=VERB];} without {V -[obj|iobj|obl|obl:mod|obl:arg|obl:agent|xcomp|ccomp]-> O}',
 }
 
 # This must be in the list of corpora available on the website
