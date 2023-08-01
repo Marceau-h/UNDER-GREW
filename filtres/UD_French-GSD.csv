@@ -1,7 +1,7 @@
-,# sent,# sent successif,% sent,% sent successif
-all,31769.0,31769.0,100.0,100.0
-no_obj,3276.0,3276.0,10.31,10.31
-in_both,23958.0,2577.0,75.41,8.11
-five_or_more,13189.0,1546.0,41.52,4.87
-no_pass,24071.0,899.0,75.77,2.83
-no_pron,29672.0,833.0,93.4,2.62
+,# sent,# sent successif,% sent,% sent successif,filtered
+all,31769.0,31769.0,100.0,100.0,
+no_obj,3276,3276,10.31,10.31,Le premier épisode est ;;publié;; en mars 1972 ; 
+in_both,23958,2577,75.41,8.11,"Dino est également ;;apparu;; fréquemment à la radio et la télévision croate, invité spécial pour les stations populaires. "
+five_or_more,13189,1546,41.52,4.87,Ses bâtiments de la route de Tarascon furent alors occupés par l'Institut universitaire de formation des maîtres (IUFM) d'Avignon ;;créé;; suite à la loi Jospin de 1989. 
+no_pass,24071,899,75.77,2.83,Il fut ;;pris;; comme insigne par les partisans les plus déterminés de la République. 
+no_pron,29672,833,93.4,2.62,L'état de santé du roi s';;aggrave;; dès novembre 1560. 

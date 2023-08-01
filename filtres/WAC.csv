@@ -1,7 +1,7 @@
-,# sent,# sent successif,% sent,% sent successif
-all,119117.0,119117.0,100.0,100.0
-no_obj,21246.0,21246.0,17.84,17.84
-in_both,108935.0,17239.0,91.45,14.47
-five_or_more,97704.0,15120.0,82.02,12.69
-no_pass,108208.0,13436.0,90.84,11.28
-no_pron,112255.0,12707.0,94.24,10.67
+,# sent,# sent successif,% sent,% sent successif,filtered
+all,119117.0,119117.0,100.0,100.0,
+no_obj,21246,21246,17.84,17.84,La famille des Alcidés ;;comprend;; les pingouins et les guillemots.
+in_both,108935,17239,91.45,14.47,Les marins ont été ;;hospitalisés;; à Agadir.
+five_or_more,97704,15120,82.02,12.69,"De formation, je suis ;;dessinateur;;."
+no_pass,108208,13436,90.84,11.28,Certaines propositions des parents d'élèves ont été ;;prises;; en considération.
+no_pron,112255,12707,94.24,10.67,Lieux des concours Les épreuves écrites se ;;déroulent;; en principe à la maison des examens.

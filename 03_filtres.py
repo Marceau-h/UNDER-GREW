@@ -2,11 +2,37 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from pathlib import Path
 from upsetplot import from_contents, UpSet, plot
+from random import randint
 
 
 def make_percent(a: int, b: int):
-    # return int(f"{a/b*100:.2f}".replace(".", ","))
     return round(a / b * 100, 2)
+
+
+def get_one_random(df: pd.DataFrame):
+    if len(df) == 0:
+        return None
+
+    if len(df) == 1:
+        return df.iloc[0]
+
+    return df.iloc[randint(0, len(df) - 1)]
+
+
+def get_one_random_not_in(df: pd.DataFrame, dfallpristine: pd.DataFrame):
+    df = dfallpristine[~dfallpristine["sent_id"].isin(df["sent_id"])]
+    return get_one_random(df)
+
+
+def row_to_str(row):
+    return f"{row['left_context']};;{row['pivot']};;{row['right_context']}"
+
+
+def random_not_in_str(df: pd.DataFrame, dfallpristine: pd.DataFrame):
+    row = get_one_random_not_in(df, dfallpristine)
+    if row is None:
+        return None
+    return row_to_str(row)
 
 
 def stats(df, dfall, dfallpristine):
@@ -15,6 +41,7 @@ def stats(df, dfall, dfallpristine):
         "# sent successif": len(dfall),
         "% sent": make_percent(len(df), len(dfallpristine)),
         "% sent successif": make_percent(len(dfall), len(dfallpristine)),
+        "filtered": random_not_in_str(df, dfallpristine),
     }
 
 

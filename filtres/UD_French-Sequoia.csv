@@ -1,7 +1,7 @@
-,# sent,# sent successif,% sent,% sent successif
-all,5889.0,5889.0,100.0,100.0
-no_obj,673.0,673.0,11.43,11.43
-in_both,2741.0,430.0,46.54,7.3
-five_or_more,1041.0,234.0,17.68,3.97
-no_pass,4394.0,125.0,74.61,2.12
-no_pron,5620.0,117.0,95.43,1.99
+,# sent,# sent successif,% sent,% sent successif,filtered
+all,5889.0,5889.0,100.0,100.0,
+no_obj,673,673,11.43,11.43,"Les épouses des fusillés reçurent le franc symbolique au titre de dommages et intérêts, mais l'essentiel était que ces 4 hommes soient réhabilités dans la mémoire des Français et que leurs veuves puissent enfin faire ;;valoir;; leurs droits à pension. "
+in_both,2741,430,46.54,7.3,Il ;;repose;; sur le trésor de guerre d'Andrew Wang qui s'élève à 1 milliard de francs suisses. 
+five_or_more,1041,234,17.68,3.97,"Depuis le 9 juin 1995, ils ;;disposent;; d'un réquisitoire supplétif pour """"trafic d'influence, complicité et recel"""" visant Didier Schuller, en fuite depuis le 10 février 1995, et depuis le 23 juin 1995, d'un mandat d'arrêt international contre l'ancien directeur général de l'organisme pour """"trafic d'influence"""" et """"abus de biens sociaux"""". "
+no_pass,4394,125,74.61,2.12,"Flora Brovina, la docteur albanaise ;;condamnée;; le 13 janvier à Nis, est maintenant gravement malade et mise sous surveillance dans une clinique de la même ville. "
+no_pron,5620,117,95.43,1.99,Les projets se ;;concrétisent;;. 

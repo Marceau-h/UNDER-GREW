@@ -1,7 +1,7 @@
-,# sent,# sent successif,% sent,% sent successif
-all,4215.0,4215.0,100.0,100.0
-no_obj,873.0,873.0,20.71,20.71
-in_both,2936.0,690.0,69.66,16.37
-five_or_more,2312.0,515.0,54.85,12.22
-no_pass,4215.0,515.0,100.0,12.22
-no_pron,4065.0,508.0,96.44,12.05
+,# sent,# sent successif,% sent,% sent successif,filtered
+all,4215.0,4215.0,100.0,100.0,
+no_obj,873,873,20.71,20.71,"euh, et, euh, c'est vrai qu'on est souvent ;;éloigné;; de son domicile. "
+in_both,2936,690,69.66,16.37,"mesdames et messieurs, je suis heureux de me ;;retrouver;; ce soir parmi vous. "
+five_or_more,2312,515,54.85,12.22,";;perçu;; comme un surdoué de sa génération, son action s'étend aux allées du pouvoir. "
+no_pass,4215.0,515.0,100.0,12.22,
+no_pron,4065,508,96.44,12.05,le livre s';;appelait;; avant La Photographie Absolue. 

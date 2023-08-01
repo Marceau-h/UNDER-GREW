@@ -1,7 +1,7 @@
-,# sent,# sent successif,% sent,% sent successif
-all,2255.0,2255.0,100.0,100.0
-no_obj,197.0,197.0,8.74,8.74
-in_both,620.0,105.0,27.49,4.66
-five_or_more,144.0,27.0,6.39,1.2
-no_pass,2255.0,27.0,100.0,1.2
-no_pron,2155.0,27.0,95.57,1.2
+,# sent,# sent successif,% sent,% sent successif,filtered
+all,2255.0,2255.0,100.0,100.0,
+no_obj,197,197,8.74,8.74,"Il a été suivi par le Fonds de stratégie mixte (fonds à rendement cible et fonds de revenus), proposé par Aviva, dans lequel ont été ;;mis;; respectivement des investissements de 2 milliards et 1,4 milliards de livres sterling. "
+in_both,620,105,27.49,4.66,"Mais un scanner a ;;montré;; que la tumeur dans le poumon droit de Mme Pugh grossit, et elle a dû quitter l'essai. "
+five_or_more,144,27,6.39,1.2,"Mme Clinton ;;a;; la réputation d'une va-t-en-guerre, mais cela va être modéré par le point de vue anti-guerre de la population. "
+no_pass,2255.0,27.0,100.0,1.2,
+no_pron,2155,27,95.57,1.2,"Naturellement, l’environnement du bureau se ;;caractérise;; par de nombreux vêtements et très peu de nourriture. "

@@ -1,7 +1,7 @@
-,# sent,# sent successif,% sent,% sent successif
-all,4417.0,4417.0,100.0,100.0
-no_obj,938.0,938.0,21.24,21.24
-in_both,3384.0,694.0,76.61,15.71
-five_or_more,2758.0,573.0,62.44,12.97
-no_pass,4417.0,573.0,100.0,12.97
-no_pron,4269.0,545.0,96.65,12.34
+,# sent,# sent successif,% sent,% sent successif,filtered
+all,4417.0,4417.0,100.0,100.0,
+no_obj,938,938,21.24,21.24,"et euh, donc du coup, on en a ;;pris;; chacun un dans nos bras. "
+in_both,3384,694,76.61,15.71,"mais, enfin, à l'interieur de la maison c'était ;;détruit;;, quoi, euh. "
+five_or_more,2758,573,62.44,12.97,il a pas ;;répondu;;. 
+no_pass,4417.0,573.0,100.0,12.97,
+no_pron,4269,545,96.65,12.34,"et euh la journée se ;;passe;;, ça se passe très bien. "
