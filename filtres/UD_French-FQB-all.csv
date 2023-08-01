@@ -1,2 +1,2 @@
-,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC
-17,FQB_CLEF03-83,Quelle est l'abréviation ,connue, du fonds des Nations Unis consacré aux enfants ? ,5,connue,connaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4,acl,_,_
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,thematic
+17,FQB_CLEF03-83,Quelle est l'abréviation ,connue, du fonds des Nations Unis consacré aux enfants ? ,5,connue,connaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4,acl,_,_,parentalité
