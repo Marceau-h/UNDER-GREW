@@ -23,6 +23,10 @@ patterns = {
     'VERB-no-obl': 'pattern {V [upos=VERB];} without {V -[obl|obl:mod|obl:arg|obl:agent]-> I}',
     'VERB-obj': 'pattern {V [upos=VERB]; V -[obj|iobj|obl]-> O}',
     'VERB-no-obj': 'pattern {V [upos=VERB];} without {V -[obj|iobj|obl|obl:mod|obl:arg|obl:agent|xcomp|ccomp]-> O}',
+    'fixed-VERB': 'pattern {V [upos=VERB]; N []; N -[fixed]-> V}',
+    'Verb_in_idiom': 'pattern { V [upos=VERB, InIdiom=Yes] }',
+    'Verb-no-nothing': 'pattern {V [upos=VERB]} without {V -> O}',
+    'Verb-then-punct': 'pattern {V [upos=VERB]; P [upos=PUNCT]; V > P}',
 }
 
 # This must be in the list of corpora available on the website
@@ -93,7 +97,12 @@ for corpus in corpora:
 
         # print(data)
 
-        uuid = data["data"]["uuid"]
+        try:
+            uuid = data["data"]["uuid"]
+        except KeyError:
+            print(pattern)
+            print(data)
+            raise
 
         # print(uuid)
 

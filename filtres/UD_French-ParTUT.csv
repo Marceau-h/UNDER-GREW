@@ -1,7 +1,9 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,2739.0,2739.0,100.0,100.0,
-no_obj,352,352,12.85,12.85,"De plus, si vous choisissez d'utiliser Facebook à partir de votre téléphone mobile, ;;notez;; que vous êtes responsable des frais associés à l'utilisation d'Internet et/ou aux SMS, selon les termes de votre opérateur de téléphonie mobile. "
-in_both,1207,208,44.07,7.59,"J'ai ;;voté;; """"pour"""". "
-five_or_more,435,74,15.88,2.7,"Ainsi, le premier projet relevant du programme Pericles n'a été ;;réalisé;; qu'en octobre 2002 et le montant engagé en 2002 était légèrement inférieur à 40% de la dotation budgétaire initiale (celle-ci avait été revue à la baisse en cours d'exercice). "
-no_pass,2739.0,74.0,100.0,2.7,
-no_pron,2645,59,96.57,2.15,Les PCB s';;accumulent;;. 
+no_obj,352,352,12.85,12.85,"Je suis amoureux des forêts anciennes, et je suis un patriote américain parce que nous en ;;avons;;. "
+in_both,1207,208,44.07,7.59,Les campagnes publicitaires d'ANA ;;conduisent;; généralement à un taux de clics de 8 à 12%. 
+out_idiom,2739.0,208.0,100.0,7.59,
+something,2426,142,88.57,5.18,"Madame la présidente, nous ne pouvons pas - nous n'avons pas le droit - de nous résigner à entendre ;;parler;; de plus en plus souvent d'accidents qui provoquent, sur les routes, les voies ferrées et navigables, des dégâts importants également imputables au fait que les personnes concernées ne prennent pas assez au sérieux le transport de marchandises dangereuses ou que par ignorance ou par manque de formation du chauffeur ou de la personne responsable des divers moyens de transport, il arrive trop souvent qu'un accident bénin tourne à la catastrophe. "
+not_fixed,2679,142,97.81,5.18,J'ai ;;trouvé;; cela tout à fait exceptionnel. 
+no_pass,2739.0,142.0,100.0,5.18,
+no_pron,2645,121,96.57,4.42,Et c'est exactement ce qui se ;;passe;; avec les PDB dans cette pyramide de la chaîne alimentaire. 

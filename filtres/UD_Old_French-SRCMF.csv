@@ -1,7 +1,9 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,30052.0,30052.0,100.0,100.0,
-no_obj,6217,6217,20.69,20.69,"« Ha ! Dex, beau sire saint Evrol, Je ne ;;pensai;; faire tel perte Ne foïr m'en a tel poverte ! "
-in_both,27991,5688,93.14,18.93,Por coi m';;aquiaus;; ? 
-five_or_more,26302,5290,87.52,17.6,Mes or vos an ;;metez;; sor moi 
-no_pass,30052.0,5290.0,100.0,17.6,
-no_pron,29012,5195,96.54,17.29,Mais Blancandrins ki envers lu s';;atarget;; ; 
+no_obj,6217,6217,20.69,20.69,La tue amurs me ;;seit;; hoi en present ! 
+in_both,27991,5688,93.14,18.93,"Aprés me ;;repria;; que gié Par son ostel m'an revenisse An guerredon et an servise, "
+out_idiom,30052.0,5688.0,100.0,18.93,
+something,27701,4802,92.18,15.98,Li nes u Aucassins estoit ala tant par mer waucrant qu'ele ;;ariva;; au castel de Biaucaire ; 
+not_fixed,30052.0,4802.0,100.0,15.98,
+no_pass,30052.0,4802.0,100.0,15.98,
+no_pron,29012,4716,96.54,15.69,Messire Yvains en tel meniere Devant le perron se ;;pasma;;. 

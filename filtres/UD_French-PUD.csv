@@ -1,7 +1,9 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,2255.0,2255.0,100.0,100.0,
-no_obj,197,197,8.74,8.74,"Il a été suivi par le Fonds de stratégie mixte (fonds à rendement cible et fonds de revenus), proposé par Aviva, dans lequel ont été ;;mis;; respectivement des investissements de 2 milliards et 1,4 milliards de livres sterling. "
-in_both,620,105,27.49,4.66,"Mais un scanner a ;;montré;; que la tumeur dans le poumon droit de Mme Pugh grossit, et elle a dû quitter l'essai. "
-five_or_more,144,27,6.39,1.2,"Mme Clinton ;;a;; la réputation d'une va-t-en-guerre, mais cela va être modéré par le point de vue anti-guerre de la population. "
-no_pass,2255.0,27.0,100.0,1.2,
-no_pron,2155,27,95.57,1.2,"Naturellement, l’environnement du bureau se ;;caractérise;; par de nombreux vêtements et très peu de nourriture. "
+no_obj,197,197,8.74,8.74,"A Paris, on ;;savait;; déjà ce qui s’était passé ; le prix du pain, qui restait élevé, et l’absence de provisions contribuaient davantage à une atmosphère déjà tendue. "
+in_both,620,105,27.49,4.66,"De toute façon, je ;;vais;; en prison, j'espère que ça en valait la peine. "
+out_idiom,2255.0,105.0,100.0,4.66,
+something,2127,70,94.32,3.1,"Le baptême forcé était contraire à la loi de l’Église catholique, et en théorie, toute personne qui était baptisée de force ;;pouvait;; légalement retourner au judaïsme. "
+not_fixed,2208,70,97.92,3.1,"A partir du seizième siècle, les Européens de passage dans la région des Caraïbes ;;distinguèrent;; la « mer du Sud » (l'océan Pacifique, jusqu'au sud de l'isthme de Panama) et la « mer du Nord » (la mer des Caraïbes, jusqu'au nord du même isthme). "
+no_pass,2255.0,70.0,100.0,3.1,
+no_pron,2155,70,95.57,3.1,"Au parc de la Porte-d’ Or, qui est long de plus de quatre kilomètres, se ;;trouvent;; un jardin botanique, un planétarium, un jardin japonais et un aquarium. "

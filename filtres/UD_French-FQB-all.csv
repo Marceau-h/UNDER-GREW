@@ -1,2 +1,17 @@
-Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,thematic
-17,FQB_CLEF03-83,Quelle est l'abréviation ,connue, du fonds des Nations Unis consacré aux enfants ? ,5,connue,connaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4,acl,_,_,parentalité
+,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC
+6,FQB_CAF-14,Ma situation familiale ou professionnelle ,change,", est-ce que mon aide au logement sera modifiée ? ",6,change,changer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+7,FQB_CAF-21,Quelles démarches dois-je effectuer pour demander et ,recevoir, une aide au logement ? ,9,recevoir,recevoir,VERB,_,VerbForm=Inf,7,conj,_,_
+24,FQB_INSEE-1,Quand l'agent recenseur ,passe,-t-il ? ,5,passe,passer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+28,FQB_Impots-6,"Je veux me mensualiser, comment dois-je ",faire, ? ,9,faire,faire,VERB,_,VerbForm=Inf,7,xcomp,_,_
+31,FQB_Impots-15,"Je viens de déménager et, je n'ai pas reçu mon chèque pour la prime pour l'emploi, comment ",faire, pour l'obtenir ? ,22,faire,faire,VERB,_,VerbForm=Inf,11,advcl,_,_
+49,FQB_TREC-fr-109,Où Buzz Aldrin veut-il construire une station spatiale permanente et ,habitée, ? ,12,habitée,habiter,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8,conj,_,_
+75,FQB_TREC-fr-291,Quand la période carolingienne ,débuta,-t-elle ? ,5,débuta,débuter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0,root,_,SpaceAfter=No
+89,FQB_TREC-fr-507,Quand a ,commencé, la loterie californienne ? ,3,commencé,commencer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+92,FQB_TREC-fr-524,Où s'est premièrement ,développé, le wicca ? ,5,développé,développer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+99,FQB_TREC-fr-588,Quand a ,commencé, la Première Guerre mondiale ? ,3,commencé,commencer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+108,FQB_TREC-fr-684,Quand l'art de la courte-pointe a-t-il ,commencé, ? ,9,commencé,commencer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+127,FQB_TREC-fr-1087,Quand a ,ouvert, le premier magasin Wal-Mart ? ,3,ouvert,ouvrir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+148,FQB_TREC-fr-1418,Quand s'est ,tenu, le procès Rosenberg ? ,4,tenu,tenir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+161,FQB_TREC-fr-1527,Quand a ,débuté, la guerre des Six Jours ? ,3,débuté,débuter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+163,FQB_TREC-fr-1562,Quand la guerre de Sécession américaine a-t-elle ,débuté, ? ,9,débuté,débuter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+207,FQB_UNESCO-15,Comment puis-je obtenir/,utiliser, les photos de sites du patrimoine mondial ? ,6,utiliser,utiliser,VERB,_,VerbForm=Inf,4,conj,_,_

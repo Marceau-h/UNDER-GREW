@@ -1,7 +1,9 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,31769.0,31769.0,100.0,100.0,
-no_obj,3276,3276,10.31,10.31,Le premier épisode est ;;publié;; en mars 1972 ; 
-in_both,23958,2577,75.41,8.11,"Dino est également ;;apparu;; fréquemment à la radio et la télévision croate, invité spécial pour les stations populaires. "
-five_or_more,13189,1546,41.52,4.87,Ses bâtiments de la route de Tarascon furent alors occupés par l'Institut universitaire de formation des maîtres (IUFM) d'Avignon ;;créé;; suite à la loi Jospin de 1989. 
-no_pass,24071,899,75.77,2.83,Il fut ;;pris;; comme insigne par les partisans les plus déterminés de la République. 
-no_pron,29672,833,93.4,2.62,L'état de santé du roi s';;aggrave;; dès novembre 1560. 
+no_obj,3276,3276,10.31,10.31,"Chirurgien ophtalmologue formé en Europe, il ;;nourrit;; son projet révolutionnaire d'une conception inspirée par ses lectures de Don Quichotte. "
+in_both,23958,2577,75.41,8.11,"Platon est un moderne, ;;fasciné;; par le pouvoir de l'esprit. "
+out_idiom,31016,2310,97.63,7.27,"Étant donné l'ampleur du débat, la revue la """"Nouvelle critique"""" accepte de ;;publier;;, parmi quelques contributions d'instituteurs communistes membres du mouvement Freinet, une longue lettre signée P. Cahen (il s'agit de Pauline Cahen). "
+something,29091,1786,91.57,5.62,"À ce premier étage de rémunération, qui varie de 2 600 à 5000 euros (hors emplois fonctionnels), s'ajoute une """"part variable"""" qui ;;évolue;; annuellement, en fonction du grade détenu et du poste occupé, de 8 500 à 20 000 euros. "
+not_fixed,31016,1786,97.63,5.62,"La conférence est ;;sortie;; avec une conclusion clef, à savoir que le Conseil national de transition libyen est responsable des armes en circulation. "
+no_pass,24071,1011,75.77,3.18,La Chaise à porteur enchantée est un film de Georges Méliès ;;sorti;; en 1905 au début du cinéma muet. 
+no_pron,29672,873,93.4,2.75,"Nikkatsu, une importante firme de cinéma japonaise, se ;;bat;; pour sa survie. "

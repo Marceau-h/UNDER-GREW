@@ -1,0 +1,8 @@
+sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC
+FQB_CAF-6,à ,partir, de quand puis-je bénéficier d'une aide au logement ? ,2,partir,_,VERB,_,VerbForm=Inf,1,fixed,_,_
+FQB_CAF-8,à ,partir, de quand puis-je bénéficier d'une aide au logement ? ,2,partir,_,VERB,_,VerbForm=Inf,1,fixed,_,_
+FQB_CAF-25,à ,partir, de quand puis-je bénéficier d'une aide au logement ? ,2,partir,_,VERB,_,VerbForm=Inf,1,fixed,_,_
+FQB_PoleEmploi-11,Vous avez remboursé un trop ,perçu,", devez-vous le déduire ? ",6,perçu,_,VERB,_,Tense=Past|VerbForm=Part,5,fixed,_,SpaceAfter=No
+FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y ",compris," chez les êtres humains, par lequel des cellules sont programmées à se """"suicider"""" ? ",13,compris,_,VERB,_,Tense=Past|VerbForm=Part,12,fixed,_,_
+FQB_TREC-fr-240,Il y ,a, combien d'années que le vaisseau Titanic a coulé ? ,3,a,_,VERB,_,Mood=Ind|VerbForm=Fin,1,fixed,_,_
+FQB_TREC-fr-934,"Le tissu nommé """"lin"""" est fabriqué à ",partir, de quelle plante ? ,10,partir,_,VERB,_,VerbForm=Inf,9,fixed,_,_

@@ -73,11 +73,17 @@ for subdir in main.iterdir():
     file_all = subdir / "VERB.csv"
     file_direct = subdir / "VERB-direct-obj.csv"
     file_no_obj = subdir / "VERB-no-obj.csv"
+    file_no_nothing = subdir / "VERB-no-nothing.csv"
+    file_in_idiom = subdir / "Verb_in_idiom.csv"
+    file_fixed = subdir / "fixed-VERB.csv"
 
     df_all = pd.read_csv(file_all).fillna("")
     df_all_pristine = pd.read_csv(file_all).fillna("")
     df_direct = pd.read_csv(file_direct).fillna("")
     df_no_obj = pd.read_csv(file_no_obj).fillna("")
+    df_no_nothing = pd.read_csv(file_no_nothing).fillna("")
+    df_in_idiom = pd.read_csv(file_in_idiom).fillna("")
+    df_fixed = pd.read_csv(file_fixed).fillna("")
 
     for_stats["all"] = stats(df_all, df_all, df_all_pristine)
 
@@ -96,12 +102,27 @@ for subdir in main.iterdir():
 
     for_stats["in_both"] = stats(df_in_both, df_all, df_all_pristine)
 
-    five_or_more = [x for x in lst_lemmas_all if lst_lemmas_all.count(x) >= 5]
+    df_out_idiom = df_all_pristine[~df_all_pristine["sent_id"].isin(df_in_idiom["sent_id"])]
+    df_all = df_all[~df_all["sent_id"].isin(df_in_idiom["sent_id"])]
 
-    df_five_or_more = df_all_pristine[df_all_pristine["LEMMA"].isin(five_or_more)]
-    df_all = df_all[df_all["LEMMA"].isin(five_or_more)]
+    for_stats["out_idiom"] = stats(df_out_idiom, df_all, df_all_pristine)
 
-    for_stats["five_or_more"] = stats(df_five_or_more, df_all, df_all_pristine)
+    df_something = df_all_pristine[~df_all_pristine["sent_id"].isin(df_no_nothing["sent_id"])]
+    df_all = df_all[~df_all["sent_id"].isin(df_no_nothing["sent_id"])]
+
+    for_stats["something"] = stats(df_something, df_all, df_all_pristine)
+
+    df_not_fixed = df_all_pristine[~df_all_pristine["sent_id"].isin(df_fixed["sent_id"])]
+    df_all = df_all[~df_all["sent_id"].isin(df_in_idiom["sent_id"])]
+
+    for_stats["not_fixed"] = stats(df_not_fixed, df_all, df_all_pristine)
+
+    # five_or_more = [x for x in lst_lemmas_all if lst_lemmas_all.count(x) >= 5]
+    #
+    # df_five_or_more = df_all_pristine[df_all_pristine["LEMMA"].isin(five_or_more)]
+    # df_all = df_all[df_all["LEMMA"].isin(five_or_more)]
+    #
+    # for_stats["five_or_more"] = stats(df_five_or_more, df_all, df_all_pristine)
 
     lst_feats_all = df_all_pristine["FEATS"].tolist()
 
@@ -118,6 +139,7 @@ for subdir in main.iterdir():
 
     for_stats["no_pron"] = stats(df_no_pron, df_all, df_all_pristine)
 
+
     # for k, v in for_stats.items():
     #     print(k)
     #     for k2, v2 in v.items():
@@ -131,7 +153,10 @@ for subdir in main.iterdir():
         "all": {s for s in df_all_pristine["sent_id"].tolist()},
         "no_obj": {s for s in df_no_obj["sent_id"].tolist()},
         "in_both": {s for s in df_in_both["sent_id"].tolist()},
-        "five_or_more": {s for s in df_five_or_more["sent_id"].tolist()},
+        "out_idiom": {s for s in df_out_idiom["sent_id"].tolist()},
+        "something": {s for s in df_something["sent_id"].tolist()},
+        "not_fixed": {s for s in df_not_fixed["sent_id"].tolist()},
+        # "five_or_more": {s for s in df_five_or_more["sent_id"].tolist()},
         "no_pass": {s for s in df_no_pass["sent_id"].tolist()},
         "no_pron": {s for s in df_no_pron["sent_id"].tolist()},
     }
@@ -145,40 +170,15 @@ for subdir in main.iterdir():
         show_percentages=True,
     )
 
-    upset.style_subsets(
-        present=["all", "in_both", "five_or_more", "no_pass", "no_pron", "no_obj"],
-        facecolor="gray",
-    )
+    set_labels = {"all", "no_obj", "in_both", "out_idiom", "something", "not_fixed", "no_pass", "no_pron"}
+    colors = ["#e41a1c", "#377eb8", "#4daf4a", "#984ea3", "#ff7f00", "#a65628", "#f781bf", "#999999"]
 
-    upset.style_subsets(
-        present=["all", "in_both", "five_or_more", "no_pron", "no_obj"],
-        absent=["no_pass"],
-        facecolor="blue",
-    )
-
-    upset.style_subsets(
-        present=["all", "five_or_more", "no_pass", "no_pron", "no_obj"],
-        absent=["in_both"],
-        facecolor="green",
-    )
-
-    upset.style_subsets(
-        present=["all", "in_both", "no_pass", "no_pron", "no_obj"],
-        absent=["five_or_more"],
-        facecolor="red",
-    )
-
-    upset.style_subsets(
-        present=["all", "in_both", "five_or_more", "no_pass", "no_obj"],
-        absent=["no_pron"],
-        facecolor="yellow",
-    )
-
-    upset.style_subsets(
-        present=["all", "in_both", "five_or_more", "no_pass", "no_pron"],
-        absent=["no_obj"],
-        facecolor="purple",
-    )
+    for s, c in zip(set_labels, colors):
+        upset.style_subsets(
+            present=set_labels - {s},
+            absent={s},
+            facecolor=c,
+        )
 
     fig = plt.figure()
     fig.figsize = (20, 40)

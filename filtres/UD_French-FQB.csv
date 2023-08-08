@@ -1,7 +1,9 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,1890.0,1890.0,100.0,100.0,
-no_obj,208,208,11.01,11.01,Quel est le résultat lorsqu'une partie est ;;annulée;; au baseball ? 
-in_both,464,74,24.55,3.92,Quelle école Emmit Smith a-t-il ;;fréquentée;; ? 
-five_or_more,175,20,9.26,1.06,De quoi se ;;nourrissent;; les sauterelles ? 
-no_pass,1643,1,86.93,0.05,À quelle époque le défunt président des Philippines Ferdinand E. Marcos a-t-il été ;;renversé;; ? 
-no_pron,1755,1,92.86,0.05,Comment se ;;nommait;; le jeu de balle des anciens Mayas ? 
+no_obj,208,208,11.01,11.01,Combien de chromosomes ;;compte;; un zygote humain ? 
+in_both,464,74,24.55,3.92,Combien d'habitants y ;;a;;-t-il au Chili ? 
+out_idiom,1890.0,74.0,100.0,3.92,
+something,1832,65,96.93,3.44,Quel est le plus long pont ;;suspendu;; des États-Unis ? 
+not_fixed,1868,65,98.84,3.44,à partir de quand puis-je ;;bénéficier;; d'une aide au logement ? 
+no_pass,1643,19,86.93,1.01,Quand fut ;;fondé;; le parti des Panthères noires en Californie ? 
+no_pron,1755,16,92.86,0.85,Quelle ville se ;;trouve;; au bord du lac Washington ? 

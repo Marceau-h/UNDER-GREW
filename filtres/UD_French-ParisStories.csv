@@ -1,7 +1,9 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,4417.0,4417.0,100.0,100.0,
-no_obj,938,938,21.24,21.24,"et euh, donc du coup, on en a ;;pris;; chacun un dans nos bras. "
-in_both,3384,694,76.61,15.71,"mais, enfin, à l'interieur de la maison c'était ;;détruit;;, quoi, euh. "
-five_or_more,2758,573,62.44,12.97,il a pas ;;répondu;;. 
-no_pass,4417.0,573.0,100.0,12.97,
-no_pron,4269,545,96.65,12.34,"et euh la journée se ;;passe;;, ça se passe très bien. "
+no_obj,938,938,21.24,21.24,"et vu qu'on ;;avait;; tous, pff … "
+in_both,3384,694,76.61,15.71,"donc, la première fois que je l'ai rencontré du coup, bah c'était quand il était, il était ;;habillé;; avec une doudoune, euh, un jogging. "
+out_idiom,4322,650,97.85,14.72,"alors, euh, c'était il y ;;a;; à peu près huit, dix ans. "
+something,4073,576,92.21,13.04,"donc, je suis pas ;;allée;; voir, la voir le jour même, parce qu'elle est née euh, je crois qu'elle est née le soir. "
+not_fixed,4322,576,97.85,13.04,"donc, on était tellement, euh, on s'est dit, mais ça se ;;trouve;; c'est vrai, quoi. "
+no_pass,4417.0,576.0,100.0,13.04,
+no_pron,4269,557,96.65,12.61,"donc euh, ouais, il se ;;méfie;;. "

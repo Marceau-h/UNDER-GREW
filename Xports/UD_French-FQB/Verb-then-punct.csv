@@ -1,0 +1,32 @@
+sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC
+FQB_CAF-10,"Je suis en colocation, ",puis,-je bénéficier d'une aide au logement ? ,6,puis,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,4,advcl,_,SpaceAfter=No
+FQB_CAF-11,"Je déménage, ",vais,-je continuer à toucher le même montant d'aide au logement ? ,4,vais,aller,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,2,advcl,_,SpaceAfter=No
+FQB_CAF-14,"Ma situation familiale ou professionnelle change, ",est,-ce que mon aide au logement sera modifiée ? ,8,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6,advcl,_,SpaceAfter=No
+FQB_CLEF03-6,"Où la troupe """"FreightTrain Shakespeare"""" ",présente,"-t-elle """"Henry V"""" ? ",8,présente,présenter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+FQB_CLEF03-199,"Qui a dit : """"",Laissez," Yeltsin prendre sa vodka et la Tchétchénie obtenir sa liberté"""" ? ",6,Laissez,laisser,VERB,_,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,3,ccomp,_,_
+FQB_INSEE-21,"Un de mes enfants loge dans une autre ville pour ses études, ",doit,-il remplir un bulletin individuel ? ,14,doit,devoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5,advcl,_,SpaceAfter=No
+FQB_INSEE-22,"Mon conjoint est absent pendant la semaine pour raisons professionnelles, ",doit,-il remplir un bulletin individuel ? ,12,doit,devoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,advcl,_,SpaceAfter=No
+FQB_INSEE-23,"J'ai la garde alternée de mes enfants, ",dois,-je remplir un bulletin individuel pour eux ? ,10,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,2,advcl,_,SpaceAfter=No
+FQB_Impots-1,"J'ai perdu mon avis d'imposition, ",puis,-je obtenir un duplicata ? ,9,puis,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,3,advcl,_,SpaceAfter=No
+FQB_Impots-19,"Je suis célibataire et apprenti, ",ai,-je droit à la prime pour l'emploi ? ,7,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,3,advcl,_,SpaceAfter=No
+FQB_Impots-21,"Je suis célibataire, divorcé, séparé ou veuf et je n'ai plus d'enfant à charge : ",puis,-je bénéficier d'une ½ part supplémentaire ? ,20,puis,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,3,advcl,_,SpaceAfter=No
+FQB_Impots-31,"Si quelqu'un vient travailler chez moi, ",ai,-je droit à une réduction d'impôt ? ,9,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+FQB_Impots-51,"J'ai fait construire une maison, ",ai,-je droit à une exonération de taxe foncière ? ,2,ai,avoir,AUX,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,4,aux:tense,_,_
+FQB_Impots-56,"Je suis non imposable à l'impôt sur le revenu, ",vais,-je payer une taxe d'habitation ,12,vais,aller,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,4,advcl,_,SpaceAfter=No
+FQB_Impots-57,"Je perçois le RSA, ",dois, je payer ma taxe d'habitation ? ,6,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,2,advcl,_,_
+FQB_Impots-60,"Je n'ai pas de téléviseur mais un ordinateur avec une carte télévision, ",dois,-je payer la contribution à l'audiovisuel public ? ,15,dois,devoir,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,3,advcl,_,SpaceAfter=No
+FQB_Impots-64,"J'ai réalisé une plus-value sur la vente d'un logement qui n'est pas ma résidence principale, ",ai,-je droit à des abattements ? ,2,ai,avoir,AUX,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,3,aux:tense,_,_
+FQB_Impots-65,"Je vais vendre une maison, ",vais,-je payer un impôt ? ,2,vais,aller,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_
+FQB_Impots-66,"J'ai un impôt à payer sur une plus-value immobilière, ",puis,-je déduire les travaux effectués dans ce logement ? ,12,puis,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,2,advcl,_,SpaceAfter=No
+FQB_Impots-71,"Comment puis-je, en tant que particulier, ",obtenir, un certificat (ou quitus fiscal) lorsque j'ai acheté un véhicule dans un pays de l'union européenne ? ,10,obtenir,obtenir,VERB,_,VerbForm=Inf,2,xcomp,_,_
+FQB_PoleEmploi-11,"Vous avez remboursé un trop perçu, ",devez,-vous le déduire ? ,8,devez,devoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,3,advcl,_,SpaceAfter=No
+FQB_PoleEmploi-30,Y - ,a,-t-il des situations d'emploi qui autorisent des critères apparemment discriminatoires ? ,3,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
+FQB_TREC-fr-10-imp,"Nommez le créateur du soulier qui a entraîné des millions d'imitations en plastique, ",connues," sous le noms de """"souliers Jelly"""". ",17,connues,connaître,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,13,acl,_,_
+FQB_TREC-fr-19,"Qui était chef de la secte des davidiens, ",confrontée, par le FBI à Waco (Texas) en 1993 ? ,11,confrontée,confronter,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6,acl,_,_
+FQB_TREC-fr-62,"Quel est le nom de la maladie neurologique chronique auto-immunitaire qui attaque l'enveloppe entourant les cellules nerveuses, ",causant, ainsi une perte graduelle du mouvement dans le corps ? ,20,causant,causer,VERB,_,Tense=Pres|VerbForm=Part,12,advcl,_,_
+FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y compris chez les êtres humains, par lequel des cellules sont programmées à se """"",suicider, ? ,28,suicider,suicider,VERB,_,VerbForm=Inf,24,advcl,_,SpaceAfter=No
+FQB_TREC-fr-609,"Quand """"la Grande dépression"""" ",eut,-elle lieu ? ,7,eut,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0,root,_,SpaceAfter=No
+FQB_TREC-fr-873,"Le """"Kentucky Horse Park"""" ",est, près de quelle ville américaine ? ,7,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+FQB_TREC-fr-1304,Quel président américain est apparu dans l'émission Laugh-In (,Rions,) ? ,11,Rions,rire,VERB,_,Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,9,dep,_,SpaceAfter=No
+FQB_TREC-fr-1312,"Quel représentant du Congrès, originaire du Texas, ",siège, sur le Comité des Forces armées ? ,12,siège,siéger,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+FQB_TREC-fr-1695,"De quelle race était le cheval de Roy Roger, ",nommé, Trigger ? ,11,nommé,nommer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,acl,_,_

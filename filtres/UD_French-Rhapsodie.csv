@@ -1,7 +1,9 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,4215.0,4215.0,100.0,100.0,
-no_obj,873,873,20.71,20.71,"euh, et, euh, c'est vrai qu'on est souvent ;;éloigné;; de son domicile. "
-in_both,2936,690,69.66,16.37,"mesdames et messieurs, je suis heureux de me ;;retrouver;; ce soir parmi vous. "
-five_or_more,2312,515,54.85,12.22,";;perçu;; comme un surdoué de sa génération, son action s'étend aux allées du pouvoir. "
-no_pass,4215.0,515.0,100.0,12.22,
-no_pron,4065,508,96.44,12.05,le livre s';;appelait;; avant La Photographie Absolue. 
+no_obj,873,873,20.71,20.71,"mh, donc, euh, on voit Chaplin, euh, s';;habiller;; pour sortir de son usine. "
+in_both,2936,690,69.66,16.37,elle ;;réfléchit;; parce qu'elle ne baise que dans les voitures. 
+out_idiom,4122,666,97.79,15.8,"eh, oui, pour éviter qu'on dise n'importe quoi à propos de vous sur internet, mieux vaut prendre les devants et diffuser vous-même les infos qui vous ;;concernent;;. "
+something,3822,580,90.68,13.76,"elle s'est ;;ren~;;, répandue assez rapidement quand même aux États-Unis, au Canada, en, en Grande-Bretagne, au , au Royaume-Uni. "
+not_fixed,4122,580,97.79,13.76,"ce, ce chiffre de trente mille, c'est finalement une extrapolation que vous faites, mais à partir de scénarios passés, entre guillemets, raisonnables, mais en tenant compte de ce qu'on a pu ;;faire;; ou surtout de ce qu'on n'a pas pu faire. "
+no_pass,4215.0,580.0,100.0,13.76,
+no_pron,4065,559,96.44,13.26,et on se ;;retrouve;; juste après. 
