@@ -1,25 +1,25 @@
-sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPREL	DEPS	MISC
-FQB_CAF-6	à 	partir	 de quand puis-je bénéficier d'une aide au logement ? 	2	partir	_	VERB	_	VerbForm=Inf	1	fixed	_	_
-FQB_CAF-8	à 	partir	 de quand puis-je bénéficier d'une aide au logement ? 	2	partir	_	VERB	_	VerbForm=Inf	1	fixed	_	_
-FQB_CAF-25	à 	partir	 de quand puis-je bénéficier d'une aide au logement ? 	2	partir	_	VERB	_	VerbForm=Inf	1	fixed	_	_
-FQB_CLEF03-83	Quelle est l'abréviation 	connue	 du fonds des Nations Unis consacré aux enfants ? 	5	connue	connaître	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
-FQB_Impots-25	Comment déclarer les revenus provenant de la location d'un logement 	meublé	 ? 	12	meublé	meubler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
-FQB_PoleEmploi-11	Vous avez remboursé un trop 	perçu	, devez-vous le déduire ? 	6	perçu	_	VERB	_	Tense=Past|VerbForm=Part	5	fixed	_	SpaceAfter=No
-FQB_TREC-fr-57	Quel est l'acronyme du système qui évalue l'efficacité de l'air 	climatisé	 ? 	15	climatisé	climatiser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
-FQB_TREC-fr-85	Quel ancien membre du Ku Klux Klan a remporté un poste 	élu	 aux États-Unis ? 	13	élu	élire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
-FQB_TREC-fr-114	Le nouveau matériau de carbone 	vitrifié	 inventé par l'Institut de Tokyo pour la technologie est combien de fois plus résistant que celui fait de cellulose ? 	6	vitrifié	vitrifier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
-FQB_TREC-fr-138	Comment nomme-t-on le processus normal chez tout être vivant, y 	compris	" chez les êtres humains, par lequel des cellules sont programmées à se """"suicider"""" ? "	13	compris	_	VERB	_	Tense=Past|VerbForm=Part	12	fixed	_	_
-FQB_TREC-fr-234	Qui a construit le premier avion pouvant 	voler	 ? 	8	voler	voler	VERB	_	VerbForm=Inf	7	xcomp	_	_
-FQB_TREC-fr-240	Il y 	a	 combien d'années que le vaisseau Titanic a coulé ? 	3	a	_	VERB	_	Mood=Ind|VerbForm=Fin	1	fixed	_	_
-FQB_TREC-fr-315	Pourquoi les autruches ne peuvent-elles pas 	voler	 ? 	8	voler	voler	VERB	_	VerbForm=Inf	5	xcomp	_	_
-FQB_TREC-fr-441	Quel roi s'est 	vu	 forcé d'accepter la Magna Carta ? 	5	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_
-FQB_TREC-fr-612	Qui a créé la bande 	dessinée	 intitulée Garfield ? 	6	dessinée	dessiner	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
-FQB_TREC-fr-934	"Le tissu nommé """"lin"""" est fabriqué à "	partir	 de quelle plante ? 	10	partir	_	VERB	_	VerbForm=Inf	9	fixed	_	_
-FQB_TREC-fr-1139	Quel est le plus long pont 	suspendu	 des États-Unis ? 	7	suspendu	suspendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
-FQB_TREC-fr-1146	Qu'est-ce qu'Edward Binney et Howard Smith 	on	 inventé en 1903 ? 	10	on	on	VERB	_	Mood=Ind|VerbForm=Fin	11	ccomp	_	_
-FQB_TREC-fr-1200	Quelle fut la première femme 	tuée	 pendant la Guerre du Viêtnam ? 	6	tuée	tuer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
-FQB_TREC-fr-1304	Quel président américain est apparu dans l'émission Laugh-In (	Rions	) ? 	11	Rions	rire	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	dep	_	SpaceAfter=No
-FQB_TREC-fr-1363	Qu'est-ce que l'intérêt 	composé	 ? 	7	composé	composer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
-FQB_TREC-fr-1602	Qui détient le record de l'artiste enfant le mieux 	payé	 ? 	11	payé	payer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
-FQB_TREC-fr-1824	Le vaisseau Magellan a permis aux scientifiques de faire des recherches 	approfondies	 sur quelle planète ? 	13	approfondies	approfondir	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	12	acl	_	_
-FQB_TREC-fr-1835	Qui était l'ennemi 	juré	 de Sherlock Holmes ? 	5	juré	jurer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPREL	DEPS	MISC	dist
+FQB_CAF-6	à 	partir	 de quand puis-je bénéficier d'une aide au logement ? 	2	partir	_	VERB	_	VerbForm=Inf	1	fixed	_	_	-1
+FQB_CAF-8	à 	partir	 de quand puis-je bénéficier d'une aide au logement ? 	2	partir	_	VERB	_	VerbForm=Inf	1	fixed	_	_	-1
+FQB_CAF-25	à 	partir	 de quand puis-je bénéficier d'une aide au logement ? 	2	partir	_	VERB	_	VerbForm=Inf	1	fixed	_	_	-1
+FQB_CLEF03-83	Quelle est l'abréviation 	connue	 du fonds des Nations Unis consacré aux enfants ? 	5	connue	connaître	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_	1
+FQB_Impots-25	Comment déclarer les revenus provenant de la location d'un logement 	meublé	 ? 	12	meublé	meubler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_	-1
+FQB_PoleEmploi-11	Vous avez remboursé un trop 	perçu	, devez-vous le déduire ? 	6	perçu	_	VERB	_	Tense=Past|VerbForm=Part	5	fixed	_	SpaceAfter=No	-1
+FQB_TREC-fr-57	Quel est l'acronyme du système qui évalue l'efficacité de l'air 	climatisé	 ? 	15	climatisé	climatiser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_	-1
+FQB_TREC-fr-85	Quel ancien membre du Ku Klux Klan a remporté un poste 	élu	 aux États-Unis ? 	13	élu	élire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_	-1
+FQB_TREC-fr-114	Le nouveau matériau de carbone 	vitrifié	 inventé par l'Institut de Tokyo pour la technologie est combien de fois plus résistant que celui fait de cellulose ? 	6	vitrifié	vitrifier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_	1
+FQB_TREC-fr-138	Comment nomme-t-on le processus normal chez tout être vivant, y 	compris	" chez les êtres humains, par lequel des cellules sont programmées à se """"suicider"""" ? "	13	compris	_	VERB	_	Tense=Past|VerbForm=Part	12	fixed	_	_	5
+FQB_TREC-fr-234	Qui a construit le premier avion pouvant 	voler	 ? 	8	voler	voler	VERB	_	VerbForm=Inf	7	xcomp	_	_	-1
+FQB_TREC-fr-240	Il y 	a	 combien d'années que le vaisseau Titanic a coulé ? 	3	a	_	VERB	_	Mood=Ind|VerbForm=Fin	1	fixed	_	_	-1
+FQB_TREC-fr-315	Pourquoi les autruches ne peuvent-elles pas 	voler	 ? 	8	voler	voler	VERB	_	VerbForm=Inf	5	xcomp	_	_	-1
+FQB_TREC-fr-441	Quel roi s'est 	vu	 forcé d'accepter la Magna Carta ? 	5	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_	-1
+FQB_TREC-fr-612	Qui a créé la bande 	dessinée	 intitulée Garfield ? 	6	dessinée	dessiner	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_	-1
+FQB_TREC-fr-934	"Le tissu nommé """"lin"""" est fabriqué à "	partir	 de quelle plante ? 	10	partir	_	VERB	_	VerbForm=Inf	9	fixed	_	_	1
+FQB_TREC-fr-1139	Quel est le plus long pont 	suspendu	 des États-Unis ? 	7	suspendu	suspendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_	-1
+FQB_TREC-fr-1146	Qu'est-ce qu'Edward Binney et Howard Smith 	on	 inventé en 1903 ? 	10	on	on	VERB	_	Mood=Ind|VerbForm=Fin	11	ccomp	_	_	-1
+FQB_TREC-fr-1200	Quelle fut la première femme 	tuée	 pendant la Guerre du Viêtnam ? 	6	tuée	tuer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_	3
+FQB_TREC-fr-1304	Quel président américain est apparu dans l'émission Laugh-In (	Rions	) ? 	11	Rions	rire	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	dep	_	SpaceAfter=No	-1
+FQB_TREC-fr-1363	Qu'est-ce que l'intérêt 	composé	 ? 	7	composé	composer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_	-1
+FQB_TREC-fr-1602	Qui détient le record de l'artiste enfant le mieux 	payé	 ? 	11	payé	payer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_	-1
+FQB_TREC-fr-1824	Le vaisseau Magellan a permis aux scientifiques de faire des recherches 	approfondies	 sur quelle planète ? 	13	approfondies	approfondir	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	12	acl	_	_	1
+FQB_TREC-fr-1835	Qui était l'ennemi 	juré	 de Sherlock Holmes ? 	5	juré	jurer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_	-1

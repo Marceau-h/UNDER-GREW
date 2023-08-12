@@ -39,7 +39,15 @@ corpora = [
     'UD_French-ParisStories@2.12',
     'UD_French-Rhapsodie@2.12',
     'UD_Old_French-SRCMF@2.12',
-    'WAC'
+    'WAC1',
+    'WAC2',
+    'WAC3',
+    'WAC4',
+    'WAC5',
+    'WAC6',
+    'WAC7',
+    'WAC8',
+    'WAC9',
 ]
 
 pivot = 'V'  # 'V' or 'O' or 'I' for tsv exports
@@ -145,4 +153,3 @@ for corpus in corpora:
             continue
 
         pbar.update(1)
-

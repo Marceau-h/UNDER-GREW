@@ -66,6 +66,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Xports\UD_French-FQB\fixed-VERB.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\exports\WAC\VERB.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\filtres\UD_French-FQB-all.csv">
           <value>
             <Attribute>
@@ -94,7 +108,35 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\filtres\UD_French-PUD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\filtres\UD_French-ParTUT-all.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\filtres\UD_French-ParTUT.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\filtres\UD_French-ParisStories.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\filtres\UD_French-Rhapsodie.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -109,6 +151,13 @@
           </value>
         </entry>
         <entry key="\filtres\UD_French-Sequoia.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\filtres\UD_Old_French-SRCMF.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

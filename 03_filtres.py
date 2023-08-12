@@ -53,6 +53,10 @@ def atleast(i: int, df: pd.DataFrame, col: str, val: str):
     return len(df[df[col] == val]) >= i
 
 
+def too_close(dist: int, max_dist: int) -> bool:
+    return 0 < dist <= max_dist if dist else False
+
+
 main = Path("Xports")
 filtres = Path("filtres")
 filtres.mkdir(exist_ok=True)
@@ -117,6 +121,12 @@ for subdir in main.iterdir():
 
     for_stats["not_fixed"] = stats(df_not_fixed, df_all, df_all_pristine)
 
+
+    df_too_close = df_all_pristine[df_all_pristine["dist"].apply(lambda x: too_close(x, 3))]
+    df_all = df_all[df_all["dist"].apply(lambda x: too_close(x, 3))]
+
+    for_stats["too_close"] = stats(df_too_close, df_all, df_all_pristine)
+
     # five_or_more = [x for x in lst_lemmas_all if lst_lemmas_all.count(x) >= 5]
     #
     # df_five_or_more = df_all_pristine[df_all_pristine["LEMMA"].isin(five_or_more)]
@@ -139,7 +149,6 @@ for subdir in main.iterdir():
 
     for_stats["no_pron"] = stats(df_no_pron, df_all, df_all_pristine)
 
-
     # for k, v in for_stats.items():
     #     print(k)
     #     for k2, v2 in v.items():
@@ -156,6 +165,7 @@ for subdir in main.iterdir():
         "out_idiom": {s for s in df_out_idiom["sent_id"].tolist()},
         "something": {s for s in df_something["sent_id"].tolist()},
         "not_fixed": {s for s in df_not_fixed["sent_id"].tolist()},
+        "too_close": {s for s in df_too_close["sent_id"].tolist()},
         # "five_or_more": {s for s in df_five_or_more["sent_id"].tolist()},
         "no_pass": {s for s in df_no_pass["sent_id"].tolist()},
         "no_pron": {s for s in df_no_pron["sent_id"].tolist()},
@@ -170,8 +180,19 @@ for subdir in main.iterdir():
         show_percentages=True,
     )
 
-    set_labels = {"all", "no_obj", "in_both", "out_idiom", "something", "not_fixed", "no_pass", "no_pron"}
-    colors = ["#e41a1c", "#377eb8", "#4daf4a", "#984ea3", "#ff7f00", "#a65628", "#f781bf", "#999999"]
+    set_labels = {
+        "all",
+        "no_obj",
+        "in_both",
+        "out_idiom",
+        "something",
+        "not_fixed",
+        "too_close",
+        # "five_or_more",
+        "no_pass",
+        "no_pron",
+    }
+    colors = ["#e41a1c", "#377eb8", "#4daf4a", "#984ea3", "#ff7f00", "#a65628", "#f781bf", "#999999", "#000000"]
 
     for s, c in zip(set_labels, colors):
         upset.style_subsets(

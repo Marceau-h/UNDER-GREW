@@ -1,9 +1,10 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,1890.0,1890.0,100.0,100.0,
-no_obj,208,208,11.01,11.01,Combien de chromosomes ;;compte;; un zygote humain ? 
-in_both,464,74,24.55,3.92,Combien d'habitants y ;;a;;-t-il au Chili ? 
+no_obj,208,208,11.01,11.01,Comment ;;appelle;;-t-on un dessinateur de carte géographique professionnel ? 
+in_both,464,74,24.55,3.92,"Comment nomme-t-on le processus normal chez tout être vivant, y compris chez les êtres humains, par lequel des cellules sont ;;programmées;; à se """"suicider"""" ? "
 out_idiom,1890.0,74.0,100.0,3.92,
-something,1832,65,96.93,3.44,Quel est le plus long pont ;;suspendu;; des États-Unis ? 
-not_fixed,1868,65,98.84,3.44,à partir de quand puis-je ;;bénéficier;; d'une aide au logement ? 
-no_pass,1643,19,86.93,1.01,Quand fut ;;fondé;; le parti des Panthères noires en Californie ? 
-no_pron,1755,16,92.86,0.85,Quelle ville se ;;trouve;; au bord du lac Washington ? 
+something,1832,65,96.93,3.44,Quel est l'acronyme du système qui ;;évalue;; l'efficacité de l'air climatisé ? 
+not_fixed,1868,65,98.84,3.44,à ;;partir;; de quand puis-je bénéficier d'une aide au logement ? 
+too_close,659,8,34.87,0.42,Je ;;viens;; de me mensualiser pour la taxe foncière. 
+no_pass,1643,2,86.93,0.11,Quel dirigeant français a été ;;défait;; à la bataille de Waterloo ? 
+no_pron,1755,2,92.86,0.11,Qui fut la première femme à se ;;présenter;; pour le poste de président ? 

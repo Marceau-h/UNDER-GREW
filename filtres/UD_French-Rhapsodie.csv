@@ -1,9 +1,10 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,4215.0,4215.0,100.0,100.0,
-no_obj,873,873,20.71,20.71,"mh, donc, euh, on voit Chaplin, euh, s';;habiller;; pour sortir de son usine. "
-in_both,2936,690,69.66,16.37,elle ;;réfléchit;; parce qu'elle ne baise que dans les voitures. 
-out_idiom,4122,666,97.79,15.8,"eh, oui, pour éviter qu'on dise n'importe quoi à propos de vous sur internet, mieux vaut prendre les devants et diffuser vous-même les infos qui vous ;;concernent;;. "
-something,3822,580,90.68,13.76,"elle s'est ;;ren~;;, répandue assez rapidement quand même aux États-Unis, au Canada, en, en Grande-Bretagne, au , au Royaume-Uni. "
-not_fixed,4122,580,97.79,13.76,"ce, ce chiffre de trente mille, c'est finalement une extrapolation que vous faites, mais à partir de scénarios passés, entre guillemets, raisonnables, mais en tenant compte de ce qu'on a pu ;;faire;; ou surtout de ce qu'on n'a pas pu faire. "
-no_pass,4215.0,580.0,100.0,13.76,
-no_pron,4065,559,96.44,13.26,et on se ;;retrouve;; juste après. 
+no_obj,873,873,20.71,20.71,il n'y a que les hommes qui travaillent avec moi ou qui ont ;;travaillé;; avec moi qui pourraient vous répondre. 
+in_both,2936,690,69.66,16.37,il ;;est;; à l'opéra de Vienne. 
+out_idiom,4122,666,97.79,15.8,"on sera monté jusqu'au niveau cinq, euh, d'une échelle qui en ;;compte;; six en ce qui concerne bien entendu les niveaux d'alerte, euh. "
+something,3822,580,90.68,13.76,"moi, je vous conseillerais de, d'aller tout, euh, de ;;traverser;; les jardins de ville. "
+not_fixed,4122,580,97.79,13.76,"ou j'en ai au sens de philosophes qui peuvent intervenir y ;;compris;; sur ce champ-là, quoi. "
+too_close,1272,100,30.18,2.37,"donc, qu'est-ce que je peux ;;apprendre;; ? "
+no_pass,4215.0,100.0,100.0,2.37,
+no_pron,4065,95,96.44,2.25,"le point de vue du spectateur, le point de vue esthétique se ;;dégage;;, euh, à la fin du dix-septième siècle, au dix-huitième siècle. "

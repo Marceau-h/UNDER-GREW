@@ -1,9 +1,10 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,4417.0,4417.0,100.0,100.0,
-no_obj,938,938,21.24,21.24,"et vu qu'on ;;avait;; tous, pff … "
-in_both,3384,694,76.61,15.71,"donc, la première fois que je l'ai rencontré du coup, bah c'était quand il était, il était ;;habillé;; avec une doudoune, euh, un jogging. "
-out_idiom,4322,650,97.85,14.72,"alors, euh, c'était il y ;;a;; à peu près huit, dix ans. "
-something,4073,576,92.21,13.04,"donc, je suis pas ;;allée;; voir, la voir le jour même, parce qu'elle est née euh, je crois qu'elle est née le soir. "
-not_fixed,4322,576,97.85,13.04,"donc, on était tellement, euh, on s'est dit, mais ça se ;;trouve;; c'est vrai, quoi. "
-no_pass,4417.0,576.0,100.0,13.04,
-no_pron,4269,557,96.65,12.61,"donc euh, ouais, il se ;;méfie;;. "
+no_obj,938,938,21.24,21.24,"et, euh, du coup, ben, euh, on y ;;a;; quand même, euh. "
+in_both,3384,694,76.61,15.71,"euh, et on a ;;atterri;;, euh, dans un cimetière. "
+out_idiom,4322,650,97.85,14.72,"donc, après, on, on est partie, s~, se, euh, ;;recoucher;;, en espérant que il se passe rien. "
+something,4073,576,92.21,13.04,"en fait, euh, je partais trois semaines par le biais d'une colonie, avec des amis, et euh, un organisme qui s';;appelle;; Grandir Aventure. "
+not_fixed,4322,576,97.85,13.04,"c'était il y ;;a;; très, très, bah oui, euh … "
+too_close,1306,112,29.57,2.54,"il y avait d'abord, euh, un jour, euh, enfin quelques jours avant le tournage, on devait aller, euh, dans le studio pour, euh, essayer le et notre costume euh avec la costumière, et euh, pour qu'ils regardent, euh, nos cheveux pour voir, euh, quelle coiffure ils ;;pouvaient;; nous faire. "
+no_pass,4417.0,112.0,100.0,2.54,
+no_pron,4269,109,96.65,2.47,"et euh la journée se ;;passe;;, ça se passe très bien. "

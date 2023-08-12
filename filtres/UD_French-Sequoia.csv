@@ -1,9 +1,10 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,5889.0,5889.0,100.0,100.0,
-no_obj,673,673,11.43,11.43,"En effet, l'article 18 du contrat Bravo ;;interdisait;; explicitement de rémunérer des intermédiaires. "
-in_both,2741,430,46.54,7.3,"Le film de Stanley Kubrick, Les Sentiers de la gloire, qui reste une fiction relative aux fusillés pour l'exemple de la Première Guerre mondiale, s'est ;;inspiré;; en partie de ce fait réel. "
-out_idiom,5634,363,95.67,6.16,"Aux législatives de 2002, le scrutin uninominal majoritaire à deux tours ne permettait que des mesures incitatives, à savoir des pénalités financières ;;portant;; sur l'aide publique de l'Etat aux partis politiques. "
-something,5101,251,86.62,4.26,Il explique comment le comité des médicaments à usage humain (CHMP) a évalué les études réalisées afin d';;aboutir;; à ses recommandations relatives aux conditions d'utilisation du médicament. 
-not_fixed,5634,251,95.67,4.26,"De plus, je suis très satisfait de la réponse de M. Lamy -il ne pouvait en être autrement étant ;;donné;; que M. Lamy connaît bien ces sujets- de décentraliser la campagne d'information. "
-no_pass,4394,111,74.61,1.88,"Or, il est ;;pris;; en otage et traité comme un prisonnier de guerre. "
-no_pron,5620,96,95.43,1.63,Le juge d'Amiens se ;;dessaisit;; du dossier. 
+no_obj,673,673,11.43,11.43,"Le dirigeant de la Somatem, lui, avait confirmé, sur procès-verbal, que ce marché devait entraîner """"le versement d'une commission d'entre 1% et 5% du montant du marché, dont le paiement devait s';;effectuer;; à l'étranger"""". "
+in_both,2741,430,46.54,7.3,Elle a beaucoup voyagé et surtout ;;changé;; d'employeur. 
+out_idiom,5634,363,95.67,6.16,"La concurrence réduit l'efficacité de telles solutions, tandis qu'il en résulte un effet secondaire, à ;;savoir;; que sur d'autres aéroports, le niveau des nuisances sonores produites sera plus important. "
+something,5101,251,86.62,4.26,"Je voudrais rappeler à cet égard, qu'il y ;;a;; quelques semaines, 80 000 jeunes des pays de l'Union européenne ont participé à un concours pour la recherche d'une devise pour l'Europe et que la devise qui a été finalement retenue par un grand jury a été """"L'unité dans la diversité"""". "
+not_fixed,5634,251,95.67,4.26,"C'est pourquoi nous avons besoin d'une coordination sur le plan européen, sans pour autant empiéter sur la compétence des tribunaux nationaux en ce qui ;;concerne;; la conduite de la procédure. "
+too_close,3895,113,66.14,1.92,"- De même, les mirages 2000 ;;fournis;; à Taiwan en 1992 pourraient échouer à Singapour. "
+no_pass,4394,41,74.61,0.7,"Le taux d'incidence des fractures de hanche était de 1,44% chez les patients traités par Aclasta par rapport à 2,49% chez les patientes ;;traitées;; par placebo. "
+no_pron,5620,32,95.43,0.54,"Les valeurs minimales s';;observent;; après 7 jours pour les marqueurs de résorption, et après 12 semaines pour les marqueurs de formation. "

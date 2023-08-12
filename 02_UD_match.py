@@ -5,6 +5,10 @@ from io import StringIO
 import pandas as pd
 from tqdm.auto import tqdm
 
+import spacy
+
+nlp = spacy.load("fr_core_news_sm")
+
 columns = "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC".split()
 
 ud_dir = Path("UD")
@@ -21,6 +25,26 @@ def conllu_to_dict(conllu):
     return conllu
 
 
+def last_name(s: str) -> int:
+    s = nlp(s)
+    for i, t in enumerate(reversed(s)):
+        if t.pos_ == "NOUN":
+            return i
+
+    return -1
+
+def first_name(s: str) -> int:
+    s = nlp(s)
+    for i, t in enumerate(s):
+        if t.pos_ == "NOUN":
+            return i
+
+    return -1
+
+def dist_name(right: str, left: str) -> int:
+    return min(last_name(right), first_name(left))
+
+
 for subfolder in tqdm(list(ud_dir.iterdir())):
     print(f"{subfolder.name}")
     # if subfolder.name == "WAC":
@@ -28,6 +52,13 @@ for subfolder in tqdm(list(ud_dir.iterdir())):
 
     if not subfolder.is_dir():
         print(f"{subfolder.name} is not a folder")
+        continue
+
+    if subfolder.name[-1].isdigit():
+        print(f"{subfolder.name} is a number")
+        continue
+
+    if "WAC" != subfolder.name:
         continue
 
     all_txt = StringIO()
@@ -43,36 +74,48 @@ for subfolder in tqdm(list(ud_dir.iterdir())):
     exports_sub = exports_dir / subfolder.name
 
     for export in exports_sub.glob("*.csv"):
-        df = pd.read_csv(export).fillna("")
+        df = pd.read_csv(export, low_memory=False)  # .fillna("")
+
+        # df["left_context"] = df["left_context"].fillna("")
+        # df["right_context"] = df["right_context"].fillna("")
 
         pivot_datas = []
         for line, row in df.iterrows():
             try:
                 sent = sents[str(row["sent_id"])]
             except Exception as e:
-
                 print(f"{row['sent_id'] = }")
                 print(f"{subfolder.name = }")
                 print(sents)
                 raise
 
             left = row["left_context"]
+            left = left if not (isinstance(left, float) or pd.isna(left)) else ""
             pivot = row["pivot"]
+            pivot = pivot if not isinstance(pivot, float) else ""
             pivot = pivot.replace('""', '"')
+            right = row["right_context"]
+            right = right if not isinstance(right, float) else ""
+
+            dist = dist_name(right, left)
+
 
             if pivot == "":
                 print(f"{row['sent_id'] = }")
                 print(f"{subfolder.name = }")
                 print(f"{left = }")
                 print(f"{pivot = }")
-                raise Exception("pivot is empty")
+                # raise Exception("pivot is empty")
+                print("pivot is empty")
+                continue
             try:
                 # count = left.count(pivot) if left != "" else 0
-                count = sum(1 for e in left if e == pivot)
-                count -= sum(1 for e in re.findall(fr"\w*{re.escape(pivot)}\w*", left) if e)
+                count = sum(1 for e in re.findall(fr"\W{re.escape(pivot)}\W", right) if e) + sum(1 for e in re.findall(fr"^{re.escape(pivot)}(\b)", left) if e) + sum(1 for e in re.findall(fr"(\b){re.escape(pivot)}$", left) if e)
                 # print(count)
                 # print(left)
                 count = count if count >= 0 else 0
+
+
 
             except:
                 print(left)
@@ -86,14 +129,21 @@ for subfolder in tqdm(list(ud_dir.iterdir())):
             try:
                 token_nb = words.index(pivot, count)
             except:
-                print(f"{words = }")
-                print(f"{pivot = }")
-                print(f"{count = }")
-                print(f"{subfolder.name = }")
-                raise
+                try:
+                    token_nb = words.index(pivot)
+
+                except:
+                    print(row)
+                    print(f"{words = }")
+                    print(f"{pivot = }")
+                    print(f"{count = }")
+                    print(f"{subfolder.name = }")
+                    raise
+
             # print(sent[token_nb])
 
             pivot_data = sent[token_nb]
+            pivot_data["dist"] = dist
 
             pivot_datas.append(pivot_data)
 
@@ -110,7 +160,12 @@ for subfolder in tqdm(list(ud_dir.iterdir())):
 
         df.to_csv(Xport.with_suffix('.csv'), index=False)
         df.to_csv(Xport.with_suffix('.tsv'), sep="\t", index=False)
-        df.to_excel(Xport.with_suffix('.xlsx'), index=False)
+        try:
+            df.to_excel(Xport.with_suffix('.xlsx'), index=False)
+        except ValueError:
+            print(f"{subfolder.name = }")
+            print(f"{export.name = }")
+            pass
         df.to_pickle(Xport.with_suffix('.pkl'))
         df.to_json(Xport.with_suffix('.jsonl'), orient='records', lines=True)
         df.to_json(Xport.with_suffix('.json'), orient='records')

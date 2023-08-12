@@ -1,9 +1,10 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,31769.0,31769.0,100.0,100.0,
-no_obj,3276,3276,10.31,10.31,"Chirurgien ophtalmologue formé en Europe, il ;;nourrit;; son projet révolutionnaire d'une conception inspirée par ses lectures de Don Quichotte. "
-in_both,23958,2577,75.41,8.11,"Platon est un moderne, ;;fasciné;; par le pouvoir de l'esprit. "
-out_idiom,31016,2310,97.63,7.27,"Étant donné l'ampleur du débat, la revue la """"Nouvelle critique"""" accepte de ;;publier;;, parmi quelques contributions d'instituteurs communistes membres du mouvement Freinet, une longue lettre signée P. Cahen (il s'agit de Pauline Cahen). "
-something,29091,1786,91.57,5.62,"À ce premier étage de rémunération, qui varie de 2 600 à 5000 euros (hors emplois fonctionnels), s'ajoute une """"part variable"""" qui ;;évolue;; annuellement, en fonction du grade détenu et du poste occupé, de 8 500 à 20 000 euros. "
-not_fixed,31016,1786,97.63,5.62,"La conférence est ;;sortie;; avec une conclusion clef, à savoir que le Conseil national de transition libyen est responsable des armes en circulation. "
-no_pass,24071,1011,75.77,3.18,La Chaise à porteur enchantée est un film de Georges Méliès ;;sorti;; en 1905 au début du cinéma muet. 
-no_pron,29672,873,93.4,2.75,"Nikkatsu, une importante firme de cinéma japonaise, se ;;bat;; pour sa survie. "
+no_obj,3276,3276,10.31,10.31,"Au recensement de 2011, il ;;comptait;; 74 habitants. "
+in_both,23958,2577,75.41,8.11,"Amália Rodrigues ;;décède;; le 6 octobre 1999 à l'âge de soixante-dix-neuf ans, des suites d'une maladie du cœur, quelque temps après son retour de sa maison de vacances dans l'Alentejo. "
+out_idiom,31016,2310,97.63,7.27,"En mars 2009, ils ont remporté leur deuxième titre de champions du monde d'affilée, en plus de ;;battre;; leur record personnel pour un programme court et un score total. "
+something,29091,1786,91.57,5.62,"Sa première saison, bien que timide (7,6 points de moyenne, 6 matchs démarrés sur 71), laisse entrevoir toutes les capacités du joueur, même s'il doit ;;apprendre;; les rudiments du jeu collectif, n'étant pas passé par l'Université. "
+not_fixed,31016,1786,97.63,5.62,"Par exemple, une marche ;;empruntant;; les trois premières notes du motif en croix se reproduit huit fois de suite à partir de la mesure 47. "
+too_close,19853,865,62.49,2.72,Il ;;évolue;; au poste d'ailier gauche. 
+no_pass,24071,480,75.77,1.51,"Le canton de Besançon-Ouest est une division administrative française, ;;située;; dans le département du Doubs et la région Franche-Comté. "
+no_pron,29672,406,93.4,1.28,Ils se ;;situent;; eux aussi dans le département de l'Aube. 

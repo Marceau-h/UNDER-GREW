@@ -1,9 +1,10 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,2255.0,2255.0,100.0,100.0,
-no_obj,197,197,8.74,8.74,"A Paris, on ;;savait;; déjà ce qui s’était passé ; le prix du pain, qui restait élevé, et l’absence de provisions contribuaient davantage à une atmosphère déjà tendue. "
-in_both,620,105,27.49,4.66,"De toute façon, je ;;vais;; en prison, j'espère que ça en valait la peine. "
+no_obj,197,197,8.74,8.74,"Le Bogdo Khan ;;déclara;; que la Mongolie et la Chine avaient été dirigées par les Manchu lorsque les Qing étaient au pouvoir, et qu'après la chute de la dynastie Qing en 1911, le contrat de soumission des Mongols aux Manchu était rompu et nul. "
+in_both,620,105,27.49,4.66,"En danois, le mot peut aussi ;;désigner;; des lagons peu profonds. "
 out_idiom,2255.0,105.0,100.0,4.66,
-something,2127,70,94.32,3.1,"Le baptême forcé était contraire à la loi de l’Église catholique, et en théorie, toute personne qui était baptisée de force ;;pouvait;; légalement retourner au judaïsme. "
-not_fixed,2208,70,97.92,3.1,"A partir du seizième siècle, les Européens de passage dans la région des Caraïbes ;;distinguèrent;; la « mer du Sud » (l'océan Pacifique, jusqu'au sud de l'isthme de Panama) et la « mer du Nord » (la mer des Caraïbes, jusqu'au nord du même isthme). "
-no_pass,2255.0,70.0,100.0,3.1,
-no_pron,2155,70,95.57,3.1,"Au parc de la Porte-d’ Or, qui est long de plus de quatre kilomètres, se ;;trouvent;; un jardin botanique, un planétarium, un jardin japonais et un aquarium. "
+something,2127,70,94.32,3.1,"A l'aide d'une nouvelle technique, Shen déblaya le canal avec succès et ;;put;; démontrer l'utilité du limon amassé en tant qu'engrais. "
+not_fixed,2208,70,97.92,3.1,Une théologie appropriée ;;devra;; donc être construite compte tenu de son objectif. 
+too_close,1457,27,64.61,1.2,"« Nous avons demandé à d'autres pays de nous aider à remplir le zoo de différentes espèces d'animaux, y compris d'un porc » a ;;indiqué;; Saqib. "
+no_pass,2255.0,27.0,100.0,1.2,
+no_pron,2155,27,95.57,1.2,Même si la plupart des situations qui se ;;présentaient;; en entreprise finissaient par se résoudre sans conflit. 
