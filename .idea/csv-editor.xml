@@ -80,6 +80,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\exports\WAC\fixed-VERB.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\filtres\UD_French-FQB-all.csv">
           <value>
             <Attribute>

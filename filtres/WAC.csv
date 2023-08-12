@@ -1,7 +1,10 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
-all,119117.0,119117.0,100.0,100.0,
-no_obj,21246,21246,17.84,17.84,La famille des Alcidés ;;comprend;; les pingouins et les guillemots.
-in_both,108935,17239,91.45,14.47,Les marins ont été ;;hospitalisés;; à Agadir.
-five_or_more,97704,15120,82.02,12.69,"De formation, je suis ;;dessinateur;;."
-no_pass,108208,13436,90.84,11.28,Certaines propositions des parents d'élèves ont été ;;prises;; en considération.
-no_pron,112255,12707,94.24,10.67,Lieux des concours Les épreuves écrites se ;;déroulent;; en principe à la maison des examens.
+all,1794665.0,1794665.0,100.0,100.0,
+no_obj,317950,317950,17.72,17.72,Enfin on en apprends plus sur les pouvoirs de l'Arbre avant une course poursuite pour ;;protéger;; une élève.
+in_both,1744057,288528,97.18,16.08,Il est ;;riche;; en cations biogènes.
+out_idiom,1794665.0,288528.0,100.0,16.08,
+something,1474879,163715,82.18,9.12,La Cour suprême ;;a;; par ailleurs demandé aux organisations de défense de l'environnement de cesser de manifester publiquement contre l'entrée du Clemenceau en Inde.
+not_fixed,1750810,163715,97.56,9.12,"Son rôle est d';;empêcher;; l'inflation monétaire, mais l'échec du système à partir de 1937 conduit Schacht à démissionner."
+too_close,1077081,75887,60.02,4.23,"En début de matinée, l'action ;;perdait;; 1,57% à 56,30 francs suisses à la Bourse de Zurich."
+no_pass,1625926,68045,90.6,3.79,"En 2004, sur les 116 bateaux au départ, presque la moitié n'était pas ;;arrivé;;."
+no_pron,1689306,63294,94.13,3.53,L'équipement et la mise en réseau sur Internet de ces écoles s';;avère;; un moyen efficace de pallier leur fragilité.
