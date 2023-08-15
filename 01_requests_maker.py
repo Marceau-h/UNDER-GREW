@@ -1,9 +1,7 @@
 import json
-from pprint import pprint
 import http.client
 import urllib.parse
 from time import sleep
-from io import StringIO
 
 import pandas as pd
 from tqdm.auto import tqdm
@@ -78,20 +76,6 @@ for corpus in corpora:
         "clust2":"no"
         }""" % (pat_value, corpus)
 
-        # payload = f"""
-        # {{"pattern":{pat_value},",
-        # "corpus":"{corpus}",
-        # "lemma":true,
-        # "upos":true,
-        # "xpos":false,
-        # "features":true,
-        # "tf_wf":false,
-        # "order":"init",
-        # "context":false,
-        # "clust1":"no",
-        # "clust2":"no"
-        # }}"""
-
         payload = f"param={urllib.parse.quote(payload)}"
 
         headers = {'content-type': "application/x-www-form-urlencoded"}
@@ -103,16 +87,12 @@ for corpus in corpora:
 
         data = json.loads(data.decode("utf-8"))
 
-        # print(data)
-
         try:
             uuid = data["data"]["uuid"]
         except KeyError:
             print(pattern)
             print(data)
             raise
-
-        # print(uuid)
 
         payload = f"param=%7B%22uuid%22%3A%22{uuid}%22%2C%22pivot%22%3A%22{pivot}%22%7D"
 
@@ -123,8 +103,6 @@ for corpus in corpora:
 
         assert json.loads(data.decode("utf-8"))["status"] == "OK", "Creation of export failed"
         sleep(1)  # wait for the export to be ready
-
-        # print(data.decode("utf-8"))
 
         conn.request("GET", f"/data/{uuid}/export.tsv", "", headers)
 
@@ -142,10 +120,6 @@ for corpus in corpora:
             df = pd.read_csv(pat_file, sep='\t', low_memory=False)
 
             df.to_csv(pat_file.with_suffix('.csv'), index=False)
-            # df.to_excel(pat_file.with_suffix('.xlsx'), index=False)
-            # df.to_pickle(pat_file.with_suffix('.pkl'))
-            # df.to_json(pat_file.with_suffix('.jsonl'), orient='records', lines=True)
-            # df.to_json(pat_file.with_suffix('.json'), orient='records')
 
         except pd.errors.ParserError:
             print(f"\nParsing error for {pat_file}\nfile of {len(tsv.splitlines())} lines")

@@ -2,7 +2,10 @@ openpyxl
 
 pandas~=2.0.3
 tqdm~=4.65.0
-spacy
+spacy~=3.6.0
 fr_core_news_sm @https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.6.0/fr_core_news_sm-3.6.0.tar.gz
 
 xlsxwriter
+
+matplotlib~=3.7.2
+UpSetPlot~=0.8.0

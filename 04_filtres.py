@@ -1,9 +1,9 @@
-import matplotlib.pyplot as plt
-import pandas as pd
 from pathlib import Path
-from upsetplot import from_contents, UpSet, plot
 from random import randint
 
+import matplotlib.pyplot as plt
+from upsetplot import from_contents, UpSet
+import pandas as pd
 
 def make_percent(a: int, b: int):
     return round(a / b * 100, 2)
@@ -70,10 +70,6 @@ for subdir in main.iterdir():
 
     for_stats = {}
 
-    # test_all = Path("Xports/UD_French-GSD/VERB.csv")
-    # test_direct = Path("Xports/UD_French-GSD/VERB-direct-obj.csv")
-    # test_no_direct = Path("Xports/UD_French-GSD/VERB-no-direct-obj.csv")
-
     file_all = subdir / "VERB.csv"
     file_direct = subdir / "VERB-direct-obj.csv"
     file_no_obj = subdir / "VERB-no-obj.csv"
@@ -121,18 +117,17 @@ for subdir in main.iterdir():
 
     for_stats["not_fixed"] = stats(df_not_fixed, df_all, df_all_pristine)
 
-
     df_too_close = df_all_pristine[df_all_pristine["dist"].apply(lambda x: too_close(x, 3))]
     df_all = df_all[df_all["dist"].apply(lambda x: too_close(x, 3))]
 
     for_stats["too_close"] = stats(df_too_close, df_all, df_all_pristine)
 
-    # five_or_more = [x for x in lst_lemmas_all if lst_lemmas_all.count(x) >= 5]
-    #
-    # df_five_or_more = df_all_pristine[df_all_pristine["LEMMA"].isin(five_or_more)]
-    # df_all = df_all[df_all["LEMMA"].isin(five_or_more)]
-    #
-    # for_stats["five_or_more"] = stats(df_five_or_more, df_all, df_all_pristine)
+    five_or_more = [x for x in lst_lemmas_all if lst_lemmas_all.count(x) >= 5]
+
+    df_five_or_more = df_all_pristine[df_all_pristine["LEMMA"].isin(five_or_more)]
+    df_all = df_all[df_all["LEMMA"].isin(five_or_more)]
+
+    for_stats["five_or_more"] = stats(df_five_or_more, df_all, df_all_pristine)
 
     lst_feats_all = df_all_pristine["FEATS"].tolist()
 
@@ -149,11 +144,6 @@ for subdir in main.iterdir():
 
     for_stats["no_pron"] = stats(df_no_pron, df_all, df_all_pristine)
 
-    # for k, v in for_stats.items():
-    #     print(k)
-    #     for k2, v2 in v.items():
-    #         print(f"\t{k2}: {v2}")
-
     df_all.to_csv(filtres / f"{subdir.name}-all.csv")
     df = pd.DataFrame(for_stats).T
     df.to_csv(filtres / f"{subdir.name}.csv")
@@ -166,7 +156,7 @@ for subdir in main.iterdir():
         "something": {s for s in df_something["sent_id"].tolist()},
         "not_fixed": {s for s in df_not_fixed["sent_id"].tolist()},
         "too_close": {s for s in df_too_close["sent_id"].tolist()},
-        # "five_or_more": {s for s in df_five_or_more["sent_id"].tolist()},
+        "five_or_more": {s for s in df_five_or_more["sent_id"].tolist()},
         "no_pass": {s for s in df_no_pass["sent_id"].tolist()},
         "no_pron": {s for s in df_no_pron["sent_id"].tolist()},
     }
@@ -188,26 +178,19 @@ for subdir in main.iterdir():
         "something",
         "not_fixed",
         "too_close",
-        # "five_or_more",
+        "five_or_more",
         "no_pass",
         "no_pron",
     }
     colors = ["#e41a1c", "#377eb8", "#4daf4a", "#984ea3", "#ff7f00", "#a65628", "#f781bf", "#999999", "#000000"]
 
     for s, c in zip(set_labels, colors):
-        upset.style_subsets(
-            present=set_labels - {s},
-            absent={s},
-            facecolor=c,
-        )
+        upset.style_subsets(present=set_labels - {s}, absent={s}, facecolor=c)
 
     fig = plt.figure()
     fig.figsize = (20, 40)
-    # fig.legend(loc=7)
 
-    upset.make_grid(
-        fig
-    )
+    upset.make_grid(fig)
 
     upset.plot(fig=fig)
 
