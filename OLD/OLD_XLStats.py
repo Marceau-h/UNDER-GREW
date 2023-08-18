@@ -7,8 +7,8 @@ def save_to_sheet(df, sheet, writer):
     df.to_excel(writer, sheet_name=sheet, index=True, header=True)
 
 
-main = Path("Xports")
-stats_folder_main = Path("stats")
+main = Path("../Xports")
+stats_folder_main = Path("../stats")
 
 for mode in ("pivot", "LEMMA"):
     stats_folder = stats_folder_main / mode
