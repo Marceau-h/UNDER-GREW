@@ -1,17 +1,20 @@
 import re
+from io import StringIO
+from pathlib import Path
+from multiprocessing import Pool, cpu_count
 
 import spacy
 from tqdm.auto import tqdm
-from io import StringIO
-from pathlib import Path
 
-WAC = Path("UD/WAC")
+
+WAC = Path("../UD/WAC")
 WAC.mkdir(exist_ok=True, parents=True)
 
-nlp = spacy.load("fr_core_news_sm")
+# nlp = spacy.load("fr_core_news_sm")
+nlp = spacy.load("fr_dep_news_trf")
 
-# file = "/home/marceau/Téléchargements/fra_mixed_2009_1M/fra_mixed_2009_1M-sentences.txt"
-file = r"C:\Users\marce\Downloads\fra_mixed_2009_1M\fra_mixed_2009_1M-sentences.txt"
+file = "/home/marceau/Téléchargements/fra_mixed_2009_1M/fra_mixed_2009_1M-sentences.txt"
+# file = r"C:\Users\marce\Downloads\fra_mixed_2009_1M\fra_mixed_2009_1M-sentences.txt"
 
 
 def clean(s: str) -> str:
@@ -46,21 +49,10 @@ def get_all(sent):
     ]
 
 
-with open(file, "r", encoding="utf-8") as f:
-    lines = f.readlines()
-
-# lines = lines[:10000]
-segments = []
-len_seg = 30_000
-for i in range(0, len(lines), len_seg):
-    end = min(len(lines), i + len_seg)
-    segments.append(lines[i:end])
-
-batch_first_sent_id = 1
-for i, segment in enumerate(segments):
-    batch_last_sent_id = batch_first_sent_id + len(segment) - 1
-
-    pbar = tqdm(segment, total=len(segment), desc=f"Fichier {i + 1}/{len(segments)} : ", leave=False)
+def process_segment(segment, batch_first_sent_id, batch_last_sent_id):
+    # print(f"Processing segment {i + 1}/{len(segments)}")
+    # pbar = tqdm(segment, total=len(segment), desc=f"Fichier {i + 1}/{len(segments)} : ", leave=False)
+    pbar = segment
 
     srtio = StringIO()
     srtio.write("# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC\n")
@@ -86,4 +78,35 @@ for i, segment in enumerate(segments):
     with open(WAC / f"{batch_first_sent_id}_{batch_last_sent_id}.conllu", "w", encoding="utf-8") as f:
         f.write(srtio.getvalue())
 
+
+with open(file, "r", encoding="utf-8") as f:
+    lines = f.readlines()
+
+# lines = lines[:10000]
+segments = []
+len_seg = 30_000
+for i in range(0, len(lines), len_seg):
+    end = min(len(lines), i + len_seg)
+    segments.append(lines[i:end])
+
+batch_first_sent_id = 1
+
+batches_first_sent_id = []
+batches_last_sent_id = []
+
+for i, segment in enumerate(segments):
+    batch_last_sent_id = batch_first_sent_id + len(segment) - 1
+    batches_first_sent_id.append(batch_first_sent_id)
+    batches_last_sent_id.append(batch_last_sent_id)
     batch_first_sent_id = batch_last_sent_id + 1
+
+
+# for i, segment in enumerate(segments):
+#     process_segment(segment, i, batches_first_sent_id[i], batches_last_sent_id[i])
+
+with Pool(cpu_count()) as p:
+    p.starmap(
+        process_segment,
+        [(segment, first, last) for segment, first, last in zip(segments, batches_first_sent_id, batches_last_sent_id)],
+    )
+

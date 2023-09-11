@@ -10,6 +10,7 @@ WAC = Path("UD/WAC_test")
 WAC.mkdir(exist_ok=True, parents=True)
 
 nlp = spacy.load("fr_core_news_sm")
+# TODO: Try with the transformer model instead of the sm one (and maybe with the lg one too)
 # spacy.prefer_gpu()
 # nlp = spacy.load("fr_dep_news_trf")
 
@@ -59,7 +60,6 @@ def process_segment(segment: dict) -> None:
 
         if first is None:
             first = lid
-            # print(f"First: {first}")
 
         l = clean(l)
 
@@ -69,9 +69,8 @@ def process_segment(segment: dict) -> None:
             raise ValueError
 
         srtio.write(f"# sent_id = {lid}\n")
-        # srtio.write(f"# text = {l[1]}\n")
         srtio.write(f"# text = {l}\n")
-        # for token in get_all(l[1]):
+
         for token in get_all(l):
             srtio.write("\t".join([str(v) for v in token.values()]) + "\n")
         srtio.write("\n")
@@ -91,13 +90,7 @@ for i in range(0, len(lines), len_seg):
     sub = {k: lines[k] for k in range(i, i + len_seg) if k in lines}
     segments.append(sub)
 
-# with Pool(cpu_count()//2) as p:
-#     p.starmap(
-#         process_segment,
-#         [(segment,) for segment in segments],
-#     )
 
 with Pool(cpu_count()//2) as p:
-    # p.map(process_segment, segments)
     list(tqdm(p.imap(process_segment, segments), total=len(segments)))
 
