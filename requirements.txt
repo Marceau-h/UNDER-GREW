@@ -2,8 +2,9 @@ openpyxl
 
 pandas~=2.0.3
 tqdm~=4.65.0
-spacy~=3.6.0
+spacy~=3.6.1
 fr_core_news_sm @https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.6.0/fr_core_news_sm-3.6.0.tar.gz
+fr_dep_news_trf @https://github.com/explosion/spacy-models/releases/download/fr_dep_news_trf-3.6.1/fr_dep_news_trf-3.6.1.tar.gz
 
 xlsxwriter
 
