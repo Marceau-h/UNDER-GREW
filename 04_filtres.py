@@ -102,6 +102,13 @@ for subdir in main.iterdir():
 
     for_stats["in_both"] = stats(df_in_both, df_all, df_all_pristine)
 
+    at_least_1_percent = [x for x in lst_lemmas_all if lst_lemmas_all.count(x) >= len(lst_lemmas_all) / 100]
+
+    df_one_percent = df_all_pristine[df_all_pristine["LEMMA"].isin(at_least_1_percent)]
+    df_all = df_all[df_all["LEMMA"].isin(at_least_1_percent)]
+
+    for_stats["one_percent"] = stats(df_one_percent, df_all, df_all_pristine)
+
     df_out_idiom = df_all_pristine[~df_all_pristine["sent_id"].isin(df_in_idiom["sent_id"])]
     df_all = df_all[~df_all["sent_id"].isin(df_in_idiom["sent_id"])]
 
@@ -174,6 +181,7 @@ for subdir in main.iterdir():
         "all",
         "no_obj",
         "in_both",
+        "one_percent",
         "out_idiom",
         "something",
         "not_fixed",
