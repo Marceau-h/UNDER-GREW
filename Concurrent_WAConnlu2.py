@@ -2,20 +2,10 @@ import re
 from io import StringIO
 from pathlib import Path
 from multiprocessing import Pool, cpu_count
+from time import sleep
 
 import spacy
 from tqdm.auto import tqdm
-
-WAC = Path("UD/WAC_test")
-WAC.mkdir(exist_ok=True, parents=True)
-
-nlp = spacy.load("fr_core_news_sm")
-# TODO: Try with the transformer model instead of the sm one (and maybe with the lg one too)
-# spacy.prefer_gpu()
-# nlp = spacy.load("fr_dep_news_trf")
-
-file: Path = Path("/home/marceau/Téléchargements/fra_mixed_2009_1M/fra_mixed_2009_1M-sentences.txt")
-# file: Path = Path(r"C:\Users\marce\Downloads\fra_mixed_2009_1M\fra_mixed_2009_1M-sentences.txt")
 
 
 def clean(s: str) -> str:
@@ -30,7 +20,7 @@ def no_empty(s: str) -> str:
     return s if s else "_"
 
 
-def get_all(sent: str) -> list[dict]:
+def get_all(sent: str, nlp: spacy.language) -> list[dict]:
     doc = nlp(sent)
     deps = [token.dep_.lower() for token in doc]
     return [
@@ -50,12 +40,14 @@ def get_all(sent: str) -> list[dict]:
     ]
 
 
-def process_segment(segment: dict) -> None:
+# def process_segment(segment: tuple, nlp: spacy.Language, WAC: Path):
+def process_segment(args):
+    segment, nlp, WAC = args
     first = None
 
     srtio = StringIO()
     srtio.write("# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC\n")
-    for i, l in segment.items():
+    for i, l in segment:
         lid = int(i)
 
         if first is None:
@@ -71,26 +63,49 @@ def process_segment(segment: dict) -> None:
         srtio.write(f"# sent_id = {lid}\n")
         srtio.write(f"# text = {l}\n")
 
-        for token in get_all(l):
+        for token in get_all(l, nlp):
             srtio.write("\t".join([str(v) for v in token.values()]) + "\n")
         srtio.write("\n")
 
     with open(WAC / f"{first}_{lid}.conllu", "w", encoding="utf-8") as f:
         f.write(srtio.getvalue())
 
+        srtio.close()
 
-with file.open("r", encoding="utf-8") as f:
-    # The `int(i)` allows us to check if we are catching the sentence id correctly
-    lines: dict = {int(i): l for i, l in [l.rsplit("\t", 1) for l in f.readlines()]}
-
-# lines = lines[:10000] ## For testing
-len_seg = 30_000
-segments: list[dict] = []
-for i in range(0, len(lines), len_seg):
-    sub = {k: lines[k] for k in range(i, i + len_seg) if k in lines}
-    segments.append(sub)
+    del segment
+    del srtio
+    del first
 
 
-with Pool(cpu_count()//2) as p:
-    list(tqdm(p.imap(process_segment, segments), total=len(segments)))
+if __name__ == "__main__":
+    len_seg = 30_000
 
+    args = []
+
+    file: Path = Path(r"C:\Users\marce\Downloads\fra_mixed_2009_1M\fra_mixed_2009_1M-sentences.txt")
+
+    with file.open("r", encoding="utf-8") as f:
+        # The `int(i)` allows us to check if we are catching the sentence id correctly
+        lines: dict = {int(i): l for i, l in [l.rsplit("\t", 1) for l in f.readlines()]}
+
+    segments = tuple(
+        tuple(
+            (
+                k,
+                lines[k],
+            ) for k in range(i, i + len_seg) if k in lines
+        ) for i in range(0, len(lines), len_seg)
+    )
+
+    for test in ('fr_core_news_sm', 'fr_core_news_md', 'fr_core_news_lg', 'fr_dep_news_trf'):
+        WAC = Path(f"UD/WAC_{test}")
+        WAC.mkdir(exist_ok=True, parents=True)
+
+        nlp = spacy.load(test)
+
+        for segment in segments:
+            args.append((segment, nlp, WAC))
+
+    with Pool(cpu_count() - 1) as p:
+        for _ in tqdm(p.imap_unordered(process_segment, args), total=len(args)):
+            pass
