@@ -17,7 +17,7 @@ expoets_extended_dir = Path("Xports")
 expoets_extended_dir.mkdir(exist_ok=True, parents=True)
 
 
-def conllu_to_dict(conllu):
+def conllu_to_dict(conllu: str) -> list[dict[str, str]]:
     conllu = conllu.split("\n")
     conllu = [l.split("\t") for l in conllu if l != "" and not l.startswith("#")]
     conllu = [dict(zip(columns, l)) for l in conllu]
@@ -57,13 +57,14 @@ for subfolder in tqdm(list(ud_dir.iterdir())):
         print(f"{subfolder.name} is a number")
         continue
 
-    all_txt = StringIO()
-    for connlu in subfolder.glob("*.conllu"):
-        # print(connlu)
-        with open(connlu, "r", encoding="utf-8") as f:
-            all_txt.write(f.read())
+    with StringIO() as all_txt:
+        for connlu in subfolder.glob("*.conllu"):
+            # print(connlu)
+            with open(connlu, "r", encoding="utf-8") as f:
+                all_txt.write(f.read())
 
-    sents = [s.split("# sent_id = ")[-1] for s in all_txt.getvalue().split("\n\n") if s != ""]
+        sents = [s.split("# sent_id = ")[-1] for s in all_txt.getvalue().split("\n\n") if s != ""]
+
     sents = [s.split("\n", 1) for s in sents]
     sents = {s[0]: conllu_to_dict(s[1]) for s in sents}
 
@@ -71,7 +72,6 @@ for subfolder in tqdm(list(ud_dir.iterdir())):
 
     for export in exports_sub.glob("*.csv"):
         df = pd.read_csv(export, low_memory=False)
-
         pivot_datas = []
         for line, row in df.iterrows():
             try:

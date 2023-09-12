@@ -16,22 +16,27 @@ def rm_tree(pth: Path) -> None:
     pth.rmdir()
 
 
-maindir = Path("exports")
-newdir = maindir / "WAC"
-newdir.mkdir(exist_ok=True, parents=True)
+maindir: Path = Path("exports")
+newdir: Path = maindir / "WAC"
 
-dfs = {}
+if newdir.exists():
+    rm_tree(newdir)
+
+newdir.mkdir()
+
+dfs: dict[str, pandas.DataFrame] = {}
 
 for dir in maindir.glob("WAC*"):
     if not dir.name[-1].isdigit():
-        print(f"{dir.name} is not a number")
+        print(f"{dir.name} has no number")
         continue
 
     print(f"Processing {dir.name}")
 
     for file in dir.glob("*.csv"):
-        df = pandas.read_csv(file)
-        if not file.stem in dfs:
+        df: pandas.DataFrame = pandas.read_csv(file)
+        # The stem contains information on which query was used
+        if file.stem not in dfs:
             dfs[file.stem] = df
         else:
             dfs[file.stem] = pandas.concat([dfs[file.stem], df])
@@ -41,4 +46,4 @@ for dir in maindir.glob("WAC*"):
 
 for name, df in dfs.items():
     df.to_csv(newdir / f"{name}.csv", index=False)
-    df.to_csv(newdir / f"{name}.tsv", sep="\t", index=False)
+    # df.to_csv(newdir / f"{name}.tsv", sep="\t", index=False)  # Commented because TSVs ar not very useful

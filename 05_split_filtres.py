@@ -2,7 +2,11 @@ from pathlib import Path
 import pandas as pd
 from tqdm.auto import tqdm
 
-filtres = Path("filtres")
+corpus_dir: Path
+df: pd.DataFrame
+per_verb: dict[str, pd.DataFrame]
+
+filtres: Path = Path("filtres")
 
 
 def rm_tree(pth: Path) -> None:
@@ -18,14 +22,14 @@ def rm_tree(pth: Path) -> None:
 
 for to_split in filtres.glob("*-all.csv"):
     print(to_split)
-    df = pd.read_csv(to_split)
-    df = df.fillna("")
+    df = pd.read_csv(to_split).fillna("")
 
     per_verb = {}
     for verb in tqdm(df["LEMMA"].unique()):
         per_verb[verb] = df[df["LEMMA"] == verb]
 
     corpus_dir = to_split.parent / to_split.stem
+
     if corpus_dir.exists():
         rm_tree(corpus_dir)  # Delete if exists to clear previous results
     else:

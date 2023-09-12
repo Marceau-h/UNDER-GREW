@@ -5,11 +5,12 @@ import matplotlib.pyplot as plt
 from upsetplot import from_contents, UpSet
 import pandas as pd
 
-def make_percent(a: int, b: int):
+
+def make_percent(a: int, b: int) -> float:
     return round(a / b * 100, 2)
 
 
-def get_one_random(df: pd.DataFrame):
+def get_one_random(df: pd.DataFrame) -> pd.Series | None:
     if len(df) == 0:
         return None
 
@@ -19,23 +20,23 @@ def get_one_random(df: pd.DataFrame):
     return df.iloc[randint(0, len(df) - 1)]
 
 
-def get_one_random_not_in(df: pd.DataFrame, dfallpristine: pd.DataFrame):
+def get_one_random_not_in(df: pd.DataFrame, dfallpristine: pd.DataFrame) -> pd.Series | None:
     df = dfallpristine[~dfallpristine["sent_id"].isin(df["sent_id"])]
     return get_one_random(df)
 
 
-def row_to_str(row):
+def row_to_str(row: pd.Series) -> str:
     return f"{row['left_context']};;{row['pivot']};;{row['right_context']}"
 
 
-def random_not_in_str(df: pd.DataFrame, dfallpristine: pd.DataFrame):
+def random_not_in_str(df: pd.DataFrame, dfallpristine: pd.DataFrame) -> str | None:
     row = get_one_random_not_in(df, dfallpristine)
     if row is None:
         return None
     return row_to_str(row)
 
 
-def stats(df, dfall, dfallpristine):
+def stats(df: pd.DataFrame, dfall: pd.DataFrame, dfallpristine: pd.DataFrame) -> dict[str, str | int | float]:
     return {
         "# sent": len(df),
         "# sent successif": len(dfall),
@@ -45,11 +46,11 @@ def stats(df, dfall, dfallpristine):
     }
 
 
-def is_not_pron(x):
+def is_not_pron(x: str) -> bool:
     return not x.endswith("se ") and not x.endswith("s'")
 
 
-def atleast(i: int, df: pd.DataFrame, col: str, val: str):
+def atleast(i: int, df: pd.DataFrame, col: str, val: str) -> bool:
     return len(df[df[col] == val]) >= i
 
 
@@ -57,9 +58,11 @@ def too_close(dist: int, max_dist: int) -> bool:
     return 0 < dist <= max_dist if dist else False
 
 
-main = Path("Xports")
-filtres = Path("filtres")
+main: Path = Path("Xports")
+filtres: Path = Path("filtres")
 filtres.mkdir(exist_ok=True)
+
+subdir: Path
 
 for subdir in main.iterdir():
 
@@ -68,22 +71,22 @@ for subdir in main.iterdir():
 
     print(subdir)
 
-    for_stats = {}
+    for_stats: dict[str, dict[str, str | int | float]] = {}
 
-    file_all = subdir / "VERB.csv"
-    file_direct = subdir / "VERB-direct-obj.csv"
-    file_no_obj = subdir / "VERB-no-obj.csv"
-    file_no_nothing = subdir / "VERB-no-nothing.csv"
-    file_in_idiom = subdir / "Verb_in_idiom.csv"
-    file_fixed = subdir / "fixed-VERB.csv"
+    file_all: Path = subdir / "VERB.csv"
+    file_direct: Path = subdir / "VERB-direct-obj.csv"
+    file_no_obj: Path = subdir / "VERB-no-obj.csv"
+    file_no_nothing: Path = subdir / "VERB-no-nothing.csv"
+    file_in_idiom: Path = subdir / "Verb_in_idiom.csv"
+    file_fixed: Path = subdir / "fixed-VERB.csv"
 
-    df_all = pd.read_csv(file_all).fillna("")
-    df_all_pristine = pd.read_csv(file_all).fillna("")
-    df_direct = pd.read_csv(file_direct).fillna("")
-    df_no_obj = pd.read_csv(file_no_obj).fillna("")
-    df_no_nothing = pd.read_csv(file_no_nothing).fillna("")
-    df_in_idiom = pd.read_csv(file_in_idiom).fillna("")
-    df_fixed = pd.read_csv(file_fixed).fillna("")
+    df_all: pd.DataFrame = pd.read_csv(file_all).fillna("")
+    df_all_pristine: pd.DataFrame = pd.read_csv(file_all).fillna("")
+    df_direct: pd.DataFrame = pd.read_csv(file_direct).fillna("")
+    df_no_obj: pd.DataFrame = pd.read_csv(file_no_obj).fillna("")
+    df_no_nothing: pd.DataFrame = pd.read_csv(file_no_nothing).fillna("")
+    df_in_idiom: pd.DataFrame = pd.read_csv(file_in_idiom).fillna("")
+    df_fixed: pd.DataFrame = pd.read_csv(file_fixed).fillna("")
 
     for_stats["all"] = stats(df_all, df_all, df_all_pristine)
 
@@ -155,7 +158,7 @@ for subdir in main.iterdir():
     df = pd.DataFrame(for_stats).T
     df.to_csv(filtres / f"{subdir.name}.csv")
 
-    upset_data = {
+    upset_data: dict[str, set[str]] = {
         "all": {s for s in df_all_pristine["sent_id"].tolist()},
         "no_obj": {s for s in df_no_obj["sent_id"].tolist()},
         "in_both": {s for s in df_in_both["sent_id"].tolist()},
@@ -177,7 +180,8 @@ for subdir in main.iterdir():
         show_percentages=True,
     )
 
-    set_labels = {
+    # List to preserve the order
+    list_labels: list[str] = [
         "all",
         "no_obj",
         "in_both",
@@ -189,11 +193,13 @@ for subdir in main.iterdir():
         "five_or_more",
         "no_pass",
         "no_pron",
-    }
+    ]
+
+    set_labels: set[str] = set(list_labels)  # For the differences
     colors = ["#e41a1c", "#377eb8", "#4daf4a", "#984ea3", "#ff7f00", "#a65628", "#f781bf", "#999999", "#000000"]
 
-    for s, c in zip(set_labels, colors):
-        upset.style_subsets(present=set_labels - {s}, absent={s}, facecolor=c)
+    for s, c in zip(list_labels, colors):
+        upset.style_subsets(present=set_labels - {s}, absent=(s, ), facecolor=c)
 
     fig = plt.figure()
     fig.figsize = (20, 40)

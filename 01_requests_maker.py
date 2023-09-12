@@ -7,11 +7,23 @@ import pandas as pd
 from tqdm.auto import tqdm
 from pathlib import Path
 
-main = Path.cwd() / "exports"  # can be changed to a specific folder
+res: http.client.HTTPResponse
+data: dict[str, any] | bytes
+conn: http.client.HTTPSConnection
+payload: str
+tsv: str
+df: pd.DataFrame
+uuid: str
+corpus: str
+pat_value: str
+pat_file: Path
+corpus_folder: Path
+
+main: Path = Path.cwd() / "exports"  # can be changed to a specific folder
 
 # Caution, double quotes in the pattern must be escaped with a backslash
 # And single quotes don't seem to work at all, better not using them
-patterns = {
+patterns: dict[str, str] = {
     'VERB': 'pattern {V [upos=VERB]}',
     'VERB-direct-obj': 'pattern {V [upos=VERB]; V -[obj]-> O}',
     'VERB-no-direct-obj': 'pattern {V [upos=VERB];} without {V -[obj]-> O}',
@@ -28,7 +40,7 @@ patterns = {
 }
 
 # This must be in the list of corpora available on the website
-corpora = [
+corpora: list[str] = [
     'UD_French-FQB@2.12',
     'UD_French-GSD@2.12',
     'UD_French-PUD@2.12',
@@ -45,15 +57,14 @@ corpora = [
     'WAC6',
     'WAC7',
     'WAC8',
-    'WAC9',
 ]
 
-pivot = 'V'  # 'V' or 'O' or 'I' for tsv exports
+pivot: str = 'V'  # 'V' or 'O' or 'I' for tsv exports
 
 # This is the connection to the website
-conn = http.client.HTTPSConnection("gmb.marceau-h.fr")
+conn: http.client.HTTPSConnection = http.client.HTTPSConnection("gmb.marceau-h.fr")
 
-pbar = tqdm(total=len(corpora) * len(patterns))
+pbar: tqdm = tqdm(total=len(corpora) * len(patterns))
 for corpus in corpora:
     pbar.set_description(f"Corpus {corpus}")
     corpus_folder = main / corpus.split('@')[0]
@@ -62,6 +73,7 @@ for corpus in corpora:
     for pattern, pat_value in patterns.items():
         pat_file = corpus_folder / f"{pattern}.tsv"
 
+        # Old formatting because it's the only one that seems to work+ with form-data and double quotes
         payload = """
         {"pattern":"%s",
         "corpus":"%s",
@@ -78,14 +90,14 @@ for corpus in corpora:
 
         payload = f"param={urllib.parse.quote(payload)}"
 
-        headers = {'content-type': "application/x-www-form-urlencoded"}
+        headers: dict[str, str] = {'content-type': "application/x-www-form-urlencoded"}
 
         conn.request("POST", "/search", payload, headers)
 
         res = conn.getresponse()
-        data = res.read()
+        data = json.loads(res.read().decode("utf-8"))
 
-        data = json.loads(data.decode("utf-8"))
+        # data = json.loads(data.decode("utf-8"))
 
         try:
             uuid = data["data"]["uuid"]
@@ -98,7 +110,7 @@ for corpus in corpora:
 
         conn.request("POST", "/export", payload, headers)
 
-        res = conn.getresponse()
+        res: http.client.HTTPResponse = conn.getresponse()
         data = res.read()
 
         assert json.loads(data.decode("utf-8"))["status"] == "OK", "Creation of export failed"
