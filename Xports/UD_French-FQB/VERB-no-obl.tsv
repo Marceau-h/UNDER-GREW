@@ -259,7 +259,7 @@ FQB_Impots-63	Combien puis-je donner à mes enfants et à mes petits enfants san
 FQB_Impots-63	Combien 	puis	-je donner à mes enfants et à mes petits enfants sans payer de droits ? 	2	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No	-1
 FQB_Impots-64	J'ai 	réalisé	 une plus-value sur la vente d'un logement qui n'est pas ma résidence principale, ai-je droit à des abattements ? 	3	réalisé	réaliser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_	-1
 FQB_Impots-65	Je vais vendre une maison, vais-je 	payer	 un impôt ? 	9	payer	payer	VERB	_	VerbForm=Inf	7	xcomp	_	_	1
-FQB_Impots-65	Je vais vendre une maison, 	vais	-je payer un impôt ? 	2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	-1
+FQB_Impots-65	Je vais vendre une maison, 	vais	-je payer un impôt ? 	2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	1
 FQB_Impots-65	Je vais 	vendre	 une maison, vais-je payer un impôt ? 	3	vendre	vendre	VERB	_	VerbForm=Inf	2	xcomp	_	_	-1
 FQB_Impots-65	Je 	vais	 vendre une maison, vais-je payer un impôt ? 	2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	-1
 FQB_Impots-66	J'ai un impôt à payer sur une plus-value immobilière, puis-je 	déduire	 les travaux effectués dans ce logement ? 	14	déduire	déduire	VERB	_	VerbForm=Inf	12	xcomp	_	_	1

@@ -92,7 +92,7 @@ sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPR
 17048,et ,cunfortet, veude. ,2,cunfortet,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_273_0471,-1
 17049,Un'aultre maniere est une encore ki ad odur de mirre quant l'om le ,art,. ,16,art,_,VERB,VERcjg,VerbForm=Fin,8,advcl,_,SpaceAfter=No|XmlId=w_273_0489,-1
 17049,Un'aultre maniere est une encore ki ,ad, odur de mirre quant l'om le art. ,8,ad,_,VERB,VERcjg,VerbForm=Fin,5,acl:relcl,_,XmlId=w_273_0481,-1
-17050,Un'altre i ad ki at sanguines teches. Une altre ki ,at, colur de cire ; ,6,at,_,VERB,VERcjg,VerbForm=Fin,2,acl:relcl,_,XmlId=w_273_0496,-1
+17050,Un'altre i ad ki at sanguines teches. Une altre ki ,at, colur de cire ; ,6,at,_,VERB,VERcjg,VerbForm=Fin,2,acl:relcl,_,XmlId=w_273_0496,1
 17050,Un'altre i ad ki ,at, sanguines teches. Une altre ki at colur de cire ; ,6,at,_,VERB,VERcjg,VerbForm=Fin,2,acl:relcl,_,XmlId=w_273_0496,-1
 17052,Achate ,defent, home ; ,2,defent,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_273_0522,-1
 17053,si li ,dunet," force, ",3,dunet,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_273_0527,-1
@@ -461,7 +461,7 @@ sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPR
 3903,Quant out ,oï," parler sa drue, Sout que s'estoit aperceüe. ",3,oï,_,VERB,VERppe,Tense=Past|VerbForm=Part,8,advcl,_,XmlId=w_26_00640,-1
 3904,Deu en ,rent," graces et merci, ",3,rent,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_26_00653,-1
 3906,"« Ahi ! Yseut, fille de roi, Franche, cortoise, en bone foi Par plusors foiz vos ai ",mandee,", Puis que chanbre me fu veee ",22,mandee,_,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No|XmlId=w_26_00687,0
-3908,"Dame, or vos vuel merci crïer, Qu'il vos menbre de cest chaitif Qui a traval et ",a, duel vif ; ,17,a,_,VERB,VERcjg,_,15,acl:relcl,_,XmlId=w_26_00719,4
+3908,"Dame, or vos vuel merci crïer, Qu'il vos menbre de cest chaitif Qui a traval et ",a, duel vif ; ,17,a,_,VERB,VERcjg,_,15,acl:relcl,_,XmlId=w_26_00719,1
 3908,"Dame, or vos vuel merci crïer, Qu'il vos menbre de cest chaitif Qui ",a, traval et a duel vif ; ,17,a,_,VERB,VERcjg,_,15,acl:relcl,_,XmlId=w_26_00719,4
 3908,"Dame, or vos vuel merci ",crïer,", Qu'il vos menbre de cest chaitif Qui a traval et a duel vif ; ",7,crïer,_,VERB,VERinf,VerbForm=Inf,0,root,_,SpaceAfter=No|XmlId=w_26_00709,4
 3909,Qar j'ai tel duel c'onques le roi Out mal pensé de vos vers moi Qu'il n'i ,a, el fors que je muere. ,21,a,_,VERB,VERcjg,VerbForm=Fin,5,acl,_,XmlId=w_26_00746,-1
@@ -2520,7 +2520,7 @@ beroul-610.new,Qel damage qu'en traïson Vos ont fait ,prendre, cil gloton ! ,9,
 11339,"- A non Dieu, fet li rois, or vos ",conois," je bien, ",12,conois,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_110566,-1
 11343,Quant Hestor entent que ses freres est laienz l'ome ou monde qu'il plus doutoit por la grant amor qu'il ,avoit, a lui si dist : ,23,avoit,_,VERB,VERcjg,VerbForm=Fin,20,acl:relcl,_,XmlId=w_qgraal_cm_110624,-1
 11343,Quant Hestor entent que ses freres est laienz l'ome ou monde qu'il plus ,doutoit, por la grant amor qu'il avoit a lui si dist : ,16,doutoit,_,VERB,VERcjg,VerbForm=Fin,10,acl:relcl,_,XmlId=w_qgraal_cm_110617,5
-11347,"voirement me dist voir li preudome dou tertre, cil qui ",dist, a moi et a mon seignor Gauvain la senefiance de noz songes. » ,3,dist,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_110679,-1
+11347,"voirement me dist voir li preudome dou tertre, cil qui ",dist, a moi et a mon seignor Gauvain la senefiance de noz songes. » ,3,dist,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_110679,3
 11347,voirement me ,dist," voir li preudome dou tertre, cil qui dist a moi et a mon seignor Gauvain la senefiance de noz songes. » ",3,dist,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_110679,-1
 11350,Et quant cil del chastel le ,voient," si foïr si crient tuit aprés lui, ",7,voient,_,VERB,VERcjg,VerbForm=Fin,11,advcl,_,XmlId=w_qgraal_cm_110736,2
 11351,"et le vont huiant, et ",maudisant," l'ore qu'il fu nez, ",7,maudisant,_,VERB,VERppa,Tense=Pres|VerbForm=Part,4,conj,_,XmlId=w_qgraal_cm_110751,1
@@ -2994,7 +2994,7 @@ beroul-610.new,Qel damage qu'en traïson Vos ont fait ,prendre, cil gloton ! ,9,
 11895,"Jusque li tans fu trespassez, ",Vi," sor le pin toz amassez Oisiax, s'est qui croire le vuelle, Qu'il n'i paroit branche ne fuelle Que tot ne fust covert d'oisiax ; ",7,Vi,vëoir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_3206,1
 11897,Doucemant li oisel chantoient Si que mout bien s',antracordoient, ; ,10,antracordoient,entr'acorder,VERB,VERcjg,VerbForm=Fin,4,advcl,_,XmlId=w_YvainKu_3254,-1
 11898,"Et divers chanz chantoit chascuns, C'onques ce que chantoit li uns A l'autre ",chanter, ne oï. ,17,chanter,chanter,VERB,VERinf,VerbForm=Inf,19,xcomp,_,XmlId=w_YvainKu_3272,-1
-11898,"Et divers chanz chantoit chascuns, C'onques ce que ",chantoit, li uns A l'autre chanter ne oï. ,4,chantoit,chanter,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_3259,-1
+11898,"Et divers chanz chantoit chascuns, C'onques ce que ",chantoit, li uns A l'autre chanter ne oï. ,4,chantoit,chanter,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_3259,2
 11898,Et divers chanz ,chantoit," chascuns, C'onques ce que chantoit li uns A l'autre chanter ne oï. ",4,chantoit,chanter,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_3259,-1
 11900,S'escoutai tant qu'il orent ,fet, Lor servise trestot a tret ; ,7,fet,faire,VERB,VERppe,Tense=Past|VerbForm=Part,2,advcl,_,XmlId=w_YvainKu_3288,-1
 11901,Que mes n',oï, si bele joie ,4,oï,öir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_3298,1
@@ -5271,8 +5271,8 @@ beroul-610.new,Qel damage qu'en traïson Vos ont fait ,prendre, cil gloton ! ,9,
 14265,Mes dedanz ce fu avenu Que a la mort ot plet ,tenu, Li sires de la Noire Espine ; ,12,tenu,tenir,VERB,VERppe,Tense=Past|VerbForm=Part,3,acl,_,XmlId=w_YvainKu_33038,4
 14266,"Si prist a lui tel anhatine La morz, que ",morir, le covint. ,11,morir,morir,VERB,VERinf,VerbForm=Inf,13,xcomp,_,XmlId=w_YvainKu_33056,-1
 14266,Si ,prist," a lui tel anhatine La morz, que morir le covint. ",2,prist,prendre,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_33047,-1
-14267,"Aprés sa mort, ensi avint De.ii. filles que il avoit Que l'ainznee dist qu'ele avroit Trestote la terre a delivre Toz les jorz qu'ele ",avroit," a vivre, ",19,avroit,avoir,VERB,VERcjg,VerbForm=Fin,16,ccomp,_,XmlId=w_YvainKu_33078,2
-14267,"Aprés sa mort, ensi avint De.ii. filles que il avoit Que l'ainznee dist qu'ele avroit Trestote la terre a delivre Toz les jorz qu'ele ",avroit," a vivre, ",19,avroit,avoir,VERB,VERcjg,VerbForm=Fin,16,ccomp,_,XmlId=w_YvainKu_33078,2
+14267,"Aprés sa mort, ensi avint De.ii. filles que il avoit Que l'ainznee dist qu'ele avroit Trestote la terre a delivre Toz les jorz qu'ele ",avroit," a vivre, ",19,avroit,avoir,VERB,VERcjg,VerbForm=Fin,16,ccomp,_,XmlId=w_YvainKu_33078,-1
+14267,"Aprés sa mort, ensi avint De.ii. filles que il avoit Que l'ainznee dist qu'ele avroit Trestote la terre a delivre Toz les jorz qu'ele ",avroit," a vivre, ",19,avroit,avoir,VERB,VERcjg,VerbForm=Fin,16,ccomp,_,XmlId=w_YvainKu_33078,-1
 14267,"Aprés sa mort, ensi avint De.ii. filles que il avoit Que l'ainznee dist qu'ele ",avroit," Trestote la terre a delivre Toz les jorz qu'ele avroit a vivre, ",19,avroit,avoir,VERB,VERcjg,VerbForm=Fin,16,ccomp,_,XmlId=w_YvainKu_33078,2
 14267,"Aprés sa mort, ensi avint De.ii. filles que il ",avoit," Que l'ainznee dist qu'ele avroit Trestote la terre a delivre Toz les jorz qu'ele avroit a vivre, ",12,avoit,avoir,VERB,VERcjg,VerbForm=Fin,9,acl:relcl,_,XmlId=w_YvainKu_33071,2
 14269,Et l'autre dist que ele iroit A la cort le roi Artus querre Aïde a ,desresnier, sa terre. ,17,desresnier,deraisnier,VERB,VERinf,VerbForm=Inf,14,advcl,_,XmlId=w_YvainKu_33118,1
@@ -10338,7 +10338,7 @@ beroul-610.new,Qel damage qu'en traïson Vos ont fait ,prendre, cil gloton ! ,9,
 6506,"Par Deu, ",ferez," de l'esperon, ",4,ferez,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_26_27030,-1
 6507,Qu'il n',a, avant point de taier. » ,4,a,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_26_27038,-1
 6508,Qant il le pensent ,essaier,", Li marois font desoz lor piez. ",5,essaier,_,VERB,VERinf,VerbForm=Inf,4,xcomp,_,SpaceAfter=No|XmlId=w_26_27049,1
-6510,"Qui n'a hueses, s'en ",a, soffrete. ,3,a,_,VERB,VERcjg,VerbForm=Fin,8,csubj,_,XmlId=w_26_27066,-1
+6510,"Qui n'a hueses, s'en ",a, soffrete. ,3,a,_,VERB,VERcjg,VerbForm=Fin,8,csubj,_,XmlId=w_26_27066,1
 6510,Qui n',a," hueses, s'en a soffrete. ",3,a,_,VERB,VERcjg,VerbForm=Fin,8,csubj,_,XmlId=w_26_27066,-1
 6511,Li ladres a sa main fors ,traite, ; ,7,traite,_,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_26_27080,-1
 6512,Qant en ,voi," un qui el tai voitre, Adonc flavele cil a cuite. ",3,voi,_,VERB,VERcjg,VerbForm=Fin,11,advcl,_,XmlId=w_26_27084,-1
@@ -11110,7 +11110,7 @@ beroul-610.new,Qel damage qu'en traïson Vos ont fait ,prendre, cil gloton ! ,9,
 7713,e á Deu meïsme les ,mustrad,", ki la requeste lur otreiad. ",6,mustrad,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_qlr_6262,0
 7714,É Samuel á itant les ,cúngeád,", ",6,cúngeád,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_qlr_6275,-1
 7717,Cís ,out, num ,2,out,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qlr_6295,0
-7719,Icist Cís out un fiz ki ,out, num Saül. ,3,out,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qlr_6327,-1
+7719,Icist Cís out un fiz ki ,out, num Saül. ,3,out,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qlr_6327,0
 7719,Icist Cís ,out, un fiz ki out num Saül. ,3,out,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qlr_6327,-1
 7721,kar entre tuz ces de Israel n',out, un ki plus valsist. ,8,out,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qlr_6349,-1
 7724,é pur els querre od un serjant ,enveiad, sun fiz. ,8,enveiad,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qlr_6388,2
@@ -11298,7 +11298,7 @@ beroul-610.new,Qel damage qu'en traïson Vos ont fait ,prendre, cil gloton ! ,9,
 8051,"É avint, si cume Saül aveit ",fait," le sacrefiement, que Samuel en veneit. ",8,fait,_,VERB,VERppe,Tense=Past,2,advcl,_,XmlId=w_qlr_9497,0
 8053,é bonement le ,sáluad,. ,4,sáluad,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_qlr_9514,-1
 8054,É Samuel qu'il oüst ,fait, demandad. ,6,fait,_,VERB,VERppe,Tense=Past,7,ccomp,_,XmlId=w_qlr_9521,-1
-8056,« Pur çó que vi que li poples s'en parti é ne venis al jur establi é li Philistien furent en Magmas asemble é pensai que il venissant sur mei si que jo n'oüsse fait ma oblatiun que me poüst turner á destructiun : pur çó par bone entente en ceste guise par mei ai ,fait, mun sacrefise. » ,37,fait,_,VERB,VERppe,Tense=Past,29,advcl,_,XmlId=w_qlr_9563,6
+8056,« Pur çó que vi que li poples s'en parti é ne venis al jur establi é li Philistien furent en Magmas asemble é pensai que il venissant sur mei si que jo n'oüsse fait ma oblatiun que me poüst turner á destructiun : pur çó par bone entente en ceste guise par mei ai ,fait, mun sacrefise. » ,37,fait,_,VERB,VERppe,Tense=Past,29,advcl,_,XmlId=w_qlr_9563,3
 8056,« Pur çó que vi que li poples s'en parti é ne venis al jur establi é li Philistien furent en Magmas asemble é pensai que il venissant sur mei si que jo n'oüsse ,fait, ma oblatiun que me poüst turner á destructiun : pur çó par bone entente en ceste guise par mei ai fait mun sacrefise. » ,37,fait,_,VERB,VERppe,Tense=Past,29,advcl,_,XmlId=w_qlr_9563,6
 8058,« Folement l'as ,fait,", ",5,fait,_,VERB,VERppe,Tense=Past,0,root,_,SpaceAfter=No|XmlId=w_qlr_9596,-1
 8059,kar le cumandement Deu as ,enfrait,. ,6,enfrait,_,VERB,VERppe,Tense=Past,0,root,_,SpaceAfter=No|XmlId=w_qlr_9603,-1
@@ -11469,7 +11469,7 @@ beroul-610.new,Qel damage qu'en traïson Vos ont fait ,prendre, cil gloton ! ,9,
 8333,é mielz valt á Deu obeïr que le sieu del multun ,offrir,. ,12,offrir,_,VERB,VERinf,VerbForm=Inf,3,advcl,_,SpaceAfter=No|XmlId=w_qlr_12571,-1
 8334,"Kar le cuntrester á Deu est cume li pecchiez d'enchantement, ki est par diable ; é çó que l'um nel volt sievre si cume li pecchiez de ydle ",aürer,. ,32,aürer,_,VERB,VERinf,VerbForm=Inf,29,nmod,_,SpaceAfter=No|XmlId=w_qlr_12604,-1
 8334,"Kar le cuntrester á Deu est cume li pecchiez d'enchantement, ki est par diable ; é çó que l'um nel volt ",sievre, si cume li pecchiez de ydle aürer. ,25,sievre,_,VERB,VERinf,VerbForm=Inf,19,acl,_,XmlId=w_qlr_12597,2
-8335,"É pur çó que tu as degete le cumandement nostre Seignur, il rad tei ",degete, que tu ne seies rei. » ,7,degete,_,VERB,VERppe,Tense=Past,3,acl,_,XmlId=w_qlr_12612,0
+8335,"É pur çó que tu as degete le cumandement nostre Seignur, il rad tei ",degete, que tu ne seies rei. » ,7,degete,_,VERB,VERppe,Tense=Past,3,acl,_,XmlId=w_qlr_12612,-1
 8335,É pur çó que tu as ,degete," le cumandement nostre Seignur, il rad tei degete que tu ne seies rei. » ",7,degete,_,VERB,VERppe,Tense=Past,3,acl,_,XmlId=w_qlr_12612,0
 8337,« Pecchied ái en çó que n'ai ,tenu, le cumandement Deu é tes paroles pur çó que jó cremi é obeï al pople. ,9,tenu,_,VERB,VERppe,Tense=Past,5,acl,_,XmlId=w_qlr_12640,1
 8338,Mais ore te ,pri, : ,4,pri,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qlr_12660,-1
@@ -12516,7 +12516,7 @@ roland-3208.new,"Deus ! quel baron, s'",oüst, chrestïentet ! ,7,oüst,_,VERB,V
 1340,Mort le ,tresturnent, tres enmi un guaret. ,3,tresturnent,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_58_12349,0
 1341,Ne l'oï ,dire, ,4,dire,_,VERB,VERinf,VerbForm=Inf,3,xcomp,_,XmlId=w_58_12358,-1
 1342,ne jo mie nel ,sai,", Liquels d'els dous en fut li plus isnels. ",5,sai,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_58_12363,2
-17248,"e cele ki ad culur de laveure de char, ele estanchet sanc de tuz membres, mais mesmement de femme ki trop ",ad, de ses flurs. ,4,ad,_,VERB,VERcjg,VerbForm=Fin,2,acl:relcl,_,XmlId=w_273_2722,-1
+17248,"e cele ki ad culur de laveure de char, ele estanchet sanc de tuz membres, mais mesmement de femme ki trop ",ad, de ses flurs. ,4,ad,_,VERB,VERcjg,VerbForm=Fin,2,acl:relcl,_,XmlId=w_273_2722,1
 17248,"e cele ki ad culur de laveure de char, ele ",estanchet," sanc de tuz membres, mais mesmement de femme ki trop ad de ses flurs. ",12,estanchet,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_273_2730,1
 17248,e cele ki ,ad," culur de laveure de char, ele estanchet sanc de tuz membres, mais mesmement de femme ki trop ad de ses flurs. ",4,ad,_,VERB,VERcjg,VerbForm=Fin,2,acl:relcl,_,XmlId=w_273_2722,-1
 17249,"- Ligurium est piere ki creist de la date de une beste, ki ",ad," num linz, ki voit parmi piere e parmi fust. ",15,ad,_,VERB,VERcjg,VerbForm=Fin,12,acl:relcl,_,XmlId=w_273_2763,1
@@ -12860,7 +12860,7 @@ roland-3208.new,"Deus ! quel baron, s'",oüst, chrestïentet ! ,7,oüst,_,VERB,V
 4646,Par cel seignor qui ,fist," Adan, Je ne la verroië ardoir Por tot l'or ne por tot l'avoir C'onques ourent li plus riche home Qui furent des le bruit de Rome. » ",5,fist,_,VERB,VERcjg,VerbForm=Fin,3,acl:relcl,_,XmlId=w_26_08351,-1
 4651,Les traïtors le roi ,maudïent,. ,5,maudïent,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_26_08424,-1
 4655,D'un filet d'or les ot ,trechiez,. ,8,trechiez,_,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No|XmlId=w_26_08469,-1
-4656,"Qui voit son cors et sa fachon, Trop par avroit le cuer felon Qui n'en ",avroit, de lié pitié. ,11,avroit,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_26_08481,3
+4656,"Qui voit son cors et sa fachon, Trop par avroit le cuer felon Qui n'en ",avroit, de lié pitié. ,11,avroit,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_26_08481,-1
 4656,"Qui voit son cors et sa fachon, Trop par ",avroit, le cuer felon Qui n'en avroit de lié pitié. ,11,avroit,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_26_08481,3
 4656,Qui ,voit," son cors et sa fachon, Trop par avroit le cuer felon Qui n'en avroit de lié pitié. ",2,voit,_,VERB,VERcjg,VerbForm=Fin,11,csubj,_,XmlId=w_26_08472,-1
 4661,Acoru fu ,voier," cel plait, ",3,voier,_,VERB,VERinf,VerbForm=Inf,1,advcl,_,XmlId=w_26_08520,0
@@ -12883,7 +12883,7 @@ roland-3208.new,"Deus ! quel baron, s'",oüst, chrestïentet ! ,7,oüst,_,VERB,V
 4685,Yseut nos ,done,", ",3,done,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_26_08779,-1
 4687,Paior fin dame n',ot, mais une. ,5,ot,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_26_08789,-1
 4688,"Sire, en nos a si grant ardor Soz ciel n'a dame qui un jor Peüst ",soufrir, nostre convers : ,18,soufrir,_,VERB,VERinf,VerbForm=Inf,13,acl:relcl,_,XmlId=w_26_08810,-1
-4688,"Sire, en nos a si grant ardor Soz ciel n'",a, dame qui un jor Peüst soufrir nostre convers : ,5,a,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_26_08797,-1
+4688,"Sire, en nos a si grant ardor Soz ciel n'",a, dame qui un jor Peüst soufrir nostre convers : ,5,a,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_26_08797,8
 4688,"Sire, en nos ",a, si grant ardor Soz ciel n'a dame qui un jor Peüst soufrir nostre convers : ,5,a,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_26_08797,-1
 4691,Les buens vins i avoit ,apris, Es granz soliers de marbre bis. ,6,apris,_,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_26_08843,1
 4692,"Se la donez a nos meseaus, Qant el verra nos bas bordeaus Et eslira l'escouellier Et l'estovra a nos couchier (Sire, en leu de tes beaus mengiers Avra de pieces, de quartiers Que l'en nos ",envoi',"a ces hus), ",43,envoi',_,VERB,VERcjg,VerbForm=Fin,38,acl:relcl,_,SpaceAfter=No|XmlId=w_26_08893,-1
@@ -12891,7 +12891,7 @@ roland-3208.new,"Deus ! quel baron, s'",oüst, chrestïentet ! ,7,oüst,_,VERB,V
 4692,"Se la donez a nos meseaus, Qant el verra nos bas bordeaus Et ",eslira," l'escouellier Et l'estovra a nos couchier (Sire, en leu de tes beaus mengiers Avra de pieces, de quartiers Que l'en nos envoi'a ces hus), ",15,eslira,_,VERB,VERcjg,VerbForm=Fin,10,conj,_,XmlId=w_26_08865,2
 4692,"Se la donez a nos meseaus, Qant el ",verra," nos bas bordeaus Et eslira l'escouellier Et l'estovra a nos couchier (Sire, en leu de tes beaus mengiers Avra de pieces, de quartiers Que l'en nos envoi'a ces hus), ",10,verra,_,VERB,VERcjg,VerbForm=Fin,33,advcl,_,XmlId=w_26_08860,2
 4692,Se la ,donez," a nos meseaus, Qant el verra nos bas bordeaus Et eslira l'escouellier Et l'estovra a nos couchier (Sire, en leu de tes beaus mengiers Avra de pieces, de quartiers Que l'en nos envoi'a ces hus), ",3,donez,_,VERB,VERcjg,VerbForm=Fin,33,advcl,_,XmlId=w_26_08853,-1
-4693,"Por cel seignor qui maint lasus, Qant or verra la nostre cort, Adonc ",verra, si desconfort. ,10,verra,_,VERB,VERcjg,VerbForm=Fin,16,advcl,_,XmlId=w_26_08908,-1
+4693,"Por cel seignor qui maint lasus, Qant or verra la nostre cort, Adonc ",verra, si desconfort. ,10,verra,_,VERB,VERcjg,VerbForm=Fin,16,advcl,_,XmlId=w_26_08908,1
 4693,"Por cel seignor qui maint lasus, Qant or ",verra," la nostre cort, Adonc verra si desconfort. ",10,verra,_,VERB,VERcjg,VerbForm=Fin,16,advcl,_,XmlId=w_26_08908,-1
 4697,Li rois l',entent,", ",4,entent,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_26_08948,-1
 4699,Ne de grant pice ne se ,mut,. ,7,mut,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_26_08959,-1
@@ -13420,7 +13420,7 @@ roland-3208.new,"Deus ! quel baron, s'",oüst, chrestïentet ! ,7,oüst,_,VERB,V
 9090,car de toute l'amor dont hons porroit amer autre vos ai je ,amez,", et ne mie ore premierement, mes des lors primes que je conui les granz bontez qui dedenz vos estoient herbergiees. » ",14,amez,_,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No|XmlId=w_qgraal_cm_8907,3
 9090,car de toute l'amor dont hons porroit ,amer," autre vos ai je amez, et ne mie ore premierement, mes des lors primes que je conui les granz bontez qui dedenz vos estoient herbergiees. » ",9,amer,_,VERB,VERinf,VerbForm=Inf,5,acl:relcl,_,XmlId=w_qgraal_cm_8902,3
 9091,Quant li rois ot ceste parole ,dite," si se tot, ",7,dite,_,VERB,VERppe,Tense=Past|VerbForm=Part,10,advcl,_,XmlId=w_qgraal_cm_8938,-1
-9094,et cil qui voient ceste chose et qui tant en sont dolenz que nus ne le porroit dire n'osent respondre por ce qu'il le ,voient," si corrocié, ",4,voient,_,VERB,VERcjg,VerbForm=Fin,2,acl:relcl,_,XmlId=w_qgraal_cm_8967,1
+9094,et cil qui voient ceste chose et qui tant en sont dolenz que nus ne le porroit dire n'osent respondre por ce qu'il le ,voient," si corrocié, ",4,voient,_,VERB,VERcjg,VerbForm=Fin,2,acl:relcl,_,XmlId=w_qgraal_cm_8967,-1
 9094,et cil qui voient ceste chose et qui tant en sont dolenz que nus ne le porroit ,dire," n'osent respondre por ce qu'il le voient si corrocié, ",18,dire,_,VERB,VERinf,VerbForm=Inf,12,advcl,_,XmlId=w_qgraal_cm_8981,-1
 9094,et cil qui ,voient," ceste chose et qui tant en sont dolenz que nus ne le porroit dire n'osent respondre por ce qu'il le voient si corrocié, ",4,voient,_,VERB,VERcjg,VerbForm=Fin,2,acl:relcl,_,XmlId=w_qgraal_cm_8967,1
 9097,« Ha.´ Diex je ne me cuidoie jamés dessevrer de ceste compaignie que fortune m'avoit ,envoiee,. » ,18,envoiee,_,VERB,VERppe,Tense=Past|VerbForm=Part,13,acl:relcl,_,SpaceAfter=No|XmlId=w_qgraal_cm_9029,-1
@@ -13609,7 +13609,7 @@ roland-3208.new,"Deus ! quel baron, s'",oüst, chrestïentet ! ,7,oüst,_,VERB,V
 9278,car s'il m'en meschaoit il me pleroit mout que vos l',eussiez,", ",14,eussiez,_,VERB,VERcjg,VerbForm=Fin,9,ccomp,_,SpaceAfter=No|XmlId=w_qgraal_cm_11840,-1
 9279,car je sai bien que l'aventure ,acheveroiz, vos legierement. ,8,acheveroiz,_,VERB,VERcjg,VerbForm=Fin,3,ccomp,_,XmlId=w_qgraal_cm_11849,1
 9280,- Je vos ,atendrai," volentiers », ",4,atendrai,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_11856,-1
-9283,et li frere de laienz li baillierent.i. escuier por fere li compaingnie qui raportera arriere l'escu s'i le covient a ,fere,. ,11,fere,_,VERB,VERinf,VerbForm=Inf,7,advcl,_,XmlId=w_qgraal_cm_11878,1
+9283,et li frere de laienz li baillierent.i. escuier por fere li compaingnie qui raportera arriere l'escu s'i le covient a ,fere,. ,11,fere,_,VERB,VERinf,VerbForm=Inf,7,advcl,_,XmlId=w_qgraal_cm_11878,-1
 9283,et li frere de laienz li baillierent.i. escuier por fere li compaingnie qui ,raportera, arriere l'escu s'i le covient a fere. ,15,raportera,_,VERB,VERcjg,VerbForm=Fin,9,acl:relcl,_,XmlId=w_qgraal_cm_11882,1
 9283,et li frere de laienz li baillierent.i. escuier por ,fere, li compaingnie qui raportera arriere l'escu s'i le covient a fere. ,11,fere,_,VERB,VERinf,VerbForm=Inf,7,advcl,_,XmlId=w_qgraal_cm_11878,1
 9283,et li frere de laienz li ,baillierent,.i. escuier por fere li compaingnie qui raportera arriere l'escu s'i le covient a fere. ,7,baillierent,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_qgraal_cm_11874,1

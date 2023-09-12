@@ -69,7 +69,7 @@ Rhap_D1003-31	et donc, euh, et donc, 	voilà	. 	9	voilà	voilà	VERB	_	_	0	root	
 Rhap_D1003-33	donc, euh, j'avais qu'un souhait, c'était 	re~	, de revenir en France. 	13	re~	re~	VERB	_	_	16	reparandum	_	SpaceAfter=No	-1
 Rhap_D1003-36	j'ai, euh, j'ai ga~, j'	ai	, j'en ai gardé un très mauvais souvenir. 	2	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	reparandum	_	SpaceAfter=No	-1
 Rhap_D1003-36	j'ai, euh, j'ai 	ga~	, j'ai, j'en ai gardé un très mauvais souvenir. 	8	ga~	ga~	VERB	conj:reform	_	16	reparandum	_	SpaceAfter=No	-1
-Rhap_D1003-36	j'	ai	, euh, j'ai ga~, j'ai, j'en ai gardé un très mauvais souvenir. 	2	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	reparandum	_	SpaceAfter=No	-1
+Rhap_D1003-36	j'	ai	, euh, j'ai ga~, j'ai, j'en ai gardé un très mauvais souvenir. 	7	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_	-1
 Rhap_D1003-37	et c'est ensuite, quand je suis partie, partie en, en première L que je me suis 	rendu	 compte qu'en fait, c'était un, un, un, un super, enfin, une super expérience. 	21	rendu	rendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl:cleft	_	_	1
 Rhap_D1003-37	et c'est ensuite, quand je suis 	partie	, partie en, en première L que je me suis rendu compte qu'en fait, c'était un, un, un, un super, enfin, une super expérience. 	9	partie	partir	VERB	ETRE	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	reparandum	_	SpaceAfter=No	-1
 Rhap_D1003-38	ça m'a~, ça m'avait beaucoup en~, 	enrichie	 intérieurement. 	11	enrichie	enrichir	VERB	conj:reform	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_	-1
@@ -207,8 +207,8 @@ Rhap_D0002-16	je 	pense	… 	2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1
 Rhap_D0002-17	moi, je 	vois	, euh, dans le vingtième j'ai des, il y a des enfants qui, qui visiblement… 	4	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	discourse	_	SpaceAfter=No	-1
 Rhap_D0002-21	il y a, il y a, il y a, il y 	a	, il y a des bons établissements. 	3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	reparandum	_	SpaceAfter=No	-1
 Rhap_D0002-21	il y a, il y a, il y 	a	, il y a, il y a des bons établissements. 	3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	reparandum	_	SpaceAfter=No	-1
-Rhap_D0002-21	il y a, il y 	a	, il y a, il y a, il y a des bons établissements. 	3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	reparandum	_	SpaceAfter=No	-1
-Rhap_D0002-21	il y 	a	, il y a, il y a, il y a, il y a des bons établissements. 	3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	reparandum	_	SpaceAfter=No	-1
+Rhap_D0002-21	il y a, il y 	a	, il y a, il y a, il y a des bons établissements. 	7	a	avoir	VERB	conj:reform	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	reparandum	_	SpaceAfter=No	-1
+Rhap_D0002-21	il y 	a	, il y a, il y a, il y a, il y a des bons établissements. 	7	a	avoir	VERB	conj:reform	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	reparandum	_	SpaceAfter=No	-1
 Rhap_D0002-23	alors le problème, si vous 	voulez	, qui se pose, euh, à Paris, enfin, que je vois dans le vingtième, c'est le problème des écoles maternelles et primaires dans lequel quand vous avez effectivement un certain nombre d'enfants qui ne sont pas, qui ne parlent pas couramment français, euh, pour les enseignants, c'est, c'est pas facile. 	7	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	discourse	_	SpaceAfter=No	2
 Rhap_D0002-25	et moi, je 	vois	, les mamans que je fais travailler dans le vingtième, il faudrait… 	5	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	discourse	_	SpaceAfter=No	-1
 Rhap_D0002-29	parce que tous ces petits enfants qui 	arrivent	, ils vont en maternelle. 	8	arrivent	arriver	VERB	ETRE	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	SpaceAfter=No	1
@@ -676,9 +676,9 @@ Rhap_D0001-57bis		voilà	. 	1	voilà	voilà	VERB	_	_	0	root	_	SpaceAfter=No	-1
 Rhap_D0001-61	moi, j'étais donc, euh, j'étais à l'école rue de Picpus, qui 	existe	 toujours, absolument. 	19	existe	exister	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_	-1
 Rhap_D0001-63	et puis après, j'étais au lycée Arago, donc, 	voyez	, qui est, hein, qui avait une annexe d'ailleurs, euh, une annexe qui est à Reuilly-Diderot. 	14	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	discourse	_	Overlap=Rhap_D0001-63bis|SpaceAfter=No	-1
 Rhap_D0001-65	voilà, 	voilà	. 	1	voilà	voilà	VERB	_	_	0	root	_	SpaceAfter=No	-1
-Rhap_D0001-65		voilà	, voilà. 	1	voilà	voilà	VERB	_	_	0	root	_	SpaceAfter=No	-1
+Rhap_D0001-65		voilà	, voilà. 	3	voilà	voilà	VERB	_	_	1	conj	_	SpaceAfter=No	-1
 Rhap_D0001-67	voilà, 	voilà	. 	1	voilà	voilà	VERB	_	_	0	root	_	Overlap=Rhap_D0001-66|SpaceAfter=No	-1
-Rhap_D0001-67		voilà	, voilà. 	1	voilà	voilà	VERB	_	_	0	root	_	Overlap=Rhap_D0001-66|SpaceAfter=No	-1
+Rhap_D0001-67		voilà	, voilà. 	3	voilà	voilà	VERB	_	_	1	conj	_	Overlap=Rhap_D0001-66|SpaceAfter=No	-1
 Rhap_D0001-70bis	ça, ça, je, j'ai rien à 	dire	. 	11	dire	dire	VERB	_	VerbForm=Inf	9	xcomp	_	SpaceAfter=No|Subject=SubjRaising	-1
 Rhap_D0001-72	vous en, vous en souvenez plutôt avec, euh, euh, a~, avec l'impression que ça 	tournait	, que c'était bien, euh, ou, au contraire, d'un tel ennui… 	21	tournait	tourner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	acl	_	SpaceAfter=No	1
 Rhap_D0001-76	c'	é~	… 	2	é~	é~	VERB	_	_	0	root	_	AttachTo=2@Rhap_D0001-75|Rel=parataxis:conj|Scrap=Yes|SpaceAfter=No	0
@@ -757,7 +757,7 @@ Rhap_D2002-37	mais, 	voilà	, ça, c'est une sorte de mélange très, très, tr�
 Rhap_D2002-43	ah, euh, 	attendez	, dans quoi je pourrais… ? 	5	attendez	attendre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	discourse	_	SpaceAfter=No	-1
 Rhap_D2002-45	ah bon, ah, oui, alors, 	attendez	, non. 	10	attendez	attendre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No	-1
 Rhap_D2002-48	bougez pas, 	bougez	 pas. 	1	bougez	bouger	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_	-1
-Rhap_D2002-48		bougez	 pas, bougez pas. 	1	bougez	bouger	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_	-1
+Rhap_D2002-48		bougez	 pas, bougez pas. 	4	bougez	bouger	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_	-1
 Rhap_D2002-70	mais, euh, je, j'	arrive	, je XXX… 	8	arrive	arriver	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	reparandum	_	SpaceAfter=No	-1
 Rhap_M0005-3	et il me semble que vous continuez à longer, euh, l'avenue jusqu'à l'arrêt, euh, Albert Premier de Belgique, 	voilà	, donc, l'arrêt de tram Albert Premier de Bel~, Albert Premier de Belgique. 	27	voilà	voilà	VERB	_	_	25	discourse	_	SpaceAfter=No	12
 Rhap_M0005-12	donc, euh, 	voilà	. 	5	voilà	voilà	VERB	_	_	0	root	_	SpaceAfter=No	-1

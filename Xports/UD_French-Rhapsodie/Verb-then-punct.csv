@@ -17,7 +17,7 @@ Rhap_D1003-38,"ça m'a~, ça m'avait beaucoup en~, ",enrichie, intérieurement. 
 Rhap_D1003-41,"j'ai connu s~, ",connu," beaucoup, enfin, une nouvelle culture. ",3,connu,connaître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,reparandum,_,_,-1
 Rhap_M0013-2,"ben, pour, euh, ",aller," à la gare, vous allez, euh, vous éloigner du tram en, en longeant, euh, le, le cinéma. ",7,aller,aller,VERB,ETRE,VerbForm=Inf,13,advcl,_,Subject=NoRaising,-1
 Rhap_D0009-22,"il faut, ",faut," compter autour de soixante, soixante-dix. ",2,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,reparandum,_,Overlap=Rhap_D0009-21|SpaceAfter=No,-1
-Rhap_D0009-61,"et les pieds, crois-tu, ",crois,-tu que c'est… ? ,5,crois,croire,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,8,reparandum,_,SpaceAfter=No,2
+Rhap_D0009-61,"et les pieds, crois-tu, ",crois,-tu que c'est… ? ,5,crois,croire,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,8,reparandum,_,SpaceAfter=No,-1
 Rhap_D0009-61,"et les pieds, ",crois,"-tu, crois-tu que c'est… ? ",5,crois,croire,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,8,reparandum,_,SpaceAfter=No,2
 Rhap_D0009-98,"bah, f~, déj~, déjà, les teintes, bon, ",faut," savoir que tu as une base, euh, pff… ",14,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,2
 Rhap_D0009-124,"mais est-ce qu'il faut que les pieds soient quand même, euh, ",cachés, ? ,16,cachés,cacher,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6,ccomp,_,_,-1

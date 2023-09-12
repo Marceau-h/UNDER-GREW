@@ -641,7 +641,7 @@ beroul-610.new,Qel damage qu'en traïson Vos ont fait ,prendre, cil gloton ! ,9,
 11336,« Sire chevaliers puis qu'il est einsi que vos ceainz estes venuz je vos pri que vos me ,diez, qui vos estes. ,20,diez,_,VERB,VERcjg,VerbForm=Fin,16,ccomp,_,XmlId=w_qgraal_cm_110528,1
 11341,car il ne m'en ,chaloit,", ",6,chaloit,_,VERB,VERcjg,VerbForm=Fin,0,root,_,SpaceAfter=No|XmlId=w_qgraal_cm_110585,-1
 11342,mes ore m'en ,chaut, por amor de vostre frere qui ceainz est. » ,5,chaut,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_110591,1
-11347,"voirement me dist voir li preudome dou tertre, cil qui ",dist, a moi et a mon seignor Gauvain la senefiance de noz songes. » ,3,dist,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_110679,-1
+11347,"voirement me dist voir li preudome dou tertre, cil qui ",dist, a moi et a mon seignor Gauvain la senefiance de noz songes. » ,3,dist,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_110679,3
 11347,voirement me ,dist," voir li preudome dou tertre, cil qui dist a moi et a mon seignor Gauvain la senefiance de noz songes. » ",3,dist,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_110679,-1
 11357,et li ,dist," les noveles de son frere, dom il ert tant dolenz qu'il ne set qu'il face. ",3,dist,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_110818,-1
 11358,Si ne se puet tant celer que cil de laienz ne s'en aperçoivent a ce qu'il li voient les lermes ,coler, tot contreval la face. ,23,coler,_,VERB,VERinf,VerbForm=Inf,20,xcomp,_,XmlId=w_qgraal_cm_110860,1
@@ -3245,7 +3245,7 @@ qgraal_cm-3083.new,"- Nanil, fet il, se vos nel me ",dites,. ,11,dites,_,VERB,VE
 9236,et quant il les conut si lor ,refist," mout grant joie, come a çaus qu'il devoit tenir a freres et a compaignons. ",8,refist,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_11125,1
 9238,et lor ,demanda, Galaad quele aventure les avoit laienz amenez. ,3,demanda,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_11175,-1
 9240,ce nos a l'en ,fet," entendant, ",5,fet,_,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_qgraal_cm_11208,-1
-9246,"- A non Dieu, fet Galaad, vos me contez merveilles, se l'aventure est tiex come vos me ",contez," et dites, ",11,contez,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_11310,1
+9246,"- A non Dieu, fet Galaad, vos me contez merveilles, se l'aventure est tiex come vos me ",contez," et dites, ",11,contez,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_11310,-1
 9246,"- A non Dieu, fet Galaad, vos me ",contez," merveilles, se l'aventure est tiex come vos me contez et dites, ",11,contez,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_11310,1
 9249,"- Sire, font il, donc le vos ",lairons," nos, ",10,lairons,_,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_qgraal_cm_11358,-1
 9251,"- Je voil, fait il, que vos i essaiez avant por savoir se ce est voirs ou mençonge que l'en vos en a ",dit,. » ,26,dit,_,VERB,VERppe,Tense=Past|VerbForm=Part,16,acl:relcl,_,SpaceAfter=No|XmlId=w_qgraal_cm_11400,-1

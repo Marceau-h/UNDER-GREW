@@ -116,7 +116,7 @@ sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPR
 17025	si la 	trovet	 l'um en Indie. 	3	trovet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0154	-1
 17026	Ele est de si grant durece que ne par fer ne par fu ne pot estre depeciede ne en nule maniere, se ço n'est par le chaut sanc del buc, u hom la muillet, que hom la 	depiecet	 sur le enclume od malz ; 	42	depiecet	_	VERB	VERcjg	VerbForm=Fin	24	acl	_	XmlId=w_273_0201	1
 17026	Ele est de si grant durece que ne par fer ne par fu ne pot estre depeciede ne en nule maniere, se ço n'est par le chaut sanc del buc, u hom la 	muillet	, que hom la depiecet sur le enclume od malz ; 	37	muillet	_	VERB	VERcjg	VerbForm=Fin	30	acl:relcl	_	SpaceAfter=No|XmlId=w_273_0196	1
-17026	Ele est de si grant durece que ne par fer ne par fu ne pot estre depeciede ne en nule maniere, se ço n'	est	 par le chaut sanc del buc, u hom la muillet, que hom la depiecet sur le enclume od malz ; 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0161	-1
+17026	Ele est de si grant durece que ne par fer ne par fu ne pot estre depeciede ne en nule maniere, se ço n'	est	 par le chaut sanc del buc, u hom la muillet, que hom la depiecet sur le enclume od malz ; 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0161	1
 17026	Ele est de si grant durece que ne par fer ne par fu ne pot estre 	depeciede	 ne en nule maniere, se ço n'est par le chaut sanc del buc, u hom la muillet, que hom la depiecet sur le enclume od malz ; 	17	depeciede	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	advcl	_	XmlId=w_273_0176	1
 17026	Ele 	est	 de si grant durece que ne par fer ne par fu ne pot estre depeciede ne en nule maniere, se ço n'est par le chaut sanc del buc, u hom la muillet, que hom la depiecet sur le enclume od malz ; 	2	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0161	-1
 17027	et des agues pieres ki en fruissent 	entaillet	 hom les altres gemes. 	8	entaillet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0215	1
@@ -150,7 +150,7 @@ sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPR
 17048	et 	cunfortet	 veude. 	2	cunfortet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0471	-1
 17049	Un'aultre maniere est une encore ki ad odur de mirre quant l'om le 	art	. 	16	art	_	VERB	VERcjg	VerbForm=Fin	8	advcl	_	SpaceAfter=No|XmlId=w_273_0489	-1
 17049	Un'aultre maniere est une encore ki 	ad	 odur de mirre quant l'om le art. 	8	ad	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_273_0481	-1
-17050	Un'altre i ad ki at sanguines teches. Une altre ki 	at	 colur de cire ; 	6	at	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_273_0496	-1
+17050	Un'altre i ad ki at sanguines teches. Une altre ki 	at	 colur de cire ; 	6	at	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_273_0496	1
 17050	Un'altre i ad ki 	at	 sanguines teches. Une altre ki at colur de cire ; 	6	at	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_273_0496	-1
 17050	Un'altre i 	ad	 ki at sanguines teches. Une altre ki at colur de cire ; 	4	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0494	-1
 17052	Achate 	defent	 home ; 	2	defent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_0522	-1
@@ -840,7 +840,7 @@ sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPR
 3905	Or set que bien 	istront	 de ci. 	5	istront	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_26_00662	1
 3905	Or 	set	 que bien istront de ci. 	2	set	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00659	-1
 3906	« Ahi ! Yseut, fille de roi, Franche, cortoise, en bone foi Par plusors foiz vos ai 	mandee	, Puis que chanbre me fu veee 	22	mandee	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_00687	0
-3908	Dame, or vos vuel merci crïer, Qu'il vos menbre de cest chaitif Qui a traval et 	a	 duel vif ; 	17	a	_	VERB	VERcjg	_	15	acl:relcl	_	XmlId=w_26_00719	4
+3908	Dame, or vos vuel merci crïer, Qu'il vos menbre de cest chaitif Qui a traval et 	a	 duel vif ; 	17	a	_	VERB	VERcjg	_	15	acl:relcl	_	XmlId=w_26_00719	1
 3908	Dame, or vos vuel merci crïer, Qu'il vos menbre de cest chaitif Qui 	a	 traval et a duel vif ; 	17	a	_	VERB	VERcjg	_	15	acl:relcl	_	XmlId=w_26_00719	4
 3909	Qar j'ai tel duel c'onques le roi Out mal pensé de vos vers moi Qu'il n'i a el fors que je 	muere	. 	26	muere	_	VERB	VERcjg	VerbForm=Fin	21	advcl	_	SpaceAfter=No|XmlId=w_26_00751	-1
 3909	Qar j'ai tel duel c'onques le roi Out mal pensé de vos vers moi Qu'il n'i 	a	 el fors que je muere. 	21	a	_	VERB	VERcjg	VerbForm=Fin	5	acl	_	XmlId=w_26_00746	-1
@@ -1629,7 +1629,7 @@ sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPR
 4424	Ja, por lor eulz, ne le pensasent Que ja de lor mains m'	atochasent	 ; 	16	atochasent	_	VERB	VERcjg	VerbForm=Fin	9	dislocated	_	XmlId=w_26_05804	-1
 4424	Ja, por lor eulz, ne le 	pensasent	 Que ja de lor mains m'atochasent ; 	9	pensasent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05797	1
 4425	Mais envers vos n'en 	ai	 je rien. 	6	ai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05811	-1
-4426	Or, tort a mal ou 	tort	 a bien, De moi ferez vostre plesir, 	3	tort	_	VERB	VERcjg	VerbForm=Fin	13	advcl	_	XmlId=w_26_05817	-1
+4426	Or, tort a mal ou 	tort	 a bien, De moi ferez vostre plesir, 	3	tort	_	VERB	VERcjg	VerbForm=Fin	13	advcl	_	XmlId=w_26_05817	1
 4426	Or, 	tort	 a mal ou tort a bien, De moi ferez vostre plesir, 	3	tort	_	VERB	VERcjg	VerbForm=Fin	13	advcl	_	XmlId=w_26_05817	-1
 4427	Et je sui prest de vos 	soufrir	. 	7	soufrir	_	VERB	VERinf	VerbForm=Inf	4	acl	_	SpaceAfter=No|XmlId=w_26_05837	-1
 4428	Sire, por Deu, de la roïne 	Aiez	 pitié ! » 	9	Aiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05847	2
@@ -2026,7 +2026,7 @@ sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPR
 8625	Et li rois 	descent	 maintenant por ceste aventure veoir, 	4	descent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_1815	2
 8626	et si 	font	 tuit li autre, 	3	font	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_1824	-1
 8627	et quant il sont venuz a la rive si troevent le perron qui estoit venuz a rive et 	issuz	 hors de l'eve, 	19	issuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	15	conj	_	XmlId=w_qgraal_cm_1847	-1
-8627	et quant il sont venuz a la rive si troevent le perron qui estoit 	venuz	 a rive et issuz hors de l'eve, 	5	venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	advcl	_	XmlId=w_qgraal_cm_1833	-1
+8627	et quant il sont venuz a la rive si troevent le perron qui estoit 	venuz	 a rive et issuz hors de l'eve, 	5	venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	advcl	_	XmlId=w_qgraal_cm_1833	7
 8627	et quant il sont venuz a la rive si 	troevent	 le perron qui estoit venuz a rive et issuz hors de l'eve, 	10	troevent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_1838	7
 8627	et quant il sont 	venuz	 a la rive si troevent le perron qui estoit venuz a rive et issuz hors de l'eve, 	5	venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	advcl	_	XmlId=w_qgraal_cm_1833	-1
 8628	et 	estoit	 de marbre vermeil, 	2	estoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_1854	-1
@@ -2168,7 +2168,7 @@ sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPR
 8711	car se ce est cil que nos atendons a achever les aventures dou saint Graal onques si grant joie ne fu 	faite	 d'ome come nos ferons de lui. 	22	faite	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_qgraal_cm_2912	3
 8711	car se ce est cil que nos atendons a 	achever	 les aventures dou saint Graal onques si grant joie ne fu faite d'ome come nos ferons de lui. 	10	achever	_	VERB	VERinf	VerbForm=Inf	8	advcl	_	XmlId=w_qgraal_cm_2900	3
 8711	car se ce est cil que nos 	atendons	 a achever les aventures dou saint Graal onques si grant joie ne fu faite d'ome come nos ferons de lui. 	8	atendons	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_qgraal_cm_2898	-1
-8712	Et qui que il soit ou cil que vos dites ou autres.´ je voldroie que bien li venist por ce qu'il est si gentis hons et de si haut lignage come vos 	dites	. 	10	dites	_	VERB	VERcjg	VerbForm=Fin	7	acl:relcl	_	XmlId=w_qgraal_cm_2930	4
+8712	Et qui que il soit ou cil que vos dites ou autres.´ je voldroie que bien li venist por ce qu'il est si gentis hons et de si haut lignage come vos 	dites	. 	10	dites	_	VERB	VERcjg	VerbForm=Fin	7	acl:relcl	_	XmlId=w_qgraal_cm_2930	-1
 8712	Et qui que il soit ou cil que vos dites ou autres.´ je 	voldroie	 que bien li venist por ce qu'il est si gentis hons et de si haut lignage come vos dites. 	15	voldroie	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_2935	4
 8712	Et qui que il soit ou cil que vos 	dites	 ou autres.´ je voldroie que bien li venist por ce qu'il est si gentis hons et de si haut lignage come vos dites. 	10	dites	_	VERB	VERcjg	VerbForm=Fin	7	acl:relcl	_	XmlId=w_qgraal_cm_2930	4
 8713	- Par foi, fait li preudons, vos en 	verroiz	 par tens tel comencement qui bel sera. » 	11	verroiz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_2967	2
@@ -2417,7 +2417,7 @@ sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPR
 8848	et 	dist	 au roi : 	2	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_4918	-1
 8849	« Sire or 	vaut	 mielz que devant, 	4	vaut	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_4925	-1
 8850	or ne me faut mes fors escu donc je n'	ai	 point. 	11	ai	_	VERB	VERcjg	VerbForm=Fin	7	acl:relcl	_	XmlId=w_qgraal_cm_4940	1
-8851	- Biax sire, fet li rois, escu vos envoiera Diex d'aucune part ausi com il a 	fet	 espee. » 	5	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_4947	1
+8851	- Biax sire, fet li rois, escu vos envoiera Diex d'aucune part ausi com il a 	fet	 espee. » 	5	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_4947	-1
 8851	- Biax sire, 	fet	 li rois, escu vos envoiera Diex d'aucune part ausi com il a fet espee. » 	5	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_4947	1
 8852	Et lors 	resgardent	 tout contreval la rive, 	3	resgardent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_4968	-1
 8853	et voient venir une damoisele 	montee	 sor un palefroi blanc qui venoit vers aux mout grant aleure, 	6	montee	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl	_	XmlId=w_qgraal_cm_4979	1
@@ -2510,7 +2510,7 @@ sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPR
 8903	et bien i paroit a ce qu'il avoit le jor 	fet	 que d'iluec en avant porroit il legierement sormonter de proece toz les autres chevaliers, 	12	fet	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	acl:relcl	_	XmlId=w_qgraal_cm_5727	1
 8903	et bien i 	paroit	 a ce qu'il avoit le jor fet que d'iluec en avant porroit il legierement sormonter de proece toz les autres chevaliers, 	4	paroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_5719	-1
 8904	car quant li tornois fu remés il troverent que de toz les compaignons de la table reonde qui armes portassent n'i avoit il remés que.ii. qu'il n'eust 	abatuz	, 	32	abatuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	27	acl:relcl	_	SpaceAfter=No|XmlId=w_qgraal_cm_5775	-1
-8904	car quant li tornois fu remés il troverent que de toz les compaignons de la table reonde qui armes portassent n'i avoit il 	remés	 que.ii. qu'il n'eust abatuz, 	6	remés	_	VERB	VERppe	Tense=Past|VerbForm=Part	8	advcl	_	XmlId=w_qgraal_cm_5749	3
+8904	car quant li tornois fu remés il troverent que de toz les compaignons de la table reonde qui armes portassent n'i avoit il 	remés	 que.ii. qu'il n'eust abatuz, 	6	remés	_	VERB	VERppe	Tense=Past|VerbForm=Part	8	advcl	_	XmlId=w_qgraal_cm_5749	-1
 8904	car quant li tornois fu remés il troverent que de toz les compaignons de la table reonde qui armes 	portassent	 n'i avoit il remés que.ii. qu'il n'eust abatuz, 	20	portassent	_	VERB	VERcjg	VerbForm=Fin	13	acl:relcl	_	XmlId=w_qgraal_cm_5763	5
 8904	car quant li tornois fu remés il 	troverent	 que de toz les compaignons de la table reonde qui armes portassent n'i avoit il remés que.ii. qu'il n'eust abatuz, 	8	troverent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_5751	5
 8904	car quant li tornois fu 	remés	 il troverent que de toz les compaignons de la table reonde qui armes portassent n'i avoit il remés que.ii. qu'il n'eust abatuz, 	6	remés	_	VERB	VERppe	Tense=Past|VerbForm=Part	8	advcl	_	XmlId=w_qgraal_cm_5749	3
@@ -3286,7 +3286,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 10333	Quant li tornoiemenz fu comenciez, ce 	est	 a dire quant la queste fu comenciee tu regardas les pecheors et les preudomes, 	8	est	_	VERB	VERcjg	VerbForm=Fin	17	parataxis	_	XmlId=w_qgraal_cm_61557	1
 10333	Quant li tornoiemenz fu 	comenciez	, ce est a dire quant la queste fu comenciee tu regardas les pecheors et les preudomes, 	5	comenciez	_	VERB	VERppe	Tense=Past|VerbForm=Part	17	advcl	_	SpaceAfter=No|XmlId=w_qgraal_cm_61554	-1
 10334	si te fu avis que li pecheor furent 	vaincuz	, 	9	vaincuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	4	csubj	_	SpaceAfter=No|XmlId=w_qgraal_cm_61581	-1
-10335	et por ce que tu estoies de la partie as pecheors ce est a dire por ce que tu 	estoies	 en pechié mortel si te tornas devers els 	6	estoies	_	VERB	VERcjg	VerbForm=Fin	3	acl	_	XmlId=w_qgraal_cm_61588	-1
+10335	et por ce que tu estoies de la partie as pecheors ce est a dire por ce que tu 	estoies	 en pechié mortel si te tornas devers els 	6	estoies	_	VERB	VERcjg	VerbForm=Fin	3	acl	_	XmlId=w_qgraal_cm_61588	0
 10335	et por ce que tu estoies de la partie as pecheors ce est a 	dire	 por ce que tu estoies en pechié mortel si te tornas devers els 	15	dire	_	VERB	VERinf	VerbForm=Inf	13	xcomp	_	XmlId=w_qgraal_cm_61597	0
 10335	et por ce que tu estoies de la partie as pecheors ce 	est	 a dire por ce que tu estoies en pechié mortel si te tornas devers els 	13	est	_	VERB	VERcjg	VerbForm=Fin	26	parataxis	_	XmlId=w_qgraal_cm_61595	0
 10335	et por ce que tu 	estoies	 de la partie as pecheors ce est a dire por ce que tu estoies en pechié mortel si te tornas devers els 	6	estoies	_	VERB	VERcjg	VerbForm=Fin	3	acl	_	XmlId=w_qgraal_cm_61588	-1
@@ -3559,7 +3559,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 10466	et 	lessent	 pestre par la montaingne, 	2	lessent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_63606	-1
 10467	lors 	desceignent	 lor espees 	2	desceignent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_63613	-1
 10468	et 	metent	 en la place, 	2	metent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_63617	-1
-10469	puis vont devant l'autel fere lor oroisons et lor proieres come bon crestien doivent 	fere	, 	6	fere	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_qgraal_cm_63627	3
+10469	puis vont devant l'autel fere lor oroisons et lor proieres come bon crestien doivent 	fere	, 	6	fere	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_qgraal_cm_63627	-1
 10469	puis vont devant l'autel 	fere	 lor oroisons et lor proieres come bon crestien doivent fere, 	6	fere	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_qgraal_cm_63627	3
 10469	puis 	vont	 devant l'autel fere lor oroisons et lor proieres come bon crestien doivent fere, 	2	vont	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_63623	-1
 10470	et quant il orent fetes lor oroisons il se vont aseoir sus un siege qui 	estoit	 ou chancel, 	16	estoit	_	VERB	VERcjg	VerbForm=Fin	14	acl:relcl	_	XmlId=w_qgraal_cm_63655	1
@@ -3798,7 +3798,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 10604	Et il dist que il le fera volentiers s'il le puet 	fere	 en nule maniere. 	13	fere	_	VERB	VERinf	VerbForm=Inf	7	advcl	_	XmlId=w_qgraal_cm_65334	-1
 10604	Et il dist que il le 	fera	 volentiers s'il le puet fere en nule maniere. 	7	fera	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_qgraal_cm_65328	-1
 10604	Et il 	dist	 que il le fera volentiers s'il le puet fere en nule maniere. 	3	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_65324	-1
-10605	« Sire, fet il, je vos pri que vos me portez en une abeïe pres de ci, et me fetes fere ma droiture tele com l'en doit 	fere	 a chevalier. 	24	fere	_	VERB	VERinf	VerbForm=Inf	23	xcomp	_	XmlId=w_qgraal_cm_65362	0
+10605	« Sire, fet il, je vos pri que vos me portez en une abeïe pres de ci, et me fetes fere ma droiture tele com l'en doit 	fere	 a chevalier. 	24	fere	_	VERB	VERinf	VerbForm=Inf	23	xcomp	_	XmlId=w_qgraal_cm_65362	-1
 10605	« Sire, fet il, je vos pri que vos me portez en une abeïe pres de ci, et me fetes 	fere	 ma droiture tele com l'en doit fere a chevalier. 	24	fere	_	VERB	VERinf	VerbForm=Inf	23	xcomp	_	XmlId=w_qgraal_cm_65362	0
 10605	« Sire, fet il, je vos pri que vos me portez en une abeïe pres de ci, et me 	fetes	 fere ma droiture tele com l'en doit fere a chevalier. 	23	fetes	_	VERB	VERcjg	VerbForm=Fin	13	conj	_	XmlId=w_qgraal_cm_65361	0
 10605	« Sire, fet il, je vos pri que vos me 	portez	 en une abeïe pres de ci, et me fetes fere ma droiture tele com l'en doit fere a chevalier. 	13	portez	_	VERB	VERcjg	VerbForm=Fin	9	ccomp	_	XmlId=w_qgraal_cm_65351	0
@@ -5765,7 +5765,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 11642	Et por ce que tu n'ailles sels 	voil	 ge que tu meines o toi Perceval et Boorz. 	9	voil	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_115187	-1
 11642	Et por ce que tu n'	ailles	 sels voil ge que tu meines o toi Perceval et Boorz. 	7	ailles	_	VERB	VERcjg	VerbForm=Fin	3	acl	_	XmlId=w_qgraal_cm_115185	-1
 11643	Et neporec por ce que je ne voil pas que tu t'en ailles de cest païs sanz la garison au Roi Mehaignié voil je que tu 	pregnes	 del sanc de ceste lance 	28	pregnes	_	VERB	VERcjg	VerbForm=Fin	24	ccomp	_	XmlId=w_qgraal_cm_115225	0
-11643	Et neporec por ce que je ne voil pas que tu t'en ailles de cest païs sanz la garison au Roi Mehaignié 	voil	 je que tu pregnes del sanc de ceste lance 	8	voil	_	VERB	VERcjg	VerbForm=Fin	4	acl	_	XmlId=w_qgraal_cm_115205	-1
+11643	Et neporec por ce que je ne voil pas que tu t'en ailles de cest païs sanz la garison au Roi Mehaignié 	voil	 je que tu pregnes del sanc de ceste lance 	8	voil	_	VERB	VERcjg	VerbForm=Fin	4	acl	_	XmlId=w_qgraal_cm_115205	0
 11643	Et neporec por ce que je ne voil pas que tu t'en ailles de cest païs sanz la garison au Roi 	Mehaignié	 voil je que tu pregnes del sanc de ceste lance 	23	Mehaignié	_	VERB	VERppe	Tense=Past|VerbForm=Part	22	acl	_	XmlId=w_qgraal_cm_115220	0
 11643	Et neporec por ce que je ne voil pas que tu t'en 	ailles	 de cest païs sanz la garison au Roi Mehaignié voil je que tu pregnes del sanc de ceste lance 	14	ailles	_	VERB	VERcjg	VerbForm=Fin	8	ccomp	_	XmlId=w_qgraal_cm_115211	-1
 11643	Et neporec por ce que je ne 	voil	 pas que tu t'en ailles de cest païs sanz la garison au Roi Mehaignié voil je que tu pregnes del sanc de ceste lance 	8	voil	_	VERB	VERcjg	VerbForm=Fin	4	acl	_	XmlId=w_qgraal_cm_115205	-1
@@ -6227,7 +6227,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 11885	Que lors vi le ciel si 	derot	 Que de plus de.xiiii. parz Me feroit es ialz li esparz 	7	derot	derompre	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl	_	XmlId=w_YvainKu_3078	2
 11885	Que lors 	vi	 le ciel si derot Que de plus de.xiiii. parz Me feroit es ialz li esparz 	3	vi	vëoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_3074	-1
 11886	Et les nues tot mesle mesle 	Gitoient	 pluie, noif et gresle. 	7	Gitoient	jeter	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_3097	2
-11886	Et les nues tot mesle 	mesle	 Gitoient pluie, noif et gresle. 	5	mesle	mesle_mesle	VERB	VERcjg	VerbForm=Fin	7	advcl	_	XmlId=w_YvainKu_3095	-1
+11886	Et les nues tot mesle 	mesle	 Gitoient pluie, noif et gresle. 	5	mesle	mesle_mesle	VERB	VERcjg	VerbForm=Fin	7	advcl	_	XmlId=w_YvainKu_3095	2
 11886	Et les nues tot 	mesle	 mesle Gitoient pluie, noif et gresle. 	5	mesle	mesle_mesle	VERB	VERcjg	VerbForm=Fin	7	advcl	_	XmlId=w_YvainKu_3095	-1
 11887	Tant fu li tans pesmes et forz Que cent foiz cuidai estre morz Des foudres qu'antor moi cheoient Et des arbres qui 	peceoient	. 	24	peceoient	peçoiier	VERB	VERcjg	VerbForm=Fin	22	acl:relcl	_	SpaceAfter=No|XmlId=w_YvainKu_3127	-1
 11887	Tant fu li tans pesmes et forz Que cent foiz cuidai estre morz Des foudres qu'antor moi 	cheoient	 Et des arbres qui peceoient. 	19	cheoient	chëoir	VERB	VERcjg	VerbForm=Fin	15	acl:relcl	_	XmlId=w_YvainKu_3122	3
@@ -6257,7 +6257,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 11897	Doucemant li oisel 	chantoient	 Si que mout bien s'antracordoient ; 	4	chantoient	chanter	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_3248	-1
 11898	Et divers chanz chantoit chascuns, C'onques ce que chantoit li uns A l'autre chanter ne 	oï	. 	19	oï	öir	VERB	VERcjg	VerbForm=Fin	4	advcl	_	SpaceAfter=No|XmlId=w_YvainKu_3274	-1
 11898	Et divers chanz chantoit chascuns, C'onques ce que chantoit li uns A l'autre 	chanter	 ne oï. 	17	chanter	chanter	VERB	VERinf	VerbForm=Inf	19	xcomp	_	XmlId=w_YvainKu_3272	-1
-11898	Et divers chanz chantoit chascuns, C'onques ce que 	chantoit	 li uns A l'autre chanter ne oï. 	4	chantoit	chanter	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_3259	-1
+11898	Et divers chanz chantoit chascuns, C'onques ce que 	chantoit	 li uns A l'autre chanter ne oï. 	4	chantoit	chanter	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_3259	2
 11898	Et divers chanz 	chantoit	 chascuns, C'onques ce que chantoit li uns A l'autre chanter ne oï. 	4	chantoit	chanter	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_3259	-1
 11899	De lor joie me 	resjoï	, 	5	resjoï	resjöir	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_3280	-1
 11900	S'escoutai tant qu'il orent 	fet	 Lor servise trestot a tret ; 	7	fet	faire	VERB	VERppe	Tense=Past|VerbForm=Part	2	advcl	_	XmlId=w_YvainKu_3288	-1
@@ -8392,7 +8392,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 13154	Einçois 	vint	 li rois a la lor, 	2	vint	venir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_18897	0
 13155	Car avoec ax 	sont	 li meillor Des chevaliers et toz li plus. 	4	sont	estre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_18907	-1
 13156	Entr'ax seoit li rois Artus, Quant Yvains tant encomança A panser, que des lors en ça Que a sa dame ot congié pris, Ne fu tant de panser 	sorpris	 Con de celui, 	33	sorpris	sorprendre	VERB	VERppe	Tense=Past|VerbForm=Part	11	advcl	_	XmlId=w_YvainKu_18949	-1
-13156	Entr'ax seoit li rois Artus, Quant Yvains tant encomança A panser, que des lors en ça Que a sa dame ot congié pris, Ne fu tant de 	panser	 sorpris Con de celui, 	13	panser	penser	VERB	VERinf	VerbForm=Inf	11	xcomp	_	SpaceAfter=No|XmlId=w_YvainKu_18929	3
+13156	Entr'ax seoit li rois Artus, Quant Yvains tant encomança A panser, que des lors en ça Que a sa dame ot congié pris, Ne fu tant de 	panser	 sorpris Con de celui, 	13	panser	penser	VERB	VERinf	VerbForm=Inf	11	xcomp	_	SpaceAfter=No|XmlId=w_YvainKu_18929	-1
 13156	Entr'ax seoit li rois Artus, Quant Yvains tant encomança A panser, que des lors en ça Que a sa dame ot congié 	pris	, Ne fu tant de panser sorpris Con de celui, 	26	pris	prendre	VERB	VERppe	Tense=Past|VerbForm=Part	33	advcl	_	SpaceAfter=No|XmlId=w_YvainKu_18942	-1
 13156	Entr'ax seoit li rois Artus, Quant Yvains tant encomança A 	panser	, que des lors en ça Que a sa dame ot congié pris, Ne fu tant de panser sorpris Con de celui, 	13	panser	penser	VERB	VERinf	VerbForm=Inf	11	xcomp	_	SpaceAfter=No|XmlId=w_YvainKu_18929	3
 13156	Entr'ax seoit li rois Artus, Quant Yvains tant 	encomança	 A panser, que des lors en ça Que a sa dame ot congié pris, Ne fu tant de panser sorpris Con de celui, 	11	encomança	encomencier	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_YvainKu_18927	3
@@ -8853,7 +8853,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 13434	Plus tost ne poïst an nonbrer Anpreu et.ii. et trois et quatre, Que l'en ne li veïst 	abatre	 Quatre chevaliers araumant, Plus tost et plus delivremant. 	21	abatre	abatre	VERB	VERinf	VerbForm=Inf	20	xcomp	_	XmlId=w_YvainKu_22224	1
 13434	Plus tost ne poïst an 	nonbrer	 Anpreu et.ii. et trois et quatre, Que l'en ne li veïst abatre Quatre chevaliers araumant, Plus tost et plus delivremant. 	6	nonbrer	nombrer	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_YvainKu_22209	1
 13435	Et cil qui avoec lui estoient Por lui grant hardemant 	prenoient	 ; 	11	prenoient	prendre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_22245	-1
-13436	Que tex a poinne ovrer antasche, Qant il voit c'uns prodon 	antasche	 Devant lui tote une besoingne, 	6	antasche	entaschier	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_22252	-1
+13436	Que tex a poinne ovrer antasche, Qant il voit c'uns prodon 	antasche	 Devant lui tote une besoingne, 	6	antasche	entaschier	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_22252	1
 13436	Que tex a poinne ovrer antasche, Qant il 	voit	 c'uns prodon antasche Devant lui tote une besoingne, 	10	voit	vëoir	VERB	VERcjg	VerbForm=Fin	6	advcl	_	XmlId=w_YvainKu_22256	1
 13436	Que tex a poinne ovrer 	antasche	, Qant il voit c'uns prodon antasche Devant lui tote une besoingne, 	6	antasche	entaschier	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_22252	-1
 13436	Que tex a poinne 	ovrer	 antasche, Qant il voit c'uns prodon antasche Devant lui tote une besoingne, 	5	ovrer	ovrer	VERB	VERinf	VerbForm=Inf	6	xcomp	_	XmlId=w_YvainKu_22251	-1
@@ -10381,7 +10381,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 14266	Si prist a lui tel anhatine La morz, que morir le 	covint	. 	13	covint	covenir	VERB	VERcjg	VerbForm=Fin	6	acl	_	SpaceAfter=No|XmlId=w_YvainKu_33058	-1
 14266	Si prist a lui tel anhatine La morz, que 	morir	 le covint. 	11	morir	morir	VERB	VERinf	VerbForm=Inf	13	xcomp	_	XmlId=w_YvainKu_33056	-1
 14267	Aprés sa mort, ensi avint De.ii. filles que il avoit Que l'ainznee dist qu'ele avroit Trestote la terre a delivre Toz les jorz qu'ele avroit a 	vivre	, 	32	vivre	vivre	VERB	VERinf	VerbForm=Inf	30	obj	_	SpaceAfter=No|XmlId=w_YvainKu_33091	-1
-14267	Aprés sa mort, ensi avint De.ii. filles que il avoit Que l'ainznee dist qu'ele avroit Trestote la terre a delivre Toz les jorz qu'ele 	avroit	 a vivre, 	19	avroit	avoir	VERB	VERcjg	VerbForm=Fin	16	ccomp	_	XmlId=w_YvainKu_33078	2
+14267	Aprés sa mort, ensi avint De.ii. filles que il avoit Que l'ainznee dist qu'ele avroit Trestote la terre a delivre Toz les jorz qu'ele 	avroit	 a vivre, 	19	avroit	avoir	VERB	VERcjg	VerbForm=Fin	16	ccomp	_	XmlId=w_YvainKu_33078	-1
 14267	Aprés sa mort, ensi avint De.ii. filles que il avoit Que l'ainznee dist qu'ele 	avroit	 Trestote la terre a delivre Toz les jorz qu'ele avroit a vivre, 	19	avroit	avoir	VERB	VERcjg	VerbForm=Fin	16	ccomp	_	XmlId=w_YvainKu_33078	2
 14267	Aprés sa mort, ensi avint De.ii. filles que il avoit Que l'ainznee 	dist	 qu'ele avroit Trestote la terre a delivre Toz les jorz qu'ele avroit a vivre, 	16	dist	dire	VERB	VERcjg	VerbForm=Fin	6	ccomp	_	XmlId=w_YvainKu_33075	2
 14267	Aprés sa mort, ensi avint De.ii. filles que il 	avoit	 Que l'ainznee dist qu'ele avroit Trestote la terre a delivre Toz les jorz qu'ele avroit a vivre, 	12	avoit	avoir	VERB	VERcjg	VerbForm=Fin	9	acl:relcl	_	XmlId=w_YvainKu_33071	2
@@ -13267,7 +13267,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 15871	et ne por quant ele ne santi ne mal ne dolor por le grant paor qu'ele 	avoit	. 	18	avoit	_	VERB	VERcjg	VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No|XmlId=w151_05248	-1
 15871	et ne por quant ele ne 	santi	 ne mal ne dolor por le grant paor qu'ele avoit. 	7	santi	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_05237	-1
 15872	Et se ele fu en paine de l'entrer, encore fu ele en forceur de l'	iscir	. 	18	iscir	_	VERB	VERinf	VerbForm=Inf	15	nmod	_	SpaceAfter=No|XmlId=w151_05267	-1
-15872	Et se ele fu en paine de l'entrer, encore 	fu	 ele en forceur de l'iscir. 	4	fu	_	VERB	VERcjg	VerbForm=Fin	12	advcl	_	XmlId=w151_05253	-1
+15872	Et se ele fu en paine de l'entrer, encore 	fu	 ele en forceur de l'iscir. 	4	fu	_	VERB	VERcjg	VerbForm=Fin	12	advcl	_	XmlId=w151_05253	1
 15872	Et se ele fu en paine de l'	entrer	, encore fu ele en forceur de l'iscir. 	9	entrer	_	VERB	VERinf	VerbForm=Inf	6	nmod	_	SpaceAfter=No|XmlId=w151_05258	1
 15872	Et se ele 	fu	 en paine de l'entrer, encore fu ele en forceur de l'iscir. 	4	fu	_	VERB	VERcjg	VerbForm=Fin	12	advcl	_	XmlId=w151_05253	-1
 15873	Ele se pensa qu'ileuc ne faisoit mie bon 	demorer	, 	10	demorer	_	VERB	VERinf	VerbForm=Inf	7	xcomp	_	SpaceAfter=No|XmlId=w151_05278	-1
@@ -15636,7 +15636,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 2021	As premers colps i unt ocis Gualter, Turpins de Reins tut sun escut percet, 	Quasset	 sun elme, 	17	Quasset	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	conj	_	XmlId=w_58_18482	0
 2021	As premers colps i unt ocis Gualter, Turpins de Reins tut sun escut 	percet	, Quasset sun elme, 	15	percet	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	conj	_	SpaceAfter=No|XmlId=w_58_18480	0
 2021	As premers colps i unt 	ocis	 Gualter, Turpins de Reins tut sun escut percet, Quasset sun elme, 	6	ocis	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_18471	0
-2022	si l'unt nasfret el chef, E sun osberc rumput e desmailet, Par mi le cors 	nasfret	 de.IIII. espiez ; 	4	nasfret	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_18489	-1
+2022	si l'unt nasfret el chef, E sun osberc rumput e desmailet, Par mi le cors 	nasfret	 de.IIII. espiez ; 	4	nasfret	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_18489	3
 2022	si l'unt nasfret el chef, E sun osberc rumput e 	desmailet	, Par mi le cors nasfret de.IIII. espiez ; 	13	desmailet	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	conj	_	SpaceAfter=No|XmlId=w_58_18498	3
 2022	si l'unt nasfret el chef, E sun osberc 	rumput	 e desmailet, Par mi le cors nasfret de.IIII. espiez ; 	11	rumput	_	VERB	VERppe	Tense=Past|VerbForm=Part	4	conj	_	XmlId=w_58_18496	3
 2022	si l'unt 	nasfret	 el chef, E sun osberc rumput e desmailet, Par mi le cors nasfret de.IIII. espiez ; 	4	nasfret	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_18489	-1
@@ -15816,7 +15816,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 2156	Ço 	dit	 Rollant : 	2	dit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_19644	-1
 2157	« Bels cumpainz Oliver, Vos fustes filz al duc Reiner Ki 	tint	 la marche del val de Runers. 	13	tint	_	VERB	VERcjg	VerbForm=Fin	10	acl:relcl	_	XmlId=w_58_19659	0
 2158	Pur hanste freindre e pur escuz peceier, Pur orgoillos veintre e esmaier E pur prozdomes tenir e cunseiller E pur glutun veintre e esmaier, En nule tere n'	ad	 meillor chevaler. » 	31	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_19697	0
-2158	Pur hanste freindre e pur escuz peceier, Pur orgoillos veintre e esmaier E pur prozdomes tenir e cunseiller E pur glutun veintre e 	esmaier	, En nule tere n'ad meillor chevaler. » 	13	esmaier	_	VERB	VERinf	VerbForm=Inf	11	conj	_	XmlId=w_58_19679	0
+2158	Pur hanste freindre e pur escuz peceier, Pur orgoillos veintre e esmaier E pur prozdomes tenir e cunseiller E pur glutun veintre e 	esmaier	, En nule tere n'ad meillor chevaler. » 	13	esmaier	_	VERB	VERinf	VerbForm=Inf	11	conj	_	XmlId=w_58_19679	-1
 2158	Pur hanste freindre e pur escuz peceier, Pur orgoillos veintre e esmaier E pur prozdomes tenir e cunseiller E pur glutun 	veintre	 e esmaier, En nule tere n'ad meillor chevaler. » 	11	veintre	_	VERB	VERinf	VerbForm=Inf	3	conj	_	XmlId=w_58_19677	0
 2158	Pur hanste freindre e pur escuz peceier, Pur orgoillos veintre e esmaier E pur prozdomes tenir e 	cunseiller	 E pur glutun veintre e esmaier, En nule tere n'ad meillor chevaler. » 	19	cunseiller	_	VERB	VERinf	VerbForm=Inf	17	conj	_	XmlId=w_58_19685	0
 2158	Pur hanste freindre e pur escuz peceier, Pur orgoillos veintre e esmaier E pur prozdomes 	tenir	 e cunseiller E pur glutun veintre e esmaier, En nule tere n'ad meillor chevaler. » 	17	tenir	_	VERB	VERinf	VerbForm=Inf	3	conj	_	XmlId=w_58_19683	0
@@ -18212,9 +18212,9 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 5319	Quant vit qu'ele avoit sa chemise Et q'entre eus deus avoit devise, La bouche o l'autre n'ert jostee, Et qant il vit la nue espee Qui entre eus deus les desevrot, Vit les braies que Tristran 	out	 : 	44	out	_	VERB	VERcjg	VerbForm=Fin	41	acl:relcl	_	XmlId=w_26_14735	-1
 5319	Quant vit qu'ele avoit sa chemise Et q'entre eus deus avoit devise, La bouche o l'autre n'ert jostee, Et qant il vit la nue espee Qui entre eus deus les desevrot, 	Vit	 les braies que Tristran out : 	39	Vit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_14730	4
 5319	Quant vit qu'ele avoit sa chemise Et q'entre eus deus avoit devise, La bouche o l'autre n'ert jostee, Et qant il vit la nue espee Qui entre eus deus les 	desevrot	, Vit les braies que Tristran out : 	37	desevrot	_	VERB	VERcjg	VerbForm=Fin	31	acl:relcl	_	SpaceAfter=No|XmlId=w_26_14728	4
-5319	Quant vit qu'ele avoit sa chemise Et q'entre eus deus avoit devise, La bouche o l'autre n'ert jostee, Et qant il 	vit	 la nue espee Qui entre eus deus les desevrot, Vit les braies que Tristran out : 	2	vit	_	VERB	VERcjg	VerbForm=Fin	39	advcl	_	XmlId=w_26_14693	-1
+5319	Quant vit qu'ele avoit sa chemise Et q'entre eus deus avoit devise, La bouche o l'autre n'ert jostee, Et qant il 	vit	 la nue espee Qui entre eus deus les desevrot, Vit les braies que Tristran out : 	2	vit	_	VERB	VERcjg	VerbForm=Fin	39	advcl	_	XmlId=w_26_14693	4
 5319	Quant vit qu'ele avoit sa chemise Et q'entre eus deus avoit devise, La bouche o l'autre n'ert 	jostee	, Et qant il vit la nue espee Qui entre eus deus les desevrot, Vit les braies que Tristran out : 	23	jostee	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	conj	_	SpaceAfter=No|XmlId=w_26_14714	4
-5319	Quant vit qu'ele avoit sa chemise Et q'entre eus deus 	avoit	 devise, La bouche o l'autre n'ert jostee, Et qant il vit la nue espee Qui entre eus deus les desevrot, Vit les braies que Tristran out : 	5	avoit	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_26_14696	-1
+5319	Quant vit qu'ele avoit sa chemise Et q'entre eus deus 	avoit	 devise, La bouche o l'autre n'ert jostee, Et qant il vit la nue espee Qui entre eus deus les desevrot, Vit les braies que Tristran out : 	5	avoit	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_26_14696	4
 5319	Quant vit qu'ele 	avoit	 sa chemise Et q'entre eus deus avoit devise, La bouche o l'autre n'ert jostee, Et qant il vit la nue espee Qui entre eus deus les desevrot, Vit les braies que Tristran out : 	5	avoit	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_26_14696	-1
 5319	Quant 	vit	 qu'ele avoit sa chemise Et q'entre eus deus avoit devise, La bouche o l'autre n'ert jostee, Et qant il vit la nue espee Qui entre eus deus les desevrot, Vit les braies que Tristran out : 	2	vit	_	VERB	VERcjg	VerbForm=Fin	39	advcl	_	XmlId=w_26_14693	-1
 5320	« Dex ! 	dist	 li rois, ce que puet estre ? 	4	dist	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_26_14741	-1
@@ -19842,7 +19842,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 6508	Qant il le 	pensent	 essaier, Li marois font desoz lor piez. 	4	pensent	_	VERB	VERcjg	VerbForm=Fin	9	advcl	_	XmlId=w_26_27048	-1
 6509	Chascun qui entre est 	entaiez	 : 	5	entaiez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_27062	-1
 6509	Chascun qui 	entre	 est entaiez : 	3	entre	_	VERB	VERcjg	VerbForm=Fin	1	acl:relcl	_	XmlId=w_26_27060	-1
-6510	Qui n'a hueses, s'en 	a	 soffrete. 	3	a	_	VERB	VERcjg	VerbForm=Fin	8	csubj	_	XmlId=w_26_27066	-1
+6510	Qui n'a hueses, s'en 	a	 soffrete. 	3	a	_	VERB	VERcjg	VerbForm=Fin	8	csubj	_	XmlId=w_26_27066	1
 6510	Qui n'	a	 hueses, s'en a soffrete. 	3	a	_	VERB	VERcjg	VerbForm=Fin	8	csubj	_	XmlId=w_26_27066	-1
 6511	Li ladres a sa main fors 	traite	 ; 	7	traite	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_27080	-1
 6512	Qant en voi un qui el tai voitre, Adonc 	flavele	 cil a cuite. 	11	flavele	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_27092	-1
@@ -21440,7 +21440,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 7715	puis chascuns al suen 	turnad	. 	5	turnad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qlr_6281	-1
 7716	Uns huem 	fud	 del lignage Benjamin, forz é vaillanz. 	3	fud	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_6285	0
 7717	Cís 	out	 num 	2	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_6295	0
-7719	Icist Cís out un fiz ki 	out	 num Saül. 	3	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_6327	-1
+7719	Icist Cís out un fiz ki 	out	 num Saül. 	3	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_6327	0
 7719	Icist Cís 	out	 un fiz ki out num Saül. 	3	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_6327	-1
 7721	kar entre tuz ces de Israel n'out un ki plus 	valsist	. 	12	valsist	_	VERB	VERcjg	VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No|XmlId=w_qlr_6353	-1
 7721	kar entre tuz ces de Israel n'	out	 un ki plus valsist. 	8	out	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_6349	-1
@@ -21856,7 +21856,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 8054	É Samuel qu'il oüst fait 	demandad	. 	7	demandad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qlr_9522	-1
 8054	É Samuel qu'il oüst 	fait	 demandad. 	6	fait	_	VERB	VERppe	Tense=Past	7	ccomp	_	XmlId=w_qlr_9521	-1
 8055	Saül 	respundi	 : 	2	respundi	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_9525	-1
-8056	« Pur çó que vi que li poples s'en parti é ne venis al jur establi é li Philistien furent en Magmas asemble é pensai que il venissant sur mei si que jo n'oüsse fait ma oblatiun que me poüst turner á destructiun : pur çó par bone entente en ceste guise par mei ai 	fait	 mun sacrefise. » 	37	fait	_	VERB	VERppe	Tense=Past	29	advcl	_	XmlId=w_qlr_9563	6
+8056	« Pur çó que vi que li poples s'en parti é ne venis al jur establi é li Philistien furent en Magmas asemble é pensai que il venissant sur mei si que jo n'oüsse fait ma oblatiun que me poüst turner á destructiun : pur çó par bone entente en ceste guise par mei ai 	fait	 mun sacrefise. » 	37	fait	_	VERB	VERppe	Tense=Past	29	advcl	_	XmlId=w_qlr_9563	3
 8056	« Pur çó que vi que li poples s'en parti é ne venis al jur establi é li Philistien furent en Magmas asemble é pensai que il venissant sur mei si que jo n'oüsse 	fait	 ma oblatiun que me poüst turner á destructiun : pur çó par bone entente en ceste guise par mei ai fait mun sacrefise. » 	37	fait	_	VERB	VERppe	Tense=Past	29	advcl	_	XmlId=w_qlr_9563	6
 8056	« Pur çó que vi que li poples s'en parti é ne venis al jur establi é li Philistien furent en Magmas asemble é pensai que il 	venissant	 sur mei si que jo n'oüsse fait ma oblatiun que me poüst turner á destructiun : pur çó par bone entente en ceste guise par mei ai fait mun sacrefise. » 	29	venissant	_	VERB	VERcjg	VerbForm=Fin	26	ccomp	_	XmlId=w_qlr_9555	6
 8056	« Pur çó que vi que li poples s'en parti é ne venis al jur establi é li Philistien furent en Magmas asemble é 	pensai	 que il venissant sur mei si que jo n'oüsse fait ma oblatiun que me poüst turner á destructiun : pur çó par bone entente en ceste guise par mei ai fait mun sacrefise. » 	26	pensai	_	VERB	VERcjg	VerbForm=Fin	5	conj	_	XmlId=w_qlr_9552	-1
@@ -22250,9 +22250,9 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 8333	é mielz 	valt	 á Deu obeïr que le sieu del multun offrir. 	3	valt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_12562	-1
 8334	Kar le cuntrester á Deu est cume li pecchiez d'enchantement, ki est par diable ; é çó que l'um nel volt sievre si cume li pecchiez de ydle 	aürer	. 	32	aürer	_	VERB	VERinf	VerbForm=Inf	29	nmod	_	SpaceAfter=No|XmlId=w_qlr_12604	-1
 8334	Kar le cuntrester á Deu est cume li pecchiez d'enchantement, ki est par diable ; é çó que l'um nel volt 	sievre	 si cume li pecchiez de ydle aürer. 	25	sievre	_	VERB	VERinf	VerbForm=Inf	19	acl	_	XmlId=w_qlr_12597	2
-8334	Kar le cuntrester á Deu est cume li pecchiez d'enchantement, ki 	est	 par diable ; é çó que l'um nel volt sievre si cume li pecchiez de ydle aürer. 	6	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_12578	-1
+8334	Kar le cuntrester á Deu est cume li pecchiez d'enchantement, ki 	est	 par diable ; é çó que l'um nel volt sievre si cume li pecchiez de ydle aürer. 	6	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_12578	2
 8334	Kar le cuntrester á Deu 	est	 cume li pecchiez d'enchantement, ki est par diable ; é çó que l'um nel volt sievre si cume li pecchiez de ydle aürer. 	6	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_12578	-1
-8335	É pur çó que tu as degete le cumandement nostre Seignur, il rad tei 	degete	 que tu ne seies rei. » 	7	degete	_	VERB	VERppe	Tense=Past	3	acl	_	XmlId=w_qlr_12612	0
+8335	É pur çó que tu as degete le cumandement nostre Seignur, il rad tei 	degete	 que tu ne seies rei. » 	7	degete	_	VERB	VERppe	Tense=Past	3	acl	_	XmlId=w_qlr_12612	-1
 8335	É pur çó que tu as 	degete	 le cumandement nostre Seignur, il rad tei degete que tu ne seies rei. » 	7	degete	_	VERB	VERppe	Tense=Past	3	acl	_	XmlId=w_qlr_12612	0
 8336		Respundi	 Saül : 	1	Respundi	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_12629	-1
 8337	« Pecchied ái en çó que n'ai tenu le cumandement Deu é tes paroles pur çó que jó cremi é 	obeï	 al pople. 	22	obeï	_	VERB	VERcjg	VerbForm=Fin	20	conj	_	XmlId=w_qlr_12653	1
@@ -22686,7 +22686,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 9403		fet	 Ewalech ?? 	1	fet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_13528	-1
 9405		fet	 il, 	1	fet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_13539	-1
 9406	et lors li 	comence	 a trere les poinz de la novele loi, et la verité de l'evangile, et del crucefiement Nostre Seignor et del resuscitement Nostre Seignor 	4	comence	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_13545	2
-9408	et li fist aporter.i. escu ou il 	fist	 une croiz de cendal, 	3	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_13579	-1
+9408	et li fist aporter.i. escu ou il 	fist	 une croiz de cendal, 	3	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_13579	1
 9408	et li 	fist	 aporter.i. escu ou il fist une croiz de cendal, 	3	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_13579	-1
 9410	“ Rois Evalach or te mostrerai apertement coment tu porras 	conoistre	 la force et la vertu del verai crucefié. 	11	conoistre	_	VERB	VERinf	VerbForm=Inf	6	ccomp	_	XmlId=w_qgraal_cm_13605	4
 9411	Il est voirs que Tholomers li fuitis 	avra	 seignorie.iii. jorz et.iii. nuiz sor toi, 	8	avra	_	VERB	VERcjg	VerbForm=Fin	3	csubj	_	XmlId=w_qgraal_cm_13622	1
@@ -23436,7 +23436,7 @@ roland-643.new.2	.VII. C. cameilz, d'or e argent 	cargiez	, 	9	cargiez	_	VERB	VE
 9790	“ Et puis, fist il, que tuit cil en ont esté deceu et 	honi	.´ il ne me semble mie que cist enfes i deust avoir duree. ” 	16	honi	_	VERB	VERppe	Tense=Past|VerbForm=Part	14	conj	_	SpaceAfter=No|XmlId=w_qgraal_cm_53756	4
 9790	“ Et puis, fist il, que tuit cil en ont esté 	deceu	 et honi.´ il ne me semble mie que cist enfes i deust avoir duree. ” 	14	deceu	_	VERB	VERppe	Tense=Past|VerbForm=Part	21	advcl	_	XmlId=w_qgraal_cm_53754	4
 9790	“ Et puis, 	fist	 il, que tuit cil en ont esté deceu et honi.´ il ne me semble mie que cist enfes i deust avoir duree. ” 	5	fist	_	VERB	VERcjg	VerbForm=Fin	21	parataxis	_	XmlId=w_qgraal_cm_53745	-1
-9791	Lors entra li anemis en la reïne Guenievre qui ne s'ert pas bien fete confesse puis que ele 	entra	 primes en mariage, 	2	entra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_53773	-1
+9791	Lors entra li anemis en la reïne Guenievre qui ne s'ert pas bien fete confesse puis que ele 	entra	 primes en mariage, 	2	entra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_53773	1
 9791	Lors entra li anemis en la reïne Guenievre qui ne s'ert pas bien 	fete	 confesse puis que ele entra primes en mariage, 	15	fete	_	VERB	VERppe	Tense=Past|VerbForm=Part	7	acl:relcl	_	XmlId=w_qgraal_cm_53786	1
 9791	Lors 	entra	 li anemis en la reïne Guenievre qui ne s'ert pas bien fete confesse puis que ele entra primes en mariage, 	2	entra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_53773	-1
 9792	et l'esmut a ce que ele te resgarda volentiers tant com tu 	demoras	 en son ostel le jor que tu fus chevalier. 	14	demoras	_	VERB	VERcjg	VerbForm=Fin	9	advcl	_	XmlId=w_qgraal_cm_53809	2
@@ -24366,7 +24366,7 @@ roland-3772.new	As li Alde 	venue	, une bele damisele ; 	4	venue	_	VERB	VERppe	T
 1341	Ne l'oï 	dire	 	4	dire	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_58_12358	-1
 1341	Ne l'	oï	 dire 	3	oï	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_12357	-1
 1342	ne jo mie nel 	sai	, Liquels d'els dous en fut li plus isnels. 	5	sai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_12363	2
-17248	e cele ki ad culur de laveure de char, ele estanchet sanc de tuz membres, mais mesmement de femme ki trop 	ad	 de ses flurs. 	4	ad	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_273_2722	-1
+17248	e cele ki ad culur de laveure de char, ele estanchet sanc de tuz membres, mais mesmement de femme ki trop 	ad	 de ses flurs. 	4	ad	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_273_2722	1
 17248	e cele ki ad culur de laveure de char, ele 	estanchet	 sanc de tuz membres, mais mesmement de femme ki trop ad de ses flurs. 	12	estanchet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2730	1
 17248	e cele ki 	ad	 culur de laveure de char, ele estanchet sanc de tuz membres, mais mesmement de femme ki trop ad de ses flurs. 	4	ad	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_273_2722	-1
 17249	- Ligurium est piere ki creist de la date de une beste, ki ad num linz, ki 	voit	 parmi piere e parmi fust. 	20	voit	_	VERB	VERcjg	VerbForm=Fin	15	conj	_	XmlId=w_273_2768	1
@@ -25035,7 +25035,7 @@ roland-3772.new	As li Alde 	venue	, une bele damisele ; 	4	venue	_	VERB	VERppe	T
 4653	En un bliaut de paile bis 	Estoit	 la dame, estroit vestue Et d'un fil d'or menu cosue. 	7	Estoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08440	2
 4654	Si chevel 	hurtent	 a ses piez, 	3	hurtent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08457	1
 4655	D'un filet d'or les ot 	trechiez	. 	8	trechiez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_08469	-1
-4656	Qui voit son cors et sa fachon, Trop par avroit le cuer felon Qui n'en 	avroit	 de lié pitié. 	11	avroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08481	3
+4656	Qui voit son cors et sa fachon, Trop par avroit le cuer felon Qui n'en 	avroit	 de lié pitié. 	11	avroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08481	-1
 4656	Qui voit son cors et sa fachon, Trop par 	avroit	 le cuer felon Qui n'en avroit de lié pitié. 	11	avroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08481	3
 4656	Qui 	voit	 son cors et sa fachon, Trop par avroit le cuer felon Qui n'en avroit de lié pitié. 	2	voit	_	VERB	VERcjg	VerbForm=Fin	11	csubj	_	XmlId=w_26_08472	-1
 4657	Mot sont li braz estroit 	lïé	. 	6	lïé	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_26_08498	-1
@@ -25074,7 +25074,7 @@ roland-3772.new	As li Alde 	venue	, une bele damisele ; 	4	venue	_	VERB	VERppe	T
 4684	j'	ai	 ci conpaignons cent : 	2	ai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08772	-1
 4687	Paior fin dame n'	ot	 mais une. 	5	ot	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08789	-1
 4688	Sire, en nos a si grant ardor Soz ciel n'a dame qui un jor Peüst 	soufrir	 nostre convers : 	18	soufrir	_	VERB	VERinf	VerbForm=Inf	13	acl:relcl	_	XmlId=w_26_08810	-1
-4688	Sire, en nos a si grant ardor Soz ciel n'	a	 dame qui un jor Peüst soufrir nostre convers : 	5	a	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08797	-1
+4688	Sire, en nos a si grant ardor Soz ciel n'	a	 dame qui un jor Peüst soufrir nostre convers : 	5	a	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08797	8
 4688	Sire, en nos 	a	 si grant ardor Soz ciel n'a dame qui un jor Peüst soufrir nostre convers : 	5	a	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08797	-1
 4690	O toi soloit 	estre	 a honor, O vair, o gris et o baudor ; 	4	estre	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_26_08825	0
 4691	Les buens vins i avoit 	apris	 Es granz soliers de marbre bis. 	6	apris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_08843	1
@@ -25083,7 +25083,7 @@ roland-3772.new	As li Alde 	venue	, une bele damisele ; 	4	venue	_	VERB	VERppe	T
 4692	Se la donez a nos meseaus, Qant el verra nos bas bordeaus Et 	eslira	 l'escouellier Et l'estovra a nos couchier (Sire, en leu de tes beaus mengiers Avra de pieces, de quartiers Que l'en nos envoi'a ces hus), 	15	eslira	_	VERB	VERcjg	VerbForm=Fin	10	conj	_	XmlId=w_26_08865	2
 4692	Se la donez a nos meseaus, Qant el 	verra	 nos bas bordeaus Et eslira l'escouellier Et l'estovra a nos couchier (Sire, en leu de tes beaus mengiers Avra de pieces, de quartiers Que l'en nos envoi'a ces hus), 	10	verra	_	VERB	VERcjg	VerbForm=Fin	33	advcl	_	XmlId=w_26_08860	2
 4692	Se la 	donez	 a nos meseaus, Qant el verra nos bas bordeaus Et eslira l'escouellier Et l'estovra a nos couchier (Sire, en leu de tes beaus mengiers Avra de pieces, de quartiers Que l'en nos envoi'a ces hus), 	3	donez	_	VERB	VERcjg	VerbForm=Fin	33	advcl	_	XmlId=w_26_08853	-1
-4693	Por cel seignor qui maint lasus, Qant or verra la nostre cort, Adonc 	verra	 si desconfort. 	10	verra	_	VERB	VERcjg	VerbForm=Fin	16	advcl	_	XmlId=w_26_08908	-1
+4693	Por cel seignor qui maint lasus, Qant or verra la nostre cort, Adonc 	verra	 si desconfort. 	10	verra	_	VERB	VERcjg	VerbForm=Fin	16	advcl	_	XmlId=w_26_08908	1
 4693	Por cel seignor qui maint lasus, Qant or 	verra	 la nostre cort, Adonc verra si desconfort. 	10	verra	_	VERB	VERcjg	VerbForm=Fin	16	advcl	_	XmlId=w_26_08908	-1
 4693	Por cel seignor qui 	maint	 lasus, Qant or verra la nostre cort, Adonc verra si desconfort. 	5	maint	_	VERB	VERcjg	VerbForm=Fin	3	acl:relcl	_	XmlId=w_26_08903	-1
 4694	Donc voudroit miex morir que 	vivre	, 	6	vivre	_	VERB	VERinf	VerbForm=Inf	4	advcl	_	SpaceAfter=No|XmlId=w_26_08923	-1
@@ -26157,7 +26157,7 @@ roland-3772.new	As li Alde 	venue	, une bele damisele ; 	4	venue	_	VERB	VERppe	T
 9091	Quant li rois ot ceste parole 	dite	 si se tot, 	7	dite	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	advcl	_	XmlId=w_qgraal_cm_8938	-1
 9093	et en cel penser li comencent les lermes a 	coler	 tot contreval la face, 	10	coler	_	VERB	VERinf	VerbForm=Inf	6	xcomp	_	XmlId=w_qgraal_cm_8958	1
 9094	et cil qui voient ceste chose et qui tant en sont dolenz que nus ne le porroit dire n'osent respondre por ce qu'il le voient si 	corrocié	, 	29	corrocié	_	VERB	VERppe	Tense=Past|VerbForm=Part	26	acl	_	SpaceAfter=No|XmlId=w_qgraal_cm_8992	-1
-9094	et cil qui voient ceste chose et qui tant en sont dolenz que nus ne le porroit dire n'osent respondre por ce qu'il le 	voient	 si corrocié, 	4	voient	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_qgraal_cm_8967	1
+9094	et cil qui voient ceste chose et qui tant en sont dolenz que nus ne le porroit dire n'osent respondre por ce qu'il le 	voient	 si corrocié, 	4	voient	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_qgraal_cm_8967	-1
 9094	et cil qui voient ceste chose et qui tant en sont dolenz que nus ne le porroit dire n'osent 	respondre	 por ce qu'il le voient si corrocié, 	21	respondre	_	VERB	VERinf	VerbForm=Inf	20	xcomp	_	XmlId=w_qgraal_cm_8984	1
 9094	et cil qui voient ceste chose et qui tant en sont dolenz que nus ne le porroit dire n'	osent	 respondre por ce qu'il le voient si corrocié, 	20	osent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_8983	-1
 9094	et cil qui voient ceste chose et qui tant en sont dolenz que nus ne le porroit 	dire	 n'osent respondre por ce qu'il le voient si corrocié, 	18	dire	_	VERB	VERinf	VerbForm=Inf	12	advcl	_	XmlId=w_qgraal_cm_8981	-1
