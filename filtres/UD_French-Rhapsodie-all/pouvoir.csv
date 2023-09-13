@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+255,Rhap_M1003-22,"euh, d'autre part, j'ai pu relever en faisant tous ces tests au cours de, donc, euh, de, du semestre dans cette matière mais également grâce à mon dossier, à, à la, à l'élaboration de mon projet que, euh, je, on ",pouvait,", enfin je pouvais noter certains, euh, atouts indispensables, euh, dans ce métier. ",58,pouvait,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,62,reparandum,_,SpaceAfter=No,1
+745,Rhap_M2002-59,"l'art peut avoir des fonctions politiques et peut, ",peut, avoir des fonctions décoratives aussi. ,3,peut,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,3

@@ -1,10 +1,12 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,1890.0,1890.0,100.0,100.0,
-no_obj,208,208,11.01,11.01,Comment ;;appelle;;-t-on un dessinateur de carte géographique professionnel ? 
-in_both,464,74,24.55,3.92,"Comment nomme-t-on le processus normal chez tout être vivant, y compris chez les êtres humains, par lequel des cellules sont ;;programmées;; à se """"suicider"""" ? "
-out_idiom,1890.0,74.0,100.0,3.92,
-something,1832,65,96.93,3.44,Quel est l'acronyme du système qui ;;évalue;; l'efficacité de l'air climatisé ? 
-not_fixed,1868,65,98.84,3.44,à ;;partir;; de quand puis-je bénéficier d'une aide au logement ? 
-too_close,659,8,34.87,0.42,Je ;;viens;; de me mensualiser pour la taxe foncière. 
-no_pass,1643,2,86.93,0.11,Quel dirigeant français a été ;;défait;; à la bataille de Waterloo ? 
-no_pron,1755,2,92.86,0.11,Qui fut la première femme à se ;;présenter;; pour le poste de président ? 
+no_obj,208,208,11.01,11.01,Comment Teddy Roosevelt était-il ;;lié;; à FDR ? 
+in_both,464,74,24.55,3.92,Combien de chiens faut-il pour ;;tirer;; un traîneau dans l'Iditarod ? 
+one_percent,316,29,16.72,1.53,Pourquoi les autruches ne ;;peuvent;;-elles pas voler ? 
+out_idiom,1890.0,29.0,100.0,1.53,
+something,1832,28,96.93,1.48,Qui a construit le premier avion pouvant ;;voler;; ? 
+not_fixed,1868,28,98.84,1.48,"Vous avez remboursé un trop perçu, ;;devez;;-vous le déduire ? "
+too_close,660,4,34.92,0.21,Quel était le nom du premier enfant de parents anglais à être ;;né;; en Amérique ? 
+five_or_more,175,3,9.26,0.16,Combien de chiens ;;faut;;-il pour tirer un traîneau dans l'Iditarod ? 
+no_pass,1643,0,86.93,0.0,Combien de prisonniers américains ont-ils été ;;libérés;; par le Viêt-nam du Nord en 1973 ? 
+no_pron,1755,0,92.86,0.0,Pendant quelle saison se ;;produisent;; la majorité des orages électriques ? 

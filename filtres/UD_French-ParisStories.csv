@@ -1,10 +1,12 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,4417.0,4417.0,100.0,100.0,
-no_obj,938,938,21.24,21.24,"et, euh, du coup, ben, euh, on y ;;a;; quand même, euh. "
-in_both,3384,694,76.61,15.71,"euh, et on a ;;atterri;;, euh, dans un cimetière. "
-out_idiom,4322,650,97.85,14.72,"donc, après, on, on est partie, s~, se, euh, ;;recoucher;;, en espérant que il se passe rien. "
-something,4073,576,92.21,13.04,"en fait, euh, je partais trois semaines par le biais d'une colonie, avec des amis, et euh, un organisme qui s';;appelle;; Grandir Aventure. "
-not_fixed,4322,576,97.85,13.04,"c'était il y ;;a;; très, très, bah oui, euh … "
-too_close,1306,112,29.57,2.54,"il y avait d'abord, euh, un jour, euh, enfin quelques jours avant le tournage, on devait aller, euh, dans le studio pour, euh, essayer le et notre costume euh avec la costumière, et euh, pour qu'ils regardent, euh, nos cheveux pour voir, euh, quelle coiffure ils ;;pouvaient;; nous faire. "
-no_pass,4417.0,112.0,100.0,2.54,
-no_pron,4269,109,96.65,2.47,"et euh la journée se ;;passe;;, ça se passe très bien. "
+no_obj,938,938,21.24,21.24,et on était ;;monté;; à l'étage. 
+in_both,3384,694,76.61,15.71,"et du coup, bah, on s'est grave ;;rapproché;;. "
+one_percent,2456,502,55.6,11.37,et comment vous vous vous ;;communiquez;; euh toutes les deux? 
+out_idiom,4322,466,97.85,10.55,"donc, après, on, on est ;;partie;;, s~, se, euh, recoucher, en espérant que il se passe rien. "
+something,4073,411,92.21,9.3,"donc, euh, tout se ;;passe;; bien. "
+not_fixed,4322,411,97.85,9.3,"et euh, du coup, je fais tiens et tout mais je savais pas qu'est-ce qu'il se ;;passait;;. "
+too_close,1328,84,30.07,1.9,"et je ;;sais;; que je t'ai vu à la porte, euh, sur le côté à droite. "
+five_or_more,2758,84,62.44,1.9,"du coup, je l'ai ;;réconforté;;. "
+no_pass,4417.0,84.0,100.0,1.9,
+no_pron,4269,82,96.65,1.86,tout se ;;passe;; bien. 

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+156,n03006028,"FO regrette que ses remarques sur la teneur du guide n'aient pas été intégrées : « Il n'y a pas eu vraiment de concertation », ",dit, Mme Gillard. ,30,dit,dire,VERB,VBC,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2,parataxis,_,_,2

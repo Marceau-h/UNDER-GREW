@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+252,ParisStories_2020_histoireOurs_3,"parce que s~, si je commençais à crier ou à, à pleurer, ça ",pouvait,", ça pouvait le rendre, ça pouvait rendre l'animal encore plus agressif ! ",17,pouvait,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,25,reparandum,_,SpaceAfter=No,2
+548,ParisStories_2020_blessureRecreation_23,"euh, donc euh moi j'essaye de gérer la situation comme je ",peux,", sachant que je pouvais pas regarder la la blessure. ",14,peux,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,9,advcl,_,SpaceAfter=No,1
+551,ParisStories_2020_blessureRecreation_25,"euh j'essaye de casser, de cacher sa blessure comme je ",peux,", parce que je vois que c'est ça qui crée euh de l'émotion chez les gamins. ",13,peux,pouvoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,8,advcl,_,SpaceAfter=No,1

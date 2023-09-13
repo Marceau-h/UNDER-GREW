@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+89,ParisStories_2019_mercrediSoir_28,"donc voilà, après, euh, elle m'a expliqué que, euh, elle était allée voir un film sur, euh, l'école de """" """" Montessori """" """" et, euh, la veille, que c'était très intéressant, euh etc, et qu'elle essaierait de mettre ça en application, euh, dans les jours et les semaines à ",venir,", dans son, euh, dans son école. ",69,venir,venir,VERB,_,VerbForm=Inf,67,acl,_,SpaceAfter=No|Subject=NoRaising,1

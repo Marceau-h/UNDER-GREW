@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+27,Rhap_D0006-63,"il y a des spécialités délaissées parce que ça ne rapporte pas assez d'argent, je ",sais," pas, la psychiatrie, des choses comme ça ? ",18,sais,savoir,VERB,DISCOURSE,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,15,discourse,_,_,3

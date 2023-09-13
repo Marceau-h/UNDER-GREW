@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+520,Europar.550_00242,"Le programme """"pétrole contre nourriture"""", ",dit," cette délégation, ne suffit absolument pas à subvenir aux besoins physiques urgents des Irakiens. ",9,dit,dire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,14,parataxis:insert,_,_,1

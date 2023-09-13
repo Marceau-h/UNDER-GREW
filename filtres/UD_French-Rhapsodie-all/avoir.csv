@@ -1,0 +1,14 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+79,Rhap_D0009-2,"on a nos, nos chaises qui ",ont, besoin de refaire. ,8,ont,avoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,6,acl:relcl,_,_,1
+90,Rhap_D0009-40,"mais ce sont les, les impacts des coussins qui ",ont,", qui ont pénétré dans la paille. ",12,ont,avoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,16,reparandum,_,SpaceAfter=No,1
+230,Rhap_D0002-77,"parce que les mamans africaines, elles ",ont, beaucoup de mal à se séparer de leurs petits. ,8,ont,avoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+296,Rhap_D2010-8,mais j',avais, peur qu'il ne soit pas celui que les gens attendaient de moi. ,3,avais,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,0,root,_,_,1
+330,Rhap_D2012-43,les uns ,ont, plus de succès que les autres. ,3,ont,avoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+492,Rhap_D2004-41,"j~, j'",ai,", j'ai fait mon PCB à Paris. ",4,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,8,reparandum,_,SpaceAfter=No,2
+498,Rhap_D2004-66,"ils m'ont dit malheureusement, euh, toutes nos places sont occupées et nous avons, nous n'",avons, pas besoin de docteur. ,16,avons,avoir,VERB,_,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,20,reparandum,_,SpaceAfter=No,1
+499,Rhap_D2004-66,"ils m'ont dit malheureusement, euh, toutes nos places sont occupées et nous ",avons,", nous n'avons pas besoin de docteur. ",16,avons,avoir,VERB,_,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,20,reparandum,_,SpaceAfter=No,1
+506,Rhap_D2004-73,"alors, j'a~, j'avais beaucoup, j'",avais," beaucoup trop peur de m'installer, comme ça, seule de~, dans la brousse. ",7,avais,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,11,reparandum,_,_,1
+507,Rhap_D2004-73,"alors, j'a~, j'",avais," beaucoup, j'avais beaucoup trop peur de m'installer, comme ça, seule de~, dans la brousse. ",7,avais,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,11,reparandum,_,_,1
+702,Rhap_M2005-11,il faut déjà connaître un people pour ,avoir, le droit de fréquenter les peoples. ,8,avoir,avoir,VERB,_,VerbForm=Inf,4,advcl,_,Subject=NoRaising,1
+800,Rhap_D2009-18,"au fond, j~, euh, j'ai tendance, et c'est peut-être un peu ambigu, mais j'",ai," tendance à, à penser par phrases, disons, et non pas à penser par pensées. ",10,ai,avoir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,23,reparandum,_,_,1
+842,Rhap_D0004-43,"non, je pensais à ça parce que j'imagine que des maternelles, ça ",a," besoin de livres d'enfants, euh, d'avoir, euh, XXX. ",16,a,avoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,10,ccomp,_,_,1

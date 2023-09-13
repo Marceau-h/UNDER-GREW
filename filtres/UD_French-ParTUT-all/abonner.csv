@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+156,fr_partut-ud-440,"Aujourd'hui, les opinions publiques, la presse, nous accusent d'être aux ",abonnés, absents alors que nous allons financer une grande part des efforts nationaux. ,16,abonnés,abonner,VERB,V,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,17,obl,_,_,2

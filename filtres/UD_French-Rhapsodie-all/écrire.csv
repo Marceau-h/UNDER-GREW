@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+161,Rhap_D2005-22,et avec une ambition qui commençait à se cristalliser déjà autour de l'idée d',écrire," et de chercher, j'ai toujours pensé qu'on n'est pas sur terre pour être heureux mais pour, euh, essayer d'être utile. ",16,écrire,écrire,VERB,_,VerbForm=Inf,14,acl,_,Subject=NoRaising,3
+522,Rhap_D2013-42,"un sauvetage miraculeux à bien des égards, ",écrit, La Provence. ,10,écrit,écrire,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2,parataxis:insert,_,_,1
+781,Rhap_D2009-2,"mais comme toujours, l'acte d'",écrire," peut prendre différents masques, différentes valeurs. ",8,écrire,écrire,VERB,_,VerbForm=Inf,6,acl,_,Subject=NoRaising,1
+791,Rhap_D2009-9,mais l'acte d',écrire, est-il le prolongement de l'acte de penser ? ,5,écrire,écrire,VERB,_,VerbForm=Inf,3,acl,_,Subject=NoRaising,2
+807,Rhap_D2009-32,il n'y a pas de jouissance d',écrire, sans jouissance de lire. ,9,écrire,écrire,VERB,_,VerbForm=Inf,7,acl,_,Subject=NoRaising,3

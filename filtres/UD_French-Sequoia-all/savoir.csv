@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+422,frwiki_50.1000_00523,- Frégates : ces morts qui en ,savaient," trop, VSD, 31 octobre 2002 ",8,savaient,savoir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,5,acl:relcl,_,_,1

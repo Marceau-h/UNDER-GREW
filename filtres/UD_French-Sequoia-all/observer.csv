@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+106,emea-fr-dev_00159,Le traitement doit être arrêté si on ,observe, ou si on soupçonne un saignement. ,8,observe,observer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,advcl,_,_,1

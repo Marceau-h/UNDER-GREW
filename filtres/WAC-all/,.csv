@@ -1,0 +1,82 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+471,91738,", plus riche en emplois qualifiés que l'actuelle économie financiarisée",",", permettrait de poser autrement le problème des retraites.,2,",",",",ADV,ADV,_,3,advmod,_,_,1
+4619,107412,", a ajouté ce responsable",",", précisant que l'un des deux assaillants avait été arrêté et était actuellement interrogé par les services de sécurité.,2,",",",",AUX,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,aux:tense,_,_,1
+6132,113401, reprend la structure en départements des Jardins d'acclimatation ou musées d'histoire naturelle,",", partageant ainsi l'exposition en cinq chapitres successifs.,16,",",",",VERB,VERB,Tense=Pres|VerbForm=Part,1,advcl,_,_,2
+6163,113508, par les Israéliens le 22 mars 2004 de cheikh Ahmed Yassine,","," pulvérisé sur son fauteuil roulant de grand infirme, n'avait pas servi de puissant accélérateur électoral.",13,",",",",VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10,acl,_,_,3
+8041,60429, Nous tendons petit à petit vers le cadre complet,","," explique le lieutenant Michel Méan, porte-parole du Service.",12,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,parataxis,_,_,1
+8208,61016, Coupe du monde,",", souriant et serrant les mains tel un homme politique en campagne.,5,",",",",VERB,VERB,Tense=Pres|VerbForm=Part,1,amod,_,_,1
+9837,67292,", et ArcelorMittal Wire Solutions sur les marchés d'Asie",",", précise le communiqué.,2,",",",",CCONJ,CCONJ,_,11,cc,_,_,1
+17223,34723,", car l'espérance de vie d'un ourang-outang est de 32 ans dans la nature et 35 en captivité",",", remarque M. Laurent.,2,",",",",CCONJ,CCONJ,_,24,cc,_,_,2
+21002,48661,", la chanson gagnante de Roxane K",",", visitez son MySpace officiel.,2,",",",",DET,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art,3,det,_,_,2
+21041,48788,", l'OM pour se jauger vraiment: les deux rivaux directs pour le podium de L1, voire pour un défi au septuple champion Lyon",",", appellent de leurs voeux ce premier vrai sommet de la saison.,2,",",",",DET,DET,Definite=Def|Number=Sing|PronType=Art,3,det,_,_,1
+32986,213116,", a expliqué M. Bewkes",",", pointant ostensiblement dans la direction d'un désengagement du métier de fournisseur d'accès.,2,",",",",AUX,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,aux:tense,_,_,1
+34462,218454,", alors que l'UE traverse une période difficile",",", note le rapport.,2,",",",",ADV,ADV,_,6,mark,_,_,1
+35532,222565," face au score de Dominique Voynet, la candidate des Verts à  la présidentielle",","," créditée de 2% dans les sondages, dans une interview au Parisien dimanche.",8,",",",",DET,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art,9,det,_,_,1
+35802,223611, l'évolution des prix,",", souligne le communiqué.,6,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+38179,232798,", régulièrement mise à jour",",", propose des articles intéressants.,2,",",",",ADV,ADV,_,3,advmod,_,_,2
+40890,182838,": après adaptation des véhicules, l'huile sera utilisable directement pour les tracteurs et autre matériel agricole",",", résume M. Launay.,7,",",",",DET,DET,Definite=Def|Number=Sing|PronType=Art,8,det,_,_,2
+42189,187935,nous n'avons pas d'échos d'éventuelles manifestations,",", ajoute M. Serra.,10,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,2
+46157,202772, à un opérateur pour constituer son offre,","," privant l'autorité de régulation, le CSA, d'une prérogative importante.",9,",",",",VERB,VERB,Tense=Pres|VerbForm=Part,0,root,_,_,2
+48194,150092,en rendant possible le contact entre plusieurs modes de transport,",", favorise l'intégration de ces modes.,11,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+52092,164765,", l'aile politique de l'Armée républicaine irlandaise (IRA)",",", estime le politologue.,2,",",",",DET,DET,Definite=Def|Number=Sing|PronType=Art,3,det,_,_,1
+57957,126641,"molle envers le président soudanais al Bashir, n'avait qu'à trouver un pays d'accueil aux réfugiés",",", chassés par les combats.,8,",",",",ADV,ADV,Polarity=Neg,14,advmod,_,_,1
+59845,133647, après un rapport de la Cour des comptes et une enquête de l'Igas,",", affirme l'ancien DG de la Mnef.,16,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,3
+62686,144095,", le président ivoirien",","," estime Pascal Boniface, de l'Institut des Relations internationales et stratégiques (IRIS).",2,",",",",DET,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art,3,det,_,_,3
+66203,277020, dans la zone de Warri,",", affirme le MEND.,7,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+71764,297562, sans vraiment entrer dans le détail,",", explique à l'AFP une source communautaire.,8,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,2
+73406,333431,"Je te ferai toujours jouer, tu seras toujours titulaire, toujours, tu ne seras jamais sur le banc, car un joueur comme toi doit être un titulaire dans un grand club»",",", poursuit Lippi.,6,",",",",PRON,PRON,Number=Sing|Person=1,9,nsubj,_,_,2
+75537,341624,", dans un bâti très aéré",",", offre une observation aisée du fonctionnement.,2,",",",",ADP,ADP,_,4,case,_,_,1
+81934,305836, Aujourd'hui il n'y a aucune obligation,","," indique Rachid Brihi, avocat en droit social.",9,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,2
+83668,312265, face aux producteurs non Opep comme la Russie,","," estime Phil Flynn, analyste dans la firme américaine Alaron Trading.",10,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,14,det,_,_,1
+86477,322639, après vérification des documents auprès des autorités italiennes,","," révèle-t-il, ajoutant que ce n'était pas la première fois qu'il se faisait passer pour un homme d'église en Italie.",10,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13,det,_,_,2
+89872,245581,", titre de l'exposition",","," adopte un itinéraire chronologique, de l'apparition du créateur sur la scène artistique au début des années 60 à  son tout dernier travail, réalisé in-situ dans le musée.",2,",",",",NOUN,NOUN,Gender=Masc|Number=Sing,0,root,_,_,1
+97118,393136,", un pistolet automatique, un fusil à pompe et un fusil de chasse ont été récupérés à l'issue de cette opération",",", précise la même source.,2,",",",",DET,DET,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art,3,det,_,_,1
+105536,364449,", principalement des excès de vitesse",",", indique la préfecture.,2,",",",",ADV,ADV,_,6,advmod,_,_,1
+114719,428954,c'est moi qui fait vibrer tes mâts,","," claquer ta toile ; je sens que ton habitat est une unité, un tout sur lequel je glisse et, pour cette raison, je le respecte.",9,",",",",VERB,VERB,VerbForm=Inf,0,root,_,_,1
+118111,441757,", elle met en scène des adolescents dans un contexte",","," osons le mot, carcéral: celui de leur cycle d'orientation.",2,",",",",PRON,PRON,Gender=Fem|Number=Sing|Person=3,3,nsubj,_,_,1
+127429,476419,renforcée en Allemagne par l'expérience de deux régimes totalitaires,","," explique Insa Schöningh, secrétaire générale de l'Association évangélique pour les questions familiales.",11,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15,det,_,_,2
+128636,510829, est une stratégie recevable a priori,",", juge Benoît Hamon (HAMO).,8,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,conj,_,_,2
+130957,519140, dans l'enquête sur l'attentat contre la synagogue de Djerba,",", perpétré le 11 avril 2003 (21 morts).,13,",",",",VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4,acl,_,_,2
+132040,523231,", a promis l'ex-journaliste",","," ajoutant que le groupe a déjà  livré plus de 5,5 millions d'unités dans le monde.",2,",",",",AUX,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,aux:tense,_,_,1
+133778,529662,", quand le contact avec l'appareil a été perdu",",", précise le communiqué.,2,",",",",SCONJ,SCONJ,_,10,mark,_,_,1
+137232,572948,", et qu'un échec au cours préparatoire",",", compromet toute la scolarité ultérieure.,2,",",",",CCONJ,CCONJ,_,9,cc,_,_,2
+139655,581834,", qui ne grossissent point",",", protègent les yeux.,2,",",",",PRON,PRON,PronType=Rel,5,nsubj,_,_,1
+142872,593516, sur la valeur,",", dopant son cours-cible de 26$ à 30$.,5,",",",",VERB,VERB,Tense=Pres|VerbForm=Part,0,root,_,_,2
+151478,505871,", a précisé de son côté la radio nationale citant l'Agence mauritanienne d'information (AMI, officielle)",",", ajoutant que les corps des victimes avaient été transportés vers la capitale pour leur rapatriement.,2,",",",",AUX,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,aux:tense,_,_,1
+155834,551622, dont on se plaît à entourer certaines des activités de l'artiste,",", réunies sous ce que l'on nomme l'inspiration.,14,",",",",VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,4,acl,_,_,1
+156667,554805,", ces prêts hypothécaires à hauts risques",",", pourrait bien à terme peser sur l'économie américaine.,2,",",",",DET,DET,Number=Plur|PronType=Dem,3,det,_,_,2
+157068,556269,", a déclaré le porte-parole de l'Elysée, David Martinon",",", laissant ainsi entendre que des contrats d'armement étaient en cours de négociation avec ce pays.,2,",",",",AUX,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,aux:tense,_,_,1
+157736,558807,", la candidat républicain pourrait être un président plus dangereux que George Bush",",", prévient le chercheur britannique Anatol Lieven*.,2,",",",",DET,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art,3,det,_,_,3
+158210,560486,", selon une note du ministre de l'Education, Xavier Darcos",",", publiée au Bulletin officiel le 30 août.,2,",",",",ADP,ADP,_,14,mark,_,_,1
+164256,673275, se développer avec la hausse des prix de l'essence et la baisse des prix de ventes,",", prévoit M. Mouren.,19,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,2
+166032,680168, autour de la préfecture du Cantal,",", indiquent les organisateurs.,8,",",",",VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+168362,688934,", juge Nicolas Lioret",",", chargé d'études sectorielles chez l'assureur crédit Euler Hermes.,2,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+169274,602231,", soit en Asie du sud-est, soit lors d'autres missions d'urgence, avec l'accord des donateurs",",", précise l'organisation.,2,",",",",CCONJ,CCONJ,_,4,cc,_,_,1
+170558,606857, son opinion sur l'action BNP Paribas,",", arguant d'une amélioration des perspectives et de la faiblesse du cours.,9,",",",",VERB,VERB,Tense=Pres|VerbForm=Part,6,acl,_,_,1
+176132,627452, porteur d'échantillons,",", ajoute-t-il.,5,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8,det,_,_,1
+179008,698291," étaient détenus pour génocide alors que d'autres responsables du régime, dont l'ancien bras droit de Pol Pot, Nuon Chea, et l'ancien ministre des Affaires étrangères, Ieng Sary",",", vivent encore aujourd'hui en liberté.,13,",",",",PRON,PRON,PronType=Rel,16,nmod,_,_,1
+183286,714092,", qui fait référence en la matière",",", comprend notamment une nouvelle méthode de désinfection des mains et une sensibilisation régulière du personnel.,2,",",",",PRON,PRON,PronType=Rel,3,nsubj,_,_,1
+186005,634377, dans ses transactions avec Shell,",", estime Stephen O'Sullivan de la banque d'investissement Deutsche UFG à Moscou.,7,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,3
+188381,643374,", pour un montant de 30 millions, pourront être alloués aux éleveurs de porcs en difficulté afin de répondre à la dégradation de leur trésorerie",",", indique le ministère.,2,",",",",ADP,ADP,_,5,case,_,_,1
+190550,651579,", le pianiste amnésique découvert en avril dernier sur une plage en Grande-Bretagne, ne sera peut-être jamais percé",","," craignent ses médecins, rapporte lundi The Independent.",2,",",",",DET,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art,3,det,_,_,3
+198998,832959, par ce phénomène,",", souligne M. Eriksson.,5,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9,dep,_,_,2
+199414,834624, sur le marché,",", souligne l'étude.,5,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+202355,785157,Il se trouve sous la salle à manger,","," expliqua-t-il, s'exprimant plus faiblement à cause de son angoisse.",9,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_,1
+202954,787236,", le traitement des déchets et la réhabilitation d'un site industriel",",", incombe normalement à l'exploitant ou ancien exploitant de l'installation ou à défaut au propriétaire du sol.,2,",",",",DET,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art,3,det,_,_,1
+205575,796742, birmans,",", vit autour des villes de Kanma et Min Don.,3,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+208430,807372,", le premier single tiré de cet album",",", remporte un succès assez important.,2,",",",",DET,DET,Definite=Def|Gender=Masc|Number=Sing|PronType=Art,5,det,_,_,3
+212153,731431,", et veiller à  l'application des textes",",", expliquent les ministères.,2,",",",",CCONJ,CCONJ,_,3,cc,_,_,1
+212377,732207, sur l'attitude des Autrichiens sous le régime nazi,",", amenant une prise de conscience tardive mais bien réelle.,11,",",",",VERB,VERB,Tense=Pres|VerbForm=Part,0,root,_,_,3
+221309,765292,", a indiqué à l'AFP un porte-parole de la chaîne",",", confirmant ainsi des informations du Parisien/Aujourd'hui en France de vendredi.,2,",",",",AUX,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,aux:tense,_,_,1
+221346,765420, le marché espagnol de l'électricité,",", ajoute le journal.,8,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+221800,767282,", disponible en version dualdisc",",", sortira le 24 avril.,2,",",",",ADJ,ADJ,Number=Sing,3,amod,_,_,1
+223826,774944, ce jour,","," passant ainsi d'une machine composée de 8 bi-processeurs à 200 Mhz, à une machine de 8 quadri-processeurs à 375 Mhz.",4,",",",",VERB,VERB,Tense=Pres|VerbForm=Part,28,amod,_,_,2
+227449,878607, vers une croissance moins élevée mais plus soutenable,",", souligne Robert DiClemente de Citigroup (NYSE: C - actualité) .,10,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15,dep,_,_,2
+232256,896340,", la gauche caviar et son lot de satellites, d'intellectuels et de cinéastes",",", prépare sa prochaine arrivée au pouvoir.,2,",",",",DET,DET,Definite=Def|Gender=Fem|Number=Sing|PronType=Art,3,det,_,_,1
+233323,990247,", conçus et mis en place en liaison étroite avec chaque investisseur",",", concernent tous les horizons de placement.,2,",",",",VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_,1
+235330,997608,", vêtu d'un pardessus militaire, se tient debout devant la sainte",",", assise près de la fenêtre.,2,",",",",VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10,advcl,_,_,1
+236472,841804, dans sa position,","," estime Francis Perrin, directeur de la rédaction de la revue Le pétrole et le gaz arabes.",5,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,2
+236613,842384,", laissant en suspens ce conflit",",", note l'expert.,2,",",",",VERB,VERB,Tense=Pres|VerbForm=Part,0,root,_,_,1
+239934,854789,ne dépasse pas les 15 à 20% du chiffre d'affaires global du groupe,",", précise Dujancourt.,16,",",",",VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19,det,_,_,1
+240253,856064,", deux hommes : Johanny Chavel et Pierre Pourrat",",", dit le directeur.,2,",",",",NUM,NUM,NumType=Card,3,nummod,_,_,1
+242270,863414, il jette les bases d'une nouvelle poésie,",", considérant que la valeur d'un individu provient de sa noblesse de cœur et non de son lignage.,10,",",",",VERB,VERB,Tense=Pres|VerbForm=Part,28,advmod,_,_,1

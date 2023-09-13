@@ -1,0 +1,25 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1222,11707,"- Certes, Kex, ja fussiez crevez, ",Fet," la reïne, au mien cuidier, Se ne vos poïssiez vuidier Del venin don vos estes plains. ",10,Fet,faire,VERB,VERcjg,VerbForm=Fin,8,parataxis,_,XmlId=w_YvainKu_590,2
+1225,11709,"- Dame, se nos n'i gaeignons, ",Fet," Kex, an vostre conpaignie, Gardez que nos n'i perdiens mie. ",10,Fet,faire,VERB,VERcjg,VerbForm=Fin,17,parataxis,_,XmlId=w_YvainKu_630,1
+1237,11728,"- Dame, trestuit cil qui sont ci, ",Fet," Kex, boen gré vos en savront ",10,Fet,faire,VERB,VERcjg,VerbForm=Fin,17,parataxis,_,XmlId=w_YvainKu_864,3
+1292,11853,"- A ce, ",fet," il, faudras tu bien : ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,8,parataxis,_,XmlId=w_YvainKu_2575,1
+1341,11951,"Qant je ving la nuit a ostel, Trovai mon oste tot autel, Ausi lié et ausi cortois Come j'avoie ",fet, einçois. ,23,fet,faire,VERB,VERppe,Tense=Past|VerbForm=Part,11,advcl,_,XmlId=w_YvainKu_3922,1
+1349,11959,"- Par mon chief, ",fet," messire Yvains, Vos estes mes cosins germains, ",6,fet,faire,VERB,VERcjg,VerbForm=Fin,13,parataxis,_,XmlId=w_YvainKu_4042,2
+1423,12100,N'onques d'un estal ne se muevent Ne plus que ,feïssent, dui gres ; ,12,feïssent,faire,VERB,VERcjg,VerbForm=Fin,8,advcl,_,XmlId=w_YvainKu_5795,2
+1636,12569,"- A ben eor, ",fet," ele, dame, Bien i pert que vos estes fame, Qui se corroce quant ele ot Nelui qui bien feire li lot. » ",6,fet,faire,VERB,VERcjg,VerbForm=Fin,13,parataxis,_,XmlId=w_YvainKu_11539,2
+1779,12974,"« Bien vaingne, ",font," il, ceste rote Qui de tant prodomes est plainne. ",5,font,faire,VERB,VERcjg,VerbForm=Fin,3,parataxis,_,XmlId=w_YvainKu_16438,2
+1797,13001,"- Et vostre cors et vostre chiés, ",Fet," li rois, bele criature, Ait joie et grant boene aventure ! » ",9,Fet,faire,VERB,VERcjg,VerbForm=Fin,16,parataxis,_,XmlId=w_YvainKu_16770,2
+1979,13466,Se il eüst an sa conpaigne Auques de si ,fez," conpaignons, Li fel de coi nos nos pleignons S'en alast come desconfiz ",10,fez,faire,VERB,VERppe,Tense=Past|VerbForm=Part,11,acl,_,XmlId=w_YvainKu_22703,1
+2071,13671,"- Or primes, ",fet," il, puis je dire Que li miens diax et la moie ire A la vostre dolor passee, ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,10,parataxis,_,XmlId=w_YvainKu_25273,2
+2143,13840,"- Biax sire, de la volanté Vos merci ge, ",fet," li prodom,.C. mile foiz en un randon. » ",12,fet,faire,VERB,VERcjg,VerbForm=Fin,9,parataxis,_,XmlId=w_YvainKu_27707,1
+2238,14038,"Mes ainz que il poïst venir A la chapele, en fu fors treite La dameisele, et la rez ",feite, Ou ele devoit estre mise Trestote nue en sa chemise. ,21,feite,faire,VERB,VERppe,Tense=Past|VerbForm=Part,14,conj,_,XmlId=w_YvainKu_30271,1
+2322,14244,"- Ce presant, ",fet," il, vuel je prendre, ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,10,parataxis,_,XmlId=w_YvainKu_32815,2
+2398,14437,"- Par foi, pucele, ",fet," li sire, Il parti or endroit de nos ; ",7,fet,faire,VERB,VERcjg,VerbForm=Fin,12,parataxis,_,XmlId=w_YvainKu_35236,2
+2436,14527,"- Par foi, ",fet," cele, et je m'an tes, ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,12,parataxis,_,XmlId=w_YvainKu_36318,2
+2486,14634,"- Dex, li voirs rois esperitables, ",Fet," messire Yvains, m'an desfande ",9,Fet,faire,VERB,VERcjg,VerbForm=Fin,15,parataxis,_,XmlId=w_YvainKu_37529,1
+2505,14695,Et bien set qu'a sa mere plest Que rien a ,feire, ne li lest Dont ele le cuit losangier. ,12,feire,faire,VERB,VERinf,VerbForm=Inf,10,nmod,_,XmlId=w_YvainKu_38220,2
+2542,14756,"- Vos meïsmes, qui le dotez, ",Fet," messire Yvains, l'en ostez, ",9,Fet,faire,VERB,VERcjg,VerbForm=Fin,15,parataxis,_,XmlId=w_YvainKu_38987,2
+2544,14760,"- Par foi, ",font," il, ce n'i est mie, ",5,font,faire,VERB,VERcjg,VerbForm=Fin,11,parataxis,_,XmlId=w_YvainKu_39028,1
+2677,15019,"- Certes, qui or te respondroit, ",Fet," l'autre, mout seroit musarde. ",9,Fet,faire,VERB,VERcjg,VerbForm=Fin,15,parataxis,_,XmlId=w_YvainKu_42075,1
+2697,15075,Et li uns l'autre vialt blecier Et ,feire," honte et correcier, ",9,feire,faire,VERB,VERinf,VerbForm=Inf,7,conj,_,XmlId=w_YvainKu_42834,1
+2739,15160,"- Par foi, ",fet," messire Gauvains, N'iestes si estonez ne vains Que je autant ou plus ne soie ; ",5,fet,faire,VERB,VERcjg,VerbForm=Fin,12,parataxis,_,XmlId=w_YvainKu_43981,2

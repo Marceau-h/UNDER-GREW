@@ -1,10 +1,12 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,2255.0,2255.0,100.0,100.0,
-no_obj,197,197,8.74,8.74,"Le Bogdo Khan ;;déclara;; que la Mongolie et la Chine avaient été dirigées par les Manchu lorsque les Qing étaient au pouvoir, et qu'après la chute de la dynastie Qing en 1911, le contrat de soumission des Mongols aux Manchu était rompu et nul. "
-in_both,620,105,27.49,4.66,"En danois, le mot peut aussi ;;désigner;; des lagons peu profonds. "
-out_idiom,2255.0,105.0,100.0,4.66,
-something,2127,70,94.32,3.1,"A l'aide d'une nouvelle technique, Shen déblaya le canal avec succès et ;;put;; démontrer l'utilité du limon amassé en tant qu'engrais. "
-not_fixed,2208,70,97.92,3.1,Une théologie appropriée ;;devra;; donc être construite compte tenu de son objectif. 
-too_close,1457,27,64.61,1.2,"« Nous avons demandé à d'autres pays de nous aider à remplir le zoo de différentes espèces d'animaux, y compris d'un porc » a ;;indiqué;; Saqib. "
-no_pass,2255.0,27.0,100.0,1.2,
-no_pron,2155,27,95.57,1.2,Même si la plupart des situations qui se ;;présentaient;; en entreprise finissaient par se résoudre sans conflit. 
+no_obj,197,197,8.74,8.74,"Christian Wolmar, qui a ;;écrit;; une série d'ouvrages sur l'histoire ferroviaire, entrera dans la compétition le premier décembre. "
+in_both,620,105,27.49,4.66,"Tandis que la ville de Brisbane se développait, l'état du fleuve ;;empira;; jusqu'à devenir un égoût à ciel ouvert et un dépôt de déchets. "
+one_percent,439,57,19.47,2.53,"En 1992, des acteurs et des employés ont ;;pris;; possession du terrain de l’ancien théâtre de marionnettes, qui avait été hérité par la commune. "
+out_idiom,2255.0,57.0,100.0,2.53,
+something,2127,36,94.32,1.6,"De nombreuses personnes, y ;;compris;; des groupes indigènes, allèguent qu'ils banalisent la culture des Premières Nations. "
+not_fixed,2208,36,97.92,1.6,"Quatre marques supplémentaires ;;indiquent;; les déclinaisons minimales et maximales de la pleine lune, autrement dit en été et en hiver. "
+too_close,1461,12,64.79,0.53,"Il est possible de présenter un taux d'hémoglobine normal tout en ayant des carences en fer, ;;indique;; la Société canadienne du sang (CBS). "
+five_or_more,144,5,6.39,0.22,"Dès 1926, Stephen Meyer s’était adressé à Irène Joliot-Curie suggérant qu’Elizabeth Rona devrait collaborer avec elle pour ;;apprendre;; comment son laboratoire pouvait créer ses propres échantillons de polonium. "
+no_pass,2255.0,5.0,100.0,0.22,
+no_pron,2155,5,95.57,0.22,"Au parc de la Porte-d’ Or, qui est long de plus de quatre kilomètres, se ;;trouvent;; un jardin botanique, un planétarium, un jardin japonais et un aquarium. "

@@ -1,10 +1,12 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,5889.0,5889.0,100.0,100.0,
-no_obj,673,673,11.43,11.43,"Le dirigeant de la Somatem, lui, avait confirmé, sur procès-verbal, que ce marché devait entraîner """"le versement d'une commission d'entre 1% et 5% du montant du marché, dont le paiement devait s';;effectuer;; à l'étranger"""". "
-in_both,2741,430,46.54,7.3,Elle a beaucoup voyagé et surtout ;;changé;; d'employeur. 
-out_idiom,5634,363,95.67,6.16,"La concurrence réduit l'efficacité de telles solutions, tandis qu'il en résulte un effet secondaire, à ;;savoir;; que sur d'autres aéroports, le niveau des nuisances sonores produites sera plus important. "
-something,5101,251,86.62,4.26,"Je voudrais rappeler à cet égard, qu'il y ;;a;; quelques semaines, 80 000 jeunes des pays de l'Union européenne ont participé à un concours pour la recherche d'une devise pour l'Europe et que la devise qui a été finalement retenue par un grand jury a été """"L'unité dans la diversité"""". "
-not_fixed,5634,251,95.67,4.26,"C'est pourquoi nous avons besoin d'une coordination sur le plan européen, sans pour autant empiéter sur la compétence des tribunaux nationaux en ce qui ;;concerne;; la conduite de la procédure. "
-too_close,3895,113,66.14,1.92,"- De même, les mirages 2000 ;;fournis;; à Taiwan en 1992 pourraient échouer à Singapour. "
-no_pass,4394,41,74.61,0.7,"Le taux d'incidence des fractures de hanche était de 1,44% chez les patients traités par Aclasta par rapport à 2,49% chez les patientes ;;traitées;; par placebo. "
-no_pron,5620,32,95.43,0.54,"Les valeurs minimales s';;observent;; après 7 jours pour les marqueurs de résorption, et après 12 semaines pour les marqueurs de formation. "
+no_obj,673,673,11.43,11.43,"Sa veuve Lee Mei-Kuei a été auditionné le 14 mai 2002 par Renaud Van Ruymbeke, ;;introduite;; dans son cabinet par Me Thibault de Montbrial. "
+in_both,2741,430,46.54,7.3,"Le lendemain, 17 mars 1915, en début d'après-midi et deux heures environ avant que n';;arrive;; le recours en grâce qui commuait la peine en travaux forcés, Théophile Maupas, 40 ans, instituteur de Le Chefresne, Louis Lefoulon, 30 ans, cheminot aux Chemins de fer de l'Ouest à Caen, Louis Girard, 28 ans, horloger, originaire de Blainville résidant à Paris 17e et Lucien Lechat originaire de Le Ferré, 23 ans, garçon de café à Vitré sont fusillés par leurs camarades du 336e d'Infanterie. "
+one_percent,861,192,14.62,3.26,"- 6 février 1998 : Les recours formés contre Laurent Dominati par Dominique Bertinotti (PS) et Yves Contassot (Vert) devant le Conseil constitutionnel sont rejetés au motif que les erreurs dans les inscriptions sur les listes électorales ;;relevées;; dans le 3e arrondissement durant les élections législatives de 1997 ne constituent pas des """"manoeuvres"""". "
+out_idiom,5634,141,95.67,2.39,"Une diminution du taux circulant des hormones sexuelles, principalement des estrogènes ;;convertis;; à partir des androgènes, joue aussi un rôle dans la perte osseuse graduelle observée chez les hommes. "
+something,5101,99,86.62,1.68,"D'abord de quelques centaines de morts ;;annoncés;;, les télévisions ont annoncé quelques 70 000 morts quelques jours plus tard, trouvés dans des charniers. "
+not_fixed,5634,99,95.67,1.68,"Selon moi, il y a bien cohérence, et c'est pourquoi j'ai décidé et fait ;;savoir;; à la commission que je ne rejetais pas cet exposé des motifs. "
+too_close,3897,36,66.17,0.61,"Grosse journée pour les nombreux bénévoles de la section puisque, finalement, 210 petits combattants ont ;;répondu;; présents ! "
+five_or_more,1041,36,17.68,0.61,Je n'ai pas encore lu ni ;;entendu;; que le Conseil s'y soit intéressé. 
+no_pass,4394,13,74.61,0.22,Les évènements indésirables sont ;;listés;; par classe de système d'organes dans le tableau 4. 
+no_pron,5620,8,95.43,0.14,"Les trois lascars se ;;promenaient;; sur un chemin de terre, à proximité de la gendarmerie. "

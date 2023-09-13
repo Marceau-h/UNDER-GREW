@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+348,fr_partut-ud-1012,Tant que cet accord n'est pas ,conclu,", dans la mesure où il s'applique provisoirement. ",8,conclu,conclure,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12,acl,_,SpaceAfter=No,1

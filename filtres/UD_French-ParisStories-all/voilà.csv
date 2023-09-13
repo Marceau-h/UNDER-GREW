@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+302,ParisStories_2020_sangDEncre_26,"et, du coup, euh, ",voilà," en plein vol au bout d'une demi-heure de vol, l'hôtesse, euh, nous communique que, euh, on allait devoir faire demi-tour, euh jusqu'à l'aéroport d'Agen, puisque il y avait une alarme qui sonnait dans le cockpit depuis le décollage. ",9,voilà,voilà,VERB,_,_,12,discourse,_,ExtPos=INTJ,1
+344,ParisStories_2021_nouveauxEleves_12,"donc, du coup, euh, bah, par curiosité, ",voilà,", je commence à lui poser des questions. ",14,voilà,voilà,VERB,_,_,12,discourse,_,ExtPos=INTJ|SpaceAfter=No,1
+510,ParisStories_2019_devoirPhilosophie_31,"euh il y avait des viols, des, ~enfin ",voilà,", on respectait pas la femme, etc. ",11,voilà,voilà,VERB,_,_,14,discourse,_,ExtPos=INTJ|SpaceAfter=No,2
+581,ParisStories_2021_adoptionMouts_21,"du coup, on a dit, bah, ",voilà,", quoi, c'est notre chien! ",11,voilà,voilà,VERB,_,_,18,discourse,_,ExtPos=INTJ|SpaceAfter=No,1
+743,ParisStories_2019_vacancesEte_8,"euh j'ai visité l'Île de Ré, ",voilà,", je suis allée à la plage. ",10,voilà,voilà,VERB,_,_,14,discourse,_,ExtPos=INTJ|SpaceAfter=No,1

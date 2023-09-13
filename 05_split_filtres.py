@@ -21,8 +21,13 @@ def rm_tree(pth: Path) -> None:
 
 
 for to_split in filtres.glob("*-all.csv"):
-    print(to_split)
     df = pd.read_csv(to_split).fillna("")
+
+    if df.empty:
+        print(f"{to_split} is empty")
+        continue
+
+    print(f"{to_split} has {len(df)} rows")
 
     per_verb = {}
     for verb in tqdm(df["LEMMA"].unique()):

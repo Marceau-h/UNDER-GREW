@@ -1,10 +1,12 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,31769.0,31769.0,100.0,100.0,
-no_obj,3276,3276,10.31,10.31,"Au recensement de 2011, il ;;comptait;; 74 habitants. "
-in_both,23958,2577,75.41,8.11,"Amália Rodrigues ;;décède;; le 6 octobre 1999 à l'âge de soixante-dix-neuf ans, des suites d'une maladie du cœur, quelque temps après son retour de sa maison de vacances dans l'Alentejo. "
-out_idiom,31016,2310,97.63,7.27,"En mars 2009, ils ont remporté leur deuxième titre de champions du monde d'affilée, en plus de ;;battre;; leur record personnel pour un programme court et un score total. "
-something,29091,1786,91.57,5.62,"Sa première saison, bien que timide (7,6 points de moyenne, 6 matchs démarrés sur 71), laisse entrevoir toutes les capacités du joueur, même s'il doit ;;apprendre;; les rudiments du jeu collectif, n'étant pas passé par l'Université. "
-not_fixed,31016,1786,97.63,5.62,"Par exemple, une marche ;;empruntant;; les trois premières notes du motif en croix se reproduit huit fois de suite à partir de la mesure 47. "
-too_close,19853,865,62.49,2.72,Il ;;évolue;; au poste d'ailier gauche. 
-no_pass,24071,480,75.77,1.51,"Le canton de Besançon-Ouest est une division administrative française, ;;située;; dans le département du Doubs et la région Franche-Comté. "
-no_pron,29672,406,93.4,1.28,Ils se ;;situent;; eux aussi dans le département de l'Aube. 
+no_obj,3276,3276,10.31,10.31,"En ;;mélangeant;; le calvados avec du jus de pomme, on obtient le pommeau de Normandie, qui titre entre 16 ° et 18 ° d'alcool. "
+in_both,23958,2577,75.41,8.11,"Christian Menanteau, ;;né;; le 31 mai 1950 à Casablanca (Maroc), est un journaliste et patron de presse français. "
+one_percent,2263,389,7.12,1.22,"Ces illusions ont été particulièrement étudiées par John Chowning (pionnier de la synthèse numérique des sons) http://brahms.ircam.fr/textes/c00000018/index.html puis par Jean-Claude Risset, chercheurs et compositeurs, qui, à l'aide de l'ordinateur ont ;;créé;; plusieurs formes d'illusions intégrées dans leurs œuvres. "
+out_idiom,31016,242,97.63,0.76,"Concernant les fréquences qui seraient réellement utilisées pour ;;transmettre;; l'ordre de tir du président de la République française (ordre émis depuis le PC Jupiter du palais de l'Élysée), celles-ci sont totalement secrètes et bénéficient d'un très haut niveau de classification militaire y compris pour le chiffrement des transmissions. "
+something,29091,218,91.57,0.69,(Il était impératif de ;;prendre;; les deux places étant donné le tremplin potentiel qu'elles constituaient pour des opérations militaires terrestres et amphibies alliées dirigées contre la Provence ; 
+not_fixed,31016,218,97.63,0.69,"Le régime du président Bachar Al-Assad avait espéré que son nationalisme ombrageux, sa posture intransigeante sur le conflit israélo-palestinien et sa résistance à toutes formes de pressions extérieures, y compris les ouvertures à son égard ;;tentées;; par la France et l'Arabie saoudite, constituaient une manière de carapace contre la vague du """"printemps arabe"""". "
+too_close,19861,131,62.52,0.41,Le match Angleterre-Suède fut le premier match à domicile que l'Angleterre ;;jouait;; hors de Wembley depuis 1966. 
+five_or_more,13189,131,41.52,0.41,"Il signe à l'été 2001, à 21 ans, en même temps que Nicolas Seube qui ;;deviendra;; son alter ego côté gauche de la défense normande. "
+no_pass,24071,101,75.77,0.32,"La réhabilitation de l'artiste a été ;;consacrée;; en 2007 par l'organisation d'une exposition photographique au Museum of the City of New York, associée à la publication d'un album monographique intitulée New York Rises. "
+no_pron,29672,97,93.4,0.31,il ne s';;agit;; pas d'un camping mais d'une chambre d'hotes !...... 

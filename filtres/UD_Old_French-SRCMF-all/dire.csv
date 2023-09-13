@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1590,12434,D'or endroit ai ge ,dit," que sages, ",6,dit,dire,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_9985,1
+2187,13931,Et lors li ancomance a ,dire," Messire Yvains, con frans et dolz : ",6,dire,dire,VERB,VERinf,VerbForm=Inf,4,xcomp,_,XmlId=w_YvainKu_28941,1

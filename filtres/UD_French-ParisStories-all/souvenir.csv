@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+394,ParisStories_2021_prenomDeVieille_24,"et devant la salle, je me ",souviens,", on avait physique et devant la salle, je vois cette fille, que j'avais vue hier. ",8,souviens,souvenir,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,11,discourse,_,SpaceAfter=No,3

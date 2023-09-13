@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+94,Rhap_D0009-61,"et les pieds, ",crois,"-tu, crois-tu que c'est… ? ",5,crois,croire,VERB,_,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,8,reparandum,_,SpaceAfter=No,2
+490,Rhap_D2004-35,"mes souvenirs les plus anciens sont, je ",crois,", des souvenirs de Mulhouse, sûrement pas de Cannes. ",9,crois,croire,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,12,discourse,_,SpaceAfter=No,1

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+834,Rhap_D0004-25,"donc, on a beaucoup de mal à maintenir, ",voilà,", une clientèle de quartier. ",11,voilà,voilà,VERB,_,_,9,discourse,_,Overlap=Rhap_D0004-26|SpaceAfter=No,1

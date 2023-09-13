@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+89,fr_partut-ud-202,Le travail est ,fait,", il s'agit encore d'en assurer le respect. ",4,fait,faire,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No,1

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+190,ParisStories_2020_anecdoteMetro_20,"et en fait, euh, ce qui s'est ",passé,", c'est que genre, euh, il y a des gens, en fait, ils étaient pressés de descendre. ",11,passé,passer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7,acl:relcl,_,SpaceAfter=No,2

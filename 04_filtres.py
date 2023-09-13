@@ -77,7 +77,7 @@ for subdir in main.iterdir():
     file_direct: Path = subdir / "VERB-direct-obj.csv"
     file_no_obj: Path = subdir / "VERB-no-obj.csv"
     file_no_nothing: Path = subdir / "VERB-no-nothing.csv"
-    file_in_idiom: Path = subdir / "Verb_in_idiom.csv"
+    file_in_idiom: Path = subdir / "VERB_in_idiom.csv"
     file_fixed: Path = subdir / "fixed-VERB.csv"
 
     df_all: pd.DataFrame = pd.read_csv(file_all).fillna("")
@@ -162,6 +162,7 @@ for subdir in main.iterdir():
         "all": {s for s in df_all_pristine["sent_id"].tolist()},
         "no_obj": {s for s in df_no_obj["sent_id"].tolist()},
         "in_both": {s for s in df_in_both["sent_id"].tolist()},
+        "one_percent": {s for s in df_one_percent["sent_id"].tolist()},
         "out_idiom": {s for s in df_out_idiom["sent_id"].tolist()},
         "something": {s for s in df_something["sent_id"].tolist()},
         "not_fixed": {s for s in df_not_fixed["sent_id"].tolist()},

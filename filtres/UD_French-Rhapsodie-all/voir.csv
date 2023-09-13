@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+743,Rhap_M2002-50,"deuxième distinction, eh bien, euh, il faut ",voir,", et c'est en ce sens que l'art est un concept flou, c'est que l'art a des fonctions extrêmement diverses, euh, selon les époques et selon les sociétés. ",11,voir,voir,VERB,_,VerbForm=Inf,10,ccomp,_,SpaceAfter=No|Subject=NoRaising,1
+816,Rhap_D2009-49,"la preuve, c'est que actuellement, ",voyez,"-vous, en soixante-quinze, je pense que vous serez d'accord avec moi, il n'y a plus, disons, ce qu'on appelait autrefois d~, de grands écrivains. ",9,voyez,voir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,7,discourse,_,SpaceAfter=No,1

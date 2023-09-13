@@ -1,0 +1,10 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1330,11909,"Et cil, come mautalentis, ",Vint," plus tost c'uns alerions, Fiers par sanblant come lions. ",7,Vint,venir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_3390,1
+1520,12264,"Quequ'il aloient reverchant Desoz liz et desoz eschames, ",Vint, une des plus beles dames C'onques veïst riens terriene. ,11,Vint,venir,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_7908,3
+1550,12328,Repeirié furent de l'iglise Et ,venu, sor la sepouture. ,7,venu,venir,VERB,VERppe,Tense=Past|VerbForm=Part,1,conj,_,XmlId=w_YvainKu_8678,1
+1751,12884,"« Por Deu, qu'est ore devenuz Messire Yvains, qui n'est ",venuz,", Qui se vanta aprés mangier Qu'il iroit son cousin vangier ? ",15,venuz,venir,VERB,VERppe,Tense=Past|VerbForm=Part,9,acl:relcl,_,SpaceAfter=No|XmlId=w_YvainKu_15368,1
+2264,14096,Mout est li chevaliers malvés Qui ,venuz," est morir por toi, ",7,venuz,venir,VERB,VERppe,Tense=Past|VerbForm=Part,4,acl:relcl,_,XmlId=w_YvainKu_30965,1
+2329,14257,Et la dame est aprés ,venue, Et si fil et ses filles totes ; ,6,venue,venir,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_32930,2
+2512,14713,Je vos ferai ja ci ,venir,.II. miens sergenz mout granz et forz ; ,6,venir,venir,VERB,VERinf,VerbForm=Inf,3,xcomp,_,SpaceAfter=No|XmlId=w_YvainKu_38456,1
+2639,14948,"Puis si atendoit la venue Sa seror, qui ",vient, et aproche. ,10,vient,venir,VERB,VERcjg,VerbForm=Fin,7,acl:relcl,_,XmlId=w_YvainKu_41179,1
+2874,15403,Et la dame mout s'esjoï Tantost con la novele oï De sa pucele qui ,venoit, Et de ce que ele amenoit Le lyeon et le chevalier Qu'ele voloit mout acointier Et mout conoistre et mout veoir. ,16,venoit,venir,VERB,VERcjg,VerbForm=Fin,14,acl:relcl,_,XmlId=w_YvainKu_47290,2

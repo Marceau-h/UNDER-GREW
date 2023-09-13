@@ -1,10 +1,12 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
-all,1794665.0,1794665.0,100.0,100.0,
-no_obj,317950,317950,17.72,17.72,Enfin on en apprends plus sur les pouvoirs de l'Arbre avant une course poursuite pour ;;protéger;; une élève.
-in_both,1744057,288528,97.18,16.08,Il est ;;riche;; en cations biogènes.
-out_idiom,1794665.0,288528.0,100.0,16.08,
-something,1474879,163715,82.18,9.12,La Cour suprême ;;a;; par ailleurs demandé aux organisations de défense de l'environnement de cesser de manifester publiquement contre l'entrée du Clemenceau en Inde.
-not_fixed,1750810,163715,97.56,9.12,"Son rôle est d';;empêcher;; l'inflation monétaire, mais l'échec du système à partir de 1937 conduit Schacht à démissionner."
-too_close,1077081,75887,60.02,4.23,"En début de matinée, l'action ;;perdait;; 1,57% à 56,30 francs suisses à la Bourse de Zurich."
-no_pass,1625926,68045,90.6,3.79,"En 2004, sur les 116 bateaux au départ, presque la moitié n'était pas ;;arrivé;;."
-no_pron,1689306,63294,94.13,3.53,L'équipement et la mise en réseau sur Internet de ces écoles s';;avère;; un moyen efficace de pallier leur fragilité.
+all,1687713.0,1687713.0,100.0,100.0,
+no_obj,244158,244158,14.47,14.47,"Le titre Solvay, par exemple, ;;recule;; étonnamment."
+in_both,1666008,236615,98.71,14.02,"Environ une heure avant le match inaugural du Canadien au Centre Bell, mercredi, je ;;bavardais;; avec Guy Lapointe, qui a été l'un des meilleurs défenseurs de l'histoire de l'équipe."
+one_percent,144787,30362,8.58,1.8,"Art Sophia http://home.nordnet.fr/~floridant/necropol.htm Site régional du midi de la France ;;proposant;; la représentation d'&#156;uvres d 'une quarantaine de peintres contemporains, de quelques photographes et artictes divers."
+out_idiom,1687713.0,30362.0,100.0,1.8,
+something,1467389,15549,86.95,0.92," dont 2.300 personnes environ à Ryton, ;;a;; noté le groupe aux deux marques."
+not_fixed,1646357,15549,97.55,0.92,"Du reste, en ce qui concerne la qualité de ces logiciels, comme tout le monde a accès aux sources, il y aura toujours une personne pour soulever un bug et le ;;documenter;;, et une personne (pas forcément la même) pour le corriger."
+too_close,1013534,3040,60.05,0.18,"A l'inverse, gare à la décompression pour l'OL contre le relégable Metz car Bordeaux ;;pourrait;; se rapproccher en dominant Toulouse."
+five_or_more,1643665,3040,97.39,0.18,La connexion via l'interface WEB ou le client WINDOWS est ;;contôlée;; par un user ID et un password.
+no_pass,1541376,2790,91.33,0.17,Les parents de l'inculpé ont également été ;;arrêtés;; hier matin.
+no_pron,1590134,2645,94.22,0.16,La communication se ;;fait;; par courrier électronique.

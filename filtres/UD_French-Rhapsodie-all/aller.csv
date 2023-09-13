@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+614,Rhap_D0005-65,"et puis alors, XXX s'il y avait quelque chose qui n'",allait," pas, euh, bon, ben, c'était tout de suite. ",14,allait,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,11,acl:relcl,_,_,1
+616,Rhap_D0005-68,"bon, XXX peu que tu l'utilises, tu sais très bien que ça ",va,", ça va pas toujours tout seul, hein. ",16,va,aller,VERB,ETRE,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19,reparandum,_,SpaceAfter=No,1
