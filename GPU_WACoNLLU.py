@@ -6,8 +6,6 @@ from typing import Tuple, Dict, Any, List
 import spacy
 from tqdm.auto import tqdm
 
-len_seg: int = 30_000
-
 WAC: Path = Path(f"UD/WAC")
 WAC.mkdir(exist_ok=True, parents=True)
 
@@ -26,6 +24,12 @@ manyticks = re.compile(r"\"{2,}")
 
 
 def clean(s: str) -> str:
+    """
+    Cleans the sentence string from unwanted characters including multiple spaces and multiple ticks but also converts
+    bad codepoints to their correct unicode character
+    :param s: the sentence string to clean
+    :return: the cleansed sentence string, ready to be processed by spacy
+    """
     s = s.strip()
     # s = re.sub(spaces, "\1", s)
     s = (
@@ -41,10 +45,22 @@ def clean(s: str) -> str:
 
 
 def no_empty(s: str) -> str:
+    """
+    Returns "_" if the string is empty, else returns the string. Used to fill empty fields in CoNLL-U format
+    :param s: the string to check
+    :return: "_" if the string is empty, else returns the string
+    """
     return s if s else "_"
 
 
 def get_all(sent: str) -> tuple[dict[str, int | list[Any] | str], ...]:
+    """
+    The moon of the show, processes a sentence with spacy and returns a tuple of dicts, each dict representing a token
+    with every field of the CoNLL-U format
+    :param sent: the sentence to process
+    :return: a tuple of dicts, each dict representing a token with every field of the CoNLL-U format
+    """
+
     doc: spacy.tokens.doc.Doc = nlp(sent)
     deps: List[str] = [token.dep_.lower() for token in doc]
     return tuple(
@@ -65,6 +81,12 @@ def get_all(sent: str) -> tuple[dict[str, int | list[Any] | str], ...]:
 
 
 def process_segment(segment: Tuple[Tuple[int, str]]) -> None:
+    """
+    The star of the show, processes a segment of sentences with spacy and writes the result to a newly created
+    CoNLL-U file
+    :param segment: the segment to process, a tuple of tuples of sentence id and sentence
+    :return: None
+    """
     first: int = segment[0][0]
 
     srtio: StringIO = StringIO()
@@ -95,7 +117,14 @@ def process_segment(segment: Tuple[Tuple[int, str]]) -> None:
     srtio.close()
 
 
-if __name__ == "__main__":
+def main(start: int = 0, end: int = len(lines), len_seg: int = 30_000) -> None:
+    """
+    Main function, creates the segments and processes them through `process_segment`
+    :param start: the first sentence id to process
+    :param end: the last sentence id to process
+    :param len_seg: the length of each segment
+    :return: None
+    """
 
     segments: Tuple[Tuple[Tuple[int, str]]] = tuple(
         tuple(
@@ -103,8 +132,12 @@ if __name__ == "__main__":
                 k,
                 lines[k],
             ) for k in range(i, i + len_seg) if k in lines
-        ) for i in range(0, len(lines), len_seg)
+        ) for i in range(start, end, len_seg)
     )
 
     for segment in tqdm(segments, total=len(segments)):
         process_segment(segment)
+
+
+if __name__ == "__main__":
+    main()
