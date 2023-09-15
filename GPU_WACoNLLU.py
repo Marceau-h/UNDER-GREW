@@ -15,18 +15,29 @@ spacy.require_gpu()
 
 nlp: spacy.language = spacy.load("fr_dep_news_trf")
 
-file: Path = Path("/home/marceau/Téléchargements/fra_mixed_2009_1M/fra_mixed_2009_1M-sentences.txt")
+file: Path = Path("fra_mixed_2009_1M-sentences.txt")
 with file.open("r", encoding="utf-8") as f:
     # The `int(i)` allows us to check if we are catching the sentence id correctly
     lines: Dict[int, str] = {int(i): l for i, l in [l.split("\t", 1) for l in f.readlines()]}
 
+mixedticks = re.compile(r"'\"+'")
+mixedspaces = re.compile(r'(\s)+')
+manyticks = re.compile(r"\"{2,}")
+
 
 def clean(s: str) -> str:
     s = s.strip()
-    s = s.replace(u"\x92", "'").replace(u"\x9c", "œ").replace(u"\xad", "").replace("", "")
-    s = s.replace(r''''"''', "'").replace("''", "'")
-    s = re.sub(r'[^"](.*)"', "\1", s)
-    return re.sub(r'"+', '"', s)
+    # s = re.sub(spaces, "\1", s)
+    s = (
+        s.replace(u"\x92", "'")
+        .replace(u"\x9c", "œ")
+        .replace(u"\xad", "")
+        .replace("", "")
+    )
+    s = re.sub(mixedticks, "''", s)
+    s = re.sub(mixedspaces, " ", s)
+    s = re.sub(manyticks, '"', s)
+    return s
 
 
 def no_empty(s: str) -> str:
@@ -46,7 +57,7 @@ def get_all(sent: str) -> tuple[dict[str, int | list[Any] | str], ...]:
             "FEATS": no_empty(token.morph),
             "HEAD": token.head.i + 1 if deps[i] != "root" else 0,
             "DEPREL": deps[i],
-            "DEPS": no_empty(token.dep_),
+            "DEPS": f"{token.head.i + 1}:{deps[i]}" if deps[i] != "root" else "_",
             "MISC": "SpaceAfter=No" if not token.whitespace_ else "_",
         }
         for i, token in enumerate(doc)
@@ -61,7 +72,7 @@ def process_segment(segment: Tuple[Tuple[int, str]]) -> None:
 
     for i, l in segment:
         lid: int = int(i)
-        # l: str = clean(l)
+        l: str = clean(l)
 
         if not l:
             print(f"Empty line at {lid}")
@@ -74,6 +85,9 @@ def process_segment(segment: Tuple[Tuple[int, str]]) -> None:
         for token in get_all(l):
             srtio.write("\t".join([str(v) for v in token.values()]) + "\n")
         srtio.write("\n")
+
+        # if lid == 10:
+        #     print(srtio.getvalue())
 
     with open(WAC / f"{first}_{lid}.conllu", "w", encoding="utf-8") as f:
         f.write(srtio.getvalue())
@@ -94,4 +108,3 @@ if __name__ == "__main__":
 
     for segment in tqdm(segments, total=len(segments)):
         process_segment(segment)
-

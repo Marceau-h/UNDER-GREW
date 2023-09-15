@@ -9,7 +9,7 @@ from tqdm.auto import tqdm
 
 len_seg: int = 30_000
 
-WAC: Path = Path(f"UD/WAC")
+WAC: Path = Path(f"../UD/WAC")
 WAC.mkdir(exist_ok=True, parents=True)
 
 nlp: spacy.language = spacy.load("fr_dep_news_lg")
@@ -20,12 +20,23 @@ with file.open("r", encoding="utf-8") as f:
     lines: Dict[int, str] = {int(i): l for i, l in [l.split("\t", 1) for l in f.readlines()]}
 
 
+mixedticks = re.compile(r"'\"+'")
+mixedspaces = re.compile(r'(\s)+')
+manyticks = re.compile(r"\"{2,}")
+
+
 def clean(s: str) -> str:
     s = s.strip()
-    s = s.replace(u"\x92", "'").replace(u"\x9c", "œ").replace(u"\xad", "").replace("", "")
-    s = s.replace(r''''"''', "'").replace("''", "'")
-    s = re.sub(r'[^"](.*)"', "\1", s)
-    return re.sub(r'"+', '"', s)
+    s = (
+        s.replace(u"\x92", "'")
+        .replace(u"\x9c", "œ")
+        .replace(u"\xad", "")
+        .replace("", "")
+    )
+    s = re.sub(mixedticks, "''", s)
+    s = re.sub(mixedspaces, " ", s)
+    s = re.sub(manyticks, '"', s)
+    return s
 
 
 def no_empty(s: str) -> str:
