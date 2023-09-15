@@ -57,7 +57,7 @@ def get_all(sent: str) -> tuple[dict[str, int | list[Any] | str], ...]:
             "FEATS": no_empty(token.morph),
             "HEAD": token.head.i + 1 if deps[i] != "root" else 0,
             "DEPREL": deps[i],
-            "DEPS": f"{token.head.i + 1}:{deps[i]}" if deps[i] != "root" else "_",
+            "DEPS": f"{token.head.i + 1}:{no_empty(token.dep_)}" if deps[i] != "root" else "0:root",
             "MISC": "SpaceAfter=No" if not token.whitespace_ else "_",
         }
         for i, token in enumerate(doc)
