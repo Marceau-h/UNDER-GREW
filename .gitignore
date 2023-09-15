@@ -166,4 +166,5 @@ cython_debug/
 #.idea/
 
 /WAC.tar.xz
-/fra_mixed_2009_1M-sentences.txt
+/UD/WAC/fra_mixed_2009_1M-sentences.txt
+/UD/WAC/fra_mixed_2009_1M-sentences.txt
