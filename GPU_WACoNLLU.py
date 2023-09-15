@@ -1,7 +1,6 @@
 import re
 from io import StringIO
 from pathlib import Path
-from multiprocessing import Pool, cpu_count
 from typing import Tuple, Dict, Any, List
 
 import spacy
@@ -12,7 +11,9 @@ len_seg: int = 30_000
 WAC: Path = Path(f"UD/WAC")
 WAC.mkdir(exist_ok=True, parents=True)
 
-nlp: spacy.language = spacy.load("fr_dep_news_lg")
+spacy.require_gpu()
+
+nlp: spacy.language = spacy.load("fr_dep_news_trf")
 
 file: Path = Path("/home/marceau/Téléchargements/fra_mixed_2009_1M/fra_mixed_2009_1M-sentences.txt")
 with file.open("r", encoding="utf-8") as f:
@@ -52,7 +53,6 @@ def get_all(sent: str) -> tuple[dict[str, int | list[Any] | str], ...]:
     )
 
 
-# def process_segment(segment: tuple, nlp: spacy.Language, WAC: Path):
 def process_segment(segment: Tuple[Tuple[int, str]]) -> None:
     first: int = segment[0][0]
 
@@ -80,10 +80,6 @@ def process_segment(segment: Tuple[Tuple[int, str]]) -> None:
 
     srtio.close()
 
-    del segment
-    del srtio
-    del first
-
 
 if __name__ == "__main__":
 
@@ -96,7 +92,6 @@ if __name__ == "__main__":
         ) for i in range(0, len(lines), len_seg)
     )
 
-    with Pool(cpu_count() // 2) as p:
-        for _ in tqdm(p.imap_unordered(process_segment, segments), total=len(segments)):
-            pass
+    for segment in tqdm(segments, total=len(segments)):
+        process_segment(segment)
 
