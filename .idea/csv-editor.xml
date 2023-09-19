@@ -3,7 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/Xports/UD_French-FQB/Verb-no-nothing.csv">
+        <entry key="/Xports/UD_French-FQB/VERB-no-nothing.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -73,6 +73,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/exports/WAC/fixed-VERB.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/filtres/UD_French-FQB-all.csv">
           <value>
             <Attribute>
@@ -81,6 +88,34 @@
           </value>
         </entry>
         <entry key="/filtres/UD_French-FQB.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/filtres/UD_French-GSD-all.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/filtres/UD_French-GSD-all/avoir.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/filtres/UD_French-GSD-all/dire.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/filtres/UD_French-GSD-all/faire.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -186,20 +221,6 @@
           </value>
         </entry>
         <entry key="\Xports\UD_French-GSD\VERB-no-obj.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Xports\UD_French-GSD\Verb-no-nothing.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Xports\UD_French-GSD\Verb_in_idiom.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

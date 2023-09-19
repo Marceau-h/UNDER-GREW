@@ -26,7 +26,7 @@ newdir.mkdir()
 
 dfs: dict[str, pandas.DataFrame] = {}
 
-for dir in maindir.glob("WAC*"):
+for dir in maindir.glob("WAC-*"):
     if not dir.name[-1].isdigit():
         print(f"{dir.name} has no number")
         continue

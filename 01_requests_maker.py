@@ -49,14 +49,15 @@ corpora: list[str] = [
     'UD_French-ParisStories@2.12',
     'UD_French-Rhapsodie@2.12',
     'UD_Old_French-SRCMF@2.12',
-    'WAC1',
-    'WAC2',
-    'WAC3',
-    'WAC4',
-    'WAC5',
-    'WAC6',
-    'WAC7',
-    'WAC8',
+    'WAC-1',
+    'WAC-2',
+    'WAC-3',
+    'WAC-4',
+    'WAC-5',
+    'WAC-6',
+    'WAC-7',
+    'WAC-8',
+    'WAC-9',
 ]
 
 pivot: str = 'V'  # 'V' or 'O' or 'I' for tsv exports
@@ -114,7 +115,7 @@ for corpus in corpora:
         data = res.read()
 
         assert json.loads(data.decode("utf-8"))["status"] == "OK", "Creation of export failed"
-        sleep(1)  # wait for the export to be ready
+        sleep(5)  # wait for the export to be ready
 
         conn.request("GET", f"/data/{uuid}/export.tsv", "", headers)
 
@@ -129,7 +130,7 @@ for corpus in corpora:
             f.write(tsv)
 
         try:
-            df = pd.read_csv(pat_file, sep='\t', low_memory=False)
+            # df = pd.read_csv(pat_file, sep='\t', low_memory=False)
 
             df.to_csv(pat_file.with_suffix('.csv'), index=False)
 
@@ -139,3 +140,4 @@ for corpus in corpora:
             continue
 
         pbar.update(1)
+    sleep(10)  # To spare the life of the server (mercy is a virtue)
