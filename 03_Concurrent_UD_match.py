@@ -9,6 +9,9 @@ from tqdm.auto import tqdm
 
 import spacy
 
+from ConnluSent import ConnluSent
+from ConnluLine import ConnluLine
+
 subfolder: Path
 
 nlp: spacy.language = spacy.load("fr_core_news_sm")
@@ -19,76 +22,7 @@ exports_extended_dir: Path = Path("Xports")
 exports_extended_dir.mkdir(exist_ok=True, parents=True)
 
 
-class ConnluLine:
-    columns: tuple[str] = ("ID", "FORM", "LEMMA", "UPOS", "XPOS", "FEATS", "HEAD", "DEPREL", "DEPS", "MISC")
-    len_col = len(columns)
 
-    def __init__(self, line: str):
-        self.ID, self.FORM, self.LEMMA, self.UPOS, self.XPOS, self.FEATS, self.HEAD, self.DEPREL, self.DEPS, self.MISC = line.split(
-            "\t")
-
-    def __repr__(self):
-        return f"""ConnluLine({" ".join(f"{col}: {getattr(self, col)}" for col in self.columns)})"""
-
-    def __str__(self):
-        return "\t".join(getattr(self, col) for col in self.columns)
-
-    def __eq__(self, other):
-        return all(getattr(self, col) == getattr(other, col) for col in self.columns)
-
-    def __hash__(self):
-        return hash(str(self))
-
-    def __getitem__(self, key):
-        if isinstance(key, int):
-            return getattr(self, self.columns[key])
-        elif isinstance(key, str):
-            return getattr(self, key)
-        else:
-            raise TypeError(f"ConnluLine indices must be integers or strings, not {type(key)}")
-
-    def __setitem__(self, key, value):
-        if isinstance(key, int):
-            setattr(self, self.columns[key], value)
-        elif isinstance(key, str):
-            setattr(self, key, value)
-        else:
-            raise TypeError(f"ConnluLine indices must be integers or strings, not {type(key)}")
-
-    def __iter__(self):
-        for col in self.columns:
-            yield getattr(self, col)
-
-    def __len__(self):
-        return self.len_col
-
-
-class ConnluSent:
-
-    def __init__(self, string: str):
-        decoupe = [line.strip() for line in string.split("\n") if line != "" and not line.startswith("#")]
-        self.id = decoupe[0]
-        self.lines = tuple(ConnluLine(line) for line in decoupe[1:])
-
-    def __repr__(self):
-        return f"""ConnluSent({self.id}, {self.lines})"""
-
-    def __str__(self):
-        return "\n".join((self.id, *map(str, self.lines)))
-
-    def __eq__(self, other):
-        return self.id == other.id and self.lines == other.lines
-
-    def __hash__(self):
-        return hash(str(self))
-
-    def __getitem__(self, key):
-        if isinstance(key, int):
-            return self.lines[key]
-        elif isinstance(key, str):
-            return tuple(line[key] for line in self.lines)
-        else:
-            raise TypeError(f"ConnluSent indices must be integers or strings, not {type(key)}")
 
 
 def last_name(s: str) -> int:
@@ -110,9 +44,27 @@ def first_name(s: str) -> int:
 def dist_name(right: str, left: str) -> int:
     return min(last_name(right), first_name(left))
 
+def ids(sents: tuple[ConnluSent]) -> tuple[str]:
+    return tuple(sent.id for sent in sents)
+
+def find_by_id(id: str, sents: tuple[ConnluSent], ids_: tuple[str] = ()) -> ConnluSent:
+    if not ids_:
+        ids_ = ids(sents)
+
+    try:
+        return sents[ids_.index(id)]
+    except ValueError:
+        print(f"{id = }")
+        # print(f"{(set(ids_).difference(set(range(1_000_000)))) = }")
+        # print(f"{sents = }")
+        print(f"{subfolder.name = }")
+        raise
+
+
 
 def process_row(args: tuple[pd.Series, list[dict[str, str]]]) -> dict[str, str | int]:
     row, sent = args
+    # sent = ConnluSent.fromPickle(sent)
 
     left = row["left_context"]
     left = left if not (isinstance(left, float) or pd.isna(left)) else ""
@@ -157,17 +109,24 @@ def process_row(args: tuple[pd.Series, list[dict[str, str]]]) -> dict[str, str |
             print(f"{subfolder.name = }")
             raise
 
-    # pivot_data = sent[token_nb]
-    # pivot_data["dist"] = dist
+    pivot_data = sent[token_nb]
+    pivot_data["dist"] = dist
 
-    # del left, pivot, right, count, token_nb  # Free memory
+    return pivot_data.toJson()
 
-    return {**sent[token_nb], "dist": dist}
+
+
+
+
+
 
 avoid_firsts = 4
 if __name__ == '__main__':
     for subfolder in (list(ud_dir.iterdir())):
         print(f"{subfolder.name}")
+
+        if not subfolder.name == "WAC":
+            continue
 
         if not subfolder.is_dir():
             print(f"{subfolder.name} is not a folder")
@@ -188,36 +147,41 @@ if __name__ == '__main__':
             all_txt.close()
 
         sents = tuple(ConnluSent(s) for s in sents)
+        ids_ = ids(sents)
 
         with open(subfolder / "sents.json", "w", encoding="utf-8") as f:
-            f.write(json.dumps(sents))
+            f.write(json.dumps(sents, default=lambda o: o.toJson(), ensure_ascii=False, indent=4))
 
         exports_sub = exports_dir / subfolder.name
 
         for export in exports_sub.glob("*.csv"):
-            if avoid_firsts:
-                avoid_firsts -= 1
-                continue
+            # if avoid_firsts:
+            #     avoid_firsts -= 1
+            #     continue
 
             df = pd.read_csv(export, index_col=None, low_memory=False).fillna("")  # , low_memory=False)
-            print(df.memory_usage(deep=True).sum() / (1024**2))
+            print(df.memory_usage(deep=True).sum() / (1024 ** 2))
             for column in df:
                 try:
                     df[column] = pd.to_numeric(df[column], downcast="unsigned")
                 except:
                     df[column] = df[column].astype(pd.StringDtype())
 
-            print(df.memory_usage(deep=True).sum() / (1024**2))
+            print(df.memory_usage(deep=True).sum() / (1024 ** 2))
 
             pivot_datas = []
 
             if "sents" not in locals() and "sents" not in globals():
                 with open(subfolder / "sents.json", "r", encoding="utf-8") as f:
-                    sents = json.loads(f.read())
+                    sents = json.loads(f.read(), object_hook=lambda o: ConnluSent().fromJson(o))
 
-            args = tuple((row, sents[str(row["sent_id"])]) for _, row in df.iterrows())
+            # args = tuple((row, sents[str(row["sent_id"])]) for _, row in df.iterrows())
 
-            del sents  # Free memory
+            # args = [(row, find_by_id(str(row["sent_id"]), sents, ids_).toPickle()) for _, row in df.iterrows()]
+            args = [(row, find_by_id(str(row["sent_id"]), sents, ids_)) for _, row in df.iterrows()]
+
+
+            # del sents  # Free memory
             del df  # Free memory
 
             with Pool(cpu_count() - 4) as p:

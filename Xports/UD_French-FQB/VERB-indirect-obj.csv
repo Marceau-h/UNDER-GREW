@@ -1,10 +1,10 @@
-sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
-FQB_CLEF03-118,Quel est le nom de la station de métro où a ,eu, lieu l'attaque au sarin à Tokyo ? ,12,eu,avoir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7,acl:relcl,_,_,3
-FQB_CLEF03-166,Quel est le mois où est ,entré, en vigueur l'embargo de l'ONU sur le pétrole visant Haïti ? ,7,entré,entrer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4,acl:relcl,_,_,1
-FQB_Impots-14,Quand et comment va-t-on me ,verser, la prime pour l'emploi ? ,7,verser,verser,VERB,_,VerbForm=Inf,4,xcomp,_,_,-1
-FQB_Impots-39,J'ai égaré mes identifiants me ,permettant," d'accéder à mon espace personnel, comment puis-je les obtenir ? ",7,permettant,permettre,VERB,_,Tense=Pres|VerbForm=Part,5,acl,_,_,4
-FQB_PoleEmploi-28,Votre employeur ne vous a pas ,proposé, d'adhérer au CSP ? ,7,proposé,proposer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,1
-FQB_TREC-fr-403-imp,,Dites,-moi près de quelle ville se trouve le parc Kentucky Horse. ,1,Dites,dites,VERB,_,Mood=Imp|VerbForm=Fin,0,root,_,SpaceAfter=No,-1
-FQB_TREC-fr-577,Pouvez-vous me ,nommer," un horloger de Londres, en Angleterre ? ",4,nommer,nommer,VERB,_,VerbForm=Inf,1,xcomp,_,_,-1
-FQB_TREC-fr-757,Quelle boisson gazeuse me ,procurerait, la plus grande quantité de caféine ? ,5,procurerait,procurer,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
-FQB_TREC-fr-1858-imp,,Dites,-moi où est située la compagnie DuPont. ,1,Dites,dites,VERB,_,Mood=Imp|VerbForm=Fin,0,root,_,SpaceAfter=No,-1
+sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC
+FQB_CLEF03-118,Quel est le nom de la station de métro où a ,eu, lieu l'attaque au sarin à Tokyo ? ,12,eu,avoir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7,acl:relcl,_,_
+FQB_CLEF03-166,Quel est le mois où est ,entré, en vigueur l'embargo de l'ONU sur le pétrole visant Haïti ? ,7,entré,entrer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4,acl:relcl,_,_
+FQB_Impots-14,Quand et comment va-t-on me ,verser, la prime pour l'emploi ? ,7,verser,verser,VERB,_,VerbForm=Inf,4,xcomp,_,_
+FQB_Impots-39,J'ai égaré mes identifiants me ,permettant," d'accéder à mon espace personnel, comment puis-je les obtenir ? ",7,permettant,permettre,VERB,_,Tense=Pres|VerbForm=Part,5,acl,_,_
+FQB_PoleEmploi-28,Votre employeur ne vous a pas ,proposé, d'adhérer au CSP ? ,7,proposé,proposer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
+FQB_TREC-fr-403-imp,,Dites,-moi près de quelle ville se trouve le parc Kentucky Horse. ,1,Dites,dites,VERB,_,Mood=Imp|VerbForm=Fin,0,root,_,SpaceAfter=No
+FQB_TREC-fr-577,Pouvez-vous me ,nommer," un horloger de Londres, en Angleterre ? ",4,nommer,nommer,VERB,_,VerbForm=Inf,1,xcomp,_,_
+FQB_TREC-fr-757,Quelle boisson gazeuse me ,procurerait, la plus grande quantité de caféine ? ,5,procurerait,procurer,VERB,_,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
+FQB_TREC-fr-1858-imp,,Dites,-moi où est située la compagnie DuPont. ,1,Dites,dites,VERB,_,Mood=Imp|VerbForm=Fin,0,root,_,SpaceAfter=No
