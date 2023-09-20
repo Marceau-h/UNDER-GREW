@@ -53,12 +53,12 @@ def find_by_id(id: str, sents: tuple[ConnluSent], ids_: tuple[str] = ()) -> Conn
 
     try:
         return sents[ids_.index(id)]
-    except ValueError:
+    except ValueError as e:
         print(f"{id = }")
         # print(f"{(set(ids_).difference(set(range(1_000_000)))) = }")
         # print(f"{sents = }")
         print(f"{subfolder.name = }")
-        raise
+        print(e)
 
 
 
@@ -106,7 +106,7 @@ def process_row(args: tuple[pd.Series, list[dict[str, str]]]) -> dict[str, str |
             print(f"{words = }")
             print(f"{pivot = }")
             print(f"{count = }")
-            print(f"{subfolder.name = }")
+            # print(f"{subfolder.name = }")
             raise
 
     pivot_data = sent[token_nb]
