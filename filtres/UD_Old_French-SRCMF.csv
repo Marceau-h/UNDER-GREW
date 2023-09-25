@@ -1,12 +1,12 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,30052.0,30052.0,100.0,100.0,
-no_obj,6217,6217,20.69,20.69,A halte voiz prist li pedra a ;;crïer;; : 
-in_both,27991,5688,93.14,18.93,Son seignor a mort li ;;navrai;; 
-one_percent,23844,4848,79.34,16.13,"Puis n'a garde de nule chose Cil qui l'anel an son doi ;;a;;, "
+no_obj,6217,6217,20.69,20.69,« Paien ;;unt;; grant esforz ; 
+in_both,27991,5688,93.14,18.93,Et nus cristauz ne nule glace N'est si clere ne si ;;polie;;. 
+one_percent,23844,4848,79.34,16.13,"Messire Yvains maintenant monte, Qu'il vangera, s'il puet, la honte Son cosin einz que il ;;retort;;. "
 out_idiom,30052.0,4848.0,100.0,16.13,
-something,27701,4090,92.18,13.61,"S'ot pres de.ii. espanz de lé, Oroilles mossues et granz Autiex com a uns olifanz, Les sorcix granz et le vis plat, Ialz de çuete et nes de chat, Boche fandue come lous, Danz de sengler aguz et rous, Barbe rosse, grenons tortiz, Et le manton aers au piz, Longue eschine ;;torte;; et boçue. "
+something,27701,4090,92.18,13.61,"Le grant serpent ;;cresté;; ocis, Par qoi ele me fu donee. "
 not_fixed,30052.0,4090.0,100.0,13.61,
-too_close,6562,577,21.84,1.92,et quant il le voit ;;atendant;; devant la porte si li dist : 
-five_or_more,26302,577,87.52,1.92,"Et neporquant bien vos promet Que, se Dex de mort vos ;;desfant;;, Nus essoines ne vos atant Tant con vos sovanra de moi. "
+too_close,6554,577,21.81,1.92,"E li Hebreu ki le secunt jur devant é le tierz se furent de Israel ;;partiz;; é as Philistiens se furent pris é ces ki de poür se furent muschiez, quant virent que li Philistien fuirent, as lurs s'acumpaignierent "
+five_or_more,26302,577,87.52,1.92,Plaindre se doit qui est ;;batuz;; ; 
 no_pass,30052.0,577.0,100.0,1.92,
-no_pron,29012,571,96.54,1.9,kar il n'est pas huem ki de sun fait se ;;repente;;. » 
+no_pron,29012,571,96.54,1.9,"Mes de ce pas tant ne s'esmaie Con de son lyon, qui se ;;dialt;;. "

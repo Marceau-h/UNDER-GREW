@@ -49,6 +49,9 @@ def dist_name(right: str, left: str) -> int:
 for subfolder in tqdm(list(ud_dir.iterdir())):
     print(f"{subfolder.name}")
 
+    if subfolder.name == "WAC":
+        continue
+
     if not subfolder.is_dir():
         print(f"{subfolder.name} is not a folder")
         continue

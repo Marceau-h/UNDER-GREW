@@ -1,12 +1,12 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,4417.0,4417.0,100.0,100.0,
-no_obj,938,938,21.24,21.24,et on était ;;monté;; à l'étage. 
-in_both,3384,694,76.61,15.71,"et du coup, bah, on s'est grave ;;rapproché;;. "
-one_percent,2456,502,55.6,11.37,et comment vous vous vous ;;communiquez;; euh toutes les deux? 
-out_idiom,4322,466,97.85,10.55,"donc, après, on, on est ;;partie;;, s~, se, euh, recoucher, en espérant que il se passe rien. "
-something,4073,411,92.21,9.3,"donc, euh, tout se ;;passe;; bien. "
-not_fixed,4322,411,97.85,9.3,"et euh, du coup, je fais tiens et tout mais je savais pas qu'est-ce qu'il se ;;passait;;. "
-too_close,1328,84,30.07,1.9,"et je ;;sais;; que je t'ai vu à la porte, euh, sur le côté à droite. "
-five_or_more,2758,84,62.44,1.9,"du coup, je l'ai ;;réconforté;;. "
-no_pass,4417.0,84.0,100.0,1.9,
-no_pron,4269,82,96.65,1.86,tout se ;;passe;; bien. 
+no_obj,938,938,21.24,21.24,"je fais mes séances de sport, et en sortant de la salle, je me rends compte que, devant la salle, je me ;;rends;; compte qu'il y a un sans-abri qui est là, tous les jours, à la même heure. "
+in_both,3384,694,76.61,15.71,"donc, euh non j~, non, vraiment, les gens je les ;;repère;; pas. "
+one_percent,2456,502,55.6,11.37,"j'ai essayé de, de la ;;chercher;; en nous, en fait. "
+out_idiom,4322,466,97.85,10.55,et du coup ceux qui étaient à l'arrière de la voiture ils se sentaient un peu ;;observés;;. 
+something,4073,411,92.21,9.3,"et, donc, du coup, il disait aux , à ses fans de, euh, bah, de, du coup, d'enregistrer une vidéo en train de danser un peu active et, du coup, je t'ai dit allez faut le faire, faut le ;;faire;;, faut le faire. "
+not_fixed,4322,411,97.85,9.3,"le truc il y avait d'un côté il y avait une euh, une voie rapide, de l'autre côté il y avait une autre voie rapide, à côté d'un rond-point, et il y ;;avait;; la station service. "
+too_close,1307,83,29.59,1.88,ah non il y ;;avait;; le père d'Alex aussi. 
+five_or_more,2758,83,62.44,1.88,"et, et là, et ben, il ;;fallait;; donc classer les écoles, un peu comme dans APB pour, euh, le bac, fallait classer les écoles. "
+no_pass,4417.0,83.0,100.0,1.88,
+no_pron,4269,81,96.65,1.83,"donc euh, ouais, il se ;;méfie;;. "

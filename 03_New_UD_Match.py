@@ -17,6 +17,13 @@ exports_dir: Path
 exports_extended_dir: Path
 
 
+def try_int(s: str) -> int | str:
+    try:
+        return int(s)
+    except ValueError:
+        return s
+
+
 def conllu_to_tuple(conllu: str) -> tuple[tuple[str]]:
     return tuple(tuple(l.split("\t")) for l in conllu.split("\n") if l != "" and not l.startswith("#"))
 
@@ -44,9 +51,6 @@ def dist_name(right: spacy.tokens.doc.Doc, left: spacy.tokens.doc.Doc) -> int:
 def process_row(args: list[pd.Series | list[tuple[str]]]) -> list[str, int]:
     row, sent = args
     id_, sent = next(iter(sent.items()))
-    # print(row)
-    # print(sent)
-    # 1/0
 
     left = row["left_context"]
     left = left if not (isinstance(left, float) or pd.isna(left)) else ""
@@ -87,9 +91,6 @@ def process_row(args: list[pd.Series | list[tuple[str]]]) -> list[str, int]:
         raise
 
     words = [e[1] for e in sent]
-    # print(words)
-    # print(sent)
-    # 1/0
 
     try:
         token_nb = words.index(pivot, count)
@@ -102,7 +103,6 @@ def process_row(args: list[pd.Series | list[tuple[str]]]) -> list[str, int]:
             print(f"{pivot = }")
             print(f"{count = }")
             print(f"{id_ = }")
-            # print(f"{subfolder.name = }")
             raise
 
     pivot_data = sent[token_nb]
@@ -115,7 +115,7 @@ def find_next(file: str | Path, ids: list[str | int]):
     # if isinstance(ids[0], int):
     #     ids = (str(i) for i in ids)
     if isinstance(ids[0], str):
-        ids = (int(i) for i in ids)
+        ids = (try_int(i) for i in ids)
 
     previ = None
     obj = None
@@ -130,11 +130,10 @@ def find_next(file: str | Path, ids: list[str | int]):
 
             while True:
                 obj = f.read()
-                id_ = int(next(iter(obj)))
+                id_ = try_int(next(iter(obj)))
                 if i == id_:
                     yield obj
                     break
-
 
 
 if __name__ == "__main__":
@@ -150,8 +149,8 @@ if __name__ == "__main__":
     for subfolder in (list(ud_dir.iterdir())):
         print(f"{subfolder.name}")
 
-        if not subfolder.name == "WAC":
-            continue
+        # if not subfolder.name == "WAC":
+        #     continue
 
         if not subfolder.is_dir():
             print(f"{subfolder.name} is not a folder")
@@ -174,7 +173,11 @@ if __name__ == "__main__":
 
         sents = (s.split("\n", 1) for s in sents)
 
-        sents = [(int(s[0]), conllu_to_tuple(s[1])) for s in sents]
+        try:
+            sents = [(int(s[0]), conllu_to_tuple(s[1])) for s in sents]
+        except ValueError:
+            sents = [(str(s[0]), conllu_to_tuple(s[1])) for s in sents]
+
         sents = sorted(sents, key=lambda x: x[0])
 
         ids_ = tuple(s[0] for s in sents)
@@ -188,7 +191,13 @@ if __name__ == "__main__":
 
         exports_sub = exports_dir / subfolder.name
 
+        first = False
+
         for export in exports_sub.glob("*.csv"):
+            if first:
+                first = False
+                continue
+
             df = pd.read_csv(export, index_col=None, low_memory=False).fillna("")  # , low_memory=False)
             print(df.memory_usage(deep=True).sum() / (1024 ** 2))
             for column in df:
@@ -199,13 +208,17 @@ if __name__ == "__main__":
 
             print(df.memory_usage(deep=True).sum() / (1024 ** 2))
 
+            # Après le sort, on a les lignes dans l'ordre des sent_id
+            # cependant, le dataframe est indexé par les lignes d'origine.
+            # On reset alors l'index pour avoir un index qui correspond au nouveau tri,
+            # sinon, le join se fait sur les index d'origine, sachant que le nouveau
+            # dataframe `df_pivot` à un index qui correspond au tri des lignes
             df = df.sort_values(by="sent_id")
+            df = df.reset_index(drop=True)
+
             sent_ids = df["sent_id"].to_list()
 
-            # args = ((row, sent) for _, row in df.iterrows() for sent in find_next("sents.jsonl", sent_ids))
-
             args = ((row, sent) for (_, row), sent in zip(df.iterrows(), find_next("sents.jsonl", sent_ids)))
-
 
             pivot_datas = []
             with Pool(cpu_count() - 2) as p:

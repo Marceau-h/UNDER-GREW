@@ -127,7 +127,13 @@ for subdir in main.iterdir():
 
     for_stats["not_fixed"] = stats(df_not_fixed, df_all, df_all_pristine)
 
-    df_too_close = df_all_pristine[df_all_pristine["dist"].apply(lambda x: too_close(x, 3))]
+    try:
+        df_too_close = df_all_pristine[df_all_pristine["dist"].apply(lambda x: too_close(x, 3))]
+    except KeyError:
+        print(subdir)
+        print(file_all)
+        raise
+
     df_all = df_all[df_all["dist"].apply(lambda x: too_close(x, 3))]
 
     for_stats["too_close"] = stats(df_too_close, df_all, df_all_pristine)

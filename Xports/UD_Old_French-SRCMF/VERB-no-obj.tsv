@@ -1312,7 +1312,7 @@ roland-238.new	as les vus 	aquisez	. 	4	aquisez	_	VERB	VERppe	Tense=Past|VerbFor
 11882	Que volentiers m'an repantisse Tot maintenant, se je poïsse, Quant je oi le perron 	crosé	 De l'eve au bacin arosé. 	18	crosé	croser	VERB	VERppe	Tense=Past|VerbForm=Part	17	acl	_	XmlId=w_YvainKu_3055	1
 11882	Que volentiers m'an repantisse Tot maintenant, se je 	poïsse	, Quant je oi le perron crosé De l'eve au bacin arosé. 	11	poïsse	pöoir	VERB	VERcjg	VerbForm=Fin	5	advcl	_	SpaceAfter=No|XmlId=w_YvainKu_3048	1
 11885	Que lors vi le ciel si 	derot	 Que de plus de.xiiii. parz Me feroit es ialz li esparz 	7	derot	derompre	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl	_	XmlId=w_YvainKu_3078	2
-11886	Et les nues tot mesle 	mesle	 Gitoient pluie, noif et gresle. 	5	mesle	mesle_mesle	VERB	VERcjg	VerbForm=Fin	7	advcl	_	XmlId=w_YvainKu_3095	2
+11886	Et les nues tot mesle 	mesle	 Gitoient pluie, noif et gresle. 	5	mesle	mesle_mesle	VERB	VERcjg	VerbForm=Fin	7	advcl	_	XmlId=w_YvainKu_3095	-1
 11886	Et les nues tot 	mesle	 mesle Gitoient pluie, noif et gresle. 	5	mesle	mesle_mesle	VERB	VERcjg	VerbForm=Fin	7	advcl	_	XmlId=w_YvainKu_3095	-1
 11887	Tant fu li tans pesmes et forz Que cent foiz cuidai estre morz Des foudres qu'antor moi cheoient Et des arbres qui 	peceoient	. 	24	peceoient	peçoiier	VERB	VERcjg	VerbForm=Fin	22	acl:relcl	_	SpaceAfter=No|XmlId=w_YvainKu_3127	-1
 11888	Sachiez que mout fui esmaiez, Tant que li tans fu 	rapaiez	. 	12	rapaiez	rapaiier	VERB	VERppe	Tense=Past|VerbForm=Part	5	advcl	_	SpaceAfter=No|XmlId=w_YvainKu_3140	-1
@@ -1855,7 +1855,7 @@ roland-238.new	as les vus 	aquisez	. 	4	aquisez	_	VERB	VERppe	Tense=Past|VerbFor
 13141	Que 	departir	 ne le leira Messire Gauvains d'avoec lui. 	2	departir	departir	VERB	VERinf	VerbForm=Inf	5	xcomp	_	XmlId=w_YvainKu_18747	-1
 13145	Et si le fist tant demorer Que toz li anz fu 	trespassez	 Et de tot l'autre encor assez, Tant que a la miäost vint, Que li rois cort et feste tint. 	12	trespassez	trespasser	VERB	VERppe	Tense=Past|VerbForm=Part	6	advcl	_	XmlId=w_YvainKu_18806	3
 13145	Et si le fist tant 	demorer	 Que toz li anz fu trespassez Et de tot l'autre encor assez, Tant que a la miäost vint, Que li rois cort et feste tint. 	6	demorer	demorer	VERB	VERinf	VerbForm=Inf	4	xcomp	_	XmlId=w_YvainKu_18800	3
-13156	Entr'ax seoit li rois Artus, Quant Yvains tant encomança A panser, que des lors en ça Que a sa dame ot congié pris, Ne fu tant de 	panser	 sorpris Con de celui, 	13	panser	penser	VERB	VERinf	VerbForm=Inf	11	xcomp	_	SpaceAfter=No|XmlId=w_YvainKu_18929	-1
+13156	Entr'ax seoit li rois Artus, Quant Yvains tant encomança A panser, que des lors en ça Que a sa dame ot congié pris, Ne fu tant de 	panser	 sorpris Con de celui, 	13	panser	penser	VERB	VERinf	VerbForm=Inf	11	xcomp	_	SpaceAfter=No|XmlId=w_YvainKu_18929	3
 13156	Entr'ax seoit li rois Artus, Quant Yvains tant encomança A 	panser	, que des lors en ça Que a sa dame ot congié pris, Ne fu tant de panser sorpris Con de celui, 	13	panser	penser	VERB	VERinf	VerbForm=Inf	11	xcomp	_	SpaceAfter=No|XmlId=w_YvainKu_18929	3
 13157	car bien savoit Que covant manti li avoit Et 	trespassez	 estoit li termes. 	10	trespassez	trespasser	VERB	VERppe	Tense=Past|VerbForm=Part	6	conj	_	XmlId=w_YvainKu_18963	1
 13159	Mes honte li feisoit 	tenir	. 	5	tenir	tenir	VERB	VERinf	VerbForm=Inf	4	xcomp	_	SpaceAfter=No|XmlId=w_YvainKu_18979	-1
@@ -3744,7 +3744,7 @@ roland-238.new	as les vus 	aquisez	. 	4	aquisez	_	VERB	VERppe	Tense=Past|VerbFor
 2152	Si cum il 	poet	 a l'arcevesque en vent, 	4	poet	_	VERB	VERcjg	VerbForm=Fin	9	advcl	_	XmlId=w_58_19610	1
 2154	E l'arcevesque l'ad asols e 	seignet	. 	8	seignet	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	conj	_	SpaceAfter=No|XmlId=w_58_19633	-1
 2155	Idunc 	agreget	 le doel e la pitet. 	2	agreget	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_19636	-1
-2158	Pur hanste freindre e pur escuz peceier, Pur orgoillos veintre e esmaier E pur prozdomes tenir e cunseiller E pur glutun veintre e 	esmaier	, En nule tere n'ad meillor chevaler. » 	13	esmaier	_	VERB	VERinf	VerbForm=Inf	11	conj	_	XmlId=w_58_19679	-1
+2158	Pur hanste freindre e pur escuz peceier, Pur orgoillos veintre e esmaier E pur prozdomes tenir e cunseiller E pur glutun veintre e 	esmaier	, En nule tere n'ad meillor chevaler. » 	13	esmaier	_	VERB	VERinf	VerbForm=Inf	11	conj	_	XmlId=w_58_19679	0
 2158	Pur hanste freindre e pur escuz peceier, Pur orgoillos veintre e esmaier E pur prozdomes tenir e 	cunseiller	 E pur glutun veintre e esmaier, En nule tere n'ad meillor chevaler. » 	19	cunseiller	_	VERB	VERinf	VerbForm=Inf	17	conj	_	XmlId=w_58_19685	0
 2158	Pur hanste freindre e pur escuz peceier, Pur orgoillos veintre e 	esmaier	 E pur prozdomes tenir e cunseiller E pur glutun veintre e esmaier, En nule tere n'ad meillor chevaler. » 	13	esmaier	_	VERB	VERinf	VerbForm=Inf	11	conj	_	XmlId=w_58_19679	0
 2159	Li quens Rollant, quant il veit 	mort	 ses pers E Oliver, qu'il tant poeit amer, Tendrur en out, 	8	mort	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	acl	_	XmlId=w_58_19709	-1

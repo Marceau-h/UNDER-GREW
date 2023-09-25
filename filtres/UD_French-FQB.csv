@@ -1,12 +1,12 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,1890.0,1890.0,100.0,100.0,
-no_obj,208,208,11.01,11.01,Comment Teddy Roosevelt était-il ;;lié;; à FDR ? 
-in_both,464,74,24.55,3.92,Combien de chiens faut-il pour ;;tirer;; un traîneau dans l'Iditarod ? 
-one_percent,316,29,16.72,1.53,Pourquoi les autruches ne ;;peuvent;;-elles pas voler ? 
+no_obj,208,208,11.01,11.01,Michael Jordan ;;portait;; quel numéro ? 
+in_both,464,74,24.55,3.92,"Pouvez-vous me ;;nommer;; un horloger de Londres, en Angleterre ? "
+one_percent,316,29,16.72,1.53,Qui fut le premier Américain à ;;marcher;; dans l'espace ? 
 out_idiom,1890.0,29.0,100.0,1.53,
-something,1832,28,96.93,1.48,Qui a construit le premier avion pouvant ;;voler;; ? 
-not_fixed,1868,28,98.84,1.48,"Vous avez remboursé un trop perçu, ;;devez;;-vous le déduire ? "
-too_close,660,4,34.92,0.21,Quel était le nom du premier enfant de parents anglais à être ;;né;; en Amérique ? 
-five_or_more,175,3,9.26,0.16,Combien de chiens ;;faut;;-il pour tirer un traîneau dans l'Iditarod ? 
-no_pass,1643,0,86.93,0.0,Combien de prisonniers américains ont-ils été ;;libérés;; par le Viêt-nam du Nord en 1973 ? 
-no_pron,1755,0,92.86,0.0,Pendant quelle saison se ;;produisent;; la majorité des orages électriques ? 
+something,1832,28,96.93,1.48,Quel roi s'est vu ;;forcé;; d'accepter la Magna Carta ? 
+not_fixed,1868,28,98.84,1.48,à ;;partir;; de quand puis-je bénéficier d'une aide au logement ? 
+too_close,660,4,34.92,0.21,Qui a été ;;élu;; gouverneur de la Californie ? 
+five_or_more,175,3,9.26,0.16,Que puis-je ;;déduire;; de mes revenus au titres des pensions alimentaires versées à mes enfants ? 
+no_pass,1643,0,86.93,0.0,"Où est ;;situé;; le """"Mall of the America"""" ? "
+no_pron,1755,0,92.86,0.0,Où se ;;trouvait;; la prison Andersonville ? 

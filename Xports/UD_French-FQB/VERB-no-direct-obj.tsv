@@ -232,7 +232,7 @@ FQB_Impots-59	Que 	dois	-je faire ? 	2	dois	devoir	VERB	_	Mood=Ind|Number=Sing|P
 FQB_Impots-60	Je n'ai pas de téléviseur mais un ordinateur avec une carte télévision, 	dois	-je payer la contribution à l'audiovisuel public ? 	15	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No	2
 FQB_Impots-61	Je n'ai pas de téléviseur, que 	dois	-je faire pour le signaler et pour ne pas payer de contribution à l'audiovisuel public ? 	9	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No	2
 FQB_Impots-63	Combien 	puis	-je donner à mes enfants et à mes petits enfants sans payer de droits ? 	2	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No	-1
-FQB_Impots-65	Je vais vendre une maison, 	vais	-je payer un impôt ? 	2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	1
+FQB_Impots-65	Je vais vendre une maison, 	vais	-je payer un impôt ? 	2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	-1
 FQB_Impots-65	Je 	vais	 vendre une maison, vais-je payer un impôt ? 	2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	-1
 FQB_Impots-66	J'ai un impôt à payer sur une plus-value immobilière, puis-je déduire les travaux 	effectués	 dans ce logement ? 	17	effectués	effectuer	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	acl	_	_	1
 FQB_Impots-66	J'ai un impôt à payer sur une plus-value immobilière, 	puis	-je déduire les travaux effectués dans ce logement ? 	12	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	SpaceAfter=No	1

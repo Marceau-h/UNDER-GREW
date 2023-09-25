@@ -1,209 +1,209 @@
-sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC
-FQB_CAF-6,à ,partir, de quand puis-je bénéficier d'une aide au logement ? ,2,partir,_,VERB,_,VerbForm=Inf,1,fixed,_,_
-FQB_CAF-8,à ,partir, de quand puis-je bénéficier d'une aide au logement ? ,2,partir,_,VERB,_,VerbForm=Inf,1,fixed,_,_
-FQB_CAF-11,Je ,déménage,", vais-je continuer à toucher le même montant d'aide au logement ? ",2,déménage,déménager,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
-FQB_CAF-12,"Mon loyer augmente, mon aide au logement va-t-elle ",augmenter, aussi ? ,12,augmenter,augmenter,VERB,_,VerbForm=Inf,10,xcomp,_,_
-FQB_CAF-12,Mon loyer ,augmente,", mon aide au logement va-t-elle augmenter aussi ? ",3,augmente,augmenter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
-FQB_CAF-14,"Ma situation familiale ou professionnelle change, est-ce que mon aide au logement sera ",modifiée, ? ,17,modifiée,modifier,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,8,ccomp,_,_
-FQB_CAF-14,Ma situation familiale ou professionnelle ,change,", est-ce que mon aide au logement sera modifiée ? ",6,change,changer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
-FQB_CAF-21,Quelles démarches dois-je effectuer pour demander et ,recevoir, une aide au logement ? ,9,recevoir,recevoir,VERB,_,VerbForm=Inf,7,conj,_,_
-FQB_CAF-25,à ,partir, de quand puis-je bénéficier d'une aide au logement ? ,2,partir,_,VERB,_,VerbForm=Inf,1,fixed,_,_
-FQB_CAF-28,Comment est ,calculée, mon aide au logement si je vis en couple ? ,3,calculée,calculer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_CLEF03-2,Quand le cardinal Juan Jesus Posadas Ocampo est-il ,mort, ? ,10,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_CLEF03-9,Où Richard Zwetchkenbaum ,travaille,-t-il ? ,4,travaille,travailler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
-FQB_CLEF03-25,Quand le mur de Berlin a-t-il été ,construit, ? ,9,construit,construire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_CLEF03-40,Où est ,né, Guillermo Ortiz ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_CLEF03-49,Où Raymond Pettibon ,travaille,-t-il ? ,4,travaille,travailler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
-FQB_CLEF03-74,Comment Vitas Gerulaitis est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_CLEF03-78,Où le directeur Michelangelo Antonioni est-il ,né, ? ,8,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_CLEF03-83,Quelle est l'abréviation ,connue, du fonds des Nations Unis consacré aux enfants ? ,5,connue,connaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4,acl,_,_
-FQB_CLEF03-86,Où le plan de Mulberry a-t-il été ,stipulé, ? ,9,stipulé,stipuler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_CLEF03-114,Où Irving Mitchell Felt est-il ,décédé, ? ,7,décédé,décéder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_CLEF03-138,Où la chanteuse Julie Kelly ,enseigne,-t-elle ? ,6,enseigne,enseigner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
-FQB_CLEF03-143,Quand Kellie O'Sullivan a-t-elle été ,kidnappée, ? ,8,kidnappée,kidnapper,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_CLEF03-178,Quand Shapour Bakhtiar est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_CLEF03-182,"Quand le """"Pike"""" a-t-il ",fermé, ? ,8,fermé,fermer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_INSEE-1,Quand l'agent recenseur ,passe,-t-il ? ,5,passe,passer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
-FQB_INSEE-9,Est-il obligatoire de ,répondre, ? ,5,répondre,répondre,VERB,_,VerbForm=Inf,3,xcomp,_,_
-FQB_Impots-3,Je constate une erreur dans le calcul de mon impôt sur le revenu : comment procéder pour que celle-ci soit ,corrigée, ? ,21,corrigée,corriger,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,16,advcl,_,_
-FQB_Impots-3,Je constate une erreur dans le calcul de mon impôt sur le revenu : comment ,procéder, pour que celle-ci soit corrigée ? ,16,procéder,procéder,VERB,_,VerbForm=Inf,2,advcl,_,_
-FQB_Impots-6,"Je veux me mensualiser, comment dois-je ",faire, ? ,9,faire,faire,VERB,_,VerbForm=Inf,7,xcomp,_,_
-FQB_Impots-6,Je veux me ,mensualiser,", comment dois-je faire ? ",4,mensualiser,mensualiser,VERB,_,VerbForm=Inf,2,xcomp,_,SpaceAfter=No
-FQB_Impots-9,Peut-on se ,mensualiser, pour régler ses contributions sociales ? ,4,mensualiser,mensualiser,VERB,_,VerbForm=Inf,1,xcomp,_,_
-FQB_Impots-15,"Je viens de déménager et, je n'ai pas reçu mon chèque pour la prime pour l'emploi, comment ",faire, pour l'obtenir ? ,22,faire,faire,VERB,_,VerbForm=Inf,11,advcl,_,_
-FQB_Impots-15,Je viens de ,déménager," et, je n'ai pas reçu mon chèque pour la prime pour l'emploi, comment faire pour l'obtenir ? ",4,déménager,déménager,VERB,_,VerbForm=Inf,2,xcomp,_,_
-FQB_Impots-20,Je viens de ,déménager,", quelles démarches dois-je effectuer auprès des services fiscaux ? ",4,déménager,déménager,VERB,_,VerbForm=Inf,2,xcomp,_,SpaceAfter=No
-FQB_Impots-25,Comment déclarer les revenus provenant de la location d'un logement ,meublé, ? ,12,meublé,meubler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11,acl,_,_
-FQB_Impots-29,"Des travaux ont été réalisé dans ma résidence principale, je sais que le crédit d'impôt est ",limité,", quel est le montant maximum ? ",19,limité,limiter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,12,ccomp,_,SpaceAfter=No
-FQB_Impots-40,Comment consulter et ,imprimer, les avis de taxe foncière ou de taxe d'habitation de toutes mes résidences ? ,4,imprimer,imprimer,VERB,_,VerbForm=Inf,2,conj,_,_
-FQB_Impots-68,Que faire si vous êtes ,exonéré, ? ,6,exonéré,exonérer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,2,advcl,_,_
-FQB_PoleEmploi-11,Vous avez remboursé un trop ,perçu,", devez-vous le déduire ? ",6,perçu,_,VERB,_,Tense=Past|VerbForm=Part,5,fixed,_,SpaceAfter=No
-FQB_PoleEmploi-26,Pourquoi vos codes ne sont-ils pas ,reconnus, ? ,8,reconnus,reconnaître,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-15,Quand fut ,construite, la voie ferrée du train léger Docklands de Londres ? ,3,construite,construire,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-31,Où est ,né, Ulysses S. Grant ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-34,Où est ,enterrée, l'actrice Marion Davies ? ,3,enterrée,enterrer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-38,Où est ,né, George Washington ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-54,Quand Nixon est-il ,mort, ? ,5,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-57,Quel est l'acronyme du système qui évalue l'efficacité de l'air ,climatisé, ? ,15,climatisé,climatiser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14,acl,_,_
-FQB_TREC-fr-72,Quand la version originale de l'émission Howdy Doody a-t-elle cessé d'être ,diffusée, ? ,15,diffusée,diffuser,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,12,xcomp,_,_
-FQB_TREC-fr-85,Quel ancien membre du Ku Klux Klan a remporté un poste ,élu, aux États-Unis ? ,13,élu,élire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12,acl,_,_
-FQB_TREC-fr-103,Combien de gens sont morts lorsque l'Estonia a ,coulé, en 1994 ? ,10,coulé,couler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5,advcl,_,_
-FQB_TREC-fr-109,Où Buzz Aldrin veut-il construire une station spatiale permanente et ,habitée, ? ,12,habitée,habiter,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8,conj,_,_
-FQB_TREC-fr-114,Le nouveau matériau de carbone ,vitrifié, inventé par l'Institut de Tokyo pour la technologie est combien de fois plus résistant que celui fait de cellulose ? ,6,vitrifié,vitrifier,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5,acl,_,_
-FQB_TREC-fr-130,Quand le Yémen a-t-il été ,réunifié, ? ,7,réunifié,réunifier,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-133,"Comment nomme-t-on la technique par laquelle l'on sème certaines plantes dans un sol contaminé aux métaux toxiques afin que ces plantes ingèrent ces métaux, qu'elles soient ",récoltées,", puis que les métaux soient recouvrés à fins de recyclage ? ",32,récoltées,récolter,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,25,conj,_,SpaceAfter=No
-FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y compris chez les êtres humains, par lequel des cellules sont programmées à se """"",suicider, ? ,28,suicider,suicider,VERB,_,VerbForm=Inf,24,advcl,_,SpaceAfter=No
-FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y ",compris," chez les êtres humains, par lequel des cellules sont programmées à se """"suicider"""" ? ",13,compris,_,VERB,_,Tense=Past|VerbForm=Part,12,fixed,_,_
-FQB_TREC-fr-151,Où est ,mort, Dylan Thomas ? ,3,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-174,Quand Jaco Pastorius est-il ,décédé, ? ,6,décédé,décéder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-175,Quand Beethoven est-il ,décédé, ? ,5,décédé,décéder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-184,Quand la Reine Victoria est-elle ,née, ? ,7,née,naître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-185,Quand s'est ,déroulée, la bataille de la Somme ? ,4,déroulée,dérouler,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-187,Où a été ,assassiné, Lincoln ? ,4,assassiné,assassiner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-188,Quand l'amendement accordant le suffrage aux femmes a-t-il été ,ratifié, ? ,13,ratifié,ratifier,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-190,Où est se ,trouve, South Bend ? ,4,trouve,trouver,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2,ccomp,_,_
-FQB_TREC-fr-191,Où est ,né, Harry Truman ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-198,Comment est ,mort, Socrate ? ,3,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-234,Qui a construit le premier avion pouvant ,voler, ? ,8,voler,voler,VERB,_,VerbForm=Inf,7,xcomp,_,_
-FQB_TREC-fr-240,Il y a combien d'années que le vaisseau Titanic a ,coulé, ? ,12,coulé,couler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,1,acl,_,_
-FQB_TREC-fr-240,Il y ,a, combien d'années que le vaisseau Titanic a coulé ? ,3,a,_,VERB,_,Mood=Ind|VerbForm=Fin,1,fixed,_,_
-FQB_TREC-fr-252,Quand fut ,inventée, la première toilette à chasse ? ,3,inventée,inventer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-262,Quel est le nom de la dynastie japonaise ayant ,régné, le plus longtemps ? ,10,régné,régner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7,acl,_,_
-FQB_TREC-fr-263,Quand est ,né, Babe Ruth ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-266,Où est ,né, Pythagore ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-273,Qui fut le tout premier président américain à ,démissionner, ? ,9,démissionner,démissionner,VERB,_,VerbForm=Inf,6,acl,_,_
-FQB_TREC-fr-285,Quand la première voie ferrée reliant la côte est à la côte ouest fut-elle ,complétée, ? ,16,complétée,compléter,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-289,John C. Calhoun et Henry Clay sont ,connus, comme étant qui ? ,8,connus,connaître,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-291,Quand la période carolingienne ,débuta,-t-elle ? ,5,débuta,débuter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0,root,_,SpaceAfter=No
-FQB_TREC-fr-315,Pourquoi les autruches ne peuvent-elles pas ,voler, ? ,8,voler,voler,VERB,_,VerbForm=Inf,5,xcomp,_,_
-FQB_TREC-fr-321,Où fut ,fondée, la compagnie De Beers ? ,3,fondée,fonder,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-330,"Quand le """"Slinky"""" fut-il ",inventé, ? ,8,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-336,Quand la compagnie Microsoft fut-elle ,établie, ? ,7,établie,établir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-350,Combien de violons stradivarius furent ,fabriqués, ? ,6,fabriqués,fabriquer,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-382,Quand ,vécu, Mahomet ? ,2,vécu,vivre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-390,Où est ,né, John Adams ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-422,Quand la princesse Diana et le prince Charles se sont-ils ,mariés, ? ,12,mariés,marier,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-435,Comment Bob Marley est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-440,Où est ,né, Poe ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-441,Quel roi s'est ,vu, forcé d'accepter la Magna Carta ? ,5,vu,voir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,ccomp,_,_
-FQB_TREC-fr-459,Quand John D. Rockefeller est-il ,né, ? ,7,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-472,Quand la Guerre civile américaine s'est-elle ,terminée, ? ,9,terminée,terminer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-507,Quand a ,commencé, la loterie californienne ? ,3,commencé,commencer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-509,Quand Beethoven est-il ,né, ? ,5,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-520,Quand fut ,produite, la première Barbie ? ,3,produite,produire,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-524,Où s'est premièrement ,développé, le wicca ? ,5,développé,développer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-527,Où a été ,établie, la NFL ? ,4,établie,établir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-538,Quand fut ,inventé, le code à barres ? ,3,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-541,Quelle était la raison d',être, du projet Manhattan ? ,6,être,être,VERB,_,VerbForm=Inf,4,acl,_,_
-FQB_TREC-fr-547,Quand fut ,construit, le barrage Hoover ? ,3,construit,construire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-551,Quel est le nom de la peinture de Michel-Ange qui représente deux mains dont les doigts se ,touchent, ? ,18,touchent,toucher,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,13,acl:relcl,_,_
-FQB_TREC-fr-556,Combien de copies d'un album doivent être ,vendues, afin que celui-ci soit un disque d'or ? ,9,vendues,vendre,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,7,xcomp,_,_
-FQB_TREC-fr-588,Quand a ,commencé, la Première Guerre mondiale ? ,3,commencé,commencer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-593,Quand a été ,réalisé, le film Caligula ? ,4,réalisé,réaliser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-601,Quand ,vécut, l'homme de Néanderthal ? ,2,vécut,vivre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0,root,_,_
-FQB_TREC-fr-608,Quand Nostradamus est-il ,né, ? ,5,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-612,Qui a créé la bande ,dessinée, intitulée Garfield ? ,6,dessinée,dessiner,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5,acl,_,_
-FQB_TREC-fr-615,Quel jour est ,connu," comme étant le """"jour national de la prière"""" ? ",4,connu,connaître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-633,Combien de temps ,vit, le bernard-l'hermite ? ,4,vit,vivre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
-FQB_TREC-fr-640,Quand le premier Wall Street Journal fut-il ,publié, ? ,9,publié,publier,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-652,Où est ,née, Tesla ? ,3,née,naître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-684,Quand l'art de la courte-pointe a-t-il ,commencé, ? ,9,commencé,commencer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-705,L'aspartame est aussi ,connu, comme étant quoi ? ,5,connu,connaître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-716,Qu'est-ce qui vaut la peine d'être ,vu, à Reims ? ,10,vu,voir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,5,xcomp,_,_
-FQB_TREC-fr-752,Comment la thalassémie est-elle ,définie, ? ,6,définie,définir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-794,Quand Dick Clark est-il ,né, ? ,6,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-812,"Par qui fut inventé le """"Silly Putty"""" fut ",inventé, ? ,4,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-814,Quand fut ,érigée, la porte de Brandebourg de Berlin ? ,3,érigée,ériger,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-929,Quel âge avait Elvis Presley lorsqu'il est ,mort, ? ,9,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3,advcl,_,_
-FQB_TREC-fr-934,"Le tissu nommé """"lin"""" est fabriqué à ",partir, de quelle plante ? ,10,partir,_,VERB,_,VerbForm=Inf,9,fixed,_,_
-FQB_TREC-fr-940,Combien de temps Rip Van Winkle a-t-il ,dormi, ? ,9,dormi,dormir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-950,Quand Elvis Presley est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-978,Quand Rosa Parks est-elle ,née, ? ,6,née,naître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1002,Quand les jumeaux de William Shakespeare sont-ils ,nés, ? ,9,nés,naître,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1010,Quand s'est ,écrasé, le Hindenberg ? ,4,écrasé,écraser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1019,Quel président n'était pas ,marié, ? ,6,marié,marier,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1047,Quand l'Algérie a-t-elle été ,colonisée, ? ,7,colonisée,coloniser,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1060,Quand Lyndon B. Johnson est-il ,né, ? ,7,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1071,Quand a été ,émis, le premier timbre-poste ? ,4,émis,émettre,VERB,_,Gender=Masc|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1082,Où est ,mort, Howard Hughes ? ,3,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1087,Quand a ,ouvert, le premier magasin Wal-Mart ? ,3,ouvert,ouvrir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1139,Quel est le plus long pont ,suspendu, des États-Unis ? ,7,suspendu,suspendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,acl,_,_
-FQB_TREC-fr-1146,Qu'est-ce qu'Edward Binney et Howard Smith ,on, inventé en 1903 ? ,10,on,on,VERB,_,Mood=Ind|VerbForm=Fin,11,ccomp,_,_
-FQB_TREC-fr-1149,Quelle planète est ,connue," comme étant la planète """"rouge"""" ? ",4,connue,connaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1163,Comment Janice Joplin est-elle ,morte, ? ,6,morte,mourir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1178,Où est ,enterré, Hitler ? ,3,enterré,enterrer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1198,Quand Hiroshima a-t-elle été ,bombardée, ? ,6,bombardée,bombarder,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1200,Quelle fut la première femme ,tuée, pendant la Guerre du Viêtnam ? ,6,tuée,tuer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5,acl,_,_
-FQB_TREC-fr-1215,Quand le Président Kennedy a-t-il été ,assassiné, ? ,8,assassiné,assassiner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1222,Quand Abraham Lincoln est-il ,né, ? ,6,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1279,Quand Ulysses S. Grant est-il ,né, ? ,7,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1282,Qu',est, que le propylène de glycol ? ,2,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
-FQB_TREC-fr-1304,Quel président américain est apparu dans l'émission Laugh-In (,Rions,) ? ,11,Rions,rire,VERB,_,Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,9,dep,_,SpaceAfter=No
-FQB_TREC-fr-1347,Quand Thomas Jefferson est-il ,né, ? ,6,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1349,Quand le téléphone fut-il ,inventé, ? ,6,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1363,Qu'est-ce que l'intérêt ,composé, ? ,7,composé,composer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,acl,_,_
-FQB_TREC-fr-1385,Qu',est, que la biodiversité ? ,2,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_
-FQB_TREC-fr-1400,Quand le télégraphe a-t-il été ,inventé, ? ,7,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1403,Quand le moteur à combustion interne a-t-il été ,inventé, ? ,10,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1406,Quand l'histoire de Roméo et Juliette se ,passe,-t-elle ? ,9,passe,passer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No
-FQB_TREC-fr-1416,Quand fut ,fondé, Wendy 's ? ,3,fondé,fonder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1418,Quand s'est ,tenu, le procès Rosenberg ? ,4,tenu,tenir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1430,Quel âge devez-vous avoir pour vous ,marier, en Caroline du Sud ? ,8,marier,marier,VERB,_,VerbForm=Inf,3,advcl,_,_
-FQB_TREC-fr-1437,Combien d'États étaient toujours ,unis, après que les États du Sud aient fait sécession ? ,6,unis,unir,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1443,Quand Bob Marley est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1446,Comment est ,mort, le Mahatma Gandhi ? ,3,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1451,Où fut ,construit, le premier McDonald ? ,3,construit,construire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1453,Où fut ,ouvert, le premier magasin J. C. Penney ? ,3,ouvert,ouvrir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1470,Quand le Président Herbert Hoover est-il ,décédé, ? ,8,décédé,décéder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1473,Quand Lyndon B. Johnson est-il ,né, ? ,7,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1493,Quand est ,né, Davy Crockett ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1495,Comment la mère de Molly Shannon est-elle ,morte, ? ,9,morte,mourir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1519,Où est ,né, Hans Christian Anderson ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1526,Quelle ville est ,reconnue, comme étant la ville de l'amour fraternel ? ,4,reconnue,reconnaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1527,Quand a ,débuté, la guerre des Six Jours ? ,3,débuté,débuter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1561,Quand le premier brevet pour le cornet à crème glacée a-t-il été ,déposé, ? ,14,déposé,déposer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1562,Quand la guerre de Sécession américaine a-t-elle ,débuté, ? ,9,débuté,débuter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1570,Quel est l'âge légal pour ,voter, en Argentine ? ,7,voter,voter,VERB,_,VerbForm=Inf,1,advcl,_,_
-FQB_TREC-fr-1586,Quand le pont Golden Gate a-t-il été ,achevé, ? ,9,achevé,achever,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1588,Quand Apollo 11 fut-il ,lancé, ? ,6,lancé,lancer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1592,Quand le Reichstag a-t-il ,brûlé, ? ,6,brûlé,brûler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1601,Quand Einstein est-il ,décédé, ? ,5,décédé,décéder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1602,Qui détient le record de l'artiste enfant le mieux ,payé, ? ,11,payé,payer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10,acl,_,_
-FQB_TREC-fr-1618,Où est ,produite, la bile ? ,3,produite,produire,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1629,Où est ,enterrée, Mae West ? ,3,enterrée,enterrer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1630,Quand le chien a-t-il été ,domestiqué, ? ,7,domestiqué,domestiquer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1636,Quand la bataille de Chancellorsville s'est-elle ,déroulée, ? ,9,déroulée,dérouler,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1646,Quand la première bombe atomique fut-elle ,larguée, ? ,8,larguée,larguer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1655,Où est ,né, Abraham Lincoln ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1659,Où est ,né, Bob Dylan ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1677,Comment est ,mort, Micky Mantle ? ,3,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1681,Quand Houdini est-il ,décédé, ? ,5,décédé,décéder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1682,Quand Martin Luther King Junior est-il ,né, ? ,8,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1691,"Où le film """"Somewhere in Time"""" a-t-il été ",tourné, ? ,12,tourné,tourner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1693,Quand Jackie Robinson est-il ,né, ? ,6,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1696,Quand le crayon a-t-il été ,inventé, ? ,7,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1698,Quand Jules César est-il ,né, ? ,6,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1701,Où a été ,enterré, le Président Lincoln ? ,4,enterré,enterrer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1711,Quand le premier avion à réaction fut-il ,inventé, ? ,9,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1718,Quand la maison blanche fut-elle ,construite, ? ,7,construite,construire,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1749,Quand Spoutnik fut-il ,lancé, ? ,5,lancé,lancer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1754,Quand s'est ,déroulée, la guerre du Golfe ? ,4,déroulée,dérouler,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1760,Où est ,né, C. S. Lewis ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1767,Quand a été ,fabriquée, la première Ford Mustang ? ,4,fabriquée,fabriquer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1778,Quand Walt Disney est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1797,Comment Adolf Hitler est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1810,Où sont ,conservés, les bijoux de la couronne royale britannique ? ,3,conservés,conserver,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1811,Quand la pénicilline fut-elle ,utilisée, pour la première fois ? ,6,utilisée,utiliser,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1818,Où Golda Meir a-t-elle ,grandi, ? ,6,grandi,grandir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1819,Quand Marilyn Monroe s'est-elle ,suicidée, ? ,7,suicidée,suicider,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1824,Le vaisseau Magellan a permis aux scientifiques de faire des recherches ,approfondies, sur quelle planète ? ,13,approfondies,approfondir,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,12,acl,_,_
-FQB_TREC-fr-1827,Où s'est ,déroulée, la bataille de l'Alamo ? ,4,déroulée,dérouler,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1835,Qui était l'ennemi ,juré, de Sherlock Holmes ? ,5,juré,jurer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4,acl,_,_
-FQB_TREC-fr-1856,Quelle ville est ,connue, comme étant la capitale du caoutchouc ? ,4,connue,connaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_TREC-fr-1861,Où est ,né, Bill Gates ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1866,Quelle partie de l'oeil continue à ,grandir, au cours de la vie d'une personne ? ,8,grandir,grandir,VERB,_,VerbForm=Inf,6,xcomp,_,_
-FQB_TREC-fr-1872,Comment est ,morte, Eva Peron ? ,3,morte,mourir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1880,Quand est ,né, le roi Louis XIV ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_
-FQB_TREC-fr-1883,Quelle portion de la couche d'ozone est ,appauvrie, ? ,9,appauvrie,appauvrir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_UNESCO-12,Comment ce Fonds est-il ,utilisé, ? ,6,utilisé,utiliser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_
-FQB_UNESCO-15,Comment puis-je obtenir/,utiliser, les photos de sites du patrimoine mondial ? ,6,utiliser,utiliser,VERB,_,VerbForm=Inf,4,conj,_,_
+sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+FQB_CAF-11,Je ,déménage,", vais-je continuer à toucher le même montant d'aide au logement ? ",2,déménage,déménager,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No,-1
+FQB_CAF-12,"Mon loyer augmente, mon aide au logement va-t-elle ",augmenter, aussi ? ,12,augmenter,augmenter,VERB,_,VerbForm=Inf,10,xcomp,_,_,-1
+FQB_CAF-12,Mon loyer ,augmente,", mon aide au logement va-t-elle augmenter aussi ? ",3,augmente,augmenter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No,-1
+FQB_CAF-14,"Ma situation familiale ou professionnelle change, est-ce que mon aide au logement sera ",modifiée, ? ,17,modifiée,modifier,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,8,ccomp,_,_,-1
+FQB_CAF-14,Ma situation familiale ou professionnelle ,change,", est-ce que mon aide au logement sera modifiée ? ",6,change,changer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No,1
+FQB_CAF-21,Quelles démarches dois-je effectuer pour demander et ,recevoir, une aide au logement ? ,9,recevoir,recevoir,VERB,_,VerbForm=Inf,7,conj,_,_,1
+FQB_CAF-25,à ,partir, de quand puis-je bénéficier d'une aide au logement ? ,2,partir,_,VERB,_,VerbForm=Inf,1,fixed,_,_,-1
+FQB_CAF-28,Comment est ,calculée, mon aide au logement si je vis en couple ? ,3,calculée,calculer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_CAF-6,à ,partir, de quand puis-je bénéficier d'une aide au logement ? ,2,partir,_,VERB,_,VerbForm=Inf,1,fixed,_,_,-1
+FQB_CAF-8,à ,partir, de quand puis-je bénéficier d'une aide au logement ? ,2,partir,_,VERB,_,VerbForm=Inf,1,fixed,_,_,-1
+FQB_CLEF03-114,Où Irving Mitchell Felt est-il ,décédé, ? ,7,décédé,décéder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_CLEF03-138,Où la chanteuse Julie Kelly ,enseigne,-t-elle ? ,6,enseigne,enseigner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No,-1
+FQB_CLEF03-143,Quand Kellie O'Sullivan a-t-elle été ,kidnappée, ? ,8,kidnappée,kidnapper,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_CLEF03-178,Quand Shapour Bakhtiar est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_CLEF03-182,"Quand le """"Pike"""" a-t-il ",fermé, ? ,8,fermé,fermer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_CLEF03-2,Quand le cardinal Juan Jesus Posadas Ocampo est-il ,mort, ? ,10,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_CLEF03-25,Quand le mur de Berlin a-t-il été ,construit, ? ,9,construit,construire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_CLEF03-40,Où est ,né, Guillermo Ortiz ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_CLEF03-49,Où Raymond Pettibon ,travaille,-t-il ? ,4,travaille,travailler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No,-1
+FQB_CLEF03-74,Comment Vitas Gerulaitis est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_CLEF03-78,Où le directeur Michelangelo Antonioni est-il ,né, ? ,8,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_CLEF03-83,Quelle est l'abréviation ,connue, du fonds des Nations Unis consacré aux enfants ? ,5,connue,connaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4,acl,_,_,1
+FQB_CLEF03-86,Où le plan de Mulberry a-t-il été ,stipulé, ? ,9,stipulé,stipuler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_CLEF03-9,Où Richard Zwetchkenbaum ,travaille,-t-il ? ,4,travaille,travailler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No,-1
+FQB_INSEE-1,Quand l'agent recenseur ,passe,-t-il ? ,5,passe,passer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No,-1
+FQB_INSEE-9,Est-il obligatoire de ,répondre, ? ,5,répondre,répondre,VERB,_,VerbForm=Inf,3,xcomp,_,_,-1
+FQB_Impots-15,"Je viens de déménager et, je n'ai pas reçu mon chèque pour la prime pour l'emploi, comment ",faire, pour l'obtenir ? ,22,faire,faire,VERB,_,VerbForm=Inf,11,advcl,_,_,-1
+FQB_Impots-15,Je viens de ,déménager," et, je n'ai pas reçu mon chèque pour la prime pour l'emploi, comment faire pour l'obtenir ? ",4,déménager,déménager,VERB,_,VerbForm=Inf,2,xcomp,_,_,-1
+FQB_Impots-20,Je viens de ,déménager,", quelles démarches dois-je effectuer auprès des services fiscaux ? ",4,déménager,déménager,VERB,_,VerbForm=Inf,2,xcomp,_,SpaceAfter=No,-1
+FQB_Impots-25,Comment déclarer les revenus provenant de la location d'un logement ,meublé, ? ,12,meublé,meubler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11,acl,_,_,-1
+FQB_Impots-29,"Des travaux ont été réalisé dans ma résidence principale, je sais que le crédit d'impôt est ",limité,", quel est le montant maximum ? ",19,limité,limiter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,12,ccomp,_,SpaceAfter=No,1
+FQB_Impots-3,Je constate une erreur dans le calcul de mon impôt sur le revenu : comment procéder pour que celle-ci soit ,corrigée, ? ,21,corrigée,corriger,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,16,advcl,_,_,-1
+FQB_Impots-3,Je constate une erreur dans le calcul de mon impôt sur le revenu : comment ,procéder, pour que celle-ci soit corrigée ? ,16,procéder,procéder,VERB,_,VerbForm=Inf,2,advcl,_,_,3
+FQB_Impots-40,Comment consulter et ,imprimer, les avis de taxe foncière ou de taxe d'habitation de toutes mes résidences ? ,4,imprimer,imprimer,VERB,_,VerbForm=Inf,2,conj,_,_,-1
+FQB_Impots-6,"Je veux me mensualiser, comment dois-je ",faire, ? ,9,faire,faire,VERB,_,VerbForm=Inf,7,xcomp,_,_,-1
+FQB_Impots-6,Je veux me ,mensualiser,", comment dois-je faire ? ",4,mensualiser,mensualiser,VERB,_,VerbForm=Inf,2,xcomp,_,SpaceAfter=No,-1
+FQB_Impots-68,Que faire si vous êtes ,exonéré, ? ,6,exonéré,exonérer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,2,advcl,_,_,-1
+FQB_Impots-9,Peut-on se ,mensualiser, pour régler ses contributions sociales ? ,4,mensualiser,mensualiser,VERB,_,VerbForm=Inf,1,xcomp,_,_,-1
+FQB_PoleEmploi-11,Vous avez remboursé un trop ,perçu,", devez-vous le déduire ? ",6,perçu,_,VERB,_,Tense=Past|VerbForm=Part,5,fixed,_,SpaceAfter=No,-1
+FQB_PoleEmploi-26,Pourquoi vos codes ne sont-ils pas ,reconnus, ? ,8,reconnus,reconnaître,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1002,Quand les jumeaux de William Shakespeare sont-ils ,nés, ? ,9,nés,naître,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1010,Quand s'est ,écrasé, le Hindenberg ? ,4,écrasé,écraser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1019,Quel président n'était pas ,marié, ? ,6,marié,marier,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-103,Combien de gens sont morts lorsque l'Estonia a ,coulé, en 1994 ? ,10,coulé,couler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5,advcl,_,_,-1
+FQB_TREC-fr-1047,Quand l'Algérie a-t-elle été ,colonisée, ? ,7,colonisée,coloniser,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1060,Quand Lyndon B. Johnson est-il ,né, ? ,7,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1071,Quand a été ,émis, le premier timbre-poste ? ,4,émis,émettre,VERB,_,Gender=Masc|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1082,Où est ,mort, Howard Hughes ? ,3,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1087,Quand a ,ouvert, le premier magasin Wal-Mart ? ,3,ouvert,ouvrir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-109,Où Buzz Aldrin veut-il construire une station spatiale permanente et ,habitée, ? ,12,habitée,habiter,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8,conj,_,_,-1
+FQB_TREC-fr-1139,Quel est le plus long pont ,suspendu, des États-Unis ? ,7,suspendu,suspendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,acl,_,_,-1
+FQB_TREC-fr-114,Le nouveau matériau de carbone ,vitrifié, inventé par l'Institut de Tokyo pour la technologie est combien de fois plus résistant que celui fait de cellulose ? ,6,vitrifié,vitrifier,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5,acl,_,_,1
+FQB_TREC-fr-1146,Qu'est-ce qu'Edward Binney et Howard Smith ,on, inventé en 1903 ? ,10,on,on,VERB,_,Mood=Ind|VerbForm=Fin,11,ccomp,_,_,-1
+FQB_TREC-fr-1149,Quelle planète est ,connue," comme étant la planète """"rouge"""" ? ",4,connue,connaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,1
+FQB_TREC-fr-1163,Comment Janice Joplin est-elle ,morte, ? ,6,morte,mourir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1178,Où est ,enterré, Hitler ? ,3,enterré,enterrer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1198,Quand Hiroshima a-t-elle été ,bombardée, ? ,6,bombardée,bombarder,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1200,Quelle fut la première femme ,tuée, pendant la Guerre du Viêtnam ? ,6,tuée,tuer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5,acl,_,_,3
+FQB_TREC-fr-1215,Quand le Président Kennedy a-t-il été ,assassiné, ? ,8,assassiné,assassiner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1222,Quand Abraham Lincoln est-il ,né, ? ,6,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1279,Quand Ulysses S. Grant est-il ,né, ? ,7,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1282,Qu',est, que le propylène de glycol ? ,2,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,-1
+FQB_TREC-fr-130,Quand le Yémen a-t-il été ,réunifié, ? ,7,réunifié,réunifier,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1304,Quel président américain est apparu dans l'émission Laugh-In (,Rions,) ? ,11,Rions,rire,VERB,_,Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,9,dep,_,SpaceAfter=No,-1
+FQB_TREC-fr-133,"Comment nomme-t-on la technique par laquelle l'on sème certaines plantes dans un sol contaminé aux métaux toxiques afin que ces plantes ingèrent ces métaux, qu'elles soient ",récoltées,", puis que les métaux soient recouvrés à fins de recyclage ? ",32,récoltées,récolter,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,25,conj,_,SpaceAfter=No,1
+FQB_TREC-fr-1347,Quand Thomas Jefferson est-il ,né, ? ,6,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1349,Quand le téléphone fut-il ,inventé, ? ,6,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1363,Qu'est-ce que l'intérêt ,composé, ? ,7,composé,composer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,acl,_,_,-1
+FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y compris chez les êtres humains, par lequel des cellules sont programmées à se """"",suicider, ? ,28,suicider,suicider,VERB,_,VerbForm=Inf,24,advcl,_,SpaceAfter=No,-1
+FQB_TREC-fr-138,"Comment nomme-t-on le processus normal chez tout être vivant, y ",compris," chez les êtres humains, par lequel des cellules sont programmées à se """"suicider"""" ? ",13,compris,_,VERB,_,Tense=Past|VerbForm=Part,12,fixed,_,_,5
+FQB_TREC-fr-1385,Qu',est, que la biodiversité ? ,2,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,-1
+FQB_TREC-fr-1400,Quand le télégraphe a-t-il été ,inventé, ? ,7,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1403,Quand le moteur à combustion interne a-t-il été ,inventé, ? ,10,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1406,Quand l'histoire de Roméo et Juliette se ,passe,-t-elle ? ,9,passe,passer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No,-1
+FQB_TREC-fr-1416,Quand fut ,fondé, Wendy 's ? ,3,fondé,fonder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1418,Quand s'est ,tenu, le procès Rosenberg ? ,4,tenu,tenir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1430,Quel âge devez-vous avoir pour vous ,marier, en Caroline du Sud ? ,8,marier,marier,VERB,_,VerbForm=Inf,3,advcl,_,_,1
+FQB_TREC-fr-1437,Combien d'États étaient toujours ,unis, après que les États du Sud aient fait sécession ? ,6,unis,unir,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,1
+FQB_TREC-fr-1443,Quand Bob Marley est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1446,Comment est ,mort, le Mahatma Gandhi ? ,3,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1451,Où fut ,construit, le premier McDonald ? ,3,construit,construire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1453,Où fut ,ouvert, le premier magasin J. C. Penney ? ,3,ouvert,ouvrir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1470,Quand le Président Herbert Hoover est-il ,décédé, ? ,8,décédé,décéder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1473,Quand Lyndon B. Johnson est-il ,né, ? ,7,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1493,Quand est ,né, Davy Crockett ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1495,Comment la mère de Molly Shannon est-elle ,morte, ? ,9,morte,mourir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-15,Quand fut ,construite, la voie ferrée du train léger Docklands de Londres ? ,3,construite,construire,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-151,Où est ,mort, Dylan Thomas ? ,3,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1519,Où est ,né, Hans Christian Anderson ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1526,Quelle ville est ,reconnue, comme étant la ville de l'amour fraternel ? ,4,reconnue,reconnaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,1
+FQB_TREC-fr-1527,Quand a ,débuté, la guerre des Six Jours ? ,3,débuté,débuter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1561,Quand le premier brevet pour le cornet à crème glacée a-t-il été ,déposé, ? ,14,déposé,déposer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1562,Quand la guerre de Sécession américaine a-t-elle ,débuté, ? ,9,débuté,débuter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1570,Quel est l'âge légal pour ,voter, en Argentine ? ,7,voter,voter,VERB,_,VerbForm=Inf,1,advcl,_,_,1
+FQB_TREC-fr-1586,Quand le pont Golden Gate a-t-il été ,achevé, ? ,9,achevé,achever,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1588,Quand Apollo 11 fut-il ,lancé, ? ,6,lancé,lancer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1592,Quand le Reichstag a-t-il ,brûlé, ? ,6,brûlé,brûler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1601,Quand Einstein est-il ,décédé, ? ,5,décédé,décéder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1602,Qui détient le record de l'artiste enfant le mieux ,payé, ? ,11,payé,payer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10,acl,_,_,-1
+FQB_TREC-fr-1618,Où est ,produite, la bile ? ,3,produite,produire,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1629,Où est ,enterrée, Mae West ? ,3,enterrée,enterrer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1630,Quand le chien a-t-il été ,domestiqué, ? ,7,domestiqué,domestiquer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1636,Quand la bataille de Chancellorsville s'est-elle ,déroulée, ? ,9,déroulée,dérouler,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1646,Quand la première bombe atomique fut-elle ,larguée, ? ,8,larguée,larguer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1655,Où est ,né, Abraham Lincoln ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1659,Où est ,né, Bob Dylan ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1677,Comment est ,mort, Micky Mantle ? ,3,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1681,Quand Houdini est-il ,décédé, ? ,5,décédé,décéder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1682,Quand Martin Luther King Junior est-il ,né, ? ,8,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1691,"Où le film """"Somewhere in Time"""" a-t-il été ",tourné, ? ,12,tourné,tourner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1693,Quand Jackie Robinson est-il ,né, ? ,6,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1696,Quand le crayon a-t-il été ,inventé, ? ,7,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1698,Quand Jules César est-il ,né, ? ,6,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1701,Où a été ,enterré, le Président Lincoln ? ,4,enterré,enterrer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1711,Quand le premier avion à réaction fut-il ,inventé, ? ,9,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1718,Quand la maison blanche fut-elle ,construite, ? ,7,construite,construire,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-174,Quand Jaco Pastorius est-il ,décédé, ? ,6,décédé,décéder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1749,Quand Spoutnik fut-il ,lancé, ? ,5,lancé,lancer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-175,Quand Beethoven est-il ,décédé, ? ,5,décédé,décéder,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1754,Quand s'est ,déroulée, la guerre du Golfe ? ,4,déroulée,dérouler,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1760,Où est ,né, C. S. Lewis ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1767,Quand a été ,fabriquée, la première Ford Mustang ? ,4,fabriquée,fabriquer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1778,Quand Walt Disney est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1797,Comment Adolf Hitler est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1810,Où sont ,conservés, les bijoux de la couronne royale britannique ? ,3,conservés,conserver,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1811,Quand la pénicilline fut-elle ,utilisée, pour la première fois ? ,6,utilisée,utiliser,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,1
+FQB_TREC-fr-1818,Où Golda Meir a-t-elle ,grandi, ? ,6,grandi,grandir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1819,Quand Marilyn Monroe s'est-elle ,suicidée, ? ,7,suicidée,suicider,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1824,Le vaisseau Magellan a permis aux scientifiques de faire des recherches ,approfondies, sur quelle planète ? ,13,approfondies,approfondir,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,12,acl,_,_,1
+FQB_TREC-fr-1827,Où s'est ,déroulée, la bataille de l'Alamo ? ,4,déroulée,dérouler,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1835,Qui était l'ennemi ,juré, de Sherlock Holmes ? ,5,juré,jurer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4,acl,_,_,-1
+FQB_TREC-fr-184,Quand la Reine Victoria est-elle ,née, ? ,7,née,naître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-185,Quand s'est ,déroulée, la bataille de la Somme ? ,4,déroulée,dérouler,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1856,Quelle ville est ,connue, comme étant la capitale du caoutchouc ? ,4,connue,connaître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,1
+FQB_TREC-fr-1861,Où est ,né, Bill Gates ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1866,Quelle partie de l'oeil continue à ,grandir, au cours de la vie d'une personne ? ,8,grandir,grandir,VERB,_,VerbForm=Inf,6,xcomp,_,_,1
+FQB_TREC-fr-187,Où a été ,assassiné, Lincoln ? ,4,assassiné,assassiner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1872,Comment est ,morte, Eva Peron ? ,3,morte,mourir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-188,Quand l'amendement accordant le suffrage aux femmes a-t-il été ,ratifié, ? ,13,ratifié,ratifier,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-1880,Quand est ,né, le roi Louis XIV ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-1883,Quelle portion de la couche d'ozone est ,appauvrie, ? ,9,appauvrie,appauvrir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-190,Où est se ,trouve, South Bend ? ,4,trouve,trouver,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2,ccomp,_,_,-1
+FQB_TREC-fr-191,Où est ,né, Harry Truman ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-198,Comment est ,mort, Socrate ? ,3,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-234,Qui a construit le premier avion pouvant ,voler, ? ,8,voler,voler,VERB,_,VerbForm=Inf,7,xcomp,_,_,-1
+FQB_TREC-fr-240,Il y a combien d'années que le vaisseau Titanic a ,coulé, ? ,12,coulé,couler,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,1,acl,_,_,-1
+FQB_TREC-fr-240,Il y ,a, combien d'années que le vaisseau Titanic a coulé ? ,3,a,_,VERB,_,Mood=Ind|VerbForm=Fin,1,fixed,_,_,-1
+FQB_TREC-fr-252,Quand fut ,inventée, la première toilette à chasse ? ,3,inventée,inventer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-262,Quel est le nom de la dynastie japonaise ayant ,régné, le plus longtemps ? ,10,régné,régner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7,acl,_,_,-1
+FQB_TREC-fr-263,Quand est ,né, Babe Ruth ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-266,Où est ,né, Pythagore ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-273,Qui fut le tout premier président américain à ,démissionner, ? ,9,démissionner,démissionner,VERB,_,VerbForm=Inf,6,acl,_,_,-1
+FQB_TREC-fr-285,Quand la première voie ferrée reliant la côte est à la côte ouest fut-elle ,complétée, ? ,16,complétée,compléter,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-289,John C. Calhoun et Henry Clay sont ,connus, comme étant qui ? ,8,connus,connaître,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-291,Quand la période carolingienne ,débuta,-t-elle ? ,5,débuta,débuter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0,root,_,SpaceAfter=No,-1
+FQB_TREC-fr-31,Où est ,né, Ulysses S. Grant ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-315,Pourquoi les autruches ne peuvent-elles pas ,voler, ? ,8,voler,voler,VERB,_,VerbForm=Inf,5,xcomp,_,_,-1
+FQB_TREC-fr-321,Où fut ,fondée, la compagnie De Beers ? ,3,fondée,fonder,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-330,"Quand le """"Slinky"""" fut-il ",inventé, ? ,8,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-336,Quand la compagnie Microsoft fut-elle ,établie, ? ,7,établie,établir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-34,Où est ,enterrée, l'actrice Marion Davies ? ,3,enterrée,enterrer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-350,Combien de violons stradivarius furent ,fabriqués, ? ,6,fabriqués,fabriquer,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-38,Où est ,né, George Washington ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-382,Quand ,vécu, Mahomet ? ,2,vécu,vivre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-390,Où est ,né, John Adams ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-422,Quand la princesse Diana et le prince Charles se sont-ils ,mariés, ? ,12,mariés,marier,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-435,Comment Bob Marley est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-440,Où est ,né, Poe ? ,3,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-441,Quel roi s'est ,vu, forcé d'accepter la Magna Carta ? ,5,vu,voir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,ccomp,_,_,-1
+FQB_TREC-fr-459,Quand John D. Rockefeller est-il ,né, ? ,7,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-472,Quand la Guerre civile américaine s'est-elle ,terminée, ? ,9,terminée,terminer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-507,Quand a ,commencé, la loterie californienne ? ,3,commencé,commencer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-509,Quand Beethoven est-il ,né, ? ,5,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-520,Quand fut ,produite, la première Barbie ? ,3,produite,produire,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-524,Où s'est premièrement ,développé, le wicca ? ,5,développé,développer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-527,Où a été ,établie, la NFL ? ,4,établie,établir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-538,Quand fut ,inventé, le code à barres ? ,3,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-54,Quand Nixon est-il ,mort, ? ,5,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-541,Quelle était la raison d',être, du projet Manhattan ? ,6,être,être,VERB,_,VerbForm=Inf,4,acl,_,_,2
+FQB_TREC-fr-547,Quand fut ,construit, le barrage Hoover ? ,3,construit,construire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-551,Quel est le nom de la peinture de Michel-Ange qui représente deux mains dont les doigts se ,touchent, ? ,18,touchent,toucher,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,13,acl:relcl,_,_,-1
+FQB_TREC-fr-556,Combien de copies d'un album doivent être ,vendues, afin que celui-ci soit un disque d'or ? ,9,vendues,vendre,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,7,xcomp,_,_,1
+FQB_TREC-fr-57,Quel est l'acronyme du système qui évalue l'efficacité de l'air ,climatisé, ? ,15,climatisé,climatiser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14,acl,_,_,-1
+FQB_TREC-fr-588,Quand a ,commencé, la Première Guerre mondiale ? ,3,commencé,commencer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-593,Quand a été ,réalisé, le film Caligula ? ,4,réalisé,réaliser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-601,Quand ,vécut, l'homme de Néanderthal ? ,2,vécut,vivre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0,root,_,_,-1
+FQB_TREC-fr-608,Quand Nostradamus est-il ,né, ? ,5,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-612,Qui a créé la bande ,dessinée, intitulée Garfield ? ,6,dessinée,dessiner,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5,acl,_,_,-1
+FQB_TREC-fr-615,Quel jour est ,connu," comme étant le """"jour national de la prière"""" ? ",4,connu,connaître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,1
+FQB_TREC-fr-633,Combien de temps ,vit, le bernard-l'hermite ? ,4,vit,vivre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+FQB_TREC-fr-640,Quand le premier Wall Street Journal fut-il ,publié, ? ,9,publié,publier,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-652,Où est ,née, Tesla ? ,3,née,naître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-684,Quand l'art de la courte-pointe a-t-il ,commencé, ? ,9,commencé,commencer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-705,L'aspartame est aussi ,connu, comme étant quoi ? ,5,connu,connaître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-716,Qu'est-ce qui vaut la peine d'être ,vu, à Reims ? ,10,vu,voir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,5,xcomp,_,_,-1
+FQB_TREC-fr-72,Quand la version originale de l'émission Howdy Doody a-t-elle cessé d'être ,diffusée, ? ,15,diffusée,diffuser,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,12,xcomp,_,_,-1
+FQB_TREC-fr-752,Comment la thalassémie est-elle ,définie, ? ,6,définie,définir,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-794,Quand Dick Clark est-il ,né, ? ,6,né,naître,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-812,"Par qui fut inventé le """"Silly Putty"""" fut ",inventé, ? ,4,inventé,inventer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-814,Quand fut ,érigée, la porte de Brandebourg de Berlin ? ,3,érigée,ériger,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_TREC-fr-85,Quel ancien membre du Ku Klux Klan a remporté un poste ,élu, aux États-Unis ? ,13,élu,élire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12,acl,_,_,-1
+FQB_TREC-fr-929,Quel âge avait Elvis Presley lorsqu'il est ,mort, ? ,9,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3,advcl,_,_,-1
+FQB_TREC-fr-934,"Le tissu nommé """"lin"""" est fabriqué à ",partir, de quelle plante ? ,10,partir,_,VERB,_,VerbForm=Inf,9,fixed,_,_,1
+FQB_TREC-fr-940,Combien de temps Rip Van Winkle a-t-il ,dormi, ? ,9,dormi,dormir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-950,Quand Elvis Presley est-il ,mort, ? ,6,mort,mourir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_TREC-fr-978,Quand Rosa Parks est-elle ,née, ? ,6,née,naître,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,-1
+FQB_UNESCO-12,Comment ce Fonds est-il ,utilisé, ? ,6,utilisé,utiliser,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,_,-1
+FQB_UNESCO-15,Comment puis-je obtenir/,utiliser, les photos de sites du patrimoine mondial ? ,6,utiliser,utiliser,VERB,_,VerbForm=Inf,4,conj,_,_,-1

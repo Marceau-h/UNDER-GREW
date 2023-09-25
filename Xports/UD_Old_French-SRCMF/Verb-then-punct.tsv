@@ -1,0 +1,994 @@
+sent_id	left_context	pivot	right_context	ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPREL	DEPS	MISC	dist
+116	- 	Voet	 par hostages, ço dist li Sarrazins, Dunt vos avrez u dis u quinze u vint. 	2	Voet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01265	-1
+12	« 	Oez	, seignurs, quel pecchet nus encumbret. 	2	Oez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_00129	-1
+143	« Seignurs barons, 	dist	 li emperere Carles, Li reis Marsilie m'ad tramis ses messages. 	5	dist	_	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	XmlId=w_58_01563	1
+17018	Hom trovet lisant que Evax, li reis de Arabie, 	enveiat	 ad Neron, le emperur de Rume, un livre que il li escrist des natures des pieres, de lur manieres et de lur nuns et de lur culurs et en quele tere eles sunt et quele puissance eles unt. 	12	enveiat	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_273_0030	0
+17194	Mais la neire, si hom la portet en meesme la maniere, 	aiet	 a home a parfaire granz choses, si il les cumencet ; 	14	aiet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2046	1
+17197	Icele meesme, liede en linge drap teint en safran, 	toult	 bien la fievre, 	12	toult	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2095	1
+17197	Icele meesme, 	liede	 en linge drap teint en safran, toult bien la fievre, 	4	liede	_	VERB	VERppe	Tense=Past|VerbForm=Part	1	acl	_	XmlId=w_273_2087	-1
+17214	et, si cume hom dit, 	esprovet	 virginitét. 	8	esprovet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2281	-1
+17223	e bien est seut que cil ki vult saveir si sa femme est avultre u nun, 	metet	 la magnete suz le chief sa femme quant ele dormirat ; 	18	metet	_	VERB	VERcjg	VerbForm=Fin	4	csubj	_	XmlId=w_273_2402	1
+225	« 	Laisez	 ester voz Francs ! 	2	Laisez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02327	-1
+232	« 	Alez	 sedeir desur cel palie blanc ! 	2	Alez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02382	-1
+234	« Francs chevalers, 	dist	 li emperere Carles, Car m'eslisez un barun de ma marche Qu'a Marsiliun me portast mun message. » 	5	dist	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_58_02407	1
+270	Dreiz emperere, 	veiz	 me ci en present : 	4	veiz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02746	-1
+283	Puis quel comant, 	aler	 vos en estoet. » 	5	aler	_	VERB	VERinf	VerbForm=Inf	8	xcomp	_	XmlId=w_58_02842	-1
+285	« Guenes, 	venez	 avant, 	4	venez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02856	-1
+289	- Sire, 	dist	 Guenes, ço ad tut fait Rollant ! 	4	dist	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_58_02882	-1
+291	Li duze per, por ço qu'il l'aiment tant, 	Desfi	 les ci, sire, vostre veiant. » 	13	Desfi	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02922	0
+304	- Seignurs, 	dist	 Guenes, vos en orrez noveles ! » 	4	dist	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_58_03026	-1
+305	« Sire, dist Guenes, 	dunez	 mei le cungied. 	7	dunez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03041	0
+305	« Sire, 	dist	 Guenes, dunez mei le cungied. 	4	dist	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_58_03038	0
+312	Esperuns d'or ad en ses piez fermez, 	Ceint	 Murglies, s'espee, a sun costed ; 	10	Ceint	_	VERB	VERcjg	VerbForm=Fin	8	conj	_	XmlId=w_58_03124	2
+378	« 	Salvez	 seiez de Mahum E d'Apollin, qui seintes leis tenuns ! 	2	Salvez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03742	-1
+3856	Com ele aprisme son ami, 	Oiez	 com el l'a devanci : 	7	Oiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00016	-1
+3876	Tristran, 	gardez	 	3	gardez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00360	-1
+3895	Mais l'en puet home desveier, 	Faire	 mal faire et bien laisier : 	8	Faire	_	VERB	VERinf	VerbForm=Inf	6	conj	_	XmlId=w_26_00578	3
+3897	Tristran, 	vois	 m'en, 	3	vois	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00596	-1
+3903	Quant out oï parler sa drue, 	Sout	 que s'estoit aperceüe. 	8	Sout	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_00645	1
+392	« 	Salvez	 seiez de Deu, Li Glorius, qui devum aürer ! 	2	Salvez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03850	-1
+395	Se cest'acorde ne vulez otrier, 	Pris	 e liez serez par poësted ; 	8	Pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_03888	1
+3965	« Dame, por Deu, qui en pucele Prist por le pueple umanité, 	Conselliez	 moi, par charité. 	16	Conselliez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01382	0
+4006	« Las ! 	fait	 li rois, or ai veü Que li nains m'a trop deceü. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_01847	-1
+404	Quant le vit Guenes, 	mist	 la main a l'espee ; 	6	mist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_03971	1
+4078	Et il autretant me priout Que l'acordase a mon seignor, Qui, a grant tort, 	ert	 a error Vers lui de moi ; 	19	ert	_	VERB	VERcjg	VerbForm=Fin	11	acl:relcl	_	XmlId=w_26_02513	-1
+4103	- Dame, 	veïs	 puis mon nevo ? 	4	veïs	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02809	-1
+4119	Tristran, tes niés, 	vint	 soz cel pin Qui est laienz en cel jardin, 	6	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_02943	2
+412	« 	Desfaimes	 la mellee ! » 	2	Desfaimes	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04036	-1
+4139	Se vos volez, 	Ocïez	 moi ; 	5	Ocïez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03137	-1
+4166	« Sire, 	estïez	 vos donc el pin ? 	4	estïez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03382	0
+417	- Sire, 	dist	 Guenes, mei l'avent a suffrir. 	4	dist	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_58_04081	-1
+4185	Et se il dit ou un ou el Ou n'i velle venir por toi, 	Di	 	17	Di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03647	-1
+4195	Sire, por Deu, 	acordez	 m'i, Quant il sera venu ici. » 	6	acordez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03714	-1
+4202	« 	Acordez	 m'i, 	2	Acordez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03761	-1
+4223	Se li rois fait de moi proiere, 	Fai	 par senblant mauvese chiere. » 	9	Fai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_03930	-1
+4229	« Niés, 	fait	 li rois, avant venez. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_26_03980	0
+4257	Qar, en un gardin, soz une ente, 	Virent	 l'autrier Yseut la gente Ovoc Tristran en tel endroit Que nus hon consentir ne doit ; 	11	Virent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04260	8
+4271	« Sire, 	font	 il, malement vet. 	4	font	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_26_04388	0
+4309	« Di ton nevo q'au roi Artur, A Carduel, qui est clos de mur, 	Covienge	 qu'il aut par matin ; 	19	Covienge	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_26_04729	1
+4309	« 	Di	 ton nevo q'au roi Artur, A Carduel, qui est clos de mur, Covienge qu'il aut par matin ; 	2	Di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04712	-1
+4312	Anevoies, en ceste nuit, 	Sai	 que voudra a lui parler, Por ceu que devra la aler. 	7	Sai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_04769	3
+4316	outreement. 	Prové	 seront sanz soirement. 	3	Prové	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_04839	-1
+4331	« Beaus niés, 	fait	 il, je vos requier, Ma volenté faites, 	5	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_04958	0
+4384	« Se nes puez prendre Ensenble, 	va	, si me fai pendre. » 	8	va	_	VERB	VERcjg	VerbForm=Fin	12	discourse	_	SpaceAfter=No|XmlId=w_26_05397	-1
+4395	Li nain, que la chandele tient, 	Vient	 avoc lui. 	9	Vient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05533	0
+4407	(	Cuelli	 l'orent cil en haïne, Por sa prooise), 	2	Cuelli	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_05639	-1
+4408	et la roïne, 	Laidisent	 la, 	5	Laidisent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_05655	-1
+4422	Bien sai, 	venuz	 sui a mau saut. 	4	venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	2	ccomp	_	XmlId=w_26_05768	-1
+4426	Or, 	tort	 a mal ou tort a bien, De moi ferez vostre plesir, 	3	tort	_	VERB	VERcjg	VerbForm=Fin	13	advcl	_	XmlId=w_26_05817	-1
+4430	« Qar il n'a home en ta meson, Se disoit ceste traïson Que pris eüse drüerie O la roïne par folie, Ne m'en trovast en chanp, 	armé	. 	32	armé	_	VERB	VERppe	Tense=Past|VerbForm=Part	26	acl	_	SpaceAfter=No|XmlId=w_26_05886	-1
+4436	Mais en Deu tant fort se fiot Que bien savoit et bien quidoit, S'a escondit peüst venir, Nus nen osast armes saisir Encontre lui, 	lever	 ne prendre : 	29	lever	_	VERB	VERinf	VerbForm=Inf	25	conj	_	XmlId=w_26_05977	-1
+4448	Ha ! roïne franche, 	honoree	, En qel terre sera mais nee Fille de roi qui ton cors valle ? 	6	honoree	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	acl	_	SpaceAfter=No|XmlId=w_26_06124	2
+463	« 	Apelez	 le Franceis : 	2	Apelez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04535	-1
+499	- Ço n'iert, 	dist	 Guenes, tant cum vivet sis niés : 	6	dist	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_58_04892	-1
+502	Les.XII. pers, que Carles ad tant chers, 	Funt	 les enguardes a.XX. milie chevalers. 	11	Funt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_04930	2
+510	- Ço n'iert, 	dist	 Guenes, tant cum vivet Rollant : 	6	dist	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_58_05016	-1
+513	Li.XII. per, que Carles aimet tant, 	Funt	 les enguardes a.XX. milie de Francs. 	10	Funt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05052	0
+515	« Bel sire Guenes, 	dist	 Marsilies li reis, Jo ai tel gent, plus bele ne verreiz ; 	6	dist	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_58_05078	-1
+561	Se en rereguarde troevet le cors Rollant, 	Cumbatrat	 sei a trestute sa gent 	9	Cumbatrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05519	0
+562	E, se il poet, 	murrat	 i veirement. 	7	murrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05531	0
+568	« 	Tenez	 m'espee, 	2	Tenez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05572	-1
+577	« 	Tenez	 mun helme, 	2	Tenez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05654	-1
+600	Par cele lei que vos tenez plus salve, 	Guardez	 de nos ne turnez le curage. 	10	Guardez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05859	1
+606	Sel pois trover a port ne a passage, 	Liverrai	 lui une mortel bataille. » 	10	Liverrai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05929	3
+609	Pois est munted, 	entret	 en sun veiage. 	5	entret	_	VERB	VERcjg	VerbForm=Fin	3	conj	_	XmlId=w_58_05952	-1
+623	« 	Salvez	 seiez de Deu ! 	2	Salvez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_06095	-1
+628	Kar a mes oilz vi.IIII. C. milie armez, Halbers vestuz, alquanz healmes fermez, 	Ceintes	 espees as punz d'or neielez, Ki l'en conduistrent tresqu'en la mer : 	18	Ceintes	_	VERB	VERppe	Tense=Past|VerbForm=Part	19	acl	_	XmlId=w_58_06156	3
+8605	« Certes, 	fet	 mes sires Gauvains, ce me plest mout. » 	4	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_1559	-1
+8610	« Sire, 	fait	 Keus li seneschaux, se vos asseez ja au disner il m'est avis que vos enfraindroiz la costume de ceainz, 	4	fait	_	VERB	VERcjg	VerbForm=Fin	18	parataxis	_	XmlId=w_qgraal_cm_1619	0
+8612	- Certes, 	fet	 li rois, Keus, vos dites voir, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_1677	-1
+8644	- Toutes voies, 	fet	 li rois, i essaierez vos se vos la porriez oster. 	5	fet	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_2037	2
+8645	- Sire, 	fet	 il, non ferai. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_2053	-1
+8649	- Sire, 	fait	 il, je le sai bien, 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_2094	-1
+8654	- Sire, 	fait	 il, sauve vostre grace non feré, puis que mes sires Lancelot n'i velt essaier 	4	fait	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_2161	-1
+8657	- Toute voies, 	fait	 li rois, i essaieroiz vos por ce que je le voil. Ne mie por l'espee avoir. » 	5	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_2205	2
+8665	- Mes sires Gauvains, 	fet	 Lancelot, or sachiez que ceste espee vos touchera encore si de pres que vos ne la voldriez avoir bailliee por un chastel. 	6	fet	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_2276	1
+8666	- Sire, 	fet	 mes sires Gauvains, je n'en poi mes. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_qgraal_cm_2304	-1
+8680	- 	Alons	 donc, 	2	Alons	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_2474	-1
+8713	- Par foi, 	fait	 li preudons, vos en verroiz par tens tel comencement qui bel sera. » 	5	fait	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_2961	2
+8719	« 	Sivez	 moi sire chevaliers. » 	2	Sivez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_3036	-1
+8767	- Je nel sai mie bien, 	fet	 Lion. Mes tant que ce est cil qui a esté hui fet chevalier novel, que mes sires Lancelot fist chevalier de sa main, et ce est cil donc entre vos et moi avons tote jor parlé que mes sires Lancelot engendra, en la fille au riche roi pescheor. 	8	fet	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_3673	1
+8768	- Veraiement le sachiez vos, 	fet	 Boort, que ce est il, et qu'il est nostre cousins prochains. 	7	fet	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_3733	-1
+8778	- Par foi dame, 	fet	 il, uns chevaliers est venuz a cort qui a acomplie l'aventure dou siege perilleus, 	6	fet	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_qgraal_cm_3854	2
+8780	- Voire, 	fet	 ele, puet estre voirs ? 	4	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_3896	-1
+8781	- Oïl, 	fet	 cil, veraiement le sachiez. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_3906	-1
+8782	- A non Dieu, 	fait	 ele, donc li est il mout bien avenu, 	6	fait	_	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	XmlId=w_qgraal_cm_3918	1
+8784	- Ha Diex, 	font	 les dames, tant fu de bone heure nez li chevaliers, 	5	font	_	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w_qgraal_cm_3959	-1
+8787	- Biaux amis, 	fet	 la reïne au vaslet, se Diex t'aït or me di de quele façon il est. 	5	fet	_	VERB	VERcjg	VerbForm=Fin	17	parataxis	_	XmlId=w_qgraal_cm_4028	1
+8788	- Dame, 	fet	 il, se Diex m'aït ce est uns des biaux chevaliers dou monde, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_qgraal_cm_4050	-1
+88	Desuz un pin, delez un eglenter, Un faldestoed i unt, 	fait	 tut d'or mer : 	14	fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	acl	_	XmlId=w_58_00992	2
+8806	- Sire, 	fet	 mes sires Gauvains, et vos et nos le devons servir come celui que Diex nos envoie por delivrer nostre païs des granz merveilles et des estranges visions, et des estranges aventures qui tant sovent i sont avenues par si lonc tens. » 	4	fet	_	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	XmlId=w_qgraal_cm_4331	-1
+8812	- Sire, 	fet	 il, g'i sui venuz, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_4420	-1
+8814	- Sire, 	fet	 li rois, de vostre venue avions nos mout grant mestier por moutes choses, et por les granz merveilles de ceste terre mener a fin, et por une aventure mener a chief qui hui nos est avenue a quoi cil de ceenz ont failli, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_4462	-1
+8817	- Sire, 	fet	 Galaad, ou est cele aventure dont vos me parlez ? 	4	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_4561	-1
+8833	« 	Tornez	 vos, 	2	Tornez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_4764	-1
+8839	- Sire, 	fet	 Galaad, ce n'est mie de merveille, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_4830	-1
+8851	- Biax sire, 	fet	 li rois, escu vos envoiera Diex d'aucune part ausi com il a fet espee. » 	5	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_4947	1
+8865	- Par foi, 	fait	 ele, je le vos dirai voiant toz cels de ceste place. 	5	fait	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_5084	1
+8948	- Sire, 	fet	 mes sires Gauvains, encor i a il autre chose que vos ne savez mie, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_6510	-1
+8979	- Ha.´ sire, 	fet	 Lancelot, por Dieu que est ce que vos dites ? 	6	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_7046	1
+8983	- Lancelot, 	fait	 li rois, la grant amor que j'ai toz jorz vers aus eue me fet dire tiex paroles, 	4	fait	_	VERB	VERcjg	VerbForm=Fin	20	parataxis	_	XmlId=w_qgraal_cm_7111	-1
+97	« 	Salvet	 seiez de Deu, Le Glorius, que devuns aürer ! 	2	Salvet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_01062	-1
+10003	« 	Garde	 toi de moi Lancelot 	2	Garde	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_56696	-1
+10025	« Sire, 	fet	 Lancelot, porriez vos herbergier.i. chevalier errant ? 	4	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_56932	0
+10026	- Biau sire, 	fet	 li preudons, s'il vos plest je vos herbergerai huimés au mielz que je porrai, 	5	fet	_	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	XmlId=w_qgraal_cm_56946	-1
+10027	et vos donrai, 	fet	 li preudons, a mengier de ce que Diex nos a presté. » 	5	fet	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_56968	2
+10056	- 	Dites	, 	2	Dites	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qgraal_cm_57328	-1
+10059	- Sire, 	fet	 Lancelot, il m'avint en mon dormant anuit que devant moi venoit uns hons toz avironnez d'estoiles, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_57351	-1
+10162	- Sire, 	fet	 Lancelot, ce que vos me dites que li bons chevaliers est mes filz me fet mout esbahir. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	20	parataxis	_	XmlId=w_qgraal_cm_59054	-1
+10163	- Tu n'en doiz pas estre esbahiz, 	fet	 li preudons, ne merveillier t'en, 	10	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_59083	6
+10173	- Sire, 	fet	 Lancelot, mout m'est grant confort de ceste chose que vos m'avez dite, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_59231	-1
+10176	- Je te dirai, 	fet	 li preudons, coment il est. 	6	fet	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_59317	-1
+10184	- Puis qu'il est einsi, 	fet	 Lancelot, que nus fors Jhesucrist ne me puet valoir ne aidier.´ lui pri je qu'il me vaille et aït, et ne me laist chaoir es mains de l'anemi, si que je li puisse rendre le tresor qu'il me demande. Ce est l'ame de moi au jor espovantable qu'il dira as mauvés : 	8	fet	_	VERB	VERcjg	VerbForm=Fin	23	parataxis	_	XmlId=w_qgraal_cm_59417	-1
+10185	“ 	Alez	 de ci maleoite gent ou feu pardurable. ” 	2	Alez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_59481	-1
+10187	“ 	Venez	 avant mi beneoit oir mon pere, li beneoit fil.´ 	2	Venez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_59500	-1
+10213	Mes por ce que il a del tout s'entente en Jhesucrist.´ 	cuide	 il encor venir a cel leu dom il estoit gitez, et fere compaignie a cels dom il estoit estrez. 	14	cuide	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_59856	1
+10355	- Diex vos otroit par sa pitié, 	fait	 ele, que vos jamais n'i renchaoiz. » 	9	fait	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_62030	3
+10423	« Par foi, 	fet	 mes sires Gauvains, de ce me voloie je plaindre a vos, 	5	fet	_	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	XmlId=w_qgraal_cm_62985	2
+10430	« Or me dites, 	fet	 mes sires Gauvains, se vos trovastes puis nus de noz compaignon. 	6	fet	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_63108	-1
+10433	- Par foi, 	fet	 mes sires Gauvains, merveilles oi. 	5	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_63167	2
+10440	- Or les conduie Diex, 	fet	 mes sires Gauvains, en quel leu qu'il soient, 	7	fet	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_63276	3
+10448	- Par foi, 	fet	 mes sires Gauvains, vos dites bien, 	5	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_63378	2
+10452	- Sire, 	fet	 Hestor, ceste part donc je viegn ne troverons nos riens. Ne cele part donc vos venez. » 	4	fet	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_qgraal_cm_63417	-1
+10454	« Donc lo je, 	fait	 Hestor, que nos aillons autre voie que cele que nos avons alé. » 	6	fait	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_63452	-1
+10486	« 	Alons	 de ci quierre meillor pasture que ceste n'est. » 	2	Alons	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_63868	-1
+10501	« 	Alons	 quierre ce que nos ne troverons ja. » 	2	Alons	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_64023	-1
+10513	« 	Ouvrez	 	2	Ouvrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_64195	-1
+10526	- Par foi, 	fet	 mes sires Gauvains, ausi vos di je. 	5	fet	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_qgraal_cm_64350	2
+10547	- A non Dieu, 	fet	 mes sires Gauvains, nos avons anuit tant veu en dormant et en veillant que li mielz que je i sache a nostre oes si est que nos aillons quierre aucun hermite aucun preudome qui nos die la senefiance de noz songes, et la senefiance de ce que nos avons oï, 	6	fet	_	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	XmlId=w_qgraal_cm_64597	1
+10564	« Biaux amis, fet mes sires Gauvains, 	savriez	 nos vos ici pres enseignier ne hermite ne religion ? 	10	savriez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_64822	1
+10564	« Biaux amis, 	fet	 mes sires Gauvains, savriez nos vos ici pres enseignier ne hermite ne religion ? 	5	fet	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_64817	1
+10571	- Or te comandons a Dieu, 	fet	 mes sires Gauvains, biax amis, 	8	fet	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_64928	2
+10575	« A non Dieu, 	fet	 mes sires Gauvains, puis que je parti de Camaalot ne trovai mes qui joste me demandast, 	6	fet	_	VERB	VERcjg	VerbForm=Fin	18	parataxis	_	XmlId=w_qgraal_cm_65005	1
+10577	- Sire, fet Hestor, 	laissiez	 m'i aler s'il vos plest. 	7	laissiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_65040	1
+10577	- Sire, 	fet	 Hestor, laissiez m'i aler s'il vos plest. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_65037	-1
+10605	« Sire, 	fet	 il, je vos pri que vos me portez en une abeïe pres de ci, et me fetes fere ma droiture tele com l'en doit fere a chevalier. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_65342	0
+10606	- Sire, 	fet	 mes sires Gauvains, je ne sai ci pres nule religion. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_65376	-1
+10607	- Ha.´ sire, fet il, 	montez	 moi sus vostre cheval 	9	montez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_65397	0
+10607	- Ha.´ sire, 	fet	 il, montez moi sus vostre cheval 	6	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_65394	0
+10627	« Sire, 	fet	 il, je sui de la meson le roi Artus, et compainz de la table reonde, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	17	parataxis	_	XmlId=w_qgraal_cm_65647	0
+10636	- Sire, 	fet	 il, qui estes vos ? 	4	fet	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_65763	-1
+10638	- Donc ne me chaut il, 	fet	 il, se je sui ocis par la main de si preudome com vos estes. 	8	fet	_	VERB	VERcjg	VerbForm=Fin	5	parataxis	_	XmlId=w_qgraal_cm_65787	-1
+10660	« Sire, 	fet	.i. chevalier, chascune pucele qui par ci passe doit rendre pleine ceste escuele del sanc de son braz destre. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	SpaceAfter=No|XmlId=w_qgraal_cm_100797	0
+10662	- Dehez ait, 	fait	 Galaad, fauz chevalier qui ceste costume establi, 	5	fait	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_100834	1
+10670	- Par foi, 	fet	 li chevaliers, et vos morroiz donques tuit, 	5	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_100911	1
+10678	« 	Aiez	 merci de vos meïsmes 	2	Aiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_101018	-1
+10681	- Certes, 	fet	 li Galaad, por noient en parleriez, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_101063	-1
+10704	- Seignor, fet la damoisele, 	alez	 i puis qu'il vos en prie. » 	8	alez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_101394	2
+10704	- Seignor, 	fet	 la damoisele, alez i puis qu'il vos en prie. » 	4	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_101390	-1
+10713	Voirs est, 	fet	 il, qu'il a ceienz une damoisele a qui nos sommes, et tuit cil de cest païs, et cist chastiax 	4	fet	_	VERB	VERcjg	VerbForm=Fin	1	parataxis	_	XmlId=w_qgraal_cm_101491	-1
+10723	Or avez oï, 	fet	 cil, coment la costume de cest chastel fu establie, 	5	fet	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_101703	-1
+10732	- En non Dieu, 	fet	 Galaad, se vos le fetes a ce que vos estes juene vos n'em poez eschaper sanz mort. 	6	fet	_	VERB	VERcjg	VerbForm=Fin	23	parataxis	_	XmlId=w_qgraal_cm_101783	-1
+10733	- Par foi, 	fet	 ele, se je moroie par ceste garison ce seroit honor a moi et a tot mon ancestre, 	5	fet	_	VERB	VERcjg	VerbForm=Fin	16	parataxis	_	XmlId=w_qgraal_cm_101808	1
+10742	« Soiez, 	fet	 ele, liez et joianz, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_101921	0
+10785	« Departez vos, 	fet	 ele, demain, 	5	fet	_	VERB	VERcjg	VerbForm=Fin	2	parataxis	_	XmlId=w_qgraal_cm_102482	-1
+10785	« 	Departez	 vos, fet ele, demain, 	2	Departez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_102479	-1
+10810	« Je vos di, 	fet	 Perceval, que je ai mis a son chevez.i. brief qui devise tout son parenté, et coment ele a esté morte, et toutes les aventures que ele a aidiees a achever, que s'il avient que ele arive en estrange païs l'en savra bien qui ele est. » 	6	fet	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_102850	0
+10812	« Car tel porra or le cors trouver, 	fet	 il, qui greignor honor li portera que devant, puis que l'en savra la verité de son estre et de sa vie. » 	10	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_102923	2
+10836	« 	Morz	 estes 	2	Morz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_qgraal_cm_103281	-1
+10871	« Et si ne fust ja, font il, 	avenu	 se ne fust por apaier le corroz au creator dou monde. » 	11	avenu	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_qgraal_cm_103749	-1
+10871	« Et si ne fust ja, 	font	 il, avenu se ne fust por apaier le corroz au creator dou monde. » 	8	font	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_103746	-1
+10978	« Sire, fet Lancelot, 	venez	 veoir s'il vos plaist. » 	7	venez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_105248	0
+10978	« Sire, 	fet	 Lancelot, venez veoir s'il vos plaist. » 	4	fet	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_105245	0
+10996	- Et vos sire, fet Lancelot, 	demorrez	 vos ci ?? 	9	demorrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_105585	2
+10996	- Et vos sire, 	fet	 Lancelot, demorrez vos ci ?? 	6	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_105582	2
+11032	« Voire sire, 	fet	 il, que vos soiez li bien venuz. 	5	fet	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_qgraal_cm_106195	-1
+11052	- 	Vez	 la ci. » 	2	Vez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_106484	-1
+11105	« 	Is	 de cele nef, 	2	Is	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_107379	-1
+11174	« 	Fui	 Lancelot 	2	Fui	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_108224	-1
+11228	« A non Dieu, 	fet	.i. vielz hons qui laienz estoit et qui assez savoit de fisique, 	6	fet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qgraal_cm_109024	1
+11261	« J'ai, fet il, 	veu	 si granz merveilles et si granz beneurtez que ma langue nel vos porroit mie descovrir, ne mes cuers meïsmes nel porroit mie penser com grant chose ce est, 	8	veu	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_qgraal_cm_109524	0
+11261	« J'ai, 	fet	 il, veu si granz merveilles et si granz beneurtez que ma langue nel vos porroit mie descovrir, ne mes cuers meïsmes nel porroit mie penser com grant chose ce est, 	5	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_109521	0
+11276	« Mes por Dieu, fet il, 	dites	 moi en quel leu je sui. » 	9	dites	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_109828	-1
+11276	« Mes por Dieu, 	fet	 il, dites moi en quel leu je sui. » 	6	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_109825	-1
+11318	« 	Ovrez	 	2	Ovrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_110335	-1
+11337	- Sire, 	fet	 il, je sui del roiaume de Logres, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_110536	-1
+11339	- A non Dieu, 	fet	 li rois, or vos conois je bien, 	6	fet	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_qgraal_cm_110560	1
+11363	« Sire, 	fet	 li rois, je vos pri por Dieu que vos me pardoingniez ce que je vos aporté noveles de vostre frere. » 	4	fet	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_110947	0
+11446	« Sire, 	font	 il, ce est une aventure merveilleuse qui ne puet estre menee a chief fors par celui qui passera de bonté et de chevalerie toz les compaignons de la table reonde. 	4	font	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_112135	0
+11447	- Je voldroie, 	fet	 il, s'il vos plesoit que vos me menissiez a l'uis par ou l'en i entre. » 	5	fet	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_112172	-1
+11512	« Sire, fet il, 	essaiez	 se ceste aventure sera par vos menee a fin. 	7	essaiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_113154	0
+11512	« Sire, 	fet	 il, essaiez se ceste aventure sera par vos menee a fin. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_113151	0
+11569	‘ 	Veez	 ci Josephés li premiers evesques des crestiens. Celui meïsmes que Nostre Sires sacra en la cité de Sarraz ou palés esperitel. ’ 	2	Veez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_113977	-1
+11600	« Serjant Jhesucrist qui vos estes traveillié en peine por veoir partie des merveilles dou saint vessel.´ 	asseez	 vos devant ceste table 	19	asseez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_114456	1
+11627	- Ce est, 	fet	 il, l'escuele ou Jhesucriz menja l'aignel le jor de Pasques o ses deciples. 	5	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_114895	-1
+11647	- Ha.´ sire, 	fet	 Galaad, por quoi ne souffrez vos qu'il viegnent tuit o moi ?? 	6	fet	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_qgraal_cm_115261	-1
+11673	Artus li boens rois de Bretaingne, La cui proesce nos enseigne Que nos soiens preu et cortois, 	Tint	 cort si riche come rois A cele feste qui tant coste, Qu'an doit clamer la Pantecoste. 	20	Tint	tenir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_21	0
+11707	- Certes, Kex, ja fussiez crevez, 	Fet	 la reïne, au mien cuidier, Se ne vos poïssiez vuidier Del venin don vos estes plains. 	10	Fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_590	2
+11709	- Dame, se nos n'i gaeignons, Fet Kex, an vostre conpaignie, 	Gardez	 que nos n'i perdiens mie. 	17	Gardez	garder	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_637	1
+11709	- Dame, se nos n'i gaeignons, 	Fet	 Kex, an vostre conpaignie, Gardez que nos n'i perdiens mie. 	10	Fet	faire	VERB	VERcjg	VerbForm=Fin	17	parataxis	_	XmlId=w_YvainKu_630	1
+11711	Et, s'il vos plest, 	teisons	 nos an : 	8	teisons	taire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_665	1
+11719	« Dame, 	fet	 il, de la tançon Ne sui mie en grant sospeçon ; 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_YvainKu_729	0
+11728	- Dame, trestuit cil qui sont ci, 	Fet	 Kex, boen gré vos en savront 	10	Fet	faire	VERB	VERcjg	VerbForm=Fin	17	parataxis	_	XmlId=w_YvainKu_864	3
+11731	Mes, foi que vos devez le roi, Le vostre seignor et le mien, 	Comandez	 li, 	17	Comandez	comander	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_902	1
+11733	- Qualogrenant, 	dist	 la reïne, Ne vos chaille de l'ataïne Monseignor Keu le seneschal ; 	4	dist	dire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_912	-1
+11755	Il m'avint plus a de.vii. anz Que je, seus come païsanz, Aloie querant aventures, 	Armez	 de totes armeüres Si come chevaliers doit estre ; 	20	Armez	armer	VERB	VERppe	Tense=Past|VerbForm=Part	10	acl	_	XmlId=w_YvainKu_1240	4
+11755	Il m'avint plus a de.vii. anz Que je, seus come païsanz, 	Aloie	 querant aventures, Armez de totes armeüres Si come chevaliers doit estre ; 	16	Aloie	aler	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_YvainKu_1236	4
+11758	A quelqu'enui, a quelque painne, 	Ting	 cele voie et ce santier ; 	9	Ting	tenir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_1283	0
+11774	Enmi la cort au vavasor, Cui Dex doint et joie et enor Tant com il fist moi cele nuit, 	Pendoit	 une table ; 	22	Pendoit	pendre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_1482	1
+11790	Et ele me mena seoir El plus bel praelet del monde, 	Clos	 de bas mur a la reonde. 	13	Clos	clore	VERB	VERppe	Tense=Past|VerbForm=Part	9	acl	_	XmlId=w_YvainKu_1658	1
+11811	Uns vileins, qui resanbloit Mor, Leiz et hideus a desmesure, Einsi tres leide criature Qu'an ne porroit dire de boche, 	Assis	 s'estoit sor une çoche, Une grant maçue en sa main. 	26	Assis	asseoir	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_YvainKu_2004	0
+11815	Apoiez fu sor sa maçue, 	Vestuz	 de robe si estrange Qu'il n'i avoit ne lin ne lange, 	7	Vestuz	vestir	VERB	VERppe	Tense=Past|VerbForm=Part	1	acl	_	XmlId=w_YvainKu_2118	4
+11827	“ 	Va	, car me di Se tu es boene chose ou non ! ” 	2	Va	aler	VERB	VERcjg	VerbForm=Fin	6	discourse	_	SpaceAfter=No|XmlId=w_YvainKu_2261	-1
+11834	- 	Gardes	 ? 	2	Gardes	garder	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_2325	-1
+11846	- Je sui, 	fet	 il, uns chevaliers Qui quier ce que trover ne puis ; 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_2508	-1
+11853	- A ce, fet il, 	faudras	 tu bien : 	8	faudras	falir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_2578	-1
+11853	- A ce, 	fet	 il, faudras tu bien : 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_2575	1
+11869	Car tu verras si foudroier, Vanter, et arbres peçoier, Plovoir, 	toner	 et espartir Que, se tu t'an puez departir Sanz grant enui et sanz pesance, Tu seras de meillor cheance Que chevaliers qui i fust onques. ” 	15	toner	toner	VERB	VERinf	VerbForm=Inf	5	conj	_	XmlId=w_YvainKu_2824	2
+11869	Car tu verras si foudroier, Vanter, et arbres peçoier, 	Plovoir	, toner et espartir Que, se tu t'an puez departir Sanz grant enui et sanz pesance, Tu seras de meillor cheance Que chevaliers qui i fust onques. ” 	13	Plovoir	plovoir	VERB	VERinf	VerbForm=Inf	5	conj	_	SpaceAfter=No|XmlId=w_YvainKu_2822	2
+11869	Car tu verras si foudroier, 	Vanter	, et arbres peçoier, Plovoir, toner et espartir Que, se tu t'an puez departir Sanz grant enui et sanz pesance, Tu seras de meillor cheance Que chevaliers qui i fust onques. ” 	7	Vanter	venter	VERB	VERinf	VerbForm=Inf	5	conj	_	SpaceAfter=No|XmlId=w_YvainKu_2816	2
+11877	Li perrons ert d'une esmeraude, 	Perciee	 ausi com une boz, 	8	Perciee	percier	VERB	VERppe	Tense=Past|VerbForm=Part	6	acl	_	XmlId=w_YvainKu_2968	0
+11892	Des que Deu plot, 	vanter	 n'oserent. 	6	vanter	venter	VERB	VERinf	VerbForm=Inf	8	xcomp	_	XmlId=w_YvainKu_3166	-1
+11894	Que joie, s'onques la conui, 	Fet	 tot oblier grant enui. 	9	Fet	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_3194	-1
+11895	Jusque li tans fu trespassez, 	Vi	 sor le pin toz amassez Oisiax, s'est qui croire le vuelle, Qu'il n'i paroit branche ne fuelle Que tot ne fust covert d'oisiax ; 	7	Vi	vëoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_3206	1
+11909	Et cil, come mautalentis, 	Vint	 plus tost c'uns alerions, Fiers par sanblant come lions. 	7	Vint	venir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_3390	1
+11941	Et je, qui mon roi ne savoie, 	Remés	 angoisseus et pansis. 	10	Remés	remanoir	VERB	remanoir	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_3809	3
+11951	Qant je ving la nuit a ostel, 	Trovai	 mon oste tot autel, Ausi lié et ausi cortois Come j'avoie fet einçois. 	9	Trovai	trover	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_3908	1
+11959	- Par mon chief, 	fet	 messire Yvains, Vos estes mes cosins germains, 	6	fet	faire	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_YvainKu_4042	2
+11968	Aprés mangier, sanz remuer, 	Vet	 chascuns Loradin tuer, 	7	Vet	aler	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_4153	-1
+11971	Or tost, por Deu, messire Yvain, 	Movroiz	 vos enuit ou demain ? 	10	Movroiz	movoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_4188	1
+11990	- Certes, dame, de ses ranposnes, 	Fet	 messire Yvains, ne me chaut. 	10	Fet	faire	VERB	VERcjg	VerbForm=Fin	16	parataxis	_	XmlId=w_YvainKu_4385	6
+12038	« Di va ! 	fet	 il, avoec moi vien La fors 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_5056	-1
+12038	« 	Di	 va ! fet il, avoec moi vien La fors 	2	Di	dire	VERB	VERcjg	VerbForm=Fin	10	discourse	_	XmlId=w_YvainKu_5053	-1
+12049	- Sire, 	fet	 il, or aiez pes, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_5161	-1
+12079	Sanz arester et sanz seoir, 	Verssa	 sor le perron de plain De l'eve le bacin tot plain. 	7	Verssa	verser	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_5568	2
+12085	Einz que la joie fust remeise, 	Vint	, d'ire plus ardanz que breise, Uns chevaliers a si grant bruit Con s'il chaçast.i. cerf de ruit. 	8	Vint	venir	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_5624	0
+12154	Si con li deables d'anfer, 	Descent	 la porte 	8	Descent	descendre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_6527	-1
+12170	« Certes, 	fet	 ele, chevaliers, Je criem que mal soiez venuz : 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_6740	-1
+12213	S'aporta.i. chapon en rost Et vin qui fu de boene grape, Plain pot, 	covert	 de blanche nape ; 	18	covert	covrir	VERB	VERppe	Tense=Past|VerbForm=Part	10	acl	_	XmlId=w_YvainKu_7274	1
+12215	Et cil, cui bien estoit mestiers, 	Menja	 	9	Menja	mangier	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_7299	-1
+12219	« Amis, 	Oez	 qu'il vos quierent ja tuit ; 	4	Oez	öir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_7344	-1
+12264	Quequ'il aloient reverchant Desoz liz et desoz eschames, 	Vint	 une des plus beles dames C'onques veïst riens terriene. 	11	Vint	venir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_7908	3
+12274	Que son seignor en voit porter Devant li, en la biere, 	mort	, Don ja ne cuide avoir confort ; 	14	mort	morir	VERB	VERppe	Tense=Past|VerbForm=Part	3	acl	_	SpaceAfter=No|XmlId=w_YvainKu_8022	1
+12336	- Par foi, 	fet	 il, vos dites voir ; 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_8758	-1
+12419	Et list en.i. sautier ses saumes, 	Anluminé	 a letres d'or. 	9	Anluminé	enluminer	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl	_	XmlId=w_YvainKu_9828	1
+12486	N'ainz mes ne cuit qu'il avenist Que nus hom qui prison tenist, Tel con messire Yvains la tient, Que de la teste perdre crient, 	Amast	 an si fole meniere, Dom il ne fera ja proiere Ne autres por lui, puet cel estre. 	30	Amast	amer	VERB	VERcjg	VerbForm=Fin	8	ccomp	_	XmlId=w_YvainKu_10564	6
+12496	D'autre part, 	ra	 tel covoitié De la bele dame veoir Au moins, se plus n'en puet avoir, Que de la prison ne li chaut : 	5	ra	avoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_10724	2
+12502	Por Deu, 	dites	 vos voir ? 	4	dites	dire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_10833	-1
+12506	- Certes, fet il, ma dolce amie, 	Morir	 n'i voldroie je mie, 	11	Morir	morir	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_YvainKu_10869	3
+12506	- Certes, 	fet	 il, ma dolce amie, Morir n'i voldroie je mie, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_YvainKu_10862	-1
+12523	La dameisele, qui fu brete, 	Fu	 de lui servir an espans, 	8	Fu	estre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_11052	1
+12533	Dame, 	cuidiez	 vos recovrer Vostre seignor por vostre duel ? 	3	cuidiez	cuidier	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_11181	-1
+12541	- 	Fui	 ! 	2	Fui	fuir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_11270	-1
+12564	« 	Fui	 ! 	2	Fui	fuir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_11499	-1
+12569	- A ben eor, 	fet	 ele, dame, Bien i pert que vos estes fame, Qui se corroce quant ele ot Nelui qui bien feire li lot. » 	6	fet	faire	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_YvainKu_11539	2
+12636	« Viax tu donc, fet ele, 	noier	 Que par toi ne soit morz mes sire ? 	9	noier	noiier	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_YvainKu_12297	0
+12636	« Viax tu donc, 	fet	 ele, noier Que par toi ne soit morz mes sire ? 	6	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_12294	0
+12637	- Ce, 	fet	 il, ne puis je desdire, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_12310	-1
+12639	- 	Di	 donc por coi. 	2	Di	dire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_12324	-1
+12645	Por ce, mien esciant, 	cuit	 gié Que j'ai bien et a droit jugié. » 	7	cuit	cuidier	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_12394	3
+12715	N'est riens que ele li acroie Qui coveigne a lui acesmer : Fermail d'or a son col fermer, 	Ovré	 a pierres precieuses Qu'il font leanz mout gracieuses, Et ceinturete et aumosniere Qui fu d'une riche sainiere ; 	22	Ovré	ovrer	VERB	VERppe	Tense=Past|VerbForm=Part	14	acl	_	XmlId=w_YvainKu_13231	1
+12736	- Certes, 	fet	 il, ce voel je bien, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_13491	-1
+12755	Mout grant peor, ce vos creant, 	Ot	 messire Yvains a l'entree De la chanbre, ou il ont trovee La dame, qui ne li dist mot ; 	9	Ot	avoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_13677	1
+12775	- Einz mes, 	fet	 ele, n'oï tel, 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_13919	-1
+12784	Qui autrui vialt ocirre ou prandre, Se cil l'ocit qui se desfant, 	Dites	 se de rien i mesprant. 	16	Dites	dire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_14078	-1
+12790	- Dame, 	fet	 il, la force vient De mon cuer, qui a vos se tient ; 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_14154	-1
+12795	- 	Sachiez	 donc, 	2	Sachiez	savoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_14347	-1
+12824	« Seignor, 	fet	 il, guerre nos sourt : 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_14654	-1
+12840	Si se fet preier de son buen, Tant que, ausi con mau gré suen, 	Otroie	 ce qu'ele feïst Se chascuns li contredeïst, 	18	Otroie	otroiier	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_YvainKu_14867	2
+12849	Sanz ce qu'il est de haut parage, 	Est	 il de si grant vasselage 	10	Est	estre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_14969	0
+12903	- Sire, 	fet	 il, et je m'an tes, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_YvainKu_15622	-1
+12912	« Kex, 	fet	 li rois, des qu'il vos plest Et devant toz l'avez rovee, Ne vos doit pas estre vehee. » 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	25	parataxis	_	XmlId=w_YvainKu_15764	0
+12937	« Sire, 	feites	 prendre Ce cheval, 	4	feites	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_16025	0
+12974	« Bien vaingne, 	font	 il, ceste rote Qui de tant prodomes est plainne. 	5	font	faire	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_YvainKu_16438	2
+12983	La ou descendent les puceles, 	Sonent	 flaütes et vieles, Tympre, freteles et tabor ; 	7	Sonent	soner	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_16557	1
+13001	- Et vostre cors et vostre chiés, Fet li rois, bele criature, 	Ait	 joie et grant boene aventure ! » 	16	Ait	avoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_16777	2
+13001	- Et vostre cors et vostre chiés, 	Fet	 li rois, bele criature, Ait joie et grant boene aventure ! » 	9	Fet	faire	VERB	VERcjg	VerbForm=Fin	16	parataxis	_	XmlId=w_YvainKu_16770	2
+13010	Que de lui est tot autresi Chevalerie anluminee Come solauz, la matinee, 	Oevre	 ses rais 	15	Oevre	ovrir	VERB	VERcjg	VerbForm=Fin	8	advcl	_	XmlId=w_YvainKu_16918	0
+13059	Certes, 	venir	 vos an estuet, 	3	venir	venir	VERB	VERinf	VerbForm=Inf	6	xcomp	_	XmlId=w_YvainKu_17609	-1
+13073	Tex done boen consoil autrui, Qui ne savroit conseillier lui, Ausi con li preescheor Qui sont desleal lecheor, 	Enseignent	 et dïent le bien Dom il ne vuelent feire rien ! » 	22	Enseignent	enseignier	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_YvainKu_17811	1
+13084	« Biax sire, 	comander	 Me poez ce qui boen vos iert. » 	5	comander	comander	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_YvainKu_17955	0
+13091	Se vos volez m'amor avoir Et de rien nule m'avez chiere, 	Pansez	 de tost venir arriere, A tot le moins jusqu'a.i. an,.VIII. jorz aprés la Saint Johan, C'ui an cest jor sont les huitaves. 	15	Pansez	penser	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_18060	1
+13101	- Sire, 	fet	 ele, et je l'i met ; 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_YvainKu_18228	-1
+13116	Einz li tardoit que l'en eüst Toz lor palefroiz amenez, 	Apareilliez	 et anfrenez. 	13	Apareilliez	apareillier	VERB	VERppe	Tense=Past|VerbForm=Part	11	conj	_	XmlId=w_YvainKu_18401	0
+13123	La dame, por ce qu'ele plore, 	Prie	 li rois de remenoir Et de raler a son menoir ; 	10	Prie	priier	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_18503	1
+13137	S'a fet cuer d'estrenge meniere De s'esperance qui se vant, 	Traïte	 et fause de covant. 	15	Traïte	träitor	VERB	VERcjg	VerbForm=Fin	11	acl	_	XmlId=w_YvainKu_18687	1
+13171	S'estoit fos, 	souduianz	 et lerres. 	5	souduianz	souduire	VERB	VERppa	Tense=Pres|VerbForm=Part	3	conj	_	XmlId=w_YvainKu_19112	-1
+13344	Mes la robe mie n'en oste Por ce que, se cil se ravoie, 	Vialt	 qu'apareilliee la voie Et qu'il la preigne, 	17	Vialt	voloir	VERB	VERcjg	VerbForm=Fin	9	acl	_	XmlId=w_YvainKu_21141	0
+13374	- Ha ! fet il, dameisele sage, 	Trovez	 me sui an cest boschage, 	10	Trovez	trover	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_YvainKu_21521	1
+13374	- Ha ! 	fet	 il, dameisele sage, Trovez me sui an cest boschage, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_21515	-1
+1349	« 	Vencut	 est le culvert. 	2	Vencut	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_12418	-1
+13517	Et, quant il parvint cele part, 	Vit	.i. lyon, en un essart, Et.i. serpant qui le tenoit Par la coe, 	9	Vit	vëoir	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_23437	1
+13532	Mes que qu'il l'en aveingne aprés, 	Eidier	 li voldra il adés, 	10	Eidier	aidier	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_YvainKu_23601	4
+13535	A s'espee, qui soef tranche, 	Va	 le felon serpant requerre ; 	9	Va	aler	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_23634	-1
+13552	Messire Yvains, por verité, 	Set	 que li lyons le mercie Et que devant lui s'umilie Por le serpant que il a mort Et lui delivré de la mort ; 	7	Set	savoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_23805	1
+13554	Por le venin et por l'ordure Del serpant, 	essuie	 s'espee, 	11	essuie	essuier	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_23848	-1
+13607	Et s'espee, qui ert colanz, 	Chiet	 del fuerre, 	9	Chiet	chëoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_24469	-1
+13649	« Dex ! 	fet	 ele, que voi ge la ? 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_24984	-1
+13652	- Je sui, 	fet	 ele, une cheitive, La plus dolante riens qui vive. » 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_25015	-1
+13654	« 	Tes	, fole riens ! 	2	Tes	taire	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_25034	-1
+13660	- Par foi, 	fet	 ele, jel sai bien, 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_25114	-1
+13671	- Or primes, 	fet	 il, puis je dire Que li miens diax et la moie ire A la vostre dolor passee, 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_25273	2
+13681	- Por le quel, 	fet	 il, l'avez dit ? 	6	fet	faire	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_YvainKu_25431	-1
+13702	Sire, por Deu, com esfreee Tot maintenant, sanz consoil prendre, 	Dis	 je m'an feroie desfandre D'un chevalier ancontre trois. 	15	Dis	dire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_25794	2
+13728	Que qu'aveigne de la bataille, 	Gardez	 que l'en ne m'i conoisse. 	8	Gardez	garder	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_26137	1
+13737	- Mout avez or dit grant enui, 	Fet	 messire Yvains, bele amie. 	9	Fet	faire	VERB	VERcjg	VerbForm=Fin	5	parataxis	_	XmlId=w_YvainKu_26267	-1
+13745	que je m'an vois, Ou que soit, 	logier	 an ce bois, 	11	logier	logier	VERB	VERinf	VerbForm=Inf	5	xcomp	_	XmlId=w_YvainKu_26371	-1
+13747	- Sire, 	fet	 ele, Dex vos doint Et boen ostel et boene nuit, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_26388	-1
+13773	« Bien soiez vos, Biax sire, 	venuz	 antre nos, 	9	venuz	venir	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_YvainKu_26699	-1
+13789	« Por Deu, 	fet	 il, biax dolz chiers sire, Ice pleiroit vos il a dire Por coi m'avez tant enoré Et tant fet joie, et puis ploré ? 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w_YvainKu_26869	-1
+13796	- Donc, 	fet	 il, le vos dirai gié. 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_26989	-1
+13822	« Sire, 	fet	 il, de vostre enui Mout iriez et mout dolanz sui, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_YvainKu_27363	0
+13840	- Biax sire, de la volanté Vos merci ge, 	fet	 li prodom,.C. mile foiz en un randon. » 	12	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_27707	1
+13887	Et sachiez bien certainnemant Que volentiers et boenemant, Se trop n'eüsse grant besoing Et mes afeires ne fust loing, 	Demorasse	 encor une piece, Por les neveuz et por la niece Monseignor Gauvain, que j'aim mout. » 	23	Demorasse	demorer	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_YvainKu_28304	5
+13895	Et la pucele, qui s'esmaie, 	Comance	 mout fort a plorer, 	9	Comance	comencier	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_28446	-1
+14028	Car einz que midis soit passez, 	Avrai	 aillors a feire assez Se je i puis venir a ore. » 	8	Avrai	avoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_30128	5
+14048	« 	Lessiez	, 	2	Lessiez	laissier	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_30385	-1
+14072	“ Et cest mantel et cest sorcot Et ceste cote, chiere dame, 	Donez	 a ceste franche fame, 	15	Donez	doner	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_30656	-1
+14083	Et cil, qui mout l'avoit amee, 	Vient	 vers li, 	10	Vient	venir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_30787	1
+14095	« Ha ! 	dist	 il, fame, chose avere De voir dire et de mantir large ! Mout est po sages qui encharge, Por ta parole, si grant fes ; 	4	dist	dire	VERB	VERcjg	VerbForm=Fin	22	parataxis	_	XmlId=w_YvainKu_30929	-1
+1411	E vos, compainz, 	ferrez	 de Halteclere. 	6	ferrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_13021	-1
+14197	- Certes, 	fet	 ele, ce me poise. 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_32220	-1
+14200	- Dame, 	fet	 il, que qu'il me griet, Trestot me plest ce que li siet, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	XmlId=w_YvainKu_32263	-1
+14203	- 	Set	 le donc nus, se vos dui non ? 	2	Set	savoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_32309	-1
+14217	- Dame, 	fet	 il, Dex vos en oie ! » 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_32507	-1
+14226	« Sire, 	fet	 ele, non iert il. » 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_32601	-1
+14244	- Ce presant, 	fet	 il, vuel je prendre, 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_32815	2
+14284	Atant vint l'autre suer a cort, 	Afublee	 d'un mantel cort D'escarlate forré d'ermine ; 	9	Afublee	afubler	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl	_	XmlId=w_YvainKu_33266	1
+14293	Qu'ele avoit en mainte meniere, Et par amor et par proiere, 	Essaié	 monseignor Gauvain, 	15	Essaié	essaiier	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_YvainKu_33435	2
+14300	« Rois, 	fet	 ele, je ving a toi Et a ta cort querre consoil ; 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_33491	0
+14306	- Vos dites, 	fet	 li rois, que sage 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_YvainKu_33582	-1
+14315	que plus i estuet ; S'ele viaut, 	porchacier	 se puet Au moins jusqu'a.xiiii. jorz Au jugemant de totes corz. » 	10	porchacier	porchacier	VERB	VERinf	VerbForm=Inf	4	advcl	_	XmlId=w_YvainKu_33700	3
+14350	Que par trois foiz, mout longuemant, 	Sona	 li corz et hautemant. 	9	Sona	soner	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_34162	1
+14376	- Gié, 	fet	 cil, l'en report tesmoing, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_34428	-1
+14382	- Por Deu, sire, 	dit	 la pucele, Car me dites voire novele Se vos savez ou il torna Et s'il en nul leu sejorna ! 	7	dit	dire	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_YvainKu_34515	-1
+14386	- Et Dex, 	fet	 ele, me maint la Ou je voire novele en oie ! 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_34571	-1
+14396	- Nenil, 	font	 il, nos n'en savons Fors tant con dit vos en avons, 	4	font	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_34754	-1
+14404	« 	Veez	 la la. » 	2	Veez	vëoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_34857	-1
+14437	- Par foi, pucele, 	fet	 li sire, Il parti or endroit de nos ; 	7	fet	faire	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_YvainKu_35236	2
+14440	- Sire, 	fet	 ele, Dex m'an gart ! 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_35268	-1
+14485	- N'ai soing, 	fet	 il, de reposer ; 	6	fet	faire	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_YvainKu_35803	-1
+14500	- Ha ! 	fet	 il, gent fole et vilainne, Gent de tote malvestié plainne, Qui a toz biens avez failli, Por coi m'avez si asailli ? 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	30	parataxis	_	XmlId=w_YvainKu_35965	-1
+14508	- Gent sanz enor et sanz bonté, 	Fet	 messire Yvains, qui escote, Gent enuieuse, gent estoute, Por coi m'asauz ? 	9	Fet	faire	VERB	VERcjg	VerbForm=Fin	25	parataxis	_	XmlId=w_YvainKu_36096	-1
+14524	Mes, par mon los, 	retorneras	. 	7	retorneras	retorner	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_36278	-1
+14525	- Dame, 	fet	 il, se je creoie Vostre consoil, je cuideroie Que g'i eüsse enor et preu ; 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w_YvainKu_36283	-1
+14527	- Par foi, 	fet	 cele, et je m'an tes, 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_YvainKu_36318	2
+14532	- Dame, 	fet	 il, Dex le vos mire ! 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_36371	-1
+14538	« 	Venez	 tost, 	2	Venez	venir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_36423	-1
+14571	- Ne je ne quier, 	fet	 il, biax frere. 	7	fet	faire	VERB	VERcjg	VerbForm=Fin	5	parataxis	_	XmlId=w_YvainKu_36728	-1
+14576	- Je, 	fet	 il, nel vos dirai mie. 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_36813	-1
+14590	- Por el, 	fet	 il, ne ving je ça. 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_36955	-1
+14633	Que trestot seul, de vostre main, Vos covandra, voilliez ou non, 	Conbatre	 et perdre vostre non Encontre les.ii. vis deables. 	16	Conbatre	combatre	VERB	VERinf	VerbForm=Inf	10	xcomp	_	XmlId=w_YvainKu_37510	2
+14633	Que trestot seul, de vostre main, Vos covandra, 	voilliez	 ou non, Conbatre et perdre vostre non Encontre les.ii. vis deables. 	12	voilliez	voloir	VERB	VERcjg	VerbForm=Fin	10	advcl	_	XmlId=w_YvainKu_37506	2
+14634	- Dex, li voirs rois esperitables, 	Fet	 messire Yvains, m'an desfande 	9	Fet	faire	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	XmlId=w_YvainKu_37529	1
+14636	Des or mes aler m'an covient Et veoir genz qui leanz sont, 	Savoir	 quel chiere il me feront. 	15	Savoir	savoir	VERB	VERinf	VerbForm=Inf	4	conj	_	XmlId=w_YvainKu_37564	1
+14716	- Sire, 	fet	 il, je n'en quier point. 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_38517	-1
+14721	- 	Teisiez	, biax ostes, 	2	Teisiez	taire	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_38564	-1
+1473	Tere Major, ço dit, 	metrat	 a hunte, 	7	metrat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_13615	-1
+14732	- Donc m'i covient il tote voie Conbatre, 	maleoit	 gré mien ; 	11	maleoit	malëir	VERB	VERppe	Tense=Past|VerbForm=Part	12	acl	_	XmlId=w_YvainKu_38711	1
+14735	La bataille, ce poise moi, 	Ferai	, 	8	Ferai	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_38736	-1
+14751	« Vasax, 	ostez	 de ceste place Vostre lyeon, qui nos menace, 	4	ostez	oster	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_38915	0
+14756	- Vos meïsmes, qui le dotez, 	Fet	 messire Yvains, l'en ostez, 	9	Fet	faire	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	XmlId=w_YvainKu_38987	2
+14760	- Par foi, 	font	 il, ce n'i est mie, 	5	font	faire	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_YvainKu_39028	1
+14767	- Ou volez vos, 	fet	 cil, qu'il soit ? 	6	fet	faire	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_YvainKu_39121	-1
+14772	- 	Fet	 iert, des que vos le volez. » 	2	Fet	faire	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_YvainKu_39153	-1
+14841	« 	Ostez	 vostre lyeon, biax sire, Se vos plest, que plus ne m'adoist, 	2	Ostez	oster	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_39925	-1
+14847	- Di donc, 	fet	 cil, se tu otroies Que vaincuz et recreanz soies. 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	2	parataxis	_	XmlId=w_YvainKu_40013	-1
+14847	- 	Di	 donc, fet cil, se tu otroies Que vaincuz et recreanz soies. 	2	Di	dire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_40010	-1
+14848	- Sire, 	fet	 il, il i pert bien : 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_40028	-1
+14849	Veincuz sui, 	maleoit	 gré mien, Et recreanz, 	4	maleoit	malëir	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl	_	XmlId=w_YvainKu_40039	0
+14861	- Et je, 	fet	 il, la vos redoing. 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_40131	-1
+14868	Mes, s'il vos plest, 	delivrez	 moi Les cheitives que vos avez ; 	8	delivrez	delivrer	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_40187	-1
+14870	- Voirs est, 	fet	 il, ce que vos dites, 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	2	parataxis	_	XmlId=w_YvainKu_40215	-1
+14876	- Sire, 	fet	 il, vos ne savez Mon essoine ne mon afeire, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_40281	-1
+14885	- 	Volez	, biax sire ? 	2	Volez	voloir	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_40392	-1
+14894	si m'an creez, Q'ainsi con vos or me veez, 	Revanrai	 ça se j'onques puis Et panrai vostre fille puis. 	14	Revanrai	revenir	VERB	VERcjg	VerbForm=Fin	4	ccomp	_	XmlId=w_YvainKu_40514	2
+14895	Se ma fille vos atalante, 	Recevez	 la por bele et gente, 	7	Recevez	recevoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_40550	2
+14914	« Je ne sai, 	fet	 il, que vos dites, 	6	fet	faire	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_YvainKu_40778	0
+14927	« 	Alez	, 	2	Alez	aler	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_40900	-1
+14933	D'errer a grant esploit ne fine Trestoz les jorz de la semainne, Si con la pucele l'en mainne, Qui la voie mout bien savoit Et le recet ou ele avoit Lessiee la desheritee, 	Desheitiee	 et desconfortee. 	39	Desheitiee	deshaitier	VERB	VERppe	Tense=Past|VerbForm=Part	37	acl	_	XmlId=w_YvainKu_40978	-1
+14963	La dameisele qui tort a Vers sa seror trop en apert, 	Veant	 toz l'a a cort offert, 	13	Veant	vëoir	VERB	VERppa	Tense=Pres|VerbForm=Part	19	xcomp	_	XmlId=w_YvainKu_41417	2
+15014	« Certes, 	fet	 ele, ce me poise Que por nos.ii. se conbatront Dui si preudome con cist sont. 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_42013	-1
+15019	- Certes, qui or te respondroit, 	Fet	 l'autre, mout seroit musarde. 	9	Fet	faire	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	XmlId=w_YvainKu_42075	1
+15035	Neïs ci, s'il le conuissoit, 	Feroit	 il ja de lui grant feste ; 	9	Feroit	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_42302	-1
+15082	Ou s'il avient par aventure Qu'il li ait fet nule leidure Ou de que que soit le sormaint, 	Avra	 il droit se il se plaint ? 	22	Avra	avoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_42965	-1
+1510	« 	Ferez	 i, chevaler ! » 	2	Ferez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_13871	-1
+15120	Et tuit le roi proier an vienent Que, mau gré l'ainznee seror, 	Doint	 de la terre a la menor La tierce partie ou la quarte Et les.ii. chevaliers departe, 	16	Doint	doner	VERB	VERcjg	VerbForm=Fin	5	obl	_	XmlId=w_YvainKu_43468	2
+15149	« Sire, 	fet	 il, la nuiz aproche ; 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_43855	0
+15160	- Par foi, 	fet	 messire Gauvains, N'iestes si estonez ne vains Que je autant ou plus ne soie ; 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_YvainKu_43981	2
+15168	Par mautalant et par corroz, 	Flati	 a la terre s'espee, Qui tote estoit ansanglantee, Et son escu tot depecié ; 	7	Flati	flatir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_44106	1
+15204	« Seignor, fet li rois, 	dites	 nos Qui a si tost mis antre vos Ceste amistié et ceste acorde, 	8	dites	dire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_44457	1
+15204	« Seignor, 	fet	 li rois, dites nos Qui a si tost mis antre vos Ceste amistié et ceste acorde, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_44453	-1
+15206	- Sire, ja ne vos iert teüe, 	Fet	 messire Gauvains, ses niés, La mescheance et li meschiés Don ceste bataille a esté. 	10	Fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_44494	5
+15226	« Seignor, 	fet	 il, antre vos deus A grant amor, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_44818	-1
+15232	« Ou est, 	fet	 il, la dameisele Qui sa seror a fors botee De sa terre et deseritee Par force et par male merci ? 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_YvainKu_44904	-1
+15233	- Sire, 	fet	 ele, je sui ci. 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_44930	-1
+15244	- Por ce, 	fet	 li rois, voel je rendre A vostre seror sa droiture, 	5	fet	faire	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_YvainKu_45035	-1
+15264	- 	Revestez	 l'an tot or endroit, 	2	Revestez	revestir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_45293	-1
+15278	« Estez, 	fet	 messire Yvains, tuit. 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	2	parataxis	_	XmlId=w_YvainKu_45461	0
+15278	« 	Estez	, fet messire Yvains, tuit. 	2	Estez	ester	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_45459	-1
+1528	« 	Ferez	, Paien, 	2	Ferez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_14010	-1
+15299	Qant anbedeus gariz les ot, Messire Yvains, qui sanz retor Avoit son cuer mis en amor, 	Vit	 bien que durer n'i porroit Et por amor an fin morroit Se sa dame n'avoit merci De lui, qui se moroit ensi. 	20	Vit	vëoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_45769	4
+15317	« 	Maleoiz	 soit li premiers hom Qui fist an cest païs meison Et cil qui cest chastel fonderent ! 	2	Maleoiz	malëir	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_YvainKu_46010	-1
+15331	- Tu, 	fet	 la dame, qui tant sez, Me di comant j'en panserai, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_YvainKu_46187	-1
+15352	- Ce, 	fet	 la dame, ne me poise. » 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_46577	-1
+15357	« Dame, fet ele, 	hauciez	 la main ! 	7	hauciez	haucier	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_46650	0
+15357	« Dame, 	fet	 ele, hauciez la main ! 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_YvainKu_46647	0
+15369	A bele chiere, a lié sanblant, 	Monte	 Lunete ; 	9	Monte	monter	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_46841	0
+15390	- Sire, 	fet	 ele, or ne vos chaille, 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_47096	-1
+15406	« Dame, 	relevez	 l'an, 	4	relevez	relever	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_47340	0
+15412	- Certes, dame, ja nel deïsse, 	Fet	 Lunete, s'il ne fust voirs. 	10	Fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_47414	-1
+15420	Dame, 	pardonez	 li vostre ire, 	3	pardonez	pardoner	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_YvainKu_47513	-1
+15443	- Certes, 	fet	 ele, je voel bien, Por ce que parjure seroie Se tot mon pooir n'en feisoie, La pes feire antre vos et moi. 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_47755	-1
+15481	- Pere, 	fait	 Aucassins, qu'en parlés vos ore ? 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w151_00381	-1
+15483	- Fix, 	fait	 li peres, ce ne poroit estre. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w151_00446	-1
+15493	- Avoi ! peres, 	fait	 Aucassins, ou est ore si haute honers en terre, se Nicolete ma tresdouce amie l'avoit, qu'ele ne fust, bien enploiie en li ? 	6	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w151_00572	1
+15503	puis qu'à moullié te vix traire, 	pren	 femme de haut parage. 	9	pren	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_00724	1
+15520	- Sire, 	fait	 li visquens, ce poise moi qu'il i va ne qu'il i vient ne qu'il i parole. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w151_00894	-1
+15536	Nicole est en prison mise en une canbre vautie ki faite est par grant devisse, 	panturee	 a miramie. 	17	panturee	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	conj	_	XmlId=w151_01128	1
+15590	- Certes, 	fait	 li visquens, por nient en parlerés, 	4	fait	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w151_01794	-1
+15617	« Ha ! fix, 	fait	 il, con par es caitis et maleurox, 	6	fait	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w151_02113	-1
+15628	- Pere, 	fait	 Aucassins, qu'en parlés vous ore ? 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w151_02231	-1
+15630	- Fix, 	dist	 li pere, ce ne puet estre : 	4	dist	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w151_02291	-1
+15634	« Peres, fait Aucassins, 	venés	 avant : 	7	venés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_02350	-1
+15634	« Peres, 	fait	 Aucassins, venés avant : 	4	fait	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w151_02347	-1
+15676	« Ha ! Dix, 	fait	 il, douce creature ! sont çou mi anemi mortel qui ci me mainent et qui ja me cauperont le teste ? 	6	fait	_	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	XmlId=w151_02772	-1
+15697	« Pere, fait Aucassins, 	ves	 ci vostre anemi qui tant vous a gerroié et mal fait : 	7	ves	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_03042	3
+15697	« Pere, 	fait	 Aucassins, ves ci vostre anemi qui tant vous a gerroié et mal fait : 	4	fait	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w151_03039	-1
+15700	- Biax fix, 	fait	 li pere, tes enfances devés vos faire, nient baer a folie. 	5	fait	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w151_03074	-1
+15701	- Pere, 	fait	 Aucassins, ne m'alés mie sermonant, 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w151_03092	-1
+15717	- Certes, 	fait	 Aucassins, je sui molt dolans quant hom de vostre eage ment. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w151_03288	-1
+15718	Quens de Valence, 	fait	 Aucassins, je vos ai pris. 	5	fait	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w151_03306	-1
+15720	- 	Bailiés	 ça vostre main, 	2	Bailiés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_03324	-1
+15723	« Ce m'afiés vos, 	fait	 Aucassins, que, a nul jor que vos aiés a vivre, ne porrés men pere faire honte ne destorbier de sen cors ne de sen avoir que vos ne li faciés. 	7	fait	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w151_03353	-1
+15724	- Sire, por Diu, 	fait	 il, ne me gabés mie ; 	7	fait	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w151_03394	-1
+15730	- Ja Dix ne m'aït, 	fait	 Aucassins, se vos ne le m'afiés, se je ne vous fac ja cele teste voler. 	8	fait	_	VERB	VERcjg	VerbForm=Fin	6	parataxis	_	XmlId=w151_03469	-1
+15731	- Enondu ! 	fait	 il, je vous afie quanque il vous plaist. » 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w151_03492	-1
+15738	Quant or i vint Aucassin, 	dolans	 fu, 	7	dolans	_	VERB	VERppa	Tense=Pres|VerbForm=Part	0	root	_	XmlId=w151_03580	1
+15813	« Bele douce amie, 	fait	 il, vos n'en irés mie, 	6	fait	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w151_04452	0
+15823	- A ! 	fait	 ele, je ne quit mie que vous m'amés tant con vos dites ; 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w151_04609	1
+15825	- Avoi ! 	fait	 Aucassins, bele douce amie, ce ne porroit estre que vos m'amissiés tant que je fac vos. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w151_04639	1
+15841	bien le voi a ton sanblant, 	parlé	 as a ton amant qui por toi se va morant. 	8	parlé	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	dislocated	_	XmlId=w151_04920	-1
+15850	« Hé ! 	fait	 Nicolete, l'ame de ten pere et de te mere soit en benooit repos, quant si belement et si cortoisement le m'as ore dit. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	16	parataxis	_	XmlId=w151_04986	0
+15863	« Hé ! Dix, 	fait	 ele, douce creature ! se je me lais caïr, je briserai le col, 	6	fait	_	VERB	VERcjg	VerbForm=Fin	19	parataxis	_	XmlId=w151_05124	0
+1587	Ki quel cumpert, 	venuz	 en sunt ensemble. 	5	venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_14552	2
+15903	« Bel enfant, 	fait	 ele, Damedix vos i aït ! 	5	fait	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w151_05651	0
+15906	- Bel enfant, fait ele, 	conissiés	 vos Aucassin, le fil le conte Garin de Biaucaire ? 	8	conissiés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_05681	-1
+15906	- Bel enfant, 	fait	 ele, conissiés vos Aucassin, le fil le conte Garin de Biaucaire ? 	5	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w151_05678	-1
+15908	- Se Dix vos aït, bel enfant, fait ele, 	dites	 li qu'il a une beste en ceste forest et qu'i le viegne cacier, 	13	dites	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_05713	1
+15908	- Se Dix vos aït, bel enfant, 	fait	 ele, dites li qu'il a une beste en ceste forest et qu'i le viegne cacier, 	10	fait	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w151_05710	1
+15921	- Ha ! bel enfant, 	fait	 ele, si ferés. 	7	fait	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w151_05891	4
+15928	- Par foi, 	fait	 il, les deniers prenderons nos, 	5	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w151_05956	2
+15960	« Aucassins, 	fait	 il, d'ausi fait mal con vos avés ai je esté malades. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	17	parataxis	_	XmlId=w151_06349	0
+15963	- 	Montés	 sor un ceval, 	2	Montés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_06392	-1
+15998	- Bel enfant, fait il, 	redites	 le cançon que vos disiés ore. 	8	redites	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_06703	2
+15998	- Bel enfant, 	fait	 il, redites le cançon que vos disiés ore. 	5	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w151_06700	-1
+16001	- Bel enfant, 	fait	 Aucassins, enne me conissiés vos ? 	5	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w151_06740	-1
+16007	- Os, por le cuerbé ! 	fait	 cil ; por quoi canteroie je por vos, s'il ne me seoit, quant il n'a si rice home en cest païs, sans le cors le conte Garin, s'il trovoit mé bués ne mes vaces ne mes brebis en ses pres n'en sen forment, qu'il fust mie tant herdis por les ex a crever qu'il les en ossast cacier ? 	8	fait	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w151_06793	1
+16015	- De par Diu, 	fait	 Aucassins, encor aim je mix conter que nient. 	6	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w151_06939	-1
+16026	- Bel enfant, 	fait	 Aucassins, assés en avés dit, 	5	fait	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w151_07144	-1
+1608	« Marsilie ! 	Cevalche	, rei, 	4	Cevalche	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_14769	-1
+16080	- Certes, 	fait	 Aucassins, je le vos dirai molt volentiers : 	4	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w151_07712	-1
+16085	- Os ! 	fait	 cil, por le cuer que cil Sires eut en sen ventre ! 	4	fait	_	VERB	VERcjg	VerbForm=Fin	2	parataxis	_	XmlId=w151_07757	1
+16117	- Or tien, 	fait	 Aucassins, vint que j'ai ci en me borse, 	5	fait	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w151_08097	-1
+16126	« E ! Dix, 	fait	 Aucasins, ci fu Nicolete me douce amie, 	6	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w151_08209	1
+16161	« Ha ! douce amie, 	fait	 Aucassins, j'estoie ore molt bleciés en m'espaulle, 	7	fait	_	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w151_08527	-1
+16170	« Aucassins, fait ele, biaus dox amis, 	prendés	 consel que vous ferés : 	11	prendés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_08638	0
+16170	« Aucassins, 	fait	 ele, biaus dox amis, prendés consel que vous ferés : 	4	fait	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w151_08631	0
+16175	et prent s'amie devant lui, 	baisant	 et acolant, 	8	baisant	_	VERB	VERppa	Tense=Pres|VerbForm=Part	2	advcl	_	XmlId=w151_08705	-1
+16237	« Ha ! biax sire, 	fait	 li rois, que me demandés vos ? 	7	fait	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w151_09298	3
+16239	- Par le cuer Diu ! 	fait	 Aucassins, malvais fix a putain, je vos ocirai, se vos ne m'afiés que ja mais hom en vo tere d'enfant ne gerra. » 	7	fait	_	VERB	VERcjg	VerbForm=Fin	17	parataxis	_	XmlId=w151_09326	-1
+16242	« Sire, 	fait	 Aucassins, or me menés la u vostre fenme est en l'ost. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w151_09370	0
+16263	« Sire, 	fait	 Aucassins, sont ce ci vostre anemi ? 	4	fait	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w151_09559	0
+16273	- Conment ? 	fait	 Aucassins, en volés vos que je vos venge ? 	4	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w151_09663	-1
+16274	- Sire, 	dist	 li rois, trop en avés vos fait : 	4	dist	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w151_09677	-1
+16346	« Bele douce amie, fait il, 	dites	 moi qui vos estes ; 	9	dites	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_10457	0
+16346	« Bele douce amie, 	fait	 il, dites moi qui vos estes ; 	6	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w151_10454	0
+16348	- Sire, 	fait	 ele, je sui fille au roi de Cartage 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w151_10473	-1
+16385	« 	Escoutés	 moi, franc baron. cil d'aval et cil d'amont ; 	2	Escoutés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_10818	-1
+16402	« Biax dous amis, fait Aucassins, 	savés	 vos nient de cele Nicolete dont vos avés ci canté ? 	9	savés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w151_10988	0
+16402	« Biax dous amis, 	fait	 Aucassins, savés vos nient de cele Nicolete dont vos avés ci canté ? 	6	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w151_10985	0
+16409	- Ha ! biax dox amis, 	fait	 li quens Aucassins, se vous voliiés raler en cele terre, se li dississçiés, qu'ele venist a mi parler, je vos donroie de mon avoir tant con vos en oseriés demander ne prendre. 	8	fait	_	VERB	VERcjg	VerbForm=Fin	34	parataxis	_	XmlId=w151_11114	4
+16414	- Sire, 	fait	 ele, se vos çou faissiés, je l'iroie querre por vos et por li que je molt aim. » 	4	fait	_	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w151_11203	-1
+16420	« Sire, 	fait	 ele, ne vos esmaiiés pas, que dusqu'a pou le vos arai en ceste vile amenee, se que vos le verrés. » 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w151_11264	0
+1648	« 	Cornerai	 l'olifant, 	2	Cornerai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_15133	-1
+16522	Cum veit le lit, 	esguardat	 la pulcela, 	6	esguardat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_AlexisRaM_484	1
+16524	« E ! Deus, 	dist	 il, cum fort pecét m'apresset, 	6	dist	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_AlexisRaM_510	1
+16530	« 	Oz	 mei, pulcele, 	2	Oz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_AlexisRaM_579	-1
+16553	larges almosnes, que gens ne l'en remest, 	dunet	 as povres u qu'il les pout trover, 	11	dunet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_AlexisRaM_817	0
+16599	« Cambra, 	dist	 ela, jamais n'estras parede, 	4	dist	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_AlexisRaM_1250	0
+16606	« Dama, 	dist	 ele, jo i ai si grant perte, 	4	dist	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_AlexisRaM_1317	0
+16624	« 	Apele	 l'ume Deu. » 	2	Apele	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_AlexisRaM_1515	-1
+16626	« 	Fai	 l'ume Deu venir, 	2	Fai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_AlexisRaM_1527	-1
+16633	« Certes, 	dist	 il, ne sai cui antercier. » 	4	dist	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_AlexisRaM_1585	-1
+16644	« Certes, 	dist	 il, n'i ai mais ad ester, 	4	dist	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_AlexisRaM_1686	-1
+16657	« E ! Deus, 	dist	 il, bels sire reis qui tut guvernes, se tei ploüst ci ne volisse estra, 	6	dist	_	VERB	VERcjg	VerbForm=Fin	22	parataxis	_	XmlId=w_AlexisRaM_1811	1
+16675	Quant ot li pedre le clamor de sun filz, 	plurent	 si oil, 	11	plurent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_AlexisRaM_2012	-1
+16678	E ! Deus, 	dist	 il, quer oüsse un sergant kil me guardrat, 	5	dist	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_AlexisRaM_2058	0
+16728	« 	Quer	 mei, bel frere, et enca e parcamin, et une penne, 	2	Quer	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_AlexisRaM_2512	-1
+16739	An la sameine qued il s'en dut aler, 	vint	 une voiz treis feiz en la citét hors del sacrarie par cumandement Deu, ki ses fedeilz li ad tuz amvïét, 	11	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_AlexisRaM_2613	2
+16768	An tant dementres cum il iloec unt sis, 	deseivret	 l'aneme del cors sainz Alexis, 	10	deseivret	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_AlexisRaM_2945	0
+16774	« Sire, dist il, 	morz	 est tes provenders, 	7	morz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_AlexisRaM_3009	0
+16774	« Sire, 	dist	 il, morz est tes provenders, 	4	dist	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_AlexisRaM_3006	0
+1679	Sem creïsez, 	venuz	 i fust mi sire ; 	4	venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_15377	1
+16840	Se Deu ploüst, 	servit	 en doüsses estra. » 	5	servit	_	VERB	VERppe	VerbForm=Part	0	root	_	XmlId=w_AlexisRaM_3702	1
+16848	« E ! filz, 	dist	 ele, cum m'oüs enhadithe ! 	6	dist	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_AlexisRaM_3815	1
+16879	Entre le dol del pedra e de la medre, 	vint	 la pulcele que il out espusede. 	11	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_AlexisRaM_4133	1
+16880	« Sire, 	dist	 ela, cum longa demurere ai atendude an la maisun tun pedra, ou tun laisas dolente et eguarede ! 	4	dist	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_AlexisRaM_4144	0
+16959	ki vint plurant, 	cantant	 l'en fait raler. 	5	cantant	_	VERB	VERppa	Tense=Pres|VerbForm=Part	9	xcomp	_	XmlId=w_AlexisRaM_4956	-1
+16965	Sainz Boneface, que l'um martir apelet, 	aveit	 an Rome un'eglise mult bele, 	10	aveit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_AlexisRaM_5015	-1
+17501	Et, cum il l'aut doit de ciel art, 	rende	 ·l qui lui lo comandat. 	12	rende	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_203_173	1
+17514	qui fai lo bien, 	laudaz	 enn - er ; 	6	laudaz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_203_263	-1
+17558	Reis Chielperics, cum il l'audit, 	presdra	 sos meis, 	9	presdra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_203_606	-1
+17577	Ciel'ira grand et ciel corropt, cio li preia, 	laissas	 lo toth. 	12	laissas	_	VERB	VERcjg	VerbForm=Fin	10	ccomp	_	XmlId=w_203_753	1
+17578	Fus ·li por Deu, ne fus por lui, cio li preia, 	paia	 ·s'ab lui. 	15	paia	_	VERB	VERcjg	VerbForm=Fin	11	acl	_	XmlId=w_203_771	1
+17607	Ciel Ewruïns, qual hora ·l vid, 	penre	 ·l rovat, 	9	penre	_	VERB	VERinf	VerbForm=Inf	11	xcomp	_	XmlId=w_203_1057	0
+17612	Cum si l'aut fait, 	mis	 ·l en reclus ; 	7	mis	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_203_1099	0
+17619	Cum si l'aut toth vituperet, 	dist	 Ewruïns qui tan fud mels : 	8	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_203_1162	0
+17631	et hanc en aut merci si grand, 	parler	 lo fist si cum des anz. 	9	parler	_	VERB	VERinf	VerbForm=Inf	11	xcomp	_	XmlId=w_203_1287	1
+17634	Et Ewruïs, cum il l'audit, 	credre	 ·nne ·l pot antro que ·l vid. 	9	credre	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_203_1315	1
+17651	Cil Laudeberz, qual hora ·l vid, 	torne	 s'als altres, 	9	torne	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_203_1446	2
+17677	Si Lodhuvigs sagrament, que son fradre Karlo jurat, 	conservat	, et Karlus, meos sendra, de suo part non los tanit, si jo returnar non l'int pois, ne jo ne neuls cui eo returnar int pois, in nulla aiudha contra Lodhuwig nun li ju er. 	11	conservat	_	VERB	VERcjg	VerbForm=Fin	52	advcl	_	SpaceAfter=No|XmlId=w_strasbBfm_094	4
+1824	Sire cumpainz, 	alum	 i referir ! » 	4	alum	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_16626	-1
+1839	« 	Ferez	, 	2	Ferez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_16755	-1
+1863	« 	Aïe	 nos, Mahum ! 	2	Aïe	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_16951	-1
+1864	Li nostre deu, 	vengez	 nos de Carlun ! 	5	vengez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_16960	-1
+1871	Se fuït s'en est Marsilies, 	Remés	 i est sis uncles Marganices, Ki tint Kartagene, al frere Garmalie E Ethiope, une tere maldite. 	8	Remés	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_17031	-1
+1931	Teint fut e pers, 	desculuret	 e pale. 	6	desculuret	_	VERB	VERppe	Tense=Past|VerbForm=Part	1	conj	_	XmlId=w_58_17618	-1
+1934	« Deus, 	dist	 li quens, or ne sai jo que face. 	4	dist	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_58_17643	-1
+1937	E ! France dulce, cun hoi remendras guaste De bons vassals, 	cunfundue	 e chaiete ! 	14	cunfundue	_	VERB	VERppe	Tense=Past|VerbForm=Part	9	conj	_	XmlId=w_58_17684	0
+1947	« Sire cumpain, 	faites	 le vos de gred ? 	5	faites	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_17804	0
+1974	Or veit Rollant que mort est sun ami, 	Gesir	 adenz, a la tere sun vis. 	10	Gesir	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_58_18029	1
+2021	As premers colps i unt ocis Gualter, Turpins de Reins tut sun escut percet, 	Quasset	 sun elme, 	17	Quasset	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	conj	_	XmlId=w_58_18482	0
+2047	« Seignurs, 	dist	 il, mult malement nos vait ! 	4	dist	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_58_18745	-1
+2111	Voellet o nun, 	remés	 i est a piet. 	5	remés	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_19308	-1
+2125	« 	Alez	 	2	Alez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_19430	-1
+2176	Einz que om alast un sul arpent de camp, 	Falt	 li le coer, 	11	Falt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_19852	0
+2196	Desur sun piz, entre les dous furceles, 	Cruisiedes	 ad ses blanches mains, les beles. 	10	Cruisiedes	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_20014	0
+2226	« 	Vencut	 est li niés Carles ! 	2	Vencut	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_20299	-1
+2252	« E ! 	dist	 li quens, seinte Marie, aiüe ! 	4	dist	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_58_20516	1
+2316	« Veire Patene, ki unkes ne mentis, Seint Lazaron de mort resurrexis E Daniel des leons guaresis, 	Guaris	 de mei l'anme de tuz perilz Pur les pecchez que en ma vie fis ! » 	21	Guaris	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_21260	3
+2336	« Deus ! 	dist	 li reis, tant me pois esmaier Que jo ne fui a l'estur cumencer ! » 	4	dist	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_58_21478	0
+2346	« 	Veez	 avant de dous liwes de nus, 	2	Veez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_21587	-1
+2350	- E ! Deus ! 	dist	 Carles, ja sunt il ja si luinz ! 	6	dist	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_58_21623	1
+2354	« 	Guardez	 le champ e les vals e les munz. 	2	Guardez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_21666	-1
+2369	« Charle, 	chevalche	, 	4	chevalche	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_21849	-1
+2419	Si ad vestut sun blanc osberc sasfret, Laciet sun elme, ki est a or gemmet, 	Ceinte	 Joiuse, unches ne fut sa per, Ki cascun jur muët.XXX. clartez. 	19	Ceinte	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	conj	_	XmlId=w_58_22266	-1
+2419	Si ad vestut sun blanc osberc sasfret, 	Laciet	 sun elme, ki est a or gemmet, Ceinte Joiuse, unches ne fut sa per, Ki cascun jur muët.XXX. clartez. 	9	Laciet	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	conj	_	XmlId=w_58_22256	-1
+2460	« Carlemagne, 	aidez	 ! » 	4	aidez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_22644	-1
+2476	« Sire, 	rendez	 le nus ! 	4	rendez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_22764	-1
+2571	« 	Oiez	 ore, franc chevaler vaillant ! 	2	Oiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_23572	-1
+2601	Cum il aproisment en la citet amunt, Vers le paleis, 	oïrent	 grant fremur : 	13	oïrent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_23893	-1
+2620	« Cil Mahumet ki nus ad en baillie, E Tervagan e Apollin, nostre sire, 	Salvent	 le rei 	18	Salvent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_24055	-1
+2653	« 	Laissez	 ço ester ! » 	2	Laissez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_24300	-1
+2656	« Seignurs, 	parlez	 a mei ! 	4	parlez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_24317	-1
+2705	« Sire amiralz, 	dist	 Clarïens, En Rencesvals une bataille out ier. 	5	dist	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_58_24744	0
+2742	« 	Pernez	 m'as braz, 	2	Pernez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_25076	-1
+2757	« 	Venez	, paien, 	2	Venez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_25213	-1
+2759	Al matin, quant primes pert li albe, 	Esveillez	 est li emperere Carles. 	10	Esveillez	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_25236	1
+2760	Sein Gabriel, ki de par Deu le guarde, 	Levet	 sa main, 	11	Levet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_25252	1
+2805	perdue ad sa culur, 	Turnez	 ses oilz, 	6	Turnez	_	VERB	VERppe	Tense=Past|VerbForm=Part	1	conj	_	XmlId=w_58_25653	-1
+2825	Ami Rollant, prozdoem, juvente bele, Cum jo serai a Eis, em ma chapele, 	Vendrunt	 li hume, 	19	Vendrunt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_25864	2
+2828	“ 	Morz	 est mis niés, ki tant me fist cunquere. ” 	2	Morz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_25880	-1
+2849	« 	Sunez	 en vostre corn ! » 	2	Sunez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_26160	-1
+2881	Isnelement ad vestue sa brunie, 	Lacet	 sun helme, 	7	Lacet	_	VERB	VERcjg	VerbForm=Fin	3	conj	_	XmlId=w_58_26488	-1
+2889	- 	Laschet	 la resne, 	2	Laschet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_26550	-1
+2944	Icil chevalchent en guise de baron, Peintes lur hanstes, 	fermez	 lur gunfanun. 	12	fermez	_	VERB	VERppe	Tense=Past|VerbForm=Part	14	acl	_	XmlId=w_58_27054	1
+2944	Icil chevalchent en guise de baron, 	Peintes	 lur hanstes, fermez lur gunfanun. 	8	Peintes	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	acl	_	XmlId=w_58_27050	1
+2947	« 	Guiez	 ma gent, 	2	Guiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_27081	-1
+2972	Les chefs fluriz e les barbes unt blanches, Osbercs vestuz e lur brunies dubleines, 	Ceintes	 espees franceises e d'Espaigne ; 	17	Ceintes	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	conj	_	XmlId=w_58_27331	1
+3008	« 	Veüd	 avum li orguillus reis Carles. 	2	Veüd	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_27677	-1
+3047	N'i ad Franceis, si a lui vient juster, 	Voeillet	 o nun, n'i perdet sun edet. 	12	Voeillet	_	VERB	VERcjg	VerbForm=Fin	18	advcl	_	XmlId=w_58_28000	0
+3143	Li nostre Deu, 	guarantisez	 Carlun ! 	5	guarantisez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_28940	-1
+3158	Selve ne bois, 	asconse	 n'i poet estre ; 	5	asconse	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_29084	-1
+3181	« 	Veez	 l'orgoil de France la loee ! 	2	Veez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_29266	-1
+3190	« 	Venez	, paien, 	2	Venez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_29351	-1
+3231	« 	Ferez	, baron, 	2	Ferez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_29727	-1
+3239	« Li mien baron, 	nurrit	 vos ai lung tens. 	6	nurrit	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_29802	-1
+3255	« 	Ferez	, baron, sur la gent chrestïene ! » 	2	Ferez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_29938	-1
+3260	« 	Ferez	, paien : 	2	Ferez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_29986	-1
+3366	« Jangleu, 	venez	 avant ! 	4	venez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_30962	-1
+3372	« 	Morz	 estes, Baligant ! 	2	Morz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_31003	-1
+3394	« 	Veez	 paien cum ocient voz humes ! 	2	Veez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_31199	-1
+3409	« 	Dites	, baron, 	2	Dites	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_31367	-1
+3491	« Seignurs, 	vengez	 voz doels, 	4	vengez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_32001	-1
+3506	« 	Aiez	 nos, Mahum ! 	2	Aiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_32132	-1
+3609	mult par est grande la feste, 	Dient	 alquanz, del baron seint Silvestre. 	8	Dient	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_58_33039	0
+3612	« Seignors barons, 	dist	 Carlemagnes li reis, De Guenelun car me jugez le dreit ! 	5	dist	_	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w_58_33078	1
+3750	« E ! Deus, 	dist	 Carles, le dreit en esclargiez ! » 	6	dist	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_58_34331	1
+3796	Quant Tierris ad vencue sa bataille, 	Venuz	 i est li emperere Carles, Ensembl'od lui de ses baruns quarante, Naimes li dux, Oger de Danemarche, Geifrei d'Anjou e Willalme de Blaive. 	8	Venuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_34728	5
+3813	« 	Va	, 	2	Va	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_34883	-1
+3815	Par ceste barbe dunt li peil sunt canuz, Se uns escapet, 	morz	 ies e cunfunduz. » 	14	morz	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_34908	3
+3847	« Carles, 	sumun	 les oz de tun emperie ! 	4	sumun	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_35234	0
+3853	« Deus, 	dist	 li reis, si penuse est ma vie ! » 	4	dist	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_58_35284	-1
+5093	Li veneor, qui l'ont parfait, 	Sivoient	 le cerf esmeü. 	9	Sivoient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_12573	-1
+5101	Des cel'ore qu'u bois entroit, 	Fust	 por chacier, chascuns dotoit Que Tristran li preuz l'encontrast. 	9	Fust	_	VERB	VERcjg	VerbForm=Fin	7	advcl	_	XmlId=w_26_12669	1
+5126	La ou il erent en cel gaut, 	Trova	 Tristan l'arc Qui ne faut. 	9	Trova	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_12863	4
+5142	Tristran de la loge ou il gist, 	Çaint	 s'espee, tot sol s'en ist, 	9	Çaint	_	VERB	VERcjg	VerbForm=Fin	11	acl	_	XmlId=w_26_13076	1
+5145	Ainz qu'il venist, 	fu	 en tel paine, 	6	fu	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_13105	-1
+5202	D'iluec endroit ou il dormoient, 	Qui	, deus bones liues estoient La ou li rois tenet sa cort. 	8	Qui	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	SpaceAfter=No|XmlId=w_26_13626	1
+5217	« 	Soiz	 noveles, qui si tost viens ? 	2	Soiz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_13759	-1
+5221	Se tu veus rien, 	di	 ton mesage. 	6	di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_13809	2
+5223	- 	Escoute	 moi, roi, se toi plest, 	2	Escoute	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_13829	-1
+5228	Se nel t'ensein, 	dorras	 moi mort. 	6	dorras	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_13891	-1
+5247	« 	Is	 t'en la fors. 	2	Is	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_14017	-1
+5299	Li forestier (qui vergonde ait !) 	Dist	 que pres sont de lor besoigne. 	9	Dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_14529	-1
+5300	Du buen cheval, né de Gascoingne, 	Fait	 l'espie le roi decendre, 	9	Fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_14545	1
+5300	Du buen cheval, 	né	 de Gascoingne, Fait l'espie le roi decendre, 	5	né	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	acl	_	XmlId=w_26_14541	1
+5319	Quant vit qu'ele avoit sa chemise Et q'entre eus deus avoit devise, La bouche o l'autre n'ert jostee, Et qant il vit la nue espee Qui entre eus deus les desevrot, 	Vit	 les braies que Tristran out : 	39	Vit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_14730	4
+5320	« Dex ! 	dist	 li rois, ce que puet estre ? 	4	dist	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_26_14741	-1
+5343	Et, qant vendra au departir, 	Prendrai	 l'espee d'entre eus deus Dont le Morhot fu del chief blos. » 	8	Prendrai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_15005	-1
+5401	Dame, 	fuion	 nos en vers Gales. 	3	fuion	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_15479	-1
+5420	Voiant le pueple, nos veut prendre, 	Faire	 ardoir et venter la cendre. 	9	Faire	_	VERB	VERinf	VerbForm=Inf	7	conj	_	XmlId=w_26_15639	-1
+5446	Tristran, 	sachiez	, une doitie A un cerf traist, qu'il out visé, 	3	sachiez	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	SpaceAfter=No|XmlId=w_26_15872	-1
+5453	« Ha ! Dex, 	fait	 il, tant ai traval ! 	6	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_15948	-1
+5466	et si peüst estre En beles chanbres, o son estre, 	Portendues	 de dras de soie. 	13	Portendues	_	VERB	VERppe	Tense=Past|VerbForm=Part	7	acl	_	XmlId=w_26_16104	1
+5468	A Deu, qui est sire du mont, 	Cri	 ge merci, 	10	Cri	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_16126	0
+5491	Bele amie, se je peüse, Par consel que je en eüse, Faire au roi Marc acordement, Qu'il pardonnast son mautalent Et qu'il preïst nostre escondit, C'onques nul jor, n'en fait n'en dit, N'oi o vos point de drüerie Qui li tornast a vilanie, N'a chevalier en son roiaume, Ne de Lidan tresque en Dureaume, S'il voloit dire que amor Eüse o vos por deshonor, Ne m'en trovast en chanp, 	armé	. 	91	armé	_	VERB	VERppe	Tense=Past|VerbForm=Part	85	acl	_	SpaceAfter=No|XmlId=w_26_16477	-1
+5491	Bele amie, se je peüse, Par consel que je en eüse, 	Faire	 au roi Marc acordement, Qu'il pardonnast son mautalent Et qu'il preïst nostre escondit, C'onques nul jor, n'en fait n'en dit, N'oi o vos point de drüerie Qui li tornast a vilanie, N'a chevalier en son roiaume, Ne de Lidan tresque en Dureaume, S'il voloit dire que amor Eüse o vos por deshonor, Ne m'en trovast en chanp, armé. 	15	Faire	_	VERB	VERinf	VerbForm=Inf	59	advcl	_	XmlId=w_26_16401	1
+5500	Yseut, franche, gente façon, 	Conselle	 moi que nos feron. 	8	Conselle	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_16662	1
+5502	Amis, 	menbre	 vos de l'ermite Ogrin, qui de la loi escrite Nos preecha et tant nos dist, Quant tornastes a son abit, Qui est el chief de cel boschage ! 	3	menbre	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_16683	0
+5504	Sire, 	corons	 a lui ariere. 	3	corons	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_16737	-1
+5510	« Roïne de parage, 	Tornon	 arire a l'ermitage Encor enuit ou le matin. 	6	Tornon	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_16779	0
+5511	O le consel de maistre Ogrin, 	Mandon	 au roi nostre talent Par briés sanz autre mandement. 	8	Mandon	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_16797	0
+5518	(	Assis	 se sont en la chapele) : 	2	Assis	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_16869	-1
+5534	Seignors, 	oiez	 de la roïne : 	3	oiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_17039	-1
+5547	Tristran, 	entent	 moi un petit 	3	entent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_17209	-1
+5568	Qant Dex vos an ot merci fait Que d'iluec fustes eschapez, Si com il est oï assez, Que, se ne fust la Deu vigor, 	Destruit	 fusiez a deshonor (Tel saut feïstes qu'il n'a home De Costentin entresqu'a Rome, Se il le voit, n'en ait hisdor), 	30	Destruit	_	VERB	VERppe	Tense=Past|VerbForm=Part	18	ccomp	_	XmlId=w_26_17502	3
+5591	A la Croiz Roge, anmi la lande, 	Pende	 le brief, 	10	Pende	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_17760	1
+5603	Qant il out fait, 	prist	 un anel, 	6	prist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_17851	1
+5667	« Amis, di moi, se Dex t'anort, 	Fus	 tu donc pus a la roi cort ? » 	12	Fus	_	VERB	VERcjg	VerbForm=Fin	4	ccomp	_	XmlId=w_26_18362	2
+5667	« Amis, 	di	 moi, se Dex t'anort, Fus tu donc pus a la roi cort ? » 	4	di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_18354	-1
+5669	« Dex !, 	dist	 Ogrin, graces te rent. 	5	dist	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_18418	-1
+5670	Tristran, 	sachiez	, asez briment Orez noveles du ro Marc. » 	3	sachiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_18428	-1
+5693	Et qant liz sera li escriz, 	Conselliez	 m'en, 	8	Conselliez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_18591	-1
+5698	« Seignors, 	oiez	 ! 	4	oiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_18622	-1
+5711	Dan chapelain, 	lisiez	 le brief, Oiant nos toz, de chief en chief. » 	4	lisiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_18725	-1
+5751	De ce q'oiez, roi, 	pren	 consel. 	8	pren	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_19200	1
+5795	Se li rois veut, 	Revien	 a lui et a Yseut. 	6	Revien	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_19629	-1
+5806	Bele amie, 	remandez	 moi De tot en tot vostre plesir. » 	4	remandez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_19767	1
+5808	« Tristran, 	entent	 un petitet : 	4	entent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_19786	-1
+5811	Qant gel verrai, ce m'est avis, 	Menberra	 moi de vos sovent. 	10	Menberra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_19825	-1
+5815	Beau sire, por l'amor de moi, 	Portez	 l'anel en vostre doi ; 	10	Portez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_19893	0
+5819	Amis, 	dorrez	 me vos tel don, Husdant le baut, par le landon ? » 	3	dorrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_19996	0
+5823	Qant du brachet m'avez seisi, 	Tenez	 l'anel, de gerredon. » 	8	Tenez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_20043	2
+5861	Por Deu, le riche glorios, Se je vos mant aucune chose, Hastivement ou a grant pose, Dame, 	faites	 mes volentez. 	23	faites	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_20466	1
+5865	- Dame, 	fait	 il, Dex gré te sace ! » 	4	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_20554	-1
+5869	« Amis, 	entent	 a ma parole. 	4	entent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_20586	-1
+5873	Por Deu vos pri, beaus douz amis, Que ne partez de cest païs Tant qos saciez conment li rois Sera vers moi, 	iriez	 ou voirs. 	26	iriez	_	VERB	VERppe	Tense=Past|VerbForm=Part	19	dislocated	_	XmlId=w_26_20652	1
+5894	Li rois venoit mot fierement Le trait d'un arc devant sa gent ; O lui Dinas, 	qui	, de Dinan. 	19	qui	_	VERB	VERcjg	VerbForm=Fin	22	case	_	SpaceAfter=No|XmlId=w_26_20888	-1
+5896	La, 	salua	 si com il doit : 	3	salua	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_20906	-1
+5928	« Sire, 	font	 il, a nos entent : 	4	font	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_26_21239	0
+5935	Et, quant vendra jusqu'a un an, Que tu seras aseürez Qu'Yseut te tienge loiautez, 	Mande	 Tristran qu'il vienge a toi. 	20	Mande	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_21321	-1
+5964	« Dinas, 	entent	 un poi a moi. 	4	entent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_21574	1
+5967	Se je te mant par Governal Aucune chose besoignal, 	Avance	 la, si con tu doiz. » 	11	Avance	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_21601	2
+5969	Dinas li prie ja nel dot, 	Die	 son buen : 	8	Die	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_26_21625	0
+6025	Par Perinis, li franc meschin, 	Soit	 Tristran noves de s'amie. 	8	Soit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_22199	1
+6041	S'ele ne s'en veut escondire, 	Lai	 l'en aler de ton enpire. » 	9	Lai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_22389	-1
+6067	Li rois lessent el chanp, 	irié	. 	7	irié	_	VERB	VERppe	Tense=Past|VerbForm=Part	2	acl	_	SpaceAfter=No|XmlId=w_26_22664	-1
+6084	« Sire, font il, 	entendez	 nos : 	7	entendez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_22816	-1
+6084	« Sire, 	font	 il, entendez nos : 	4	font	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_26_22812	-1
+6091	Quant ne nos croiz, 	fait	 ton plaisir : 	6	fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_22891	1
+6103	Par saint André, que l'en vet querre Outre la mer, jusque en Escoce, 	Mis	 m'en avez el cuer la boce, Qui n'en istra jusqu'a un an : 	18	Mis	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_22992	1
+6110	Forz chasteaus ont, bien clos de pal, 	Soiant	 sor roche, sor haut pui ; 	10	Soiant	_	VERB	VERppa	Tense=Pres|VerbForm=Part	2	amod	_	XmlId=w_26_23076	0
+6118	Es chanbres entre, 	çaint'	espee. 	5	çaint'	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	advcl	_	SpaceAfter=No|XmlId=w_26_23141	-1
+6130	« Lasse, 	fait	 ele, mes amis Est trovez, 	4	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_23216	0
+6147	« Sire, ge voi a ta color, 	Fait	 t'ont marri ti veneor. 	10	Fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	ccomp	_	XmlId=w_26_23361	0
+6177	De Deu, le pere esperital, 	Aient	 il male maudiçon ! 	8	Aient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_23617	-1
+6179	- Dame, 	fait	 li rois, or m'entent : 	4	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_23635	-1
+6181	- 	Blasmer	 te font. 	2	Blasmer	_	VERB	VERinf	VerbForm=Inf	4	xcomp	_	XmlId=w_26_23669	-1
+6190	- Sire, por Deu et por ses nons, 	Entent	 a moi, 	11	Entent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_23762	-1
+6198	Se il vuelent avoir ma jure Ou s'il volent loi de juïse, Ja n'en voudront si roide guise (	Metent	 le terme) que ne face. 	23	Metent	_	VERB	VERcjg	VerbForm=Fin	18	parataxis	_	XmlId=w_26_23888	1
+6223	« 	Di	 li qu'il set bien un marchés, Au chief des planches, au Mal Pas : 	2	Di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_24230	-1
+6225	Sor la mote, el chief de la planche, Un poi deça la Lande Blanche, Soit, 	revestuz	 de dras de ladre ; 	20	revestuz	_	VERB	VERppe	Tense=Past|VerbForm=Part	18	acl	_	XmlId=w_26_24276	2
+6225	Sor la mote, el chief de la planche, Un poi deça la Lande Blanche, 	Soit	, revestuz de dras de ladre ; 	18	Soit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_24274	2
+6239	El bois, par mié une gaudine, 	Entre	, 	9	Entre	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_24402	-1
+6254	« 	Di	 la roïne mot a mot : G'irai au terme, 	2	Di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_24513	-1
+6262	si li di que ne s'esmait, Ne dot pas que je n'alle au plet, 	Atapiné	 conme tafurs. 	19	Atapiné	_	VERB	VERppe	Tense=Past|VerbForm=Part	13	acl	_	XmlId=w_26_24606	2
+6286	- Sire, 	fait	 il, il sit au dois. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_26_24858	-1
+6304	« Dex saut, 	fait	 il, le roi Artur, Lui et tote sa conpaignie, De par la bele Yseut s'amie ! » 	5	fait	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_26_25011	-1
+6306	« Et Dex, 	fait	 il, esperitables La saut 	5	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_25047	-1
+6308	Dex ! 	fait	 li rois, tant ai je quis De lié avoir un sol mesage ! 	3	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_25065	-1
+6309	Vaslet, voiant cest mien barnage, 	Otroi	 a li qant que requiers. 	8	Otroi	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_25088	0
+6334	« Dex ! 	fait	 chascun, que li demandent ? 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_26_25409	-1
+6370	« Sire vaslez, 	alez	 mangier. 	5	alez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_25807	-1
+6375	« Mesnie franche et honoree, 	Gardez	 qu'encontre l'asenblee Soient vostre cheval tuit gras, Vostre escu nuef, riche vos dras. 	7	Gardez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_25840	0
+6394	« Beaux amis, 	Alez	 vos en, 	5	Alez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_26030	0
+6436	Se mestier m'est, que vos soiez Au pasage, prez, 	enbuschiez	 : 	14	enbuschiez	_	VERB	VERppe	Tense=Past|VerbForm=Part	12	conj	_	XmlId=w_26_26384	-1
+6504	« 	Tenez	 vos reignes par les noz, 	2	Tenez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_27013	-1
+6506	Par Deu, 	ferez	 de l'esperon, 	4	ferez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_27030	-1
+6514	« 	Pensez	 de moi, 	2	Pensez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_27110	-1
+6532	« Sire Artus, rois, je sui malades, 	Bociez	, meseaus, desfaiz et fades. 	11	Bociez	_	VERB	VERppe	Tense=Past|VerbForm=Part	9	conj	_	SpaceAfter=No|XmlId=w_26_27310	1
+6541	Rois Artus, 	voiz	 con je me grate ? 	4	voiz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_27398	-1
+6552	Qant il se fu iluec assis, Li rois Marc, fiers et posteïs, 	Chevaucha	 fort vers le taier. 	16	Chevaucha	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_27505	-1
+6559	« 	Tien	, Frere, 	2	Tien	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_27569	-1
+6587	« El vient, 	fait	 Marc, par la gaudine, 	5	fait	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_26_27830	-1
+6594	Li troi felon (qui mal feu arde !) 	Vindrent	 au gué, 	11	Vindrent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_27890	0
+6598	« 	Vez	 la cel torbe aprés cel fanc, 	2	Vez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_27920	-1
+6606	« 	Poigniez	 a fort, Se vos estes de tel tai ort. 	2	Poigniez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_27987	-1
+6614	« Seignors, fait il a ces barons, 	Tenez	 vos biens a vos archons. 	10	Tenez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_28062	1
+6614	« Seignors, 	fait	 il a ces barons, Tenez vos biens a vos archons. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_28055	-1
+6635	« 	Pren	 t'a la main a mon baston, 	2	Pren	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_28247	-1
+6642	Et qant il fu du tai trait fors, 	Fait	 li malades : 	10	Fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_28303	1
+6661	« Dame, 	fait	 il, cel siglaton Estera ja forment laidiz. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_26_28465	-1
+6669	Un poi aval, lez une espine, 	Torne	 a un gué lui et Andrez, Ou trespasserent auques nez. 	9	Torne	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_28535	1
+6693	Sor ses espaules sont si crin, 	Bendé	 a ligne sor or fin. 	8	Bendé	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	acl	_	XmlId=w_26_28746	1
+6701	- Avoi ! 	fait	 il, roïne franche, Ne me requerez pas tel plet : 	4	fait	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_26_28838	1
+6702	Ge sui ladres, boçu, 	desfait	. 	7	desfait	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	conj	_	SpaceAfter=No|XmlId=w_26_28858	-1
+6703	- 	Cuite	, 	2	Cuite	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_26_28862	-1
+6709	- A ! Dex, 	fait	 il, ce que sera ? 	6	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_28897	-1
+6736	Ha ! roïne, 	donez	 la li ! » 	5	donez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_29126	2
+6747	Et de l'aumuce mon seignor. 	Achat	 bien lit, si soit pastor, Ou un asne qui past le tai. 	8	Achat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_29229	1
+6774	Einsi armé, sor lor chevaus, Par un vert pré, entre deus vaus, 	Sordent	 sus en la Blanche Lande. 	17	Sordent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_29483	-1
+6775	Gauvains, li niés Artus, 	demande	 Gerflet : 	7	demande	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_29496	-1
+6776	« 	Vez	 en la deus venir, Qui mot vienent de grant aïr. 	2	Vez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_29500	-1
+6813	« Seignors, 	fait	 Gaugains, que ferons ? 	4	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_26_29863	-1
+6820	- Quis nos porra, fait li rois, 	rendre	 Mot nos avra servi a gré. » 	10	rendre	_	VERB	VERinf	VerbForm=Inf	14	csubj	_	XmlId=w_26_29917	3
+6820	- Quis nos porra, 	fait	 li rois, rendre Mot nos avra servi a gré. » 	6	fait	_	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w_26_29912	3
+6833	En leu de jonc et de rosel, 	Glagié	 avoient tuit lor tentes. 	9	Glagié	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_26_30012	1
+6857	A fermeté, 	fu	 de chalor. 	4	fu	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_30236	0
+6870	Sor le paile les orent mises, 	Arengies	, par ordre asises. 	8	Arengies	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	conj	_	SpaceAfter=No|XmlId=w_26_30383	2
+6874	« Rois Marc, 	fait	 il, qui te conselle Tel outrage si fait mervelle : 	5	fait	_	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w_26_30419	-1
+6875	Certes, 	fait	 il, sil se desloie. 	3	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_26_30435	-1
+6887	Qant ele avra eisi juré, 	Di	 tes barons qu'il aient pes. 	7	Di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_30612	-1
+6905	« 	Entendez	 moi, Yseut la bele, 	2	Entendez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_30787	-1
+6907	- Seignors, 	fait	 el, por Deu merci, Saintes reliques voi ici. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_26_30832	-1
+6915	« Dex ! 	fait	 chascuns, si fiere en jure : 	4	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_30990	-1
+6930	« Dame, 	fait	 il, je vos asur : Ne troverez mais qui vos die, Tant con j'aie santé ne vie, Nis une rien se amor non. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_26_31230	0
+6947	« Seignors, 	fait	 il, or m'entendez. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_26_31406	-1
+6970	- 	Nomez	 l'avoir. 	2	Nomez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_31700	-1
+7004	« Ha ! Dex, fait il, 	regarde	 moi, 	9	regarde	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_32072	-1
+7004	« Ha ! Dex, 	fait	 il, regarde moi, 	6	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_26_32068	-1
+7018	Ainz qu'il le puisen desangler, 	Avra	 lor mestre tel colee Que ja par mire n'ert sanee. 	8	Avra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_32198	4
+7034	« Ha ! las, 	fait	 il, qu'est devenuz Goudouïnë (or s'est toluz), Que vi venir orainz si tost ? 	6	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_26_32333	-1
+7037	S'il m'atendist, savoir peüst Ja mellor gerredon n'eüst Que Donalan, le fel, 	enporte	, Qui j'ai laisié la teste morte. » 	19	enporte	_	VERB	VERcjg	VerbForm=Fin	10	acl	_	SpaceAfter=No|XmlId=w_26_32380	3
+7037	S'il m'atendist, 	savoir	 peüst Ja mellor gerredon n'eüst Que Donalan, le fel, enporte, Qui j'ai laisié la teste morte. » 	6	savoir	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_26_32367	-1
+7065	« Se Dex me gart, 	fait	 il, au suen, 	7	fait	_	VERB	VERcjg	VerbForm=Fin	5	parataxis	_	XmlId=w_26_32607	-1
+7069	- Sire, 	fait	 ele, ge q'en puis ? 	4	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_26_32647	-1
+7094	Contre le jor, par la cortine, 	Vit	 la teste de Godoïne : 	9	Vit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_32826	3
+7098	Dex, qui le tuen saintisme cors Por le pueple meïs a mort, 	Lai	 moi venjance avoir du tort Que cil felon muevent vers moi ! » 	15	Lai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_32889	4
+7147	É la bonuréé Anna nen out retur, mais un duleir, 	plurer	 é viande deporter. 	13	plurer	_	VERB	VERinf	VerbForm=Inf	6	xcomp	_	XmlId=w_qlr_579	-1
+7172	« 	Va	, bone femme, á tun ostel dormir ; 	2	Va	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qlr_838	-1
+7181	é cil sunt fiz Belial ki tuz jurs tirent vers le mal, 	ostent	 le jú de la lei Deu, é de vice en altre vunt cancelant, lur criatur átariant. 	14	ostent	_	VERB	VERcjg	VerbForm=Fin	9	conj	_	XmlId=w_qlr_925	2
+7183	« 	Vá	 bóne femme, as véies Deu. 	2	Vá	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_952	-1
+7184	Deus, ki de tut bien faire ad poeste, 	furnísse	 en grace ta volente. » 	11	furnísse	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_970	-1
+7194	- Fedeil Deu, 	entend	 l'estorie. 	5	entend	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_1033	-1
+7228	« Sire, sire, 	entent	 á mei. 	6	entent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_1366	0
+7232	Se il te plaist, 	receif	 l'enfant que served Deu des ore en avant. » 	6	receif	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_1410	3
+7250	é pois chascun an quant enfant out Anne, 	perdi	 alcun Fenénne. 	10	perdi	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_1593	0
+7365	« Sire, 	vééz	 mei ící, 	4	vééz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_2700	0
+7369	« 	Repaire	 á tun lit, 	2	Repaire	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_2724	-1
+7370	é se l'um t'apele mais, 	respund	 : 	9	respund	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_2737	-1
+7371	“ 	Parole	, Sire, 	2	Parole	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qlr_2740	-1
+7378	« 	Parole	, Sire, 	2	Parole	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qlr_2778	-1
+7404	E tuit li poples de Israel, des Dan jesqu'a Bersabéé, 	cunut	 que Samuel fud fedeil prophete Deu. 	14	cunut	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_3031	0
+7490	É cum ele fud en la fort anguisse el muriant, 	distrent	 ki od li furent : 	12	distrent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_3837	-1
+7497	« 	Translatéé	 est la glorie Deu de Israel, 	2	Translatéé	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_3878	-1
+7500	« 	Translatéé	 est glorie de Israel, 	2	Translatéé	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_3904	-1
+7537	Cume cil de Accaron virent l'arche, 	dunérent	 un crí merveillus 	9	dunérent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_4320	0
+7539	« 	Mened	 únt l'arche jesque á nus pur nus ocire, é le pople ki ápent á nus. » 	2	Mened	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_4330	-1
+7542	« 	Remenez	 l'arche Deu de Israel, 	2	Remenez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_4364	-1
+7547	Kar ces ki morz ne furent, 	traveillez	 esteient d'itel anguisse é de langur que la plainte é li criz munta devant Deu jesque al ciel. 	8	traveillez	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_4413	1
+7556	« E quei est çó », 	firent	 li altre, « que faire devum pur nostre mesfait espenir ? » 	8	firent	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qlr_4519	1
+7558	« Sulunc le numbre des maistres citez de ceste terre, de Ázote, de Gaze, de Aschalune, de Geth é de Accharon, 	faites	 cinc anels de fin or apres la furme de cele partie privéé de voz cors ú li turmenz é li langur ad esté. 	27	faites	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_4566	0
+7571	si nun, 	venud	 nus est par aventure, par corruptiun de nature. » 	4	venud	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_4777	-1
+7637	Cume espandue fud la nuvele entre les fiz Israel, 	requistrent	 Samuel que il ne cessast pur els Deu preier qu'il les salvast des Philistiens. 	11	requistrent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_5574	1
+7694	Voz champs, voz bones vígnes, voz olivers, 	toldra	 	11	toldra	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_6122	-1
+7727	É cume en la terre Suph vindrent é nule nuvele nen oïrent, 	fist	 Saül á sun serjant : 	14	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_6439	0
+7728	« 	Returnum	 ! 	2	Returnum	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_6446	-1
+7797	« 	Lieve	, 	2	Lieve	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qlr_7000	-1
+7802	« 	Dí	 al serjant qu'il alt avant, 	2	Dí	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_7033	-1
+7821	É quant enterras en la cite, 	encunteras	 les prophetes ki d'amunt vendrunt á estrumenz, psalterie, tympans, frestels é harpe ; 	8	encunteras	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_7216	0
+7826	Quant çó avendrat, 	fai	 çó que te plaist, 	5	fai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_7264	1
+7845	« 	Est	 Saül entre les prophetes. » 	2	Est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_7466	-1
+7851	« 	Quis	 ai adnes que á mun pere furent ádirez. 	2	Quis	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_7528	-1
+7865	« 	Partissez	 vus par voz lignages é par les maignéés 	2	Partissez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_7679	-1
+7882	« 	Vééz	 quel barun nostre Sire ad eslit ! 	2	Vééz	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_7813	-1
+7908	« 	Dúne	 nus respit set jurs. 	2	Dúne	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_8068	-1
+7946	« 	Alum	 ent en Galgala 	2	Alum	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_8424	-1
+7962	« 	Fait	 ne l'avez. 	2	Fait	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_8576	-1
+7977	“ 	Pecchie	 ávum, 	2	Pecchie	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_8755	-1
+7998	é cumfaite merveille Deu frad devant vus, 	veez	. 	9	veez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qlr_8947	-1
+8006	« 	Prie	 Deu pur nus, tes serfs, que tuit n'i murium. 	2	Prie	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_9020	-1
+8083	A un jur avint que Jonathas, le fiz Saül, 	dist	 á un de ses esquiers : 	12	dist	_	VERB	VERcjg	VerbForm=Fin	4	ccomp	_	XmlId=w_qlr_9943	1
+8084	« 	Vien	, 	2	Vien	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qlr_9951	-1
+8093	Mais rochiers é derubes esteient merveillus, 	puignanz	 é trenchanz, par unt Jonathas dut venir a l'ost. 	8	puignanz	_	VERB	VERppa	Tense=Pres	6	conj	_	XmlId=w_qlr_10057	-1
+8096	« Vien t'en, 	fist	 Jonathas á sun esquier, en l'ost de ces genz ki n'unt recéü circumcision, 	6	fist	_	VERB	VERcjg	VerbForm=Fin	2	parataxis	_	XmlId=w_qlr_10102	1
+8096	« 	Vien	 t'en, fist Jonathas á sun esquier, en l'ost de ces genz ki n'unt recéü circumcision, 	2	Vien	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_10098	-1
+8099	« 	Va	 	2	Va	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_10139	-1
+8104	é pois que á els aparrum, s'il nus dient : “ 	Atendez	 jesque á vus vienium ! ”, nus í aresterrum 	14	Atendez	_	VERB	VERcjg	VerbForm=Fin	11	ccomp	_	XmlId=w_qlr_10174	0
+8109	Tant tost cume li Philistien virent Jonathan é sun esquier, 	distrent	 entre sei : 	12	distrent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_10240	1
+8136	« 	Lais	 á tant ! », 	2	Lais	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_10516	-1
+8149	« 	Maleit	 seit cil ki mangerad devant le vespre, de ci que plenierement me seie venge de mes enemis. » 	2	Maleit	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_10670	-1
+8177	kar la charn, si que li sancs sur l'autel ne vint, 	manjad	. 	15	manjad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qlr_11030	-1
+8179	« 	Pechied	 avez, 	2	Pechied	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_11041	-1
+8200	« 	Fai	 çó que te plaist. » 	2	Fai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_11199	-1
+8202	« 	Pernez	 de Deu cunseil. » 	2	Pernez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_11211	-1
+8206	« 	Faites	 ci venir les princes é les maistres, 	2	Faites	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_11245	-1
+8210	« Traez vus en sus, 	fist	 Saül á tut le pople, une part, 	7	fist	_	VERB	VERcjg	VerbForm=Fin	2	parataxis	_	XmlId=w_qlr_11316	1
+8210	« 	Traez	 vus en sus, fist Saül á tut le pople, une part, 	2	Traez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_11311	-1
+8211	é jó é Jonathas, mis fiz, 	serrums	 de l'altre part. » 	9	serrums	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_11334	-1
+8214	« Sire, Sire, Deu de Israel ! Si tis plaisirs est, 	fai	 demustrance purquei ne respundis júi á tun serf. 	15	fai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_11371	0
+8221	« 	Di	 mei, 	2	Di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_11443	-1
+8255	“ 	Anumbred	 ai les mals que Amalech fist á Israel, cume il le desturbad el veage, quant il en vint de Egypte. 	2	Anumbred	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_11806	-1
+8269	« 	Va	 t'en d'ící, 	2	Va	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_11947	-1
+8299	« 	Beneit	 seies tu de nostre Seignur Deu, 	2	Beneit	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_12284	-1
+8304	« 	Mened	 les unt de Amalech. 	2	Mened	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_12323	-1
+8315	“ 	Va	, 	2	Va	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qlr_12410	-1
+8337	« 	Pecchied	 ái en çó que n'ai tenu le cumandement Deu é tes paroles pur çó que jó cremi é obeï al pople. 	2	Pecchied	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_12633	-1
+8348	« 	Trenchied	 ad Deus úí le regne de Israel é severed de tei 	2	Trenchied	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_12734	-1
+8354	« 	Pecchie	 ai, 	2	Pecchie	_	VERB	VERppe	Tense=Past	0	root	_	XmlId=w_qlr_12796	-1
+8358	é Saül Deu, nostre Seignur, 	áürad	. 	8	áürad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qlr_12840	-1
+8394	« 	Viens	 tu ci en amur é en pais ? » 	2	Viens	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_13112	-1
+8402	Cume vindrent devant Samuel é Samuel vit Eliab, le fiz Ysaï, 	dist	 á nostre Seignur : 	14	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_13186	-1
+8403	« 	Est	 ící devant vus vostre reis ? » 	2	Est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_13192	-1
+8422	« 	Fai	 le venir, 	2	Fai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_13332	-1
+8428	« 	Lieve	, 	2	Lieve	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qlr_13372	-1
+8439	é nus querrums alcun ki harper sache, que quant li mals esperiz Deu t'envaïrad, 	chanted	 é harped, 	18	chanted	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_qlr_13474	-1
+8514	« 	Receif	 ci treis muis de flur a l'óés tes freres é cest pain 	2	Receif	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_14185	-1
+8575	« 	Va	 ! 	2	Va	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_14809	-1
+8578	Cume il out la spéé ceinte, 	alad	 	8	alad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_14843	-1
+8597	« 	Vien	 ! 	2	Vien	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qlr_14993	-1
+9347	- Sire, 	fet	 li freres, il en eschapera se Dieu plest. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_12744	-1
+9358	Et se vos volez savoir donc ces granz aventures sont par tantes foiz avenues.´ 	alons	 a lui moi et vos, 	16	alons	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_12928	-1
+9394	- Certes sire, 	fet	 li chevaliers, je le vos dirai volentiers, 	5	fet	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_qgraal_cm_13338	-1
+9397	Galaad, 	fet	 li chevaliers, il avint emprés la passion Jhesucrist.xii. anz que Joseph d'Arimacie li gentix chevaliers qui despendi Nostre Seignor de la sainte veraie croiz se parti de la cité de Jerusalem entre lui et grant partie de son parenté, 	3	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_13365	-1
+9457	“ Rois Ewalach, 	fai	 moi aporter ici icel escu que je te baillai quant tu alas en la bataille sus Tholomer. ” 	5	fai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_14256	-1
+9467	“ 	Veez	 ci l'escu que je vos les en remembrance de moi. 	2	Veez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_14392	-1
+9474	- Puis qu'il est einsi, 	fet	 li rois, que nos avons si bone remembrance de vos.´ or me dites s'il vos plest ou je lairé cest escu, 	8	fet	_	VERB	VERcjg	VerbForm=Fin	23	parataxis	_	XmlId=w_qgraal_cm_14573	-1
+9476	- Donc vos dirai je, 	fait	 Josephés, que vos feroiz, 	7	fait	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_14623	1
+9486	« Certes, 	fet	 Galaad, se je compaignie vousisse avoir je nel refusasse mie. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w_qgraal_cm_14827	-1
+9487	- Sire por Dieu, 	fet	 li vaslez, donc vos pri je que vos chevalier me façoiz, 	6	fet	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_qgraal_cm_14845	1
+9492	« Sire, fet li vaslez, 	retornez	 la dont nos venons, 	8	retornez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_14905	0
+9492	« Sire, 	fet	 li vaslez, retornez la dont nos venons, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_14901	0
+9503	« Sire, font cil de laienz, 	savez	 vos quele aventure ce est ? 	9	savez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_15035	0
+9503	« Sire, 	font	 cil de laienz, savez vos quele aventure ce est ? 	4	font	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_15030	0
+9505	- Or sachiez, 	font	 il, que ce est une voiz qui ist d'une des tombes de nostre cimetiere, 	5	font	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_15052	1
+9507	- Et savez vos, 	fet	 Galaad, donc cele voiz vient ?? 	6	fet	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_15096	-1
+9518	- Or vos dirai donc, 	fait	 li freres, que vos feroiz. 	7	fait	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_15190	1
+9543	« 	Venez	 veoir ce que j'ai trové. 	2	Venez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_15446	-1
+9560	- Et savez vos, 	fet	 Galaad, par quoi tantes aventures en sont avenues ? 	6	fet	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_15648	-1
+9593	- Or me dites, 	fet	 Galaad, que li cors senefie, 	6	fet	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_16271	-1
+9615	- Par Dieu, 	fet	 Lancelot, cist domages me semble trop grant, et de ce qu'il a son servise perdu, et de ce qu'il a en tel aage esté sorpris de l'anemi. » 	5	fet	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_qgraal_cm_51229	-1
+9626	- Je voil, 	fait	 il, que tu me dies coment cist miens compainz est morz, et s'il est periz ou sauvez, 	5	fait	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_51349	-1
+9635	- Je te dirai, 	fet	 li anemis, coment il est alé de lui, 	6	fet	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_51437	-1
+9679	“ Coment, fist il, 	cuidiez	 vos que je puisse morir par cest feu qui ci est apareilliez por moi ?? 	7	cuidiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_51998	3
+9679	“ Coment, 	fist	 il, cuidiez vos que je puisse morir par cest feu qui ci est apareilliez por moi ?? 	4	fist	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_51995	-1
+9680	- Vos n'en avroiz ja, 	font	 il, se la mort non. 	8	font	_	VERB	VERcjg	VerbForm=Fin	5	parataxis	_	XmlId=w_qgraal_cm_52021	-1
+9681	- Certe, 	fet	 il, seignor se Nostre Sires plest que je muire ce me plest mout. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	17	parataxis	_	XmlId=w_qgraal_cm_52032	-1
+9710	- Sire, 	fet	 Lancelot, qui fu cil qui tant a parlé a vos ? 	4	fet	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_52437	-1
+9713	- Sire, 	fet	 li preudons, poor en doit l'en bien avoir, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_qgraal_cm_52486	-1
+9730	- Certes, fet li preudons, 	quierre	 les poez vos 	8	quierre	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_qgraal_cm_52695	1
+9730	- Certes, 	fet	 li preudons, quierre les poez vos 	4	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_52691	-1
+9790	“ Et puis, 	fist	 il, que tuit cil en ont esté deceu et honi.´ il ne me semble mie que cist enfes i deust avoir duree. ” 	5	fist	_	VERB	VERcjg	VerbForm=Fin	21	parataxis	_	XmlId=w_qgraal_cm_53745	-1
+9835	'	Alez	 de ci 	2	Alez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_54610	-1
+9848	- Par foi, 	fist	 li sires, non feïstes, 	5	fist	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_54726	2
+9903	- Certes, 	fet	 il, damoisele je ne sai, fors la ou aventure me conduira, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_55568	-1
+9905	- Je sai bien, 	fait	 ele, que vos querez. 	6	fait	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_55605	-1
+9908	- Damoisele, 	fet	 il, ces.ii. paroles que vos me dites me semblent estre contraires. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	15	parataxis	_	XmlId=w_qgraal_cm_55649	-1
+9914	« Vos ne troveroiz, 	fait	 ele, anuit ostel, 	6	fait	_	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_qgraal_cm_55724	1
+AlexisRaM-217.new	« As me, 	dist	 il, kil guard pur ton cumand, 	5	dist	_	VERB	VERcjg	VerbForm=Fin	2	parataxis	_	XmlId=w_AlexisRaM_2089	-1
+AlexisRaM-355.new	« E ! filz, 	dist	 il, cum dolerus message ! 	6	dist	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_AlexisRaM_3434	1
+AlexisRaM-381.new	la vint curante cum femme forsenede, batant ses palmes, crïant, 	eschevelede	, 	14	eschevelede	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	conj	_	SpaceAfter=No|XmlId=w_AlexisRaM_3740	-1
+AlexisRaM-381.new	la vint curante cum femme forsenede, batant ses palmes, 	crïant	, eschevelede, 	12	crïant	_	VERB	VERppa	Tense=Pres|VerbForm=Part	3	conj	_	SpaceAfter=No|XmlId=w_AlexisRaM_3738	1
+AlexisRaM-381.new	la vint curante cum femme forsenede, 	batant	 ses palmes, crïant, eschevelede, 	8	batant	_	VERB	VERppa	Tense=Pres|VerbForm=Part	3	conj	_	XmlId=w_AlexisRaM_3734	1
+YvainKu-1134.new	- Dame, 	fet	 il, vostre merci ; 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_YvainKu_14043	-1
+YvainKu-1147.new.1	- 	Amer	 ? 	2	Amer	amer	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_YvainKu_14229	-1
+YvainKu-2043.new	- Ha ! Dex, 	fet	 il, por quel forfet ? 	6	fet	faire	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_YvainKu_25195	-1
+YvainKu-3295.new	- 	Desdaing	, sire ? 	2	Desdaing	desdeignier	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_YvainKu_40450	-1
+YvainKu-3302.new	- Dahait, 	fet	 il, qui el vos quiert Ne qui foi ne ploige an requiert ! 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	2	parataxis	_	XmlId=w_YvainKu_40529	-1
+YvainKu-3418.new	- Ne je, voir, 	fet	 ele, del tuen ; 	7	fet	faire	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_YvainKu_41955	-1
+YvainKu-3875.new	- Dame, 	fet	 il,.v..c. merciz ! 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_YvainKu_47796	-1
+YvainKu-518.new	- Non, 	fet	 ele, que g'en ferai Avoec vos ma puissance tote. 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_YvainKu_6876	-1
+YvainKu-843.new	- Tel, 	fet	 il, qui mout m'a pleü. 	4	fet	faire	VERB	VERcjg	VerbForm=Fin	2	parataxis	_	XmlId=w_YvainKu_10818	-1
+YvainKu-843.new.1	- 	Pleü	 ? 	2	Pleü	plaire	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_YvainKu_10828	-1
+aucassin-390.new	« Dix ! 	fait	 il, con grans damages de si bele mescinete, s'il l'ocient ! 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_151_04799	0
+aucassin-522.new	- Sire, 	fait	 Aucassins, grans mercis ; 	4	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_151_06379	-1
+aucassin-530.new	- Sire, 	fait	 Aucassins, grans mercis ; 	4	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_151_06435	-1
+aucassin-687.new	- Sire, 	fait	 il, grans mercis, 	4	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_151_08117	-1
+aucassin-841.new	- Oie, 	fait	 il, volentiers. » 	4	fait	_	VERB	VERcjg	VerbForm=Fin	2	parataxis	_	XmlId=w_151_09590	-1
+beroul-1981.new	- Dex ! 	dist	 Tristran, quel departie ! 	4	dist	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_26_19688	-1
+beroul-2073.new	- Sire, 	dist	 Yseut, grant merci ! 	4	dist	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_26_20836	-1
+beroul-2503.new	- Sire, 	fait	 il, vostre merci ! 	4	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_26_25121	-1
+beroul-2757.new	- Sire, 	fait	 il, vostre merci ! 	4	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_26_27594	-1
+beroul-3129.new	- Sire, 	fait	 el, vostre merci ! » 	4	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_26_31188	-1
+qgraal_cm-1871.new	- Certes, 	fet	 il, nanil. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_63188	-1
+qgraal_cm-1876.new	- Certes, 	fet	 Hestor, nanil, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_63250	-1
+qgraal_cm-1963.new	- Sire, 	fet	 il, nanil, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_64325	-1
+qgraal_cm-2005.new	- Sire, 	fet	 li vaslez, oïl. » 	4	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_64836	-1
+qgraal_cm-2290.new	« Sire, 	fet	 Boort, mes ge, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_103365	0
+qgraal_cm-2459.new	Et se aucuns demandoit de quoi il vesqui dedenz icelui terme por ce que point de viande n'avoit trovee en la nef.´ a ce respont li contes que li hauz sires qui de la manne repeut ou desert le pueple Israel, et qui fist de la roche eve issir por boivre.´ 	sostint	 cestui en tele maniere que chascun matin si tost com il avoit s'oroison fenie, et il avoit requis le haut mestre et dit qu'il ne l'oubliast pas, mes son pain li envoiast come li peres doit fere a son fil.´ 	56	sostint	_	VERB	VERcjg	VerbForm=Fin	27	ccomp	_	XmlId=w_qgraal_cm_105856	0
+qgraal_cm-2489.new	- Sire, 	fet	 il, oïl 	4	fet	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_106272	-1
+qgraal_cm-2949.new	?? - Certes, 	fet	 il, nanil. 	5	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_112886	-1
+qgraal_cm-3083.new	- Nanil, 	fet	 il, se vos nel me dites. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	2	parataxis	_	XmlId=w_qgraal_cm_114882	-1
+qgraal_cm-3107.new	- Por ce, 	fet	 il, que je ne voil, 	5	fet	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_115280	-1
+qlr-524.new	« 	Assemblez	 vus tuit en Masphat, 	2	Assemblez	_	VERB	VERcjg	_	0	root	_	XmlId=w_qlr_5469	-1
+1026	« Rollant, 	veez	 en alques : 	4	veez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_09774	-1
+1029	Vostre olifan, 	suner	 vos nel deignastes ; 	4	suner	_	VERB	VERinf	VerbForm=Inf	7	xcomp	_	XmlId=w_58_09793	0
+1048	Se jo i moerc, 	dire	 poet ki l'avrat que ele fut a noble vassal. » 	6	dire	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_58_09987	2
+1248	« 	Turnet	 estes a perdre ! » 	2	Turnet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_11529	-1
+1275	Trait Durendal, sa bone espee, 	nue	, 	8	nue	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	acl	_	SpaceAfter=No|XmlId=w_58_11789	-1
+17264	et si hom ad suspeciun de aucun hume que le voillet enpuisuner, 	prenget	 le echite, 	14	prenget	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_2949	1
+17327	Mais ki la destemprast od ewe, si la dunast od tute la limeure de la verte cuz a laver oilz : ki s'en lavereit, 	avoglereit	 ; 	28	avoglereit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_3694	-1
+17328	ki la beust, 	vomireit	 sun pulmun 	5	vomireit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_3700	1
+17367	Iceste piere, si cume noz aunceisurs distrent, 	fait	 hume devin, se il la tient suz sa lange, si que sa buche seit einz lavee. 	10	fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_273_4245	0
+4464	Li rois, 	tranchanz	, demaintenant Par tot fait querre les sarmenz Et assenbler o les espines Aubes et noires o racines. 	4	tranchanz	_	VERB	VERppa	Tense=Pres|VerbForm=Part	2	amod	_	SpaceAfter=No|XmlId=w_26_06351	0
+4477	Se j'en sui araisnié jamais, 	Laisiez	 m'en tot ester en pais. » 	8	Laisiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_06521	-1
+4504	« Seignors, 	vez	 ci une chapele : 	4	vez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_06777	-1
+4563	« Por Deu, beau sire, 	Confortez	 vos, 	8	Confortez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_07260	-1
+4565	Veez ci un espés buison, 	Clos	 a fossé tot environ. 	7	Clos	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl	_	XmlId=w_26_07273	-1
+4566	Sire, 	meton	 nos la dedenz. 	3	meton	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_07281	-1
+4572	S'or estïez, beau sire, 	ocis	, Que vengement n'en fust ainz pris. Jamais nul jor n'avroie joie. » 	8	ocis	_	VERB	VERppe	Tense=Past|VerbForm=Part	22	advcl	_	SpaceAfter=No|XmlId=w_26_07366	2
+4581	- Dex ! dist Tristran, 	balliez	 le moi. 	7	balliez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_07472	-1
+4581	- Dex ! 	dist	 Tristran, balliez le moi. 	4	dist	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_26_07468	-1
+4590	Sor lor eulz a toz conmandé Que cil qui ainz te porra prendre, S'il ne te prent, 	fera	 le pendre. 	21	fera	_	VERB	VERcjg	VerbForm=Fin	6	ccomp	_	XmlId=w_26_07598	-1
+4597	« Dex, 	fait	 elë, en ait bien grez ! 	4	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_26_07705	-1
+4612	« Ha ! roïne franche, 	honoree	, Qel duel ont mis en la contree Par qui ceste novele est sorse ! 	7	honoree	_	VERB	VERppe	Tense=Past|VerbForm=Part	4	acl	_	SpaceAfter=No|XmlId=w_26_07929	1
+4617	« Sire, fait il, 	entent	 a moi. 	7	entent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08005	-1
+4617	« Sire, 	fait	 il, entent a moi. 	4	fait	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_26_08001	0
+4634	Rois, 	rent	 la moi, par la merite Que servi t'ai tote ma vite. » 	3	rent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08229	-1
+4648	si s'en torne, Chiere encline, 	marriz	 et morne. 	9	marriz	_	VERB	VERppe	Tense=Past|VerbForm=Part	7	conj	_	XmlId=w_26_08397	-1
+4680	Qui orendroit tote la pire Seüst, por Deu le roi, 	eslire	, Que il n'eüst m'amor tot tens. » 	13	eslire	_	VERB	VERinf	VerbForm=Inf	18	dislocated	_	SpaceAfter=No|XmlId=w_26_08742	2
+4704	Ainz que m'i doignes, 	art	 moi ci. » 	7	art	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_08991	-1
+4728	Qui ces meseaus veïst soffler, 	Oster	 chapes et desfubler ! 	7	Oster	_	VERB	VERinf	VerbForm=Inf	5	conj	_	XmlId=w_26_09244	2
+4755	Et deus seetes enpenees, 	Barbelees	, ot l'en menees. 	6	Barbelees	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	acl	_	SpaceAfter=No|XmlId=w_26_09452	1
+4808	S'avint un jor, aprés disner, 	Parlout	 a ses barons roi Marc, 	9	Parlout	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_26_09841	3
+4876	La ou prenent lor herbergage, 	Font	 lor cuisine et lor beau feu, 	7	Font	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_10515	1
+4878	Seignors, 	oiez	 con por Tristran Out fait li rois crïer son ban ! 	3	oiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_10533	-1
+4905	Je ne quit mais q'en nostre tens, En la terre de Cornoualle, 	Ait	 chevalier qui Tristran valle. » 	16	Ait	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_26_10838	5
+4917	Tantost com il fu deslïez, Par mié les renz cort, 	esvelliez	, Que onques n'i demora plus. 	13	esvelliez	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	acl	_	SpaceAfter=No|XmlId=w_26_10965	-1
+4930	et voiz clarele, 	Criant	 s'en vet vers la chapele ; 	5	Criant	_	VERB	VERppa	Tense=Pres|VerbForm=Part	8	advcl	_	XmlId=w_26_11078	1
+4947	« 	Laison	 a seurre cest trallier : 	2	Laison	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_11220	-1
+4957	« Par foi, 	fait	 il, je oi Husdent. » 	5	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_26_11290	-1
+4973	« Ha ! Dex, 	fait	 il, par quel pechié Nos a cist berseret seü ? 	6	fait	_	VERB	VERcjg	VerbForm=Fin	16	parataxis	_	XmlId=w_26_11418	-1
+5004	Quar je porroie en tel leu estre, O vos ou Governal mon mestre, Se il criout, 	feroit	 nos prendre. 	20	feroit	_	VERB	VERcjg	VerbForm=Fin	6	acl	_	XmlId=w_26_11801	-1
+5053	Un de ces trois que Dex maudie Par qui il furent descovert, 	Oiez	 conment par un jor sert ! 	14	Oiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_12209	2
+639	« 	Gracïet	 en seit Deus ! 	2	Gracïet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_06278	-1
+675	« Seignurs barons, dist li emperere Carles, 	Veez	 les porz e les destreiz passages ; 	10	Veez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_06634	1
+675	« Seignurs barons, 	dist	 li emperere Carles, Veez les porz e les destreiz passages ; 	5	dist	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_58_06629	1
+695	« Ahi ! culvert, malvais hom de put'aire, 	Quias	 le guant me caïst en la place, Cume fist a tei le bastun devant Carle ? » 	12	Quias	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_06850	0
+696	« Dreiz emperere, dist Rollant le barun, 	Dunez	 mei l'arc que vos tenez el poign. 	10	Dunez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_06880	0
+696	« Dreiz emperere, 	dist	 Rollant le barun, Dunez mei l'arc que vos tenez el poign. 	5	dist	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_58_06875	0
+738	« 	Pernez	 mil Francs de France, nostre tere, 	2	Pernez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_07213	-1
+748	Puis que il venent a la Tere Majur, 	Virent	 Guascuigne, la tere lur seignur ; 	10	Virent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_07345	-1
+786	Sin ai oüt e peines e ahans, 	Faites	 batailles e vencues en champ ! 	9	Faites	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	conj	_	XmlId=w_58_07739	-1
+797	« Bel sire reis, 	fait	 m'avez un grant dun. 	6	fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_58_07842	-1
+863	« Seignurs, 	venez	 avant ! 	4	venez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_08419	-1
+9003	« 	Di	 moi, 	2	Di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_7420	-1
+9005	vaslet, 	fus	 tu la ou ceste queste fu acreantee ? 	3	fus	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_7428	0
+9006	- Et mes sires Gauvains, 	fet	 ele, et Lancelot dou Lac sont en il compaignon ? 	7	fet	_	VERB	VERcjg	VerbForm=Fin	17	parataxis	_	XmlId=w_qgraal_cm_7451	-1
+9007	- Dame certes, 	fet	 cil, mes sires Gauvains le creanta premierement, et Lancelot aprés, 	5	fet	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_qgraal_cm_7467	-1
+9012	« Certes, 	fait	 ele, ce est granz domages, 	4	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_7560	-1
+9024	« 	Oez	 seignors chevaliers de la table reonde qui avez juree la queste dou saint Graal.´ 	2	Oez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_7776	-1
+9043	« Ha.´ sire, 	fait	 ele, vos le me celez, 	6	fait	_	VERB	VERcjg	VerbForm=Fin	12	parataxis	_	XmlId=w_qgraal_cm_8142	-1
+9054	« Dame, 	fet	 il, puis que vos le conoissiez si certainement vos le me poez bien dire. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	19	parataxis	_	XmlId=w_qgraal_cm_8281	-1
+9057	- A non Dieu, 	fet	 ele, puis que vos nel le me volez dire je le vos dirai. 	6	fet	_	VERB	VERcjg	VerbForm=Fin	20	parataxis	_	XmlId=w_qgraal_cm_8342	1
+9061	- Dame, 	fait	 il, puis que vos le savez si de voir a que fere le vos diroie je ?? 	4	fait	_	VERB	VERcjg	VerbForm=Fin	20	parataxis	_	XmlId=w_qgraal_cm_8437	-1
+9101	- Je feroie, 	fet	 il, trop volentiers remanoir ceste queste s'il peust estre en nule maniere. 	5	fet	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_9080	-1
+9102	- Sire, 	fet	 Lancelot, je l'ai veu jurer a tant de preudomes que je ne cuit pas que il la vousissent lessier en nule maniere, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_9099	-1
+9105	- Par foi, 	fait	 li rois, je sai bien que vos dites voir. 	5	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_9156	2
+9123	« Sire, 	fet	 li rois Bademagus, puis que cist aferes est empris si fierement qu'il ne puet estre lessié je voldroie que li saint fussent aporté. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	24	parataxis	_	XmlId=w_qgraal_cm_9380	0
+9125	- Jel voil bien puis qu'il vos plest qu'il soit einsi, 	fet	 li rois Artus puis qu'il ne puet estre autrement. » 	15	fet	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_9436	8
+9132	- Sire, 	fet	 li rois Bademagus, sauve vostre grace il ne fera mie premiers le serement, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w_qgraal_cm_9519	-1
+9158	- Dame, 	fet	 il, si feré se Dieu plest, 	4	fet	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_qgraal_cm_9991	-1
+9160	- Ha.´ Diex, 	fait	 ele, mes cuers ne le me dit pas qui me met en toutes les mesaises dou monde et en toutes les poors ou onques gentil fame fust por home. 	6	fait	_	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w_qgraal_cm_10015	1
+9161	- Dame, 	fet	 il, je m'en irai a vostre congié quant vos plaira. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_10050	-1
+9162	- Vos n'i alissiez jamés, 	fait	 ele, par ma volenté, 	8	fait	_	VERB	VERcjg	VerbForm=Fin	5	parataxis	_	XmlId=w_qgraal_cm_10071	-1
+9164	- Dame, 	fait	 il, Diex le face par la soe digne pitié. » 	4	fait	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_10130	-1
+9174	- Sire, 	fet	 il, je me mefferoie se je ceanz le prenoie. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_10244	-1
+9194	- Li retorners, 	fet	 li rois, me fera assez pis que li venirs, 	5	fet	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_10492	1
+9239	« Par foi sire, 	font	 il, nos i venismes por veoir une aventure qui i est trop merveilleuse 	6	font	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_11189	2
+9246	- A non Dieu, 	fet	 Galaad, vos me contez merveilles, se l'aventure est tiex come vos me contez et dites, 	6	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_11305	1
+9249	- Sire, 	font	 il, donc le vos lairons nos, 	4	font	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_11352	-1
+9251	- Je voil, 	fait	 il, que vos i essaiez avant por savoir se ce est voirs ou mençonge que l'en vos en a dit. » 	5	fait	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_11379	-1
+9258	« Sire, 	fet	 li preudons, por quoi le demandez vos ? 	4	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_11509	0
+9259	- Je nel vos lo mie, 	fet	 soi li preudons, que vos ja l'emportez fors de çaienz, 	8	fet	_	VERB	VERcjg	VerbForm=Fin	5	parataxis	_	XmlId=w_qgraal_cm_11550	1
+9261	- Toute voies, 	fait	 il, voil je savoir ou il est et de quel façon. » 	5	fait	_	VERB	VERcjg	VerbForm=Fin	10	parataxis	_	XmlId=w_qgraal_cm_11581	2
+9264	« Sire, fet soi li preudons, 	veez	 ci l'escu que vos demandez. » 	9	veez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_11627	-1
+9264	« Sire, 	fet	 soi li preudons, veez ci l'escu que vos demandez. » 	4	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_11622	0
+9273	- A non Dieu, 	fet	 li rois Bademagus, que qu'il m'en doie avenir je l'emporterai de ceienz. » 	6	fet	_	VERB	VERcjg	VerbForm=Fin	20	parataxis	_	XmlId=w_qgraal_cm_11753	1
+9306	« 	Tien	, 	2	Tien	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_qgraal_cm_12199	-1
+9315	- De mon non, 	fait	 il, ne puez tu mie savoir, 	6	fait	_	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_qgraal_cm_12315	2
+9319	- Sire, 	fait	 li vaslez, puis que vos vostre non ne me diroiz je vos pri par la riens ou monde que vos plus amez que vos me diez la verité de cest escu, et coment il fu aportez en ceste terre, et por quoi tantes merveilles en sont avenues, 	4	fait	_	VERB	VERcjg	VerbForm=Fin	18	parataxis	_	XmlId=w_qgraal_cm_12362	-1
+9321	- Tant m'en as conjuré, 	fet	 li chevaliers, que je le te dirai, 	8	fet	_	VERB	VERcjg	VerbForm=Fin	6	parataxis	_	XmlId=w_qgraal_cm_12441	-1
+9325	« Mes ou vos porrons nos, fet il, 	trouver	 quant nos vendrons ceste part ? 	11	trouver	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_qgraal_cm_12494	1
+9325	« Mes ou vos porrons nos, 	fet	 il, trouver quant nos vendrons ceste part ? 	8	fet	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_qgraal_cm_12491	1
+9330	- Et porroiz vos, fet il, 	chevauchier	 ?? » 	9	chevauchier	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_qgraal_cm_12553	-1
+9330	- Et porroiz vos, 	fet	 il, chevauchier ?? » 	6	fet	_	VERB	VERcjg	VerbForm=Fin	9	parataxis	_	XmlId=w_qgraal_cm_12550	-1
+951	- 	Tais	, Oliver, 	2	Tais	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_09126	-1
+999	« Cumpainz Rollant, 	sunez	 vostre olifan, 	5	sunez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_09525	-1
+beroul-654.new	« Tristran, 	fait	 ele, quel damage Qu'a si grant honte estes lïez ! 	4	fait	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_26_06601	-1
+beroul-887.new	- Dex ! 	dist	 Tristran, quel aventure ! 	4	dist	_	VERB	VERcjg	VerbForm=Fin	8	parataxis	_	XmlId=w_26_09116	-1
+qgraal_cm-411.new	- Dame, 	fet	 cil, oïl. 	4	fet	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_7440	-1
+qgraal_cm-506.new	- Sire, 	fet	 il, coment ? 	4	fet	_	VERB	VERcjg	VerbForm=Fin	7	parataxis	_	XmlId=w_qgraal_cm_9067	-1
+qgraal_cm-666.new	- Por ce, 	fet	 il, que je l'enporteroie avec moi por savoir s'il a tel vertu come l'en dit. 	5	fet	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_qgraal_cm_11523	-1

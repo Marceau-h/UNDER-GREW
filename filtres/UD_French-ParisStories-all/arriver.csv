@@ -1,5 +1,4 @@
 Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
-178,ParisStories_2020_anecdoteMetro_11,donc le bus j'arrive j',arrive," pile poil pour le prendre, et tout, super contente et tout. ",5,arrive,arriver,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,7,reparandum,_,_,2
 413,ParisStories_2021_rencontreMourinho_11,"euh, ils ont pris le temps pour tout le monde, etc, ensuite, ",arrivent, les autres joueurs. ,17,arrivent,arriver,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,5,conj,_,_,1
 475,ParisStories_2022_15_onEnParleAPersonne__44,"mais euh tu sais que moi, je suis ",arrivée," en courant, hein ? ",10,arrivée,arriver,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4,ccomp,_,AlignBegin=122756|AlignEnd=123048,1
 717,ParisStories_2019_prepaScientifique_14,"de le coup, je suis ",arrivée, là-dedans sans savoir de le tout ce que ça allait donner. ,7,arrivée,arriver,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,2

@@ -1,12 +1,12 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,4215.0,4215.0,100.0,100.0,
-no_obj,873,873,20.71,20.71,"ah, oui, il fait pas que de le remettre, le ;;restaurer;;. "
-in_both,2936,690,69.66,16.37,"c';;est;; là, entre XXX. "
-one_percent,1906,433,45.22,10.27,"il ;;devient;; le sherpa du président, le porteur de valises, le conseiller influent du prince qui négocie au plus haut niveau avec les hommes et les États. "
-out_idiom,4122,417,97.79,9.89,"mais ils ont dit venez, ;;venez;; vous installer à vos, vos, nous se~, nous serons très heureux si vous voulez vous installer à, à vos frais n'importe où, euh, on, on, on voudrait bien que vous fassiez… "
-something,3822,363,90.68,8.61,"et puis il y a un autre aspect qui consiste à exp~, éprouver l'art, le ;;ressentir;;, euh, en faire l'expérience, avoir une sorte de, de vécu de l'expérience artistique. "
-not_fixed,4122,363,97.79,8.61,"j'ai dit, ben, oui, mais en ;;attendant;;, je paie mon loyer, enfin, pas mon loyer. "
-too_close,1290,54,30.6,1.28,"alors, ;;raconté;; comme ça, c'est nul. "
-five_or_more,2312,54,54.85,1.28,vous vous ;;trouvez;; au Gosier. 
+no_obj,873,873,20.71,20.71,je ;;vais;; au marché d'Aligre. 
+in_both,2936,690,69.66,16.37,et vous êtes drôlement ;;attifée;; quand même. 
+one_percent,1906,433,45.22,10.27,alors que nous ;;sommes;; à trois minutes de la mi-temps. 
+out_idiom,4122,417,97.79,9.89,"je crois qu'il y a, il y ;;a;; quelques années, ils avaient dit que l'immobilier avait augmenté d'environ neuf pour cent à Paris. "
+something,3822,363,90.68,8.61,"et là, vous allez voir, vous ;;allez;; arriver à une autre place où il y a une grande fontaine, vous pouvez pas la louper, et, euh, la boutique France Loisirs. "
+not_fixed,4122,363,97.79,8.61,ce n'était pas le cas il y ;;a;; plusieurs années. 
+too_close,1274,54,30.23,1.28,"ensuite, euh, ;;disons;; les mots comme ils sont, vous avez été ruinée. "
+five_or_more,2312,54,54.85,1.28,"peut-être que je me serais ;;mariée;; et, et que j'aurais trouvé plus commode d'épouser un monsieur avec de l'argent. "
 no_pass,4215.0,54.0,100.0,1.28,
-no_pron,4065,53,96.44,1.26,"le point de vue du spectateur, le point de vue esthétique se ;;dégage;;, euh, à la fin du dix-septième siècle, au dix-huitième siècle. "
+no_pron,4065,53,96.44,1.26,"bon, maintenant, ça se ;;passe;; mieux. "
