@@ -1,1 +1,3 @@
-""
+,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4,FQB_CAF-14,Ma situation familiale ou professionnelle ,change,", est-ce que mon aide au logement sera modifiée ? ",6,change,changer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No,1
+5,FQB_CAF-21,Quelles démarches dois-je effectuer pour demander et ,recevoir, une aide au logement ? ,9,recevoir,recevoir,VERB,_,VerbForm=Inf,7,conj,_,_,1

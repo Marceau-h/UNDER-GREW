@@ -1,12 +1,10 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,2739.0,2739.0,100.0,100.0,
-no_obj,352,352,12.85,12.85,Nous espérons que ceux qui ;;envisagent;; de voter contre ces amendements pourront donner de bonnes raisons de leur choix au parlement et aux citoyens qui sont à la recherche d'un emploi. 
-in_both,1207,208,44.07,7.59,"L'Oeuvre est ;;protégée;; par le droit de la propriété littéraire et artistique (droit d'auteur, droits voisins, droits des producteurs de bases de données) ou toute autre loi applicable. "
-one_percent,525,94,19.17,3.43,Ces mesures sont adoptées durant une période de trois ans à ;;compter;; de la date d'adhésion et ne s'appliquent pas au-delà de cette période. 
-out_idiom,2739.0,94.0,100.0,3.43,
-something,2426,60,88.57,2.19,"(21) Les produits consommateurs d'énergie conformes aux exigences d'écoconception ;;établies;; dans les mesures d'exécution de la présente directive doivent porter le marquage CE et les informations associées, afin de pouvoir être mis sur le marché intérieur et y circuler librement. "
-not_fixed,2679,60,97.81,2.19,"En fait, ce qu'on a fait il y a quelques années c'était d'apprendre comment on introduit clandestinement un labo de biologie moléculaire à Tokyo et de l'utiliser pour ;;tester;; génétiquement l'ADN d'échantillons de viande de baleine et identifier ce qu'ils étaient vraiment. "
-too_close,1728,26,63.09,0.95,"Toutefois, madame la présidente, ce que j'avais demandé n'a pas été ;;réalisé;;. "
-five_or_more,435,18,15.88,0.66,"Monsieur le président, si vous le permettez, je voudrais tout d'abord vous féliciter de la diligence dont vous avez témoigné en ;;reprenant;; au vol la présidence au cours de ce débat. "
-no_pass,2739.0,18.0,100.0,0.66,
-no_pron,2645,13,96.57,0.47,Et c'est exactement ce qui se ;;passe;; avec les PDB dans cette pyramide de la chaîne alimentaire. 
+no_obj,352,352,12.85,12.85,"l'accident ferroviaire de Paddington, à Londres, l'effroyable accident ferroviaire en Norvège, les deux accidents d'avion transportant des passagers de l'Union Européenne et la catastrophe naturelle de l'Erika, au large de laBretagne ­ ces événements s'étant tous ;;produits;; au cours des quatre derniers mois ­ nous rappellent que nous ne pouvons croire que la sécurité des transports est garantie d'office et qu'il faut que les responsables de la protection de la population soient extrêmement motivés et qualifiés. "
+in_both,1207,208,44.07,7.59,Lorsque je considère que la première proposition de la commission a été déposée le 19 mars 1998 et que nous nous en ;;occupons;; aujourd'hui - alors que le parlement a réagi assez rapidement - le délai est un peu trop long. 
+out_idiom,2739.0,208.0,100.0,7.59,
+something,2426,142,88.57,5.18,"Il y ;;a;; quelques instants, M. Vatanen nous parlait de températures inférieures, non plus à -20 degrés, mais à -40 degrés. "
+not_fixed,2679,142,97.81,5.18,"Il y ;;a;; quelques instants, M. Vatanen nous parlait de températures inférieures, non plus à -20 degrés, mais à -40 degrés. "
+too_close,1728,67,63.09,2.45,Mais je ;;voudrais;; souligner ici que ce point de départ nous montre les défis devant lesquels nous nous trouvons: 
+no_pass,2739.0,67.0,100.0,2.45,
+no_pron,2645,59,96.57,2.15,"Les PCB s';;accumulent;; chez les dauphins dans le golfe de Sarasota, au Texas, en Caroline du Nord. "

@@ -105,12 +105,12 @@ for subdir in main.iterdir():
 
     for_stats["in_both"] = stats(df_in_both, df_all, df_all_pristine)
 
-    at_least_1_percent = [x for x in lst_lemmas_all if lst_lemmas_all.count(x) >= len(lst_lemmas_all) / 100]
-
-    df_one_percent = df_all_pristine[df_all_pristine["LEMMA"].isin(at_least_1_percent)]
-    df_all = df_all[df_all["LEMMA"].isin(at_least_1_percent)]
-
-    for_stats["one_percent"] = stats(df_one_percent, df_all, df_all_pristine)
+    # at_least_1_percent = [x for x in lst_lemmas_all if lst_lemmas_all.count(x) >= len(lst_lemmas_all) / 100]
+    #
+    # df_one_percent = df_all_pristine[df_all_pristine["LEMMA"].isin(at_least_1_percent)]
+    # df_all = df_all[df_all["LEMMA"].isin(at_least_1_percent)]
+    #
+    # for_stats["one_percent"] = stats(df_one_percent, df_all, df_all_pristine)
 
     df_out_idiom = df_all_pristine[~df_all_pristine["sent_id"].isin(df_in_idiom["sent_id"])]
     df_all = df_all[~df_all["sent_id"].isin(df_in_idiom["sent_id"])]
@@ -138,12 +138,12 @@ for subdir in main.iterdir():
 
     for_stats["too_close"] = stats(df_too_close, df_all, df_all_pristine)
 
-    five_or_more = [x for x in lst_lemmas_all if lst_lemmas_all.count(x) >= 5]
-
-    df_five_or_more = df_all_pristine[df_all_pristine["LEMMA"].isin(five_or_more)]
-    df_all = df_all[df_all["LEMMA"].isin(five_or_more)]
-
-    for_stats["five_or_more"] = stats(df_five_or_more, df_all, df_all_pristine)
+    # five_or_more = [x for x in lst_lemmas_all if lst_lemmas_all.count(x) >= 5]
+    #
+    # df_five_or_more = df_all_pristine[df_all_pristine["LEMMA"].isin(five_or_more)]
+    # df_all = df_all[df_all["LEMMA"].isin(five_or_more)]
+    #
+    # for_stats["five_or_more"] = stats(df_five_or_more, df_all, df_all_pristine)
 
     lst_feats_all = df_all_pristine["FEATS"].tolist()
 
@@ -166,14 +166,14 @@ for subdir in main.iterdir():
 
     upset_data: dict[str, set[str]] = {
         "all": {s for s in df_all_pristine["sent_id"].tolist()},
-        "no_obj": {s for s in df_no_obj["sent_id"].tolist()},
-        "in_both": {s for s in df_in_both["sent_id"].tolist()},
-        "one_percent": {s for s in df_one_percent["sent_id"].tolist()},
+        # "no_obj": {s for s in df_no_obj["sent_id"].tolist()},
+        # "in_both": {s for s in df_in_both["sent_id"].tolist()},
+        # "one_percent": {s for s in df_one_percent["sent_id"].tolist()},
         "out_idiom": {s for s in df_out_idiom["sent_id"].tolist()},
         "something": {s for s in df_something["sent_id"].tolist()},
         "not_fixed": {s for s in df_not_fixed["sent_id"].tolist()},
         "too_close": {s for s in df_too_close["sent_id"].tolist()},
-        "five_or_more": {s for s in df_five_or_more["sent_id"].tolist()},
+        # "five_or_more": {s for s in df_five_or_more["sent_id"].tolist()},
         "no_pass": {s for s in df_no_pass["sent_id"].tolist()},
         "no_pron": {s for s in df_no_pron["sent_id"].tolist()},
     }
@@ -190,14 +190,14 @@ for subdir in main.iterdir():
     # List to preserve the order
     list_labels: list[str] = [
         "all",
-        "no_obj",
-        "in_both",
-        "one_percent",
+        # "no_obj",
+        # "in_both",
+        # "one_percent",
         "out_idiom",
         "something",
         "not_fixed",
         "too_close",
-        "five_or_more",
+        # "five_or_more",
         "no_pass",
         "no_pron",
     ]

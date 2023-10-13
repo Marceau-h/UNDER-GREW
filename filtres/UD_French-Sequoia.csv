@@ -1,12 +1,10 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,5889.0,5889.0,100.0,100.0,
-no_obj,673,673,11.43,11.43,"- En 2001, le juge genevois Paul Perraudin a ;;bloqué;; à Zurich 1,2 milliard de francs suisses appartenant sur les comptes suisses de l'intermédiaire taiwanais, Andrew Wang, 73 ans. "
-in_both,2741,430,46.54,7.3,"J'en suis satisfait pour deux raisons, tout d'abord parce que la Commission relie la Charte des droits fondamentaux à la conférence intergouvernementale -et c'est l'objectif politique de ce Parlement dans le rapport de MM. Duff et Voggenhuber-, ensuite parce qu'elle va l';;intégrer;; dans cette campagne. "
-one_percent,861,192,14.62,3.26,"Sans fournir la moindre preuve, Washington continue d'accuser l'Irak de ;;fabriquer;; secrètement des armes biologiques et chimiques. "
-out_idiom,5634,141,95.67,2.39,";;Étant;; donné que la durée de vie des avions est approximativement de trente ans, l'effet de ces améliorations techniques se fait attendre longtemps. "
-something,5101,99,86.62,1.68,"Au cours des 24 premières heures, 39 ± 16% de la dose administrée sont récupérés dans les urines, le reste de la dose se ;;liant;; principalement au tissu osseux. "
-not_fixed,5634,99,95.67,1.68,"Une diminution du taux circulant des hormones sexuelles, principalement des estrogènes ;;convertis;; à partir des androgènes, joue aussi un rôle dans la perte osseuse graduelle observée chez les hommes. "
-too_close,3895,36,66.14,0.61,Vous ne devez pas recevoir Aclasta si vous ;;allaitez;;. 
-five_or_more,1041,36,17.68,0.61,Ceux-ci seront réalisés par le promoteur qui s'y engage étant précisé que la voirie ;;restera;; en l'état pour le moment. 
-no_pass,4394,13,74.61,0.22,"Le 7 juin 2006, Dominique de Talancé a été désaisi du dossier et ;;remplacé;; par Xavière Simeoni, puis Françoise Desset. "
-no_pron,5620,8,95.43,0.14,"Pendant 15 ans, elle a été l'assistante efficace de son mari, René s';;occupant;; du secrétariat et Denise de la trésorerie de la section l'isloise. "
+no_obj,673,673,11.43,11.43,L'EBM s';;inclina;; devant Joeuf par 70-61. 
+in_both,2741,430,46.54,7.3,il ;;empêche;; le sang de coaguler (formation de caillots). 
+out_idiom,5634,363,95.67,6.16,"ACUITY est une étude prospective, ;;randomisée;;, en ouvert, destinée à comparer la bivalirudine associée ou non à un inhibiteur de la GP IIb/IIIa (respectivement bras B et C) et l'enoxaparine ou l'héparine non fractionnée (HNF) associée à un inhibiteur de la GP IIb/IIIa (bras A), chez plus de 13 819 patients atteints d'un syndrome coronarien aigu (SCA) et considérés à haut risque. "
+something,5101,251,86.62,4.26,"Histoire récente de la manipulation d'images, par Hany Farid, professeur ;;associé;; à l'Université du Massachusetts, 7 août 2006 "
+not_fixed,5634,251,95.67,4.26,";;Étant;; donné que la durée de vie des avions est approximativement de trente ans, l'effet de ces améliorations techniques se fait attendre longtemps. "
+too_close,3895,113,66.14,1.92,"Je pense qu'il s'agit d'un objectif important parce que si nous ;;voulons;; toucher les gens, nous n'avons d'autre choix que d'aller là où ils se trouvent. "
+no_pass,4394,41,74.61,0.7,Des saignements mineurs ont été ;;rapportés;; de façon très fréquente (1/10) et les saignements majeurs de façon fréquente (1/100 et < 1/10). 
+no_pron,5620,32,95.43,0.54,La finale se ;;joua;; entre Utrecht et Soleuvre. 

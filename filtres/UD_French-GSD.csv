@@ -1,12 +1,10 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,31769.0,31769.0,100.0,100.0,
-no_obj,3276,3276,10.31,10.31,"La chapelle ;;sert;; à célébrer le souvenir de saint Louis tous les ans, le 25 août. "
-in_both,23958,2577,75.41,8.11,Il a enfin ;;émis;; une hypothèse de poids quant à la dernière ligne de ce poème. 
-one_percent,2263,389,7.12,1.22,"La DeLorean DMC-12 a été popularisée dans la trilogie Retour vers le futur, où elle sert à ;;voyager;; dans le temps. "
-out_idiom,31016,242,97.63,0.76,"La « Central Tejo » réussit à produire 1.200.678 KW/h, ce qui est une valeur résiduelle étant ;;donné;; qu'elle ne correspond qu'à un cinquième des nécessités d'une seule journée de consommation du réseau des CRGE. "
-something,29091,218,91.57,0.69,"De retour sur Dagobah, Luke voit Yoda très faible, qui lui ;;dit;; qu'il va bientôt mourir et que sa formation est terminée. "
-not_fixed,31016,218,97.63,0.69,"Les bâtiments de la rue Saint-Gilles devenus trop exigus et inadaptés aux exigences des nouvelles technologies, l'Institut est ;;transféré;; dans le domaine universitaire du Sart-Tilman à partir de 1977. "
-too_close,19861,131,62.52,0.41,L'analyste ou utilisateur avancé ;;appréciera;; Coheris Liberty Studio. 
-five_or_more,13189,131,41.52,0.41,L'amabilité des vendeurs est à ;;revoir;;. 
-no_pass,24071,101,75.77,0.32,"À la fin des épisodes avec Lucky, Bonkers est ;;confié;; à un autre partenaire, une sémillante blonde, le sergent Miranda Wright. "
-no_pron,29672,97,93.4,0.31,"Il s';;engage;;, pour la saison 2011, en compagnie notamment de Denis Menchov avec l'équipe Geox-TMC à la surprise générale car il était le chef de fil de la marque Cervélo. "
+no_obj,3276,3276,10.31,10.31,Un peu plus tard l'armée ;;transfère;; ses troupes sur Spike Island et les fortifications sont confiées à la marine britannique. 
+in_both,23958,2577,75.41,8.11,"Bien qu'il imitait la voix du comédien Jean Duceppe depuis déjà longtemps, le nom du personnage ;;vient;; du film de Claude Jutra, Mon oncle Antoine. "
+out_idiom,31016,2310,97.63,7.27,"À ;;partir;; de 1916, il escorta des convois à travers l'Atlantique. "
+something,29091,1786,91.57,5.62,"La « Central Tejo » réussit à ;;produire;; 1.200.678 KW/h, ce qui est une valeur résiduelle étant donné qu'elle ne correspond qu'à un cinquième des nécessités d'une seule journée de consommation du réseau des CRGE. "
+not_fixed,31016,1786,97.63,5.62,"L'extension de la ligne 7 du métro de New York est étroitement liée au ré-aménagement de l'Hudson Yards, elle a pour but d'étendre l'IRT Flushing Line, vers l'ouest à ;;partir;; de son terminus actuel à Times Square. "
+too_close,19861,865,62.52,2.72,;;Formé;; de Migmatite de Saint-Malo. 
+no_pass,24071,480,75.77,1.51,"En 2009, Unique est ;;sacré;; """"Cheval suisse de l'année"""" grâce à ses bons résultats, mais il est vendu au Brésil début 2010. "
+no_pron,29672,406,93.4,1.28,"Dans le cas des tatouages robustes, il s';;agit;; d'un signal de faible amplitude (indétectabilité) et de large bande passante (les images étant généralement de taille assez importante). "

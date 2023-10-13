@@ -1,12 +1,10 @@
 ,# sent,# sent successif,% sent,% sent successif,filtered
 all,4215.0,4215.0,100.0,100.0,
-no_obj,873,873,20.71,20.71,je ;;vais;; au marché d'Aligre. 
-in_both,2936,690,69.66,16.37,et vous êtes drôlement ;;attifée;; quand même. 
-one_percent,1906,433,45.22,10.27,alors que nous ;;sommes;; à trois minutes de la mi-temps. 
-out_idiom,4122,417,97.79,9.89,"je crois qu'il y a, il y ;;a;; quelques années, ils avaient dit que l'immobilier avait augmenté d'environ neuf pour cent à Paris. "
-something,3822,363,90.68,8.61,"et là, vous allez voir, vous ;;allez;; arriver à une autre place où il y a une grande fontaine, vous pouvez pas la louper, et, euh, la boutique France Loisirs. "
-not_fixed,4122,363,97.79,8.61,ce n'était pas le cas il y ;;a;; plusieurs années. 
-too_close,1274,54,30.23,1.28,"ensuite, euh, ;;disons;; les mots comme ils sont, vous avez été ruinée. "
-five_or_more,2312,54,54.85,1.28,"peut-être que je me serais ;;mariée;; et, et que j'aurais trouvé plus commode d'épouser un monsieur avec de l'argent. "
-no_pass,4215.0,54.0,100.0,1.28,
-no_pron,4065,53,96.44,1.26,"bon, maintenant, ça se ;;passe;; mieux. "
+no_obj,873,873,20.71,20.71,"alors, ça enlève bien les odeurs, euh, toutes les odeurs qu'il peut y ;;avoir;; sur du linge. "
+in_both,2936,690,69.66,16.37,"mais, euh, et ça se termine un peu en coupure où, euh, le boulanger, enfin, la, la vieille dame rejoint, la bourgeoise ;;rejoint;; le boulanger après que la fille soit par terre et Charlie, ou Charlie Chaplin soit par terre et la fille soit partie. "
+out_idiom,4122,666,97.79,15.8,"il se trouve qu'à partir de la Math Elem, je me suis ;;trouvé;; très bon en maths. "
+something,3822,580,90.68,13.76,"ce, ce chiffre de trente mille, c'est finalement une extrapolation que vous ;;faites;;, mais à partir de scénarios passés, entre guillemets, raisonnables, mais en tenant compte de ce qu'on a pu faire ou surtout de ce qu'on n'a pas pu faire. "
+not_fixed,4122,580,97.79,13.76,"et la seule école privée, euh, qu'il y avait dans le quartier, moi, avec qui je travaillais un peu quand je suis ;;arrivée;; ici a fermé il y a maintenant, pff, peut-être au moins douze ans, je pense, hein, douze, treize ans. "
+too_close,1274,100,30.23,2.37,"ils voulaient pas le ;;donner;; à, au Barrage parce que j'étais de gauche. "
+no_pass,4215.0,100.0,100.0,2.37,
+no_pron,4065,95,96.44,2.25,les deux se ;;compénètrent;; en quelque sorte. 
