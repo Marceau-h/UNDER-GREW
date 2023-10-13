@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+27640,103738,"Les distances qu'elle franchit ainsi, grimpant, s'élançant, ",escaladant,", finissent par devenir si considérables que la nourriture puisée par les racines ordinaires affluerait trop difficilement aux bourgeons.",13.0,escaladant,escalader,VERB,VERB,Tense=Pres|VerbForm=Part,8.0,conj,8:conj,SpaceAfter=No,1.0
+31072,117063,"De nos jours, c'est un sommet facile à ",escalader, pour des randonneurs de montagne expérimentés.,11.0,escalader,escalader,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,1.0
+154764,583917,"De même que le col de la Lombarde, ",escaladé," un peu plus tôt dans la journée, et escamoté par les leaders.",10.0,escaladé,escalader,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+256695,967481,Wadi Rum : dessins nabatéens Nous enchaînons ensuite deux arches : un petit et un beaucoup plus grand que nous ne tardons pas à ,escalader, pour prendre un peu de hauteur sur les environs.,25.0,escalader,escalader,VERB,VERB,VerbForm=Inf,22.0,xcomp,22:xcomp,_,1.0

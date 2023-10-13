@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+141480,534032,"Il est un public jeune, un public moins jeune, ",métissé, ou pas; pour moi c'est pareil je ne me de demande pas...,12.0,métissé,métisser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,conj,10:conj,_,2.0
+155646,587048,"Le théâtre québécois est aujourd'hui à l'image de notre pays, ",métissé,", ouvert sur le reste du monde et soucieux de demeurer fidèle à lui-même, à ses valeurs, à ses racines.",13.0,métissé,métisser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,acl,11:acl,SpaceAfter=No,1.0
+209173,788877,"La majorité de nos élèves ont des références composites, contradictoires, fluctuantes, ",métissées," : les éléments culturels sont puisés dans la famille, l'école, la télévision, le cinéma, la rue...",15.0,métissées,métisser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,9.0,conj,9:conj,_,1.0

@@ -1,0 +1,8 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+23883,89502,Alors que les rumeurs de transfert de l'attaquant portugais de Manchester ,enflent," et désenflent au quotidien, la presse espagnole sort une nouvelle """"révélation"""".",13.0,enflent,enfler,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,22.0,advcl,22:advcl,_,3.0
+24573,92059,La polémique ,enflait," quand Max Guazzini estimait que les Toulousains, jaloux, cherchaient à «flinguer» l'événement.",3.0,enflait,enfler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0.0,root,0:root,_,1.0
+61334,231237,Lire l'actu : Widget : 118 712 fait ,enfler, les log> Les jeux de 2008 arriventAMD dans Léopard 10.5.2 ?,10.0,enfler,enfler,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,2.0
+83313,313080,"Le débat """"Laïcité"""" était à peine calmé que déjà ",enflait," la polémique """"Enfants de la Shoah"""".",12.0,enflait,enfler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,9.0,advcl,9:advcl,_,1.0
+111314,420044,Mal aux dents qui ,enfle,", mal de dents guéri.",5.0,enfle,enfler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,acl:relcl,3:acl:relcl,SpaceAfter=No,2.0
+158676,598289,Son corps grotesquement ,enflé, est inhumé à l’Abbaye de Westminster dans un vaste cerceuil presque carré.,4.0,enflé,enfler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+201037,758631,"Depuis quelques jours au sein de Russie unie, la rumeur sur l'avènement de Vladimir Poutine au poste de leader officiel du parti ne cesse d'",enfler,", lit-on vendredi dans le quotidien Nezavissimaïa gazeta.",28.0,enfler,enfler,VERB,VERB,VerbForm=Inf,26.0,xcomp,26:xcomp,SpaceAfter=No,2.0

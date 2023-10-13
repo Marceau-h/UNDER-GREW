@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+61721,232703,"Elle est à l'origine du verbe """"",seriner, (répéter de nombreuses fois).,9.0,seriner,seriner,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,SpaceAfter=No,2.0

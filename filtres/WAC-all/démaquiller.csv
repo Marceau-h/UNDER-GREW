@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+40332,152067,"C'est la mission du Centre d'histoire de «montrer la ville d'une façon inattendue, de dévoiler un paysage urbain inédit et ",démaquillé,"», explique Jean-François Leclerc, directeur du Centre d'histoire de Montréal.",26.0,démaquillé,démaquiller,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,24.0,conj,24:conj,SpaceAfter=No,3.0

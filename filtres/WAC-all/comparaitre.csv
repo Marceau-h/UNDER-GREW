@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+31121,117279,"Là, le 23 mai 1415, il comparait pour tentative d'évasion (à une citation à ",comparaitre,", laquelle avait été émise en son absence et qu'il n'avait pu prendre connaissance).",19.0,comparaitre,comparaitre,VERB,VERB,VerbForm=Inf,17.0,acl,17:acl,SpaceAfter=No,2.0

@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+44203,166812,"Elle ne peut pas non plus être fondée seulement sur le 'soft power', le pouvoir d'",influencer, et de convaincre.,20.0,influencer,influencer,VERB,VERB,VerbForm=Inf,18.0,acl,18:acl,_,1.0
+124544,470436,Les peoples ,influencent,-ils la vie politique française?,3.0,influencent,influencer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+142620,538461,"La naïveté a certes une part de responsabilité, mais même les utilisateurs chevronnés peuvent se laisser duper et ",influencer,"», explique le professeur Clive Hollin.",20.0,influencer,influencer,VERB,VERB,VerbForm=Inf,18.0,conj,18:conj,SpaceAfter=No,1.0
+215460,812362,"Ses points de vue « prophétiques » sur la religion, la science, la politique et la société ",influencèrent, en dehors de son cercle de fidèles.,20.0,influencèrent,influencer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin,0.0,root,0:root,_,1.0
+254474,958831,"Après ennoyage, les bassins miniers retrouvent un nouvel équilibre hydrodynamique non ",influencé,", exempt de toute surexploitation.",13.0,influencé,influencer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,SpaceAfter=No,1.0
+259379,977687,L'arrêt de la cour d'appel ,influencera,-t-il son jugement ?,8.0,influencera,influencer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

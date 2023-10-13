@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+185975,701512,Les témoignages des victimes ,concordent,", des documents accablants parviennent les uns après les autres à la lumière, mais le président George W. Bush insiste: la torture ne fait pas partie de l'arsenal américain contre le terrorisme.",5.0,concordent,concorder,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+220339,830872,Ces données ,concordent, pour indiquer un âge compris entre 700 000 ans et nos jours.,3.0,concordent,concorder,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

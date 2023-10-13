@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+154938,584498,"Complètement à côté de la plaque face au Touquet, le VNVB n'a dû sa présence en demi-finale qu'à un succès ô combien ",étriqué, en barrages face à l'ASPTT Mulhouse (17-15 au tie-break).,26.0,étriqué,étriquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,23.0,acl,23:acl,_,2.0

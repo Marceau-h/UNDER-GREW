@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+523,fr-ud-train_00844,"Le marché attend une fois de plus des détails concrets sur un éventuel plan de sauvetage de la Grèce"""", ",notaient, les analystes de Commerzbank. ,23,notaient,noter,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,4,parataxis:insert,_,_,1

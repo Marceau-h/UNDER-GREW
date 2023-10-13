@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+119722,452422,"La date du 22 février a été évoquée pour cette fin de session, mais rien n'interdit au Parlement de ",sièger, au-delà de cette date si l'ordre du jour n'est pas épuisé.,22.0,sièger,sièger,VERB,VERB,VerbForm=Inf,18.0,xcomp,18:xcomp,_,1.0

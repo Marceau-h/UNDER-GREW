@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+50,Rhap_M2006-9,un face à face très ,attendu," entre Nicolas Sarkozy, les syndicats et le patronat. ",6,attendu,attendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2,acl,_,_,1

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+178027,671461,"Le responsable musulman s'en est pris aussi à la candidate socialiste, Ségolène Royal, également ",huée,", avant de demander aux musulmans de """"ne pas voter pour les extrêmes"""".",18.0,huée,huer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,11.0,acl,11:acl,SpaceAfter=No,1.0
+209684,790704,Mais n'ayant pas vu l'oeuvre citée et vaguement ,huée, -« comment ose-t-on huer un film d'auteur ?,11.0,huée,huer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0
+222694,839696,"C’est cependant le manque de conviction des chanteurs, sévèrement ",hués,", qui est à l’origine de cet échec car la musique de Verdi est accueillie par des applaudissements.",12.0,hués,huer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,9.0,acl,9:acl,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+118954,449477,"Après une phase délicate de mise en compatibilité, nous interpolons ou ",approximons, l'ensemble de ces courbes pour obtenir une surface B-spline définie par un produit tensoriel et possédant une forte continuité en tout point.,13.0,approximons,approximer,VERB,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,11.0,conj,11:conj,_,1.0

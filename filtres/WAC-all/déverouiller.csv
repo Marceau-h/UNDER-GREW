@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+104507,394334,"Une fois l'appareil activé, et ",déverouillé,", il suffit de l'installer dans son dossier applications de le redémarrer et de la lancer.",8.0,déverouillé,déverouiller,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,conj,5:conj,SpaceAfter=No,1.0

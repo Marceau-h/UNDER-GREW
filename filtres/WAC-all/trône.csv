@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+71681,270285,Emparez-vous du briquet qui ,trône, nonchalamment et sortez de l'autre côté.,6.0,trône,trône,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,acl:relcl,4:acl:relcl,_,1.0
+189883,716434,"Au-dessus de ce four, ",trône, une espèce de cocotte à l'envers d'où sort un tuyau refroidit dans une rigole faite d'un morceau de bambou.,8.0,trône,trône,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+211211,796449,"Un peu à l'écart des habitations se dresse la butte, sur laquelle ",trône, le château.,15.0,trône,trône,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11.0,acl:relcl,11:acl:relcl,_,1.0
+221394,835046,"Dans le camp des conservateurs, pour ne pas dire des réactionnaires, ",trône," le philosophe Alain Finkielkraut, récemment interviewé dans nos pages par Antoine Robitaille.",14.0,trône,trône,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,2.0

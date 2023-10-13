@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+172053,648906,"Les yeux sont dorés, avec, à leur angle interne, une fente, le larmier, d'où ",suinte," un liquide onctueux, d'odeur forte, particulièrement abondant au moment du rut.",21.0,suinte,suinter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,14.0,acl:relcl,14:acl:relcl,_,1.0
+229819,866650,C'était une fontaine monumentale en forme de cône d'où ,suintait, l'eau.,12.0,suintait,suinter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,4.0,acl:relcl,4:acl:relcl,_,1.0

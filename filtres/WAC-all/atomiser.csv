@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+21640,81004,"Il y avait une offre nombreuse, mais ",atomisée," et balkanisée, à la fois dans le temps et dans l'espace.",9.0,atomisée,atomiser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,1.0

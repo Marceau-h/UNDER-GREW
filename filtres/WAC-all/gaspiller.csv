@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+254435,958660,"Dans notre monde coexistent d'un côté des besoins fondamentaux non satisfaits, des ressources ",gaspillées," et détruites et, de l'autre, des capacités de travail et de créativité inemployées.",16.0,gaspillées,gaspiller,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,15.0,acl,15:acl,_,2.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1436,12124,"Si con girfauz grue randone, Qui de loing ",muet," et tant l'aproche Qu'il la cuide panre et n'i toche, Ensi cil fuit, ",10,muet,movoir,VERB,VERcjg,VerbForm=Fin,3,acl:relcl,_,XmlId=w_YvainKu_6125,1

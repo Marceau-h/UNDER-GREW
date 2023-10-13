@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+22255,83381,"Pour Pierre Larousse, « Elle se fit connaître par de nombreux ouvrages écrits, pour la plupart, dans le but d’instruire ou de ",moraliser, les femmes et les jeunes filles ».,27.0,moraliser,moraliser,VERB,VERB,VerbForm=Inf,24.0,conj,24:conj,_,3.0
+257735,971320,"La méfiance continuant à régner, les républicains feront plus volontiers confiance aux leurs, qu'au mécanisme d'institutions ouvertes dont la justification est pourtant d'éduquer et de ",moraliser," le comportement d'hommes, par définition faillibles.",31.0,moraliser,moraliser,VERB,VERB,VerbForm=Inf,28.0,conj,28:conj,_,1.0

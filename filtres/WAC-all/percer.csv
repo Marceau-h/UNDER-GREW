@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+144,568,Révélée très jeune par son succès à l'US Open chez les juniors à l'âge de 17 ans - Bartoli a mis plus de temps à ,percer, que ses adversaires de l'époque.,28.0,percer,percer,VERB,VERB,VerbForm=Inf,23.0,xcomp,23:xcomp,_,1.0
+87627,329816,"«Je crois par contre que si tu joues avec de la musique originale, que ce soit ici ou ailleurs, ce n'est pas facile de ",percer,"», ajoute-t-il.",29.0,percer,percer,VERB,VERB,VerbForm=Inf,27.0,dep,27:dep,SpaceAfter=No,3.0
+110820,418169,"La Banque centrale """"interdit de couper, ",percer,", déchiqueter, perforer ou de pratiquer toute forme de détérioration sur les pièces de monnaie et les billets émis par la banque sans son autorisation"""", a rappelé son porte-parole, Godfrey Mngadi.",9.0,percer,percer,VERB,VERB,VerbForm=Inf,7.0,conj,7:conj,SpaceAfter=No,1.0
+212748,802332,"Des différences entre Rivard et Bertrand, notamment, et la volonté de vouloir ",percer, individuellement causera une première dissolution en 1978.,15.0,percer,percer,VERB,VERB,VerbForm=Inf,14.0,xcomp,14:xcomp,_,1.0

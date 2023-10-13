@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+115,w01053067,"Il est possible de connaître la phase exacte de la lune à une date précise, deux mille ans en arrière, mais il est impossible de ",savoir, si elle était voilée par des nuages ou du brouillard. ,28,savoir,savoir,VERB,VB,VerbForm=Inf,26,csubj,_,_,1

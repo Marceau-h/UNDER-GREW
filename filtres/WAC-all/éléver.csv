@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+245286,924408,L'ajout d'un mode permettant d',éléver, et de voir évoluer ses créatures leur plaira sans doute également.,8.0,éléver,éléver,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,1.0

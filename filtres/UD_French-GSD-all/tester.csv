@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2695,fr-ud-train_11646,Cette commission a pour but de ,tester," et de certifier les antivols moto mécaniques et, plus récemment, électroniques. ",7,tester,tester,VERB,_,VerbForm=Inf,3,xcomp,_,Subject=SubjRaising,1

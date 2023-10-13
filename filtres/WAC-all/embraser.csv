@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+115495,435954,"L'appareil, qui devait rallier Las Palmas, dans l'archipel des Canaries, dans l'océan Atlantique, s'est ",embrasé, après s'être écrasé pour des raisons encore inconnues alors qu'il était en phase de décollage.,23.0,embrasé,embraser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+193837,731402,L'édifice s'est rapidement ,embrasé, et un bâtiment voisin a aussi été endommagé.,6.0,embrasé,embraser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

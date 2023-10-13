@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+54226,204251,Dans les années qui suivent elle se retrouve marginalisée et censurée au sein de son parti qui ,opte, de plus en plus pour l'intégration de la classe ouvrière au sein de la société capitaliste.,18.0,opte,opter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16.0,acl:relcl,16:acl:relcl,_,2.0
+123731,467597,"Dorrian partit former Cathedral, certainement le groupe le plus lent et accordé le plus grave qu'il y ait jamais eu ; Steer ",opta, pour se concentrer à plein temps à Carcass.,25.0,opta,opter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0.0,root,0:root,_,3.0

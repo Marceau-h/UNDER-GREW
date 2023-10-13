@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+182654,689229,"Bah ouais, je me marie dans dix jours, c'est une bonne raison pour mettre en veilleuse la préparation d'un article et, plutôt que de ",bâcler,", attendre d'avoir le temps de le rédiger proprement et de réfléchir à son organisation.",30.0,bâcler,bâcler,VERB,VERB,VerbForm=Inf,32.0,advcl,32:advcl,SpaceAfter=No,1.0

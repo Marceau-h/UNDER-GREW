@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+44074,166274,"Confort : A part une suspension un peu dure, et la difficulté de trouver un lecteur CD qui ne ",saute," pas, le confort est plus qu'acceptable et les longs trajets restent extrêmement plaisants.",21.0,saute,saute,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17.0,acl:relcl,17:acl:relcl,_,2.0
+60862,229220,"Concrètement, le stick droit sert à bouger la planche : pour faire un ollie, il suffit de le baisser, le skater fléchit alors les genoux, et ",saute, lorsque le stick est dirigé vers le haut.,31.0,saute,saute,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,25.0,conj,25:conj,_,3.0
+164084,618800,Lorsque la pression atteint un seuil critique le bouchon ,saute, et des projections variées sont observées....,10.0,saute,saute,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,2.0

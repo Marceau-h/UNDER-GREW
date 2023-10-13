@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+52774,199073,Le « nous » comme le « vous » sont à ,bannir," absolument, ainsi que l'utilisation des (tm).",12.0,bannir,bannir,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,1.0
+187061,705605,"J'avoue que j'ai utilisé le terme """"",bannir," pour """"bloquer définitivement"""", mais depuis j'ai compris qu'il fallait être politiquement correct sur wikipédia et je ne fais plus la même erreur.",10.0,bannir,bannir,VERB,VERB,VerbForm=Inf,8.0,acl,8:acl,SpaceAfter=No,1.0
+192307,725461,"Pour les USA, la liste des sites à ",bannir, sera proposée par le National Center for Missing and Exploited Child.,10.0,bannir,bannir,VERB,VERB,VerbForm=Inf,8.0,acl,8:acl,_,2.0

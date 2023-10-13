@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+60,n01096006,"Le monde (et par extension, la Grande-Bretagne) connaît une pénurie de main-d’œuvre ",qualifiée, et dotée de compétences nécessaires pour organiser une défense efficace. ,16,qualifiée,qualifier,VERB,VBN,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,15,acl,_,_,2

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+44,ParisStories_2019_histoireDeBanlieue_17,"mais à côté de l'entrée de la rue il y a quelques hommes, qui euh hum, qui étaient euh, qui ",restaient," ici et euh qui qui étaient en train de boire, enfin qui euh, qui avaient l'air pas très euh, pas très amicaux. ",25,restaient,rester,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,14,acl:relcl,_,_,2
+747,ParisStories_2019_vacancesEte_16,"et ensuite moi je suis repartie toute seule en train, à Paris, mes parents sont ",restés, là-bas. ,18,restés,rester,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6,conj,_,_,2

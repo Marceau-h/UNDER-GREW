@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+5231,19450,"Le cinéaste américain était accompagné par les deux étoiles de son film, Ewan MacGregor et Colin Farrel, qui jouent deux frères dont la vie ",bascule, quand leur oncle fortuné leur demande de commettre un meurtre.,27.0,bascule,bascule,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,23.0,acl:relcl,23:acl:relcl,_,1.0

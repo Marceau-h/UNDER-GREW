@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+127382,480934,"A l'instar de sa devancière, l'Elise 2 s'est faite 111S avec l'implantation de l'infatigable bloc K dopé à 158 ch. Voilà qui permettra d'enrouler encore plus ",ébouriffé, les sinuosités du Norfolk... ou d'ailleurs.,35.0,ébouriffé,ébouriffer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,32.0,advmod,32:advmod,_,2.0
+259227,977117,"Sa queue est constituée de vertèbres soudées entre elles, cette structure osseuse étant cachée par les poils ",ébouriffés, et assez longs qui recouvrent la queue.,19.0,ébouriffés,ébouriffer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,acl,18:acl,_,1.0

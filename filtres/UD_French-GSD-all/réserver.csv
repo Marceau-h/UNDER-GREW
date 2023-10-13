@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1106,fr-ud-train_03820,Demandez toujours une confirmation quand vous ,réservez, car il arrive que les réservations ne soient pas notées. ,7,réservez,réserver,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,1,advcl,_,_,3
+1867,fr-ud-train_07480,"Au calme et à quelques minutes de la ville (Hyères), au bord de la piscine et à quelques km de la Méditerranée, il y en a pour tous les goûts... Attention, ces hébergements sont vite pris d'assaut, pensez à ",réserver, longtemps à l'avance. ,50,réserver,réserver,VERB,_,VerbForm=Inf,48,xcomp,_,Subject=SubjRaising,1

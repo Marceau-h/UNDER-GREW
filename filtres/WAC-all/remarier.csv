@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+155916,588095,"Wanda Holloway, mère de deux enfants et ",remariée," récemment, s'installe avec sa famille dans une résidence d'une petite ville du Texas.",9.0,remariée,remarier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,3.0

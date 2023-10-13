@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+223347,842365,La crainte de ,déplaire, est d'ailleurs totalement inappropriée tant le consensus règne entre les participants et tant leurs conclusions convergent vers une pensée socio-démocrate d'un conformisme absolu.,4.0,déplaire,déplaire,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0
+229143,864290,Une décision qui devrait en ,déplaire, plus d'un qui voyaient déjà l'évincement du président du groupe France Télévisions dès l'acceptation de ce texte de loi.,6.0,déplaire,déplaire,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0

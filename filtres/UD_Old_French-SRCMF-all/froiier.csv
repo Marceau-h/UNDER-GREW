@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1358,11970,Sont vostre panel aborré Et voz chauces de fer ,froiees, Et voz banieres desploiees ? ,10,froiees,froiier,VERB,VERppe,Tense=Past|VerbForm=Part,4,conj,_,XmlId=w_YvainKu_4173,1

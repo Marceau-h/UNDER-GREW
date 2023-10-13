@@ -1,0 +1,8 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+17781,66670,"Celle-ci sont contrôlés par des tiges en dessous de la """"glace"""" : La figurine glisse d'avant en arrière le long d'une fente étroite, selon que le joueur ",tire, ou pousse la tige.,35.0,tire,tire,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,28.0,advcl,28:advcl,_,1.0
+41974,158401,Dans la mesure où il s'agit d'une blessure à la jambe avec laquelle il ,tire,", 40 jours d'arrêt pourraient être nécessaire pour récupérer"""", a commenté le médecin de l'équipe, Riccardo Agricola.",17.0,tire,tire,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13.0,acl:relcl,13:acl:relcl,SpaceAfter=No,2.0
+64985,245063,Rares sont les endroits où on skie et ,tire, aussi haut sur le circuit international.,9.0,tire,tire,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7.0,conj,7:conj,_,2.0
+99412,375153,Longueuil : Un policier ,tire, et abat un chien!,5.0,tire,tire,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,1.0,acl:relcl,1:acl:relcl,_,1.0
+145116,547595,"Je trouve, mords la languette de fer, ",tire,", descends.",10.0,tire,tire,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,conj,2:conj,SpaceAfter=No,1.0
+196724,742065,"Il faut lui donner le carnet, même s'il ",tire,", et ne pas lui administrer le stylo à gaz car Vlad attend en bas sinon.",11.0,tire,tire,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,advcl,4:advcl,SpaceAfter=No,1.0
+258357,973784,Le directeur artistique Frédéric Maire ,tire," lui un """"bilan très positif"""".",6.0,tire,tire,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

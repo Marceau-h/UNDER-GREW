@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2034,7681,"Avec la faconde qui est la sienne, le Vaudois dit que rencontrer Rafael Nadal sera """"intéressant et sympa"""", surtout si, comme ",pressenti,", le duel est programmé samedi soir à Melbourne.",27.0,pressenti,pressentir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,32.0,advcl,32:advcl,SpaceAfter=No,1.0
+167475,631393,"Toutefois, parmi les malheureux ",pressentis," pour quitter prématurément l'aventure dès demain, Gomis et Alou Diarra devraient jouer ce soir.",6.0,pressentis,pressentir,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,19.0,advcl,19:advcl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+94445,356536,"Maudit au Vélodrome en Championnat avec une seule victoire depuis 1979, l'ASM ",flirte," elle dangeureusement avec la zone rouge puisqu'un seul point la sépare de son voisin Nice, premier club relégable.",15.0,flirte,flirter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,2.0

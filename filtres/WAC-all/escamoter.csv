@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+53319,201038,"Le pavillon est enfin entièrement vitré, ce qui fait dire aux responsables du projet que ce véhicule, avec le toit ouvert et les vitres latérales entièrement ",escamotées,", """"procure le plaisir hédoniste du cabriolet"""".",29.0,escamotées,escamoter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,26.0,acl,26:acl,SpaceAfter=No,1.0

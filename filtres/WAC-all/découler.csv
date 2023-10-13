@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+65454,246814,"Un lien évident unissait les mythes fondateurs, et les héros qui en ",découlaient,", avec le peuple par l'entremise de la représentation.",14.0,découlaient,découler,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,11.0,acl:relcl,11:acl:relcl,SpaceAfter=No,1.0
+167533,631647,L'agitation estudiantine en ,découlant, incommode les dirigeants qui libèrent des centaines de prisonniers politiques pour apaiser la situation.,5.0,découlant,découler,VERB,VERB,Tense=Pres|VerbForm=Part,2.0,acl,2:acl,_,1.0

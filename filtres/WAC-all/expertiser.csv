@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+75854,285673,"Avant de proposer des pistes d'actions pour la période 2000-2004, il était normal d'",expertiser,", d'évaluer les dispositifs et de s'interroger sur leurs pertinences.",19.0,expertiser,expertiser,VERB,VERB,VerbForm=Inf,17.0,dep,17:dep,SpaceAfter=No,1.0

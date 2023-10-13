@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+30263,114062,Le carnet de commandes à ,facturer," s'établit à 56,2 ME contre 47,5 ME au 30 juin 2008.",6.0,facturer,facturer,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0
+34056,128315,"Il en ira de même pour le 18 Megamax, facturé un peu moins de 50 euros, mais avec l'option Télévision Numérique (autrefois ",facturée, 7 ¤/mois).,27.0,facturée,facturer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,22.0,acl,22:acl,_,2.0
+189675,715724,"Ou, si vous décidez de passer aux épreuves écran, vous pourriez chercher à réduire le nombre d'épreuves que vous devez détruire avant d'avoir quelque chose à présenter (et à ",facturer,) à votre client.,35.0,facturer,facturer,VERB,VERB,VerbForm=Inf,31.0,conj,31:conj,SpaceAfter=No,1.0

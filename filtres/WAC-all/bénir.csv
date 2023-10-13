@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+13356,49974,Philippe Auguste écrit aussi : « La reine et l’archevêque tiendront en leur main la régale jusqu’à ce que l’élu aura été consacré ou ,béni, ; alors la régale lui sera rendue sans contradiction ».,28.0,béni,bénir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,26.0,conj,26:conj,_,2.0
+90361,340465,"Mais comme le Saint, ",béni," soit-Il, savait que le monde ne saurait subsister par la Rigueur seule, il étendit la Clémence sur la Rigueur; c'est la Clémence qui régit le monde et le soutient.",6.0,béni,bénir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0
+152481,575335,Les époux surveillent et ,bénissent, la construction du nouveau monastère.,5.0,bénissent,bénir,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,3.0,conj,3:conj,_,1.0

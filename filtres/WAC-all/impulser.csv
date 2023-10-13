@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+46961,177149,"Dans les Hautes-Pyrénées, le Conseil Général est un acteur principal avec l'Etat et la Région pour ",impulser, et mettre en place ces dynamiques.,19.0,impulser,impulser,VERB,VERB,VerbForm=Inf,10.0,advcl,10:advcl,_,2.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+92683,349437,Les corps étaient totalement carbonisés et ,recroquevillés,", indique une source proche de lenquête.",7.0,recroquevillés,recroqueviller,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5.0,conj,5:conj,SpaceAfter=No,1.0
+131109,494997,"Néanmoins, de nombreuses interrogations demeurent, comme par exemple celles relatives à ces squelettes découverts ",recroquevillés, et enterrés sur la place centrale d'un village gaulois.,17.0,recroquevillés,recroqueviller,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,16.0,xcomp,16:xcomp,_,1.0

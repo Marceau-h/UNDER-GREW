@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+19974,74886,"La fébrilité législative de Nicolas Sarkozy est l'aveu d'une faillite», ",fustige, Ségolène Royal.,15.0,fustige,fustiger,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,parataxis,9:parataxis,_,1.0
+51782,195262,"Pour la première fois dans l'histoire de l'Allemagne fédérale, la discrimination est inscrite dans la loi"""", a ",fustigé," le président de la Communauté turque d'Allemagne, Kenan Kolat.",24.0,fustigé,fustiger,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,17.0,parataxis,17:parataxis,_,3.0
+59767,225028,"Des niveaux «proprement astronomiques», ",fustige, l'association.,8.0,fustige,fustiger,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,nmod,2:nmod,_,1.0

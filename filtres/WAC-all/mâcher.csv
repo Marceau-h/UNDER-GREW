@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+56379,212211,"La vente de tabac à fumer, à priser et à ",mâcher," s'est élevée à 7.478 tonnes (-18,4 pc).",12.0,mâcher,mâcher,VERB,VERB,VerbForm=Inf,6.0,conj,6:conj,_,1.0
+145555,549232,"Elle a écoulé 20'772 tonnes de bonbons, gommes à ",mâcher," et autres dragées, ce qui correspond à une progression de 13,7%.",11.0,mâcher,mâcher,VERB,VERB,VerbForm=Inf,9.0,acl,9:acl,_,1.0
+168498,635503,"Toujours en rapport avec Apollon, la Pythie et les devins ",mâchaient," ou brûlaient du laurier pour Apollon, afin d'obtenir ses qualités divinatoires.",12.0,mâchaient,mâcher,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,0.0,root,0:root,_,2.0
+204468,771701,Les grenouilles ne ,mâchent, pas mais peuvent écraser leur victime avec leurs maxillaires.,4.0,mâchent,mâcher,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

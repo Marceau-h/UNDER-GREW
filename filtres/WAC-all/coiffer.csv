@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+148149,559100,"La seconde adolescente a la tête de la première, ",coiffée," différemment, et posée sur son corps grâce à la technologie numérique.",11.0,coiffée,coiffer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,2.0

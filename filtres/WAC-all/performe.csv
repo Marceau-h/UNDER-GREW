@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+190512,718760,Huer un joueur de notre équipe qui ,performe," mal, mais qui fait des efforts pour s'en sortir, cela ne rend pas service à notre équipe et ce n'est pas souhaitable.",8.0,performe,performe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,acl:relcl,3:acl:relcl,_,2.0

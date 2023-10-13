@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+118611,448134,"L'eau, verdie par certaines particules gazeuses, accroît l'étrangeté d'un paysage sous-marin fait de bulbes de calcite que les spéléologues n'hésitent pas à ",troubler, pour découvrir de nouvelles galeries.,29.0,troubler,troubler,VERB,VERB,VerbForm=Inf,26.0,xcomp,26:xcomp,_,1.0
+217191,819153,"En revanche, la brièveté du métrage et le relatif dépouillement des décors ne manquent pas de ",troubler,", voire d'indisposer, les amateurs du genre.",18.0,troubler,troubler,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,SpaceAfter=No,1.0
+232023,874688,Silence à peine ,troublé," des bruits habituels de la prison, portes claquant derrière les murailles, allées et venues derrière les lourdes portes...",4.0,troublé,troubler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,1.0,acl,1:acl,_,1.0

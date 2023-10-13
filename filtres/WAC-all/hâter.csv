@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+85277,320432,Ne tardez pas à faire miséricorde au-monde ; ,hâtez,"-vous, car il se meurt, parce que les hommes n'ont pas l'union de la charité envers vous ni envers eux-mêmes ; ils ne s'aiment pas d'un amour fondé sur vous, ô éternelle Vérité!",11.0,hâtez,hâter,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

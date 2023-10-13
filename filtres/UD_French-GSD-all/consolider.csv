@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+298,fr-ud-test_00093,Il a en outre exprimé la volonté de son pays de renforcer et ,consolider, les relations bilatérales entre les deux pays dans l'avenir. ,14,consolider,consolider,VERB,_,VerbForm=Inf,12,conj,_,Subject=Instantiated,1

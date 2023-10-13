@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+136693,515885,"Au député UMP Nathalie Kosciusko-Morizet qui l'accusait de ne pas avoir participé à la discussion à l'Assemblée de la loi sur les violences conjugales, Royal a rétorqué, un peu ",pincée, : « J'ai un emploi du temps un peu chargé en ce moment.,36.0,pincée,pincer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,32.0,advcl,32:advcl,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+163707,617371,"Après avoir bravé celle qui faisait état d'un projet d'attentat contre lui lors de sa visite en Iran, le président russe s'est évertué à ",désamorcer, celle des ambitions nucléaires iraniennes.,29.0,désamorcer,désamorcer,VERB,VERB,VerbForm=Inf,27.0,xcomp,27:xcomp,_,2.0
+183242,691423,Une fois ,désamorcée,", la Flotte de Défense Terrestre arrive juste à temps pour les sauver d'un vaisseau chasseur mercenaire.",3.0,désamorcée,désamorcer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,advcl,10:advcl,SpaceAfter=No,1.0

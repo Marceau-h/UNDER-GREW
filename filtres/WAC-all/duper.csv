@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+142622,538461,"La naïveté a certes une part de responsabilité, mais même les utilisateurs chevronnés peuvent se laisser ",duper," et influencer», explique le professeur Clive Hollin.",18.0,duper,duper,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,1.0

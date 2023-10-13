@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+22435,84086,"Comment se fait-il que des religions fondées sur des doctrines, pronant la paix, la justice, l'amour fraternel universel, en sont venues à ",distiller, tant de haines et parfois à être le moteur de tant d'atrocités?,29.0,distiller,distiller,VERB,VERB,VerbForm=Inf,27.0,xcomp,27:xcomp,_,1.0

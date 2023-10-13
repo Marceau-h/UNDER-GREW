@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+13592,50789,"Cette même année, après une liaison avec le peintre Oscar Dominguez, elle rencontre et ",épouse," le scénariste Jean Lévy, spécialiste de Raymond Roussel et responsable du Collège de Pataphysique.",17.0,épouse,épouse,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15.0,conj,15:conj,_,1.0

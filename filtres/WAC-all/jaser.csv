@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+7939,29667,«J'arrivais à peine au village des athlètes et j'ai commencé à ,jaser, avec un membre de l'équipe de bobsleigh.,15.0,jaser,jaser,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,_,3.0
+40957,154535,"S'il n'est jamais évident d'affronter le huitième de la saison régulière, le club de la PostFinance Arena a subi un terrible camouflet qui n'a pas fini de faire ",jaser, dans la capitale fédérale.,34.0,jaser,jaser,VERB,VERB,VerbForm=Inf,31.0,xcomp,31:xcomp,_,2.0
+55609,209380,"Sachant déjà que BEHEMOTH et AND OCEANS furent annulés, cela fait plutôt ",jaser,", d'autant plus que l'entrée coûtait la somme injustifiée de 120f.",14.0,jaser,jaser,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,SpaceAfter=No,3.0
+130904,494226,Une affaire qui fait ,jaser, ce matin On peut lire dans La Presse que deux joueurs du Canadien ont versé quelque 5 000 dollars à leurs coéquipiers pour la victoire d'hier face aux Flames de Calgary.,5.0,jaser,jaser,VERB,VERB,VerbForm=Inf,2.0,acl:relcl,2:acl:relcl,_,1.0
+157430,593610,"Oui, le soft est beau, surtout sur TVHD, mais d'une beauté similaire à celle d'un Dead or Alive 4, ce qui fera encore ",jaser, bien des langues.,30.0,jaser,jaser,VERB,VERB,VerbForm=Inf,28.0,xcomp,28:xcomp,_,1.0
+236522,891775,Les contacts sont déjà faits et nous allons ,jaser, ensemble.,9.0,jaser,jaser,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,_,1.0

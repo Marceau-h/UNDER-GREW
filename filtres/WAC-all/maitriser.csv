@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+151263,570854,"Mais, grâce à l'armure de Pégase, qu'il arrive alors à ",maitriser,", il peut battre Shina ( sans son armure à elle ).",15.0,maitriser,maitriser,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,SpaceAfter=No,2.0

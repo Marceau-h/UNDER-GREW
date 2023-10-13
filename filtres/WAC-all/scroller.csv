@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+180214,679963,"Non mais il installe un driver 2D décent (nv), c'est à dire pas un driver merdique qui fait ramer l'affichage d'une page web en ",scrollant, ou en déplaçant une fenêtre...,31.0,scrollant,scroller,VERB,VERB,Tense=Pres|VerbForm=Part,23.0,advcl,23:advcl,_,1.0

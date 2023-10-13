@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+35303,133013,"Mais à 18 ans, j'ai décidé de ",quitter," parce que j'avais besoin d'essayer, d'apprendre et de profiter de la vie.",10.0,quitter,quitter,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,_,1.0
+54418,204971,"Malheureusement, aucun de ces rêves na été concrétisé.Hassan a ",quitté, très tôt lécole pour rejoindre un forgeron dans le but d'apprendre un métier.,13.0,quitté,quitter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+70983,267638,Prenez ensuite le passage suivant et tuez les gardes de la prison pour ,quitter, l&#8217;endroit.,14.0,quitter,quitter,VERB,VERB,VerbForm=Inf,7.0,advcl,7:advcl,_,1.0
+116157,438527,Quitter alors le logiciel en cliquant sur ,Quitter, dans le menu Fichier.,1.0,Quitter,quitter,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,2.0
+139861,527726,"Il a disposé de 20 des 21 derniers frappeurs à défiler devant lui, ",quittant, sans avoir concédé de but sur balles.,15.0,quittant,quitter,VERB,VERB,Tense=Pres|VerbForm=Part,3.0,advcl,3:advcl,_,1.0
+227991,859943,"C'est formidable: on peut lancer toutes les tâches de maintenance en un clic, ",quitter," ou relancer le finder, Dashoard, forcer le vidage de la corbeille et autres trucs pratiques, le tout avec une interface en français.",17.0,quitter,quitter,VERB,VERB,VerbForm=Inf,7.0,conj,7:conj,_,3.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+223182,841668,"A bout de forces, il allait tout de même trouver celle de sauver pas moins de... sept balles de match avant de s'incliner, plus mort que debout face au jeune joueur ",écossait,", numéro quatre mondial.",36.0,écossait,écosser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,29.0,advcl,29:advcl,SpaceAfter=No,1.0

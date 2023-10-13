@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+208178,785347,"Souvent on retrouve le manquant, qui s'était endormi ou ",planqué, (peut-être en vue d'une phase ultérieure de son plan... d'évasion (?),12.0,planqué,planquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,conj,10:conj,_,3.0

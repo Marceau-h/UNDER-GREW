@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+132352,499787,"Mais ici, tout allait de travers ; les fleuves débordaient, la foudre ",foudroyait,", les volcans vomissaient, et le sol lui-même, instable, tremblant, renversait les constructions qui ensevelissaient leurs occupants sous les décombres.",15.0,foudroyait,foudroyer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,11.0,conj,11:conj,SpaceAfter=No,1.0

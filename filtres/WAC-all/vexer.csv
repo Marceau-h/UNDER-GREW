@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+154401,582383,Sans vouloir te ,vexer,", c'est la même dépêche.",4.0,vexer,vexer,VERB,VERB,VerbForm=Inf,2.0,xcomp,2:xcomp,SpaceAfter=No,1.0

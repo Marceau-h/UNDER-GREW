@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+163191,615441,Les hymnes des princes et des rois [...] dressent le portrait idéal de ces grands personnages et les invitent par là à s'efforcer de ressembler à la figure à travers laquelle ,transparaît," le plus purement leur divinité"""" (Jean Céard).",36.0,transparaît,transparaître,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,32.0,acl:relcl,32:acl:relcl,_,1.0

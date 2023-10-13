@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+48158,181542,"Ne seraient-ce les scènes d'action, le film paraît parfois figé, presque ",embaumé, - parce qu'il s'agit d'une époque révolue ?,16.0,embaumé,embaumer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13.0,conj,13:conj,_,2.0

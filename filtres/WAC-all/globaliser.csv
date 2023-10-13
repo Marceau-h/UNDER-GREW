@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+213240,804147,"Le local instruit du global Le monde, déjà ",globalisé,", mais autrement intégré, se découvre lieu par lieu.",10.0,globalisé,globaliser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl,7:acl,SpaceAfter=No,1.0

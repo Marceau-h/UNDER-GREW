@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+25792,96682,Elle consiste à déposer le minerai ,concassé, et aggloméré dans une large fosse rectangulaire.,7.0,concassé,concasser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,3.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+153201,577837,Plus le temps passe et plus les Sochaliens ,déjouent,", oubliant bien souvent de passer sur les côtés et de poser le jeu.",9.0,déjouent,déjouer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,4.0,conj,4:conj,SpaceAfter=No,1.0

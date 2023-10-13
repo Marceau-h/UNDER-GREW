@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+94646,357302,Elle exploite également une usine de produits ,moulés," et extrudés en caoutchouc à Québec, et une autre qui fabrique des boyaux industriels et commerciaux à Saint-Alphonse de Granby.",8.0,moulés,mouler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,3.0

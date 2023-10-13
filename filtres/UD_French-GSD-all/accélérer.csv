@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1545,fr-ud-train_05990,Seuls huit moteurs sont nécessaires : 2 pour faire pivoter la sonde sur chaque axe et 2 pour ,accélérer, ou freiner l'engin. ,19,accélérer,accélérer,VERB,_,VerbForm=Inf,17,acl,_,Subject=Generic,1

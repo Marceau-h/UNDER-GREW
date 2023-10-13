@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2154,fr-ud-train_08885,"Il est donc interdit de la détruire, la mutiler, la capturer ou l'enlever, de la perturber intentionnellement ou de la naturaliser, ainsi que de détruire ou enlever les œufs et les nids, et de détruire, ",altérer, ou dégrader son milieu. ,43,altérer,altérer,VERB,_,VerbForm=Inf,41,conj,_,Subject=Generic,1
+2905,fr-ud-train_12629,"Il est donc interdit de le détruire, le mutiler, le capturer ou l'enlever, de le perturber intentionnellement ou de le naturaliser, ainsi que de détruire ou enlever les œufs et les nids, et de détruire, ",altérer, ou dégrader son milieu. ,43,altérer,altérer,VERB,_,VerbForm=Inf,41,conj,_,Subject=Generic,1

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+10317,38433,"Sa femme était notre blanchisseuse et sa fille, beau brin de fille, bien ",balancée,", avait été choisie pour être """"Reine des Blanchisseuses"""" à la Mi-Carême.",16.0,balancée,balancer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,11.0,acl,11:acl,SpaceAfter=No,1.0
+180407,680711,On augmente l'amplitude du ,balancer, en éloignant et en surélevant l'objet à toucher.,6.0,balancer,balancer,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,_,3.0

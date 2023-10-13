@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1288,fr-ud-train_04772,"Et comme l'humour et l'absurde furent également de la partie, on ",comprend, mieux pourquoi les visages des spectateurs étaient aussi rayonnants à la sortie du théâtre. ,15,comprend,comprendre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+3204,fr-ud-train_14196,Terra eco a rencontré les meilleurs spécialistes pour ,comprendre, comment ce rêve allait enfin devenir réalité. ,9,comprendre,comprendre,VERB,_,VerbForm=Inf,4,advcl,_,Subject=SubjRaising,1

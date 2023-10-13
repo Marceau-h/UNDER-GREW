@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+60818,229044,"Sur un ballon mal renvoyé par la défense, Diarra se présente à vingt-cinq mètres dans l'axe et décoche un missile du coup du pied droit légèrement ",dévié," dans la lucarne de Ruffier (67', 3-2).",29.0,dévié,dévier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,24.0,acl,24:acl,_,2.0
+95553,360632,"Le joueur contrôle, ",dévie, ou frappe le ballon avec l'extérieur du pied ou le talon alors que le ballon est en l'air.,5.0,dévie,dévier,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,conj,3:conj,_,1.0
+106451,401694,"Selon des experts météos, le cyclone pourrait aussi ",dévier, un peu plus vers l'est pour passer dans le détroit de Taïwan.,10.0,dévier,dévier,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,_,2.0
+139271,525589,"Sur certaines images, on peut voir le jet distinctement ",dévié, au niveau de la zone de collision.,11.0,dévié,dévier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,1.0

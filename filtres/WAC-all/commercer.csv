@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+208776,787487,Le développement du commerce électronique au cours de ces deux dernières années a rendu caduque le fait de savoir si ce moyen pour ,commercer, avait ou non un avenir.,24.0,commercer,commercer,VERB,VERB,VerbForm=Inf,22.0,acl,22:acl,_,1.0
+216174,815016,"Intranet : Un Intranet se compose de services simples, universels et performants, pour communiquer, informer, s'informer, ",commercer, et exploiter un système d'information en toute sécurité.,23.0,commercer,commercer,VERB,VERB,VerbForm=Inf,16.0,conj,16:conj,_,1.0

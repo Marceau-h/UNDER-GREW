@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1094,fr-ud-train_03720,"En fait, les usages se sont parfaitement accommodés de ce vide, puisqu'on édicte des règlements et des circulaires, on ",négocie,", on signe des contrats, bref on reconnaît une existence indéniable au rosé dans le monde du vin. ",24,négocie,négocier,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16,conj,_,SpaceAfter=No,1
+2396,fr-ud-train_10154,Le gouvernement du Maroc ne souhaite pas ,négocier, parce qu'il manque d'arguments valables d'autant que le droit international n'est pas de son côté. ,9,négocier,négocier,VERB,_,VerbForm=Inf,7,xcomp,_,Subject=SubjRaising,1

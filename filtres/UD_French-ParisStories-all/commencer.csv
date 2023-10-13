@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+931,ParisStories_2022_14_râteauAuTravail__32_bis,"et je lui dis non, mais tu vas pas, tu vas pas ",commencer, toi. ,15,commencer,commencer,VERB,_,VerbForm=Inf,13,xcomp,_,AlignBegin=58424|AlignEnd=58662|Subject=SubjRaising,1

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+123232,465690,Mais certains sommets de cette citadelle sont si hauts qu'ils ont perdu toute couleur ; ils ,étincellent, comme s'ils étaient saupoudrés de neige et de glace.,18.0,étincellent,étinceler,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

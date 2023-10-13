@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+95845,361786,"L'homme, âgé d'une quarantaine d'années, est sorti du bâtiment les mains en l'air, puis s'est ",agenouillé, avant d'être emmené dans un fourgon cellulaire.,24.0,agenouillé,agenouiller,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,conj,12:conj,_,1.0
+203456,767719,"Poussé par la compassion, Asanga s’",agenouilla, pour nettoyer ses blessures.,8.0,agenouilla,agenouiller,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0.0,root,0:root,_,1.0

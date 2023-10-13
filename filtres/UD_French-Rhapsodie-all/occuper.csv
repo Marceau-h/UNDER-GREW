@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+328,Rhap_D2012-35,"c'est-à-dire nous sommes dans cette Pologne, euh, encore ",occupée,", mais où, euh, la, la vie artistique est, est très importante et où se coalise en quelque sorte le, le, le mouvement de la jeune Pologne. ",11,occupée,occuper,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6,acl,_,SpaceAfter=No,1
+500,Rhap_D2004-66,"ils m'ont dit malheureusement, euh, toutes nos places sont ",occupées," et nous avons, nous n'avons pas besoin de docteur. ",13,occupées,occuper,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,4,ccomp,_,_,1

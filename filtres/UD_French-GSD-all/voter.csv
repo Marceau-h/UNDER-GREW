@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+711,fr-ud-train_01754,Ils ont le pouvoir et le devoir de ,voter, pour éliminer un des leurs à chaque expulsion. ,9,voter,voter,VERB,_,VerbForm=Inf,4,acl,_,Subject=SubjRaising,1
+3253,fr-ud-train_14446,"Le président légitime c'est Etienne Tshisekedi, c'est pour lui que nous avons ",voté,", c'est lui qui doit diriger le pays """", a expliqué un opposant. ",16,voté,voter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,12,advcl:cleft,_,SpaceAfter=No,1

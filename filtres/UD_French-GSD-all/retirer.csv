@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2013,fr-ud-train_08147,Une réponse possible au second argument est que les informations autres que le score lui-même seraient vraisemblablement fournies par la méthode utilisée pour accorder et ,retirer," du whuffie--comme par exemple, comment une personne a obtenu chacun des points qui constituent son score. ",27,retirer,retirer,VERB,_,VerbForm=Inf,25,conj,_,Subject=Generic,1

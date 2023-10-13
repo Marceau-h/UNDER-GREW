@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+94159,355466,"Cette nouvelle version, ",estampillée," 1.3.1, corrigerait quelques bugs liés à la lecture des films stockés sur le disque dur.",5.0,estampillée,estampiller,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,2.0

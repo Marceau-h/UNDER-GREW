@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1508,12247,Et les portes furent ,fermees, Lors que mes sire en issi fors ; ,5,fermees,fermer,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_7732,2

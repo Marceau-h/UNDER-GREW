@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+111241,419764,Nous avons remonté le canal où nous avons croisé un chalutier qui ,rentrait, suivi de sa nuée de goélands et un gros cargo immatriculé à Madère qui venait sûrement prendre une cargaison vu qu'il était à vide.,13.0,rentrait,rentraire,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,11.0,acl:relcl,11:acl:relcl,_,1.0

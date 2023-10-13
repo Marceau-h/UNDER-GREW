@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+128444,484912,"Par ailleurs, le récent sondage de La Presse montre qu'il n'y a pas de talon d'achille chez Boisclair mais tout juste une cicatrice qui ne ",répugnera, probablement qu'à ceux qui ne l'aimaient pas d'avance.,30.0,répugnera,répugner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,27.0,acl:relcl,27:acl:relcl,_,1.0
+260290,981143,Le Corneille de 1636 est encore un auteur qui ,répugne, un peu à la publication de ses ouvrages.,10.0,répugne,répugner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8.0,acl:relcl,8:acl:relcl,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1958,fr-ud-train_07924,Excellente agence et grande efficacité aussi bien pour ,vendre," que pour acheter ou louer un appartement ou une maison, ou un local professionnel ou commercial. ",9,vendre,vendre,VERB,_,VerbForm=Inf,5,acl,_,Subject=Generic,1
+2669,fr-ud-train_11514,J'ai été étonné par le nombre de villas à ,vendre, et à louer dans ce site. ,11,vendre,vendre,VERB,_,VerbForm=Inf,9,acl,_,Subject=Generic,1

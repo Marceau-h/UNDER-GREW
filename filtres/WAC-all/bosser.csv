@@ -1,0 +1,9 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+424,1524,"En tout cas, je continue de ",bosser," et je sais que ça finira par payer, je le sais, il ne peut pas en être autrement.",8.0,bosser,bosser,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,2.0
+26438,99171,"Le poids des gestes répétitifs, celui des collègues qui n'ont plus le goût de ",bosser,", les heures qui vont et viennent à la merci des saisons, le bumping, la perte d'emploi.",17.0,bosser,bosser,VERB,VERB,VerbForm=Inf,15.0,acl,15:acl,SpaceAfter=No,1.0
+33593,126557,Va polluer fr.soc.sectes si ça t'amuse ; ici on est là pour ,bosser,", par pour faire les intéressants.",14.0,bosser,bosser,VERB,VERB,VerbForm=Inf,11.0,advcl,11:advcl,SpaceAfter=No,1.0
+41042,154803,On est en train de ,bosser, dessus.,6.0,bosser,bosser,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,_,1.0
+63805,240737,"Le couple a cogité, ",bossé," et finalement accouché des personnages des Nombrils, qui sont d'abord apparus dans les pages du magazine Safarir.",6.0,bossé,bosser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0
+122389,462507,"Elle m'a dit: """"si t'es pas feignant, si tu n'as pas peur de retravailler tes textes, on va ",bosser," ensemble"""".",26.0,bosser,bosser,VERB,VERB,VerbForm=Inf,25.0,xcomp,25:xcomp,_,3.0
+149190,563027,"A l'Opéra, l'impossible est toujours possible car tous les gens qui ",bossent," sont passionnés et quand on est passionné, on déploie des capacités extraordinaires.",15.0,bossent,bosser,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,13.0,acl:relcl,13:acl:relcl,_,2.0
+225740,851472,"Bateaux: photographier l'atelier, le hangar, Daniel en train de ",bosser,", détailler les opérations de réparation, l'art de passer du vernis, de réparer les bateaux bois...",14.0,bosser,bosser,VERB,VERB,VerbForm=Inf,12.0,acl,12:acl,SpaceAfter=No,2.0

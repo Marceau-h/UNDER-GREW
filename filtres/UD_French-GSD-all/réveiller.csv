@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2047,fr-ud-train_08323,Le Naufragé s'est ,réveillé," confus, il ne comprenait rien de cet étrange rêve et il a voulu voir si dans les journaux ils parlaient de son cauchemar. ",5,réveillé,réveiller,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,0,root,_,_,1

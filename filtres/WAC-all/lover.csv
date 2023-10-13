@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+231412,872413,Quand ils prennent en douceur I'm a Fool to ,Love," You, ça chouine discrètement dans les travées.",11.0,Love,lover,VERB,VERB,VerbForm=Inf,9.0,advcl,9:advcl,_,1.0

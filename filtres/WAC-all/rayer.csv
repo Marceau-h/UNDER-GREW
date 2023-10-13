@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+91779,345896,Les Argentins jouent avec un maillot ,rayé, horizontalement avec l'alternance de lignes de couleur bleu ciel et blanc.,7.0,rayé,rayer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0
+185334,699258,On nous a rasés. donné des pyjamas ,rayés, et passés à la désinfection avec un produit jaune ignoble et une brosse en chiendent dont je sens encore la brûlure.,9.0,rayés,rayer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0
+222020,837184,"On nous a enlevé nos tenues de """" ",rayés," """", pour nous vêtir d'un pantalon vert de SS et d'une veste, comme un mendiant.",9.0,rayés,rayer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6.0,nmod,6:nmod,_,1.0

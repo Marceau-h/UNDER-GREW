@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1484,5438,Des coups de fouet ,claquent,", les animaux tirent en vain, mais les membres ne cèdent pas.",5.0,claquent,claquer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+52193,196866,Ses mots ,claquent,", sa voix est sûre.",3.0,claquent,claquer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+207396,782347,Des coups de feu ,claquent,", un homme grand et brun apparaît.",5.0,claquent,claquer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

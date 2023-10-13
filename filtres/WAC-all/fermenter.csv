@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+53637,202214,Pourtant les tiges mises à ,fermenter, permettent d'obtenir de beaux rouges sur laine mais aussi sur le coton.,6.0,fermenter,fermenter,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0
+67487,254784,"La fabrication de l'eau-de-vie, qui relève d'un savoir-faire ancestral, exige des fruits de qualité, qui se vendent directement, soit sous forme de matières non ",fermentées,", soit en moût.",33.0,fermentées,fermenter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,31.0,acl,31:acl,SpaceAfter=No,1.0
+235807,889081,"Une gamme de pains fabriqués, ",fermentés, et cuits sur place suivant les méthodes anciennes.,7.0,fermentés,fermenter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5.0,conj,5:conj,_,1.0

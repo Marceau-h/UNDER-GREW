@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+60417,227448,Un internaute découvre comment pirater et ,piéger," le jeu pour Playstation 3, The Eye of Judgment, de Sony.",7.0,piéger,piéger,VERB,VERB,VerbForm=Inf,5.0,conj,5:conj,_,1.0
+106235,400937,Le jeu de rôle auquel se fait ,piéger, un milliardaire (Douglas) prend des allures de cauchemar.,8.0,piéger,piéger,VERB,VERB,VerbForm=Inf,2.0,acl:relcl,2:acl:relcl,_,1.0
+107914,407269,Les boues ainsi ,piégées, sont renvoyées par pompage périodique vers l'ouvrage de tête pour y être stockées et digérées.,4.0,piégées,piéger,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

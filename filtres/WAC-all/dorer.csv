@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+51581,194536,L'ensemble est en lambris peints et ,dorés," et on y remarquera un très beau tabernacle, trois panneaux du retable sont sculptés, au fronton un Évêque paraissant être Saint Martin (d'après Charles MAILLIER). en bas, à gauche, Le Sacrifice d'ABRAHAM.",8.0,dorés,dorer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,1.0
+89218,335997,"On admirera les trésors de Valtchitran et de Panagyourichté, le groupe de récipients d'argent partiellement ",doré," de Borovo, le masque d'or d'un roi thrace découvert en 2004.",18.0,doré,dorer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,amod,14:amod,_,3.0
+241039,908499,"Dans une cocotte, faite revenir et ",dorer, la viande dans un mélange beurre/huile.,8.0,dorer,dorer,VERB,VERB,VerbForm=Inf,6.0,conj,6:conj,_,1.0

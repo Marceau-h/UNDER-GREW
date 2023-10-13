@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+143794,542736,L'extraction de matériaux alluvionnaires (granulats) engendre une pollution essentiellement physique (mise en suspension de matériaux fins qui ,colmatent, et asphyxient la rivière).,22.0,colmatent,colmater,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,19.0,acl:relcl,19:acl:relcl,_,1.0
+169055,637591,"Car les travaux sur cordes, c'est l'affaire des alpinistes du bâtiment qui cimentent, ",colmatent,", soudent et nettoient à des hauteurs de 10 ou 15 mètres.",18.0,colmatent,colmater,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,16.0,conj,16:conj,SpaceAfter=No,1.0

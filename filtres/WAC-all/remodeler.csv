@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+148102,558934,"D’un côté, Jake, qui maintient des liens étroits avec les parents de Lily, Phil et Barbara, est sur le point de ",remodeler," et de rouvrir le restaurant, Chez Phil, que ces derniers lui ont laissé avant de se retirer en Floride.",27.0,remodeler,remodeler,VERB,VERB,VerbForm=Inf,25.0,acl,25:acl,_,1.0
+174225,657150,"La réalité, c'est que la ville devra être redessinée et ",remodelée,", indique Julio Siesquen Lozada, un ingénieur de la Défense civile.",14.0,remodelée,remodeler,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,12.0,conj,12:conj,SpaceAfter=No,1.0

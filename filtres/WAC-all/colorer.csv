@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+40020,150774,Si les pilons ,colorent," trop vite, les protéger en fin de cuisson avec une feuille d'aluminium.",4.0,colorent,colorer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,9.0,advcl,9:advcl,_,1.0
+53869,203015,"Chaque zone est indépendante et peut être effacée, ",colorée,", déplacée, rétrécie, etc. sans modifier les autres zones.",10.0,colorée,colorer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,SpaceAfter=No,1.0
+115226,434922,Les jeunes moniteurs de l'association ,Colore," le monde font découvrir l'univers de l'image à 60 enfants, au centre Bellevue à Boudry.",7.0,Colore,colorer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,amod,6:amod,_,2.0
+119702,452343,Les métaux utilisés pour ,colorer," ne sont pas très lourds (cuivre, zinc,...), sont employés à l'état de traces, et de toute manière sont biodégradables (sauf l'antimoine, là je ne sais pas trop...).",5.0,colorer,colorer,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,1.0

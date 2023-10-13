@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4855,18100,L'endroit a l'air totalement ,bouclé,", a déclaré un responsable issu de l'une des délégations, contacté par téléphone dans l'un des lieux de réunion du sommet.",7.0,bouclé,boucler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,xcomp,5:xcomp,SpaceAfter=No,1.0
+52839,199323,Le Tour d'Italie à peine ,bouclé,", le quotidien italien la Repubblica ne s'attarde pas seulement sur la victoire de Di Luca, mais aussi sur les ombres que l'édition 2007 n'a pas levées sur le front de la lutte contre le dopage.",7.0,bouclé,boucler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16.0,advcl,16:advcl,SpaceAfter=No,1.0
+97033,365940,Néanmoins les LBO ,bouclés, juste avant que n'éclate la crise sont source d'inquiétude.,4.0,bouclés,boucler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,1.0
+123564,466997,Le dispositif ,bouclé,", l'ordre d'intervenir a été lancé voici une heure.",3.0,bouclé,boucler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,advcl,11:advcl,SpaceAfter=No,1.0

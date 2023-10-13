@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+50282,189719,"Il ne cherche pas à s'inscrire dans l'histoire du théâtre mais la reflète à travers son propre destin, modestement conté mais ",rayonnant, des surprises de la vie.,25.0,rayonnant,rayonner,VERB,VERB,Tense=Pres|VerbForm=Part,23.0,conj,23:conj,_,1.0
+150526,567973,C'est à cette époque que la ville commence à ,rayonner, et qu'est bâti l'alcázar.,11.0,rayonner,rayonner,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,1.0
+168208,634285,France : adoption de la « Loi relative à l'établissement des grandes lignes de chemins de fer » qui adopte l'organisation des chemins de fer en étoile ,rayonnant," autour de Paris, connue sous le nom d'« étoile de Legrand ».",30.0,rayonnant,rayonner,VERB,VERB,Tense=Pres|VerbForm=Part,29.0,acl,29:acl,_,2.0

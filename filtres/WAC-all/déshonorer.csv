@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+78912,296971,À l'outrage se rattache le fait de ,déshonorer,", car celui qui déshonore méprise, et ce qui est sans aucune valeur ne se prête d’aucune estimation, ni bonne, ni mauvaise.",9.0,déshonorer,déshonorer,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,SpaceAfter=No,2.0

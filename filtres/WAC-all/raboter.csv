@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+86231,324258,"Les régions sont étranglées, leurs ressources ",rabotées,", a déploré Jean-Jack Queyranne, patron (PS) de la région Rhône-Alpes, mercredi 7 décembre, à Bordeaux, au congrès de l'Association des régions de France.",9.0,rabotées,raboter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,5.0,advcl,5:advcl,SpaceAfter=No,1.0
+129097,487415,Ils passent leurs loisirs à ,raboter,", poncer, mortaiser, bref ils reconstruise tel quel le deuxième bateau du sieur Jules Verne: le Saint Michel II.",6.0,raboter,raboter,VERB,VERB,VerbForm=Inf,2.0,xcomp,2:xcomp,SpaceAfter=No,3.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+122086,461411,"C'est l'une des zones les plus peuplées de la ville, et aussi l'une des plus ",embouteillées, au niveau du trafic.,20.0,embouteillées,embouteiller,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,17.0,acl,17:acl,_,1.0

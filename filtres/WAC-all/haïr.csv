@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+92069,347080,Chacune des filles doit affronter sa dépendance et sa ressemblance à ce père si souvent ,haï," et qui, pour leur malheur, ne fait que passer.",16.0,haï,haïr,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13.0,acl,13:acl,_,2.0

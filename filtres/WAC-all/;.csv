@@ -1,0 +1,11 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+57079,214783,La compatibilit&#233,;," avec IMSL 3.0, disponible en option.",3.0,;,;,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+75662,285009,Les provinces du peuple en d&#233;clin continuent &#224; lui rapporter des points tant qu'elles n'ont pas &#233;t&#233,;, absorb&#233;es par le peuple d'un autre joueur.,11.0,;,;,ADP,ADP,_,13.0,mark,13:mark,_,1.0
+78617,295838,Un minuscule utilitaire permettant de d&#233;sactiver tous les mouchards que Microsoft a int&#233;gr&#233,;, &#224; Windows XP.,14.0,;,;,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13.0,xcomp,13:xcomp,_,1.0
+79010,297335,Notre objectif principal est de poursuivre l'effort entrepris depuis quelques ann&#233;es pour mettre au point des algorithmes hybrides ayant une meilleure efficacit&#233,;, &#224; la fois th&#233;orique et pratique.,24.0,;,;,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,23.0,acl,23:acl,_,1.0
+115329,435302,Quitter la fraternit&#233,;, de la pierre-de-vie est difficile pour un obsidien.,4.0,;,;,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,1.0
+131921,498138,La r&#233;ponse &#224; toutes ces questions serait celle-ci : c'est ainsi qu'il l'a voulu ou bien c'est ainsi que l'a exig&#233,;, sa sagesse...,6.0,;,;,ADP,ADP,_,9.0,case,9:case,_,1.0
+164081,618789,Ces exp&#233;riences ont &#233;t&#233,;, men&#233;es suivant le protocole P1.,7.0,;,;,VERB,VERB,Tense=Past|VerbForm=Part,8.0,aux:pass,8:aux:pass,_,1.0
+224005,844843,Ces suspensions garantissent une stabilit&#233,;," et un comportement hors pair, gage de ma&#238;trise et de confiance en toutes situations.",6.0,;,;,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0
+244924,922998,Deux principales approches ont &#233;t&#233,;," adopt&#233;es pour &#233;tudier le champ magn&#233;tique solaire, :",8.0,;,;,VERB,VERB,Tense=Past|VerbForm=Part,9.0,aux:pass,9:aux:pass,_,1.0
+249575,940446,Les diff&#233;rents shells &#160; Comme nous l'avons mentionn&#233,;," beaucoup trop de fois, UNIX est un syst&#232;me d'exploitation multit&#226;che et multi-utilisateurs.",7.0,;,;,PUNCT,PUNCT,_,0.0,root,0:root,_,1.0

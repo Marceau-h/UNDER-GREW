@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+235891,889380,"Non que le message """" ",proféré," """" soit apocalyptique, mais uniquement parce que cette souffrance-là étreint le coeur de tout homme impliqué dans un processus social qui nie sa propre liberté.",6.0,proféré,proférer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0

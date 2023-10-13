@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1295,11865,"Lez la fontainne troverras.I. perron, tel con tu ",verras," ; Je ne te sai a dire quel, Que je n'en vi onques nul tel ; Et d'autre part une chapele, Petite, ",11,verras,vëoir,VERB,VERcjg,VerbForm=Fin,8,acl,_,XmlId=w_YvainKu_2733,2
+1564,12362,"Ci poez ester et seoir, Et anz et fors les genz ",veoir," Qui passeront parmi la voie, ",13,veoir,vëoir,VERB,VERinf,VerbForm=Inf,3,conj,_,XmlId=w_YvainKu_9100,1
+1927,13354,Et dit que morz est et traïz S'einsi l'a trové ne ,veü, Riens nule qui l'ait coneü. ,14,veü,vëoir,VERB,VERppe,Tense=Past|VerbForm=Part,12,conj,_,XmlId=w_YvainKu_21265,3
+2247,14061,Et de ce granz pitiez li prant Qu'il ot et ,voit, et si antant Les povres dames qui feisoient Estrange duel ,12,voit,vëoir,VERB,VERcjg,VerbForm=Fin,10,conj,_,XmlId=w_YvainKu_30531,3
+2651,14963,"La dameisele qui tort a Vers sa seror trop en apert, ",Veant," toz l'a a cort offert, ",13,Veant,vëoir,VERB,VERppa,Tense=Pres|VerbForm=Part,19,xcomp,_,XmlId=w_YvainKu_41417,2

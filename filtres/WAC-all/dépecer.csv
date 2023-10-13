@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+96737,364889,Cela peut prendre du temps et se termine généralement à la poubelle Une fois ,dépecée,", serez-vous encore capable de ramasser les morceaux ?",15.0,dépecée,dépecer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,20.0,advcl,20:advcl,SpaceAfter=No,1.0

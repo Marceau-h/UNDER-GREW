@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+168770,636478,"Le site officiel de Formule Dé, pour vous donner une idée et même vous ",entrainer, (programme de jeu à télécharger)...,16.0,entrainer,entrainer,VERB,VERB,VerbForm=Inf,10.0,conj,10:conj,_,1.0

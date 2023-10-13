@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+244310,920787,Toute une génération fringante a ,communié," avec eux et participé à La Grand-Messe, revendiquant tout en festoyant.",6.0,communié,communier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,2.0

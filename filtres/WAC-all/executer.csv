@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+129105,487438,"Un accès à la fonction """"",Executer, de Windows et une fonction de copie d'écran sont également proposés dans ce menu rapide.,7.0,Executer,executer,VERB,VERB,VerbForm=Inf,5.0,nmod,5:nmod,SpaceAfter=No,1.0

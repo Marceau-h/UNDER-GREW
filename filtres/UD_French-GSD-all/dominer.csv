@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2226,fr-ud-train_09301,La seconde période commençait un peu comme la première alors que le Chili ,dominait, sans vraiment obtenir de grandes occasions de doubler son avance. ,14,dominait,dominer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,4,advcl,_,_,1

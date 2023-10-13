@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+33616,126630,"Cinéma, télévision, théâtre, Roméo et Juliette ont déjà vécu plusieurs vies, sont morts tragiquement autant de fois, cités, repris, ",transposés, un peu partout sur la planète.,27.0,transposés,transposer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,23.0,conj,23:conj,_,1.0
+157422,593574,Leur capacité à ,transposer,", à s'exciser et à influencer la régulation des gènes les font considérer comme agents responsables de mutations et donc facteurs de variabilité génétique.",4.0,transposer,transposer,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,SpaceAfter=No,1.0
+165189,622761,Ces symboles sont musicalement intelligents ils ,transposent, quand vous transposez la musique et peuvent être placés dans votre score automatiquement.,7.0,transposent,transposer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,5.0,advcl,5:advcl,_,1.0

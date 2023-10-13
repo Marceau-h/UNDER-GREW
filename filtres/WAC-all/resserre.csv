@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+147481,556522,La Fed ,resserre,", et sa masse monétaire ne progresse plus que de 2% en rythme annuel (M1).",3.0,resserre,resserre,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

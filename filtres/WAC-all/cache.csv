@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+11620,43524,"Dans les dessins, dont certains ont gagné en monumentalité, c'est le papier calque qui joue le plus fréquemment le rôle de la cire et donc du voile, ni pudique, ni impudique, car il ne ",cache," ni ne révèle, mais contient les jouissances.",41.0,cache,cache,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15.0,conj,15:conj,_,1.0
+245358,924685,"Moi, gardant sans cesse à l'esprit que ce string en montre plus qu'il n'en ",cache,", je n'ose pas dire grand chose.",19.0,cache,cache,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,14.0,ccomp,14:ccomp,SpaceAfter=No,1.0

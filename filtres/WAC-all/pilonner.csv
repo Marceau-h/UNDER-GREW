@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+253033,953179,"L'armée libanaise, qui a perdu six soldats en 36 heures, continuait de ",pilonner," samedi les combattants du Fatah al-Islam retranchés dans le camp palestinien de Nahr al-Bared au Liban nord, au cours d'une visant à neutraliser les extrémistes.",16.0,pilonner,pilonner,VERB,VERB,VerbForm=Inf,14.0,xcomp,14:xcomp,_,1.0

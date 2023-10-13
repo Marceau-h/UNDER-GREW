@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+235154,886654,"Il est improbable que nous ayons des élections cette année»: penaud, bien ",embarrassé,", Gordon Brown a dû battre retraite samedi en renonçant à des législatives anticipées dont il avait lui-même évoqué la possibilité.",16.0,embarrassé,embarrasser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,21.0,advcl,21:advcl,SpaceAfter=No,1.0
+249916,941557,"Le joueur, très ",embarrassé,", avait présenté ses excuses publiquement aux supporters de l'Aviron à l'occasion de la présentation des nouvelles recrues à Jean Dauger.",5.0,embarrassé,embarrasser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0

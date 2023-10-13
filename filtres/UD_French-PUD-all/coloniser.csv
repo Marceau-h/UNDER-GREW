@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+99,w01020017,"Pour de nombreuses communautés, elle servait de passage permettant de commercer, de ",coloniser," ou de faire la guerre, et offrait de la nourriture (grâce à la pêche et à la collecte de fruits de mer), et ce à toute époque. ",15,coloniser,coloniser,VERB,VB,VerbForm=Inf,12,conj,_,_,1

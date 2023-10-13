@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+255811,964040,"En 2006, le commentateur politique Colin James suggéra que le Gouverneur général soit élu (ou plus exactement, '",nominé,' auprès de la Reine) par un vote à la majorité de 60%.,22.0,nominé,nominer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,15.0,conj,15:conj,SpaceAfter=No,1.0

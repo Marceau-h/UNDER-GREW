@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2784,10503,"L'aspect du Palais des festivals va changer du tout au tout"""", promet David Lisnard qui ",table," """"idéalement"""" sur un début des travaux fin 2008.",20.0,table,table,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16.0,ccomp,16:ccomp,_,1.0
+83147,312464,"Le ministre de l'Economie et des Finances, Thierry Breton, a déclaré mardi que la croissance française se situerait cette année """"clairement dans la fourchette"""" de 2 à 2,5% sur laquelle ",table, le gouvernement.,37.0,table,table,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,28.0,acl:relcl,28:acl:relcl,_,1.0

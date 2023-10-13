@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+178817,674569,La compagne de Benjamin Raich s'est ,consolée, en s'emparant du dossard rouge de la spécialité.,8.0,consolée,consoler,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

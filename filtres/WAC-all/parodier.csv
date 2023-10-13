@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+187242,706265,"On dénombre à présent plus d'une centaine d'albums, de qualités très variables tant dans le dessin que le texte, plagiant, ",parodiant,", détournant ou rendant hommage à Hergé et à ses personnages clefs.",26.0,parodiant,parodier,VERB,VERB,Tense=Pres|VerbForm=Part,24.0,conj,24:conj,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+262661,990233,"Gardez la binette, vous en avez encore besoin pour ",émietter,", ameublir et désherber la terre en surface.",11.0,émietter,émietter,VERB,VERB,VerbForm=Inf,7.0,advcl,7:advcl,SpaceAfter=No,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+21303,79812,"Il recoit en 2007 le prix de Jeune Personnalité d'Affaires en arts, culture et création, ",décerné, afin de souligner le succès de son studio en pleine expansion.,19.0,décerné,décerner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0
+39209,147572,Le prix du Vigneron étranger de l'année était l'un des cinq prix ,décernés, hier soir.,15.0,décernés,décerner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,14.0,acl,14:acl,_,1.0

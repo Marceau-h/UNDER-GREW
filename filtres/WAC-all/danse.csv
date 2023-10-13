@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+62767,236822,"Là-bas, elle chante, ",danse, et joue la comédie 8 heures par jour.,8.0,danse,danse,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,conj,6:conj,_,1.0
+142468,537851,C'est une technicienne de surface qui ,danse," en passant l'aspirateur, encouragée par son baladeur.",8.0,danse,danse,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,acl:relcl,4:acl:relcl,_,1.0
+205910,777041,Cet homme qui porte le masque et qui ,danse, incarne un esprit.,9.0,danse,danse,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,conj,4:conj,_,1.0

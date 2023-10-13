@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+127561,481655,Quels sont les éléments qui les encourageront à ,épouser, ou à rejeter ces nouvelles tendances?,9.0,épouser,épouser,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,_,1.0
+147211,555538,"Chez lui, si le sacré et l’abjection s’",épousent,", c’est sous une forme de dépassement des antinomies.",11.0,épousent,épouser,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,17.0,advcl,17:advcl,SpaceAfter=No,1.0
+168193,634243,Celle que tu viens d',épouser," traîne un début de grossesse et on te l'a cachée"""", s'entend-il souffler.",7.0,épouser,épouser,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,3.0
+256609,967141,"Ce roi-berger, ce roi-pasteur, l'Eglise a reçu mission de le représenter, d'annoncer sa venue, d'",épouser," et d'actualiser dans chacune de ses communautés, dans sa manière de vivre tout ce qu'il a inauguré sur les routes de Palestine...",26.0,épouser,épouser,VERB,VERB,VerbForm=Inf,21.0,conj,21:conj,_,1.0

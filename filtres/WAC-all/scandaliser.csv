@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+157440,593647,La direction régionale Aquitaine d'Orange se dit ,scandalisée,", tout en reconnaissant que la lettre provient bel et bien de ses services.",9.0,scandalisée,scandaliser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8.0,xcomp,8:xcomp,SpaceAfter=No,1.0
+189651,715628,"Ainsi, l'emploi de gros mots comme « merde » ou « con » ne ",scandalise, plus vraiment tandis que les sacres choquent moins au Québec.,17.0,scandalise,scandaliser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,3.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+201826,761501,"Le reste de l'ouvrage, passionnant, raconte combien l'enseignement de Stanislavski a été à la fois précieux mais aussi souvent détourné, ",affadi,", voire trahi, par des faux vrais disciples.",26.0,affadi,affadir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,24.0,conj,24:conj,SpaceAfter=No,1.0

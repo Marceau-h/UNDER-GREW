@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+74466,280503,"Un gameplay original qui donnera aux combats un nouveau relief, bien différent des traditionnelles croix directionnelles à ",matraquer, pour enchaîner des combos dévastateurs.,19.0,matraquer,matraquer,VERB,VERB,VerbForm=Inf,16.0,acl,16:acl,_,1.0

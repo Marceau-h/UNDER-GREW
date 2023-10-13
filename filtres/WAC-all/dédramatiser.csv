@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+54994,206935,Il revient aussi aux enseignants de ,dédramatiser, : avoir des poux n'est pas une honte.,7.0,dédramatiser,dédramatiser,VERB,VERB,VerbForm=Inf,2.0,dep,2:dep,_,1.0
+216149,814934,"Alors que ses collègues dramatisent, font monter la tension, compriment les temps forts; Poirier ",dédramatise,", abaisse la pression, dilate les temps faibles.",18.0,dédramatise,dédramatiser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,2.0

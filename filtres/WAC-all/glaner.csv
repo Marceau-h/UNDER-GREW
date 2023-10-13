@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+14350,53528,"Très vite, elle se rend compte qu'ils intègrent dans leurs réponses des éléments factuels ",glanés," auprès de leurs avocats, des enquêteurs ou de reportages.",17.0,glanés,glaner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,15.0,acl,15:acl,_,1.0
+164271,619488,Lyon améliore ainsi d'une unité son record de titres ,glanés," consécutivement et laisse ainsi loin derrière Saint-Etienne (1967-1970) et Marseille (1989-1992), sacrés quatre fois de suite.",11.0,glanés,glaner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+253813,956221,Si demain un gouvernement ,censure," une à une les œuvres de Peter Handke, nous serions les premiers à défendre la liberté d'expression.",5.0,censure,censure,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,advcl,6:advcl,_,1.0

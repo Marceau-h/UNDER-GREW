@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+73381,276560,"Pour que sa soeur, peut-être, cesse de ",geindre, à toute heure.,10.0,geindre,geindre,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,_,1.0

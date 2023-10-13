@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+216233,815266,"La lutte est aussi ouverte contre la Pologne, la Roumanie, la Hongrie et l'Espagne nationale, pour sauver les Juifs de la réaction des populations autochtones, ruinées et ",bafouées,", qui partout cherchent à se libérer de l'ignoble domination juive.",33.0,bafouées,bafouer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,31.0,conj,31:conj,SpaceAfter=No,1.0

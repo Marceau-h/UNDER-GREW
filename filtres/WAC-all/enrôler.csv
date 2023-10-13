@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+17491,65566,"Les rebelles arrivent dans le camp prétendument pour voir leur famille, mais ils ",enrôlent,", explique, sous couvert d'anonymat, un responsable onusien.",16.0,enrôlent,enrôler,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,4.0,conj,4:conj,SpaceAfter=No,1.0
+25883,97054,Nous en aurions vraiment besoin aujourd'hui pour accomplir le type précis de mission pour lequel ils se sont ,enrôlés, : porter secours lors de catastrophes naturelles nationales.,19.0,enrôlés,enrôler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,13.0,acl:relcl,13:acl:relcl,_,3.0
+124874,471764,Ce dernier doit maintenant saisir la Chambre d'accusation de la Cour d'Appel pour ,enrôler, et statuer sur cette affaire.,16.0,enrôler,enrôler,VERB,VERB,VerbForm=Inf,5.0,advcl,5:advcl,_,1.0

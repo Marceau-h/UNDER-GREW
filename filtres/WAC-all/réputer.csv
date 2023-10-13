@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+37331,140458,"Ce n'est qu'avec """"une seule université forte et ",réputée," internationalement que la Wallonie peut se hisser à l'avant-garde de la recherche et de l'innovation"""".",12.0,réputée,réputer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,conj,10:conj,_,3.0

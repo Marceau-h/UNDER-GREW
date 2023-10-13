@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+120807,456503,"Il arrive même que, comme pour la drépanocytose qu'étudie Doris Bonnet (p. 23), l'inscription génétique de l'affection vienne ",radicaliser,", voire racialiser la différence.",26.0,radicaliser,radicaliser,VERB,VERB,VerbForm=Inf,25.0,xcomp,25:xcomp,SpaceAfter=No,1.0
+204193,770584,"La marge de manoeuvre de M. Mbeki demeure pour le moins étroite, tant les positions des protagonistes de la crise se sont ",radicalisées, ces dernières semaines.,24.0,radicalisées,radicaliser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,12.0,advcl,12:advcl,_,1.0

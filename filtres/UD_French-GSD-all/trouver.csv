@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3235,fr-ud-train_14402,"Ce robinet était situé derrière l'église, difficile à ",trouver, et dont seuls les habitués connaissaient l'existence. ,11,trouver,trouver,VERB,_,VerbForm=Inf,9,ccomp,_,Subject=Generic,1

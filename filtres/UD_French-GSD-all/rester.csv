@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1302,fr-ud-train_04824,La plupart des serveurs étaient partis et seuls ,restaient, quelques éléments logés sous la tente au pied des falaises surplombant l'ancienne position. ,10,restaient,rester,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,7,conj,_,_,1

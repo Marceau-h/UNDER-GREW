@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+34468,129824,Michelle BOURCET de Télérama nous fait découvrir une pièce de théâtre qui ,détend, et fait rire.,13.0,détend,détendre,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,acl:relcl,9:acl:relcl,_,1.0
+180432,680793,"Tous sont en forme ont-ils déclarés ; bien préparés, pommadés, ",détendus,", enfin ce qu'il convient pour parcourir ce périple de 639 kms.",14.0,détendus,détendre,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,10.0,conj,10:conj,SpaceAfter=No,3.0
+185397,699422,"La fin du parcours est beaucoup plus roulant, j'essaye donc de me ",détendre, et surtout de bien respirer car je ressens un petit point de coté.,15.0,détendre,détendre,VERB,VERB,VerbForm=Inf,11.0,xcomp,11:xcomp,_,1.0

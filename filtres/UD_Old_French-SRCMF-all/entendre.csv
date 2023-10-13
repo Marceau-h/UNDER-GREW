@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1244,11746,"Et cil n'en ont ne mes l'oïe, Des que li cuers n'i ",entant, mie ; ,17,entant,entendre,VERB,VERcjg,VerbForm=Fin,5,advcl,_,XmlId=w_YvainKu_1098,1

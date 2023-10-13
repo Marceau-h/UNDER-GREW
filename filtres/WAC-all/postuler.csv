@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+43110,162488,Les personnalités appelées à ,postuler, ne devront pas avoir déjà bénéficié d'invitations dans le cadre des appels d'offre antérieurs.,5.0,postuler,postuler,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,1.0
+43809,165280,Sans frais pour ,postuler,", ni de quota de ventes exigible, vous commencez à gagner de l'argent dès le premier double-clic.",4.0,postuler,postuler,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,SpaceAfter=No,1.0
+155206,585380,Tout mage peut ,postuler," pour devenir Maître de sa branche, toutes les trois lunes.",4.0,postuler,postuler,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,1.0
+211303,796809,"D'abord, dit-il, en vertu de son ancienneté et du type d'expérience qu'il avait, le policier était en droit de ",postuler," et la convention collective prévoyait que dans un tel cas, il obtienne le poste.",27.0,postuler,postuler,VERB,VERB,VerbForm=Inf,25.0,acl,25:acl,_,1.0
+233329,879689,"Muriel : """"Je ne sais pas, moi ce que j'ai entendu tout à l'heure, c'est qu'apparemment au niveau des gens qui ",postulent,", ils ont les mêmes chances.",29.0,postulent,postuler,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,27.0,acl:relcl,27:acl:relcl,SpaceAfter=No,1.0

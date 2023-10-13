@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+99318,374807,Si vous voulez quelque chose de mal ecrit allez donc voir les articles de la rubrique sporttres ampoule...mais les journalistes sportifs se font en general une specialite d',ecrire, mal.Mais la critique est aisee et l'art est difficile...sorry!,31.0,ecrire,ecrire,VERB,VERB,VerbForm=Inf,29.0,acl,29:acl,_,1.0
+176251,664769,"En 1997, il anime une projection/débat à la Maison des Ecrivains : ",Ecrire,"/Filmer… hommage à son œuvre en Vidéo, au Festival de Locarno.",16.0,Ecrire,ecrire,VERB,VERB,VerbForm=Inf,12.0,acl,12:acl,SpaceAfter=No,3.0

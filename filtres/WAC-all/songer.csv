@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+43759,165093,"Sa musique s'est un peu plus adoucie, son âme s'est un peu élevée.Le spectacle est beaucoup plus ",songé, que le précédent.,23.0,songé,songer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+61436,231599,"Mais avant de devenir """"président"""", comme il y ",songe,", Seun Kuti compte s'imposer comme musicien.",12.0,songe,songer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16.0,advcl,16:advcl,SpaceAfter=No,1.0
+130209,491535,"Le colibri, son plus fidèle ami qui empruntait ce chemin pour rentrer, s'approcha de lui: """"Mais, à quoi ",songes," tu?""""",25.0,songes,songer,VERB,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+134421,507676,"Repenser l'équipe en profondeur"""" Mais, plus globalement, l'OL ",songe, logiquement aussi à son futur.,14.0,songe,songer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+162340,612159,La vallée des réputations est certes plus acoustique côté musical et beaucoup plus ,songé, en ce qui attrait aux textes.,14.0,songé,songer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0

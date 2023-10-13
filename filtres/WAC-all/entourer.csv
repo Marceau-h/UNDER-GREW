@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+105456,397983,Cette association a pour vocation d',entourer,", de divertir les enfants n'ayant pas ou peu de visites.",7.0,entourer,entourer,VERB,VERB,VerbForm=Inf,5.0,acl,5:acl,SpaceAfter=No,1.0
+146208,551622,"Nous ne nous attarderons pas sur ceux qui ne seraient que l'expression du &laqno; tabou """" dont on se plaît à ",entourer," certaines des activités de l'artiste, réunies sous ce que l'on nomme l'inspiration.",25.0,entourer,entourer,VERB,VERB,VerbForm=Inf,23.0,xcomp,23:xcomp,_,1.0
+193948,731796,"En 2005, un documentaire réalisé par Jean-Louis Tremblay tentait de faire la lumière sur le phénomène de convergence qui ",entourait,", notamment, le phénomène Star Académie.",21.0,entourait,entourer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,17.0,acl:relcl,17:acl:relcl,SpaceAfter=No,3.0
+225897,852060,L'action Suez très ,entourée," A défaut de confirmer ces informations, Enel maintient le suspense et donc la pression.",5.0,entourée,entourer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+189038,713187,Elles cèdent à la panique devant le dilemme qui se pose à elles : faut-il retourner au village avec l'enfant né hors mariage ou s'en ,débarrasser,", et dans ce cas, comment ?",29.0,débarrasser,débarrasser,VERB,VERB,VerbForm=Inf,15.0,conj,15:conj,SpaceAfter=No,3.0
+192990,728088,"Cet animal incommodait souvent Rivault pendant qu'il donnait ses leçons, et un jour, pour s'en ",débarrasser,", il lui donna un coup de pied.",20.0,débarrasser,débarrasser,VERB,VERB,VerbForm=Inf,24.0,advcl,24:advcl,SpaceAfter=No,1.0

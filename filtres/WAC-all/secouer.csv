@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+75033,282623,Les actionnaires n'en n'ont rien à ,secouer," que tu puisses ré injecter toi meme de l'argente dans tes filliales, ce qu'ils veulent, c'est que chaque filliale soit bénéficiaire.",9.0,secouer,secouer,VERB,VERB,VerbForm=Inf,6.0,advcl,6:advcl,_,1.0
+135500,511672,"Il raconte aussi que Caze est revenu """"",secoué," de Bosnie après les accords de Dayton, car """"il s'était voué entièrement à la guerre"""".",9.0,secoué,secouer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,xcomp,7:xcomp,SpaceAfter=No,3.0
+230174,867858,Du film qui va ,secouer,", de rire et de larmes, la Grande-Bretagne puis une bonne partie de la planète dès sa sortie en ses terres, dans dix jours (en Suisse romande, le 18 octobre).",5.0,secouer,secouer,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,SpaceAfter=No,1.0

@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4378,16342,Les animaux sont maltraités et ,méprisés, dans les pays en voie de développement surtout le Maroc.,6.0,méprisés,mépriser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0
+13198,49363,La vie basse (al hayat ad douniâ) n'est à ,mépriser, qu'en tant que piège.,13.0,mépriser,mépriser,VERB,VERB,VerbForm=Inf,11.0,xcomp,11:xcomp,_,1.0
+20090,75294,Un certain nombre de régionalismes ne sont pas à ,mépriser,", du fait de leur appartenance à l'ancienne langue française :",10.0,mépriser,mépriser,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,SpaceAfter=No,2.0
+126711,478517,"Faire disparaître discrètement des squatters qui font trop de bruit, en ignorant et ",méprisant, tout ce qui fait leur projet.,15.0,méprisant,mépriser,VERB,VERB,Tense=Pres|VerbForm=Part,13.0,conj,13:conj,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+121463,458987,Les jeunes se sont ,dégourdis,", après avoir connu un lent départ.",5.0,dégourdis,dégourdir,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0
+182254,687792,Tous les prétextes sont bons pour vous ,dégourdir, : allez chercher un verre d'eau ou portez un document à un bureau voisin !,8.0,dégourdir,dégourdir,VERB,VERB,VerbForm=Inf,5.0,advcl,5:advcl,_,2.0

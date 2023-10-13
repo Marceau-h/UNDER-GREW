@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+113381,427910,"Leurs sépultures, ",groupées," autour du tombeau du roi, formaient de véritables quartiers funéraires constitués de centaines de mastabas.",4.0,groupées,grouper,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+151859,573043,"En bas et à droite du plan se trouve un vaste ensemble de constructions, ",groupées, autour d'une grande cour.,16.0,groupées,grouper,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,14.0,acl,14:acl,_,1.0
+161931,610640,"Vous pouvez par exemple créer, saisir, faire glisser, dupliquer, fixer, ",grouper," et supprimer ces objets, un par un ou regroupés.",16.0,grouper,grouper,VERB,VERB,VerbForm=Inf,5.0,conj,5:conj,_,3.0
+171025,645085,Ce village fortifié à 730 m d'altitude possède un habitat ancien du 15 ème siècle ,groupé, autour de la place de l'église.,17.0,groupé,grouper,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,acl,14:acl,_,1.0

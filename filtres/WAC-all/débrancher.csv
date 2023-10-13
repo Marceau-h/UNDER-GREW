@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+223484,842755,Il est fortement déconseillé de brancher ou ,débrancher, à chaud du matériel sur un port PS/2 car cela peut amener à la détérioration de la carte mère.,8.0,débrancher,débrancher,VERB,VERB,VerbForm=Inf,6.0,conj,6:conj,_,2.0
+243602,918190,India Interface & Dialogue (SA): Réalisation de schémas d'un ensemble de boîtiers de commande permettant de simuler des prises branchées ou ,débranchées,", de manière automatique 1995:",25.0,débranchées,débrancher,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,23.0,conj,23:conj,SpaceAfter=No,3.0

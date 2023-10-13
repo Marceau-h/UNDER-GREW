@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+65027,245214,Ce qui a pu se produire de l'autre côté de la frontière soudanaise ne constitue que les effets collatéraux d'une agression que le Tchad tente de ,juguler, a estimé le porte-parole du gouvernement tchadien.,29.0,juguler,juguler,VERB,VERB,VerbForm=Inf,27.0,xcomp,27:xcomp,_,2.0

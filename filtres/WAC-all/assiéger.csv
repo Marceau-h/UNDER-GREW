@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+23674,88831,Dans cette ville ,assiégée," et sans électricité, l'armée israélienne a levé pendant trois heures son couvre-feu pour permettre aux habitants de s'approvisionner et à l'ONU de distribuer des aides de bases (nourritures, eau, couvertures).",4.0,assiégée,assiéger,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,2.0
+128136,483773,"Plusieurs fois pillée, ",assiégée,", prise par les anglais, trahie à la Fronde, Hérisson devient rapidement une cité fortifiée.",5.0,assiégée,assiéger,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,conj,3:conj,SpaceAfter=No,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+36841,138618,Ce n'est qu'au XIIe siècle que le terme pervers est attesté dérivé de ,pervertir," et, de sa racine latine, il signifie appliqué à contre-sens, vicieux.",16.0,pervertir,pervertir,VERB,VERB,VerbForm=Inf,14.0,xcomp,14:xcomp,_,3.0
+120692,456133,"Ces forces de l'extrémisme, basées sur une interprétation erronée, ",pervertie," et mal avisée de l'islam, ne mènent pas une guerre conventionnelle.",13.0,pervertie,pervertir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,11.0,conj,11:conj,_,1.0

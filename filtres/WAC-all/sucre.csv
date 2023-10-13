@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+116019,437957,"Pour 3 jours. 2 litres de lait, 500 g de riz rond, du sucre, ou quelque chose qui ",sucre,", des raisins secs, et de la Bird's custard en poudre.",17.0,sucre,sucre,NOUN,NOUN,Gender=Masc|Number=Sing,6.0,conj,6:conj,SpaceAfter=No,1.0

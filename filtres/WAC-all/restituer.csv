@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+15533,57982,Tous les frais engagés par le loueur pour récupérer un matériel ,restitué, ailleurs qu'aux lieux ci-dessus précisés sont intégralement à la charge du locataire.,12.0,restitué,restituer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,acl,11:acl,_,1.0
+188247,710084,"Les deux dernières inscriptions, sur des blocs d'architrave du temple d'Apollon, montrent que la partie Nord du pronaos fut consacrée à Tibère, et permettent de ",restituer, et de dater la dédicace du temple par Hadrien (entre 135 et 138).,31.0,restituer,restituer,VERB,VERB,VerbForm=Inf,29.0,xcomp,29:xcomp,_,3.0
+188822,712350,"La Chambre sociale de notre Cour a tranché cette question, en estimant que la seule notification de l'arrêt tenait lieu de sommation de ",restituer, (Cass.,26.0,restituer,restituer,VERB,VERB,VerbForm=Inf,24.0,acl,24:acl,_,1.0

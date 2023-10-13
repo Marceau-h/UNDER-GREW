@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+167,ParisStories_2020_alarmeTrain_10,"et là, en fait, je ",regarde," et, en fait, je vois que cet attroupement. ",8,regarde,regarder,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0,root,_,_,1

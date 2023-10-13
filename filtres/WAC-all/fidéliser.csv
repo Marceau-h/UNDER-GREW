@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+69230,261332,Vous pourrez ensuite définir et mettre en oeuvre un plan d'action marketing pour retenir et ,fidéliser, ces clients.,17.0,fidéliser,fidéliser,VERB,VERB,VerbForm=Inf,15.0,conj,15:conj,_,1.0
+85707,322087,"Le télé-acteur ou encore télé-conseiller accueille, renseigne, conseille et ",fidélise, la clientèle.,12.0,fidélise,fidéliser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,conj,6:conj,_,1.0

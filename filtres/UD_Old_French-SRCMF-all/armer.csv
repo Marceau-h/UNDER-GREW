@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1399,12061,"Messire Yvains ne sejorna, Puis qu'",armez," fu, ne tant ne quant, ",8,armez,armer,VERB,VERppe,Tense=Past|VerbForm=Part,4,advcl,_,XmlId=w_YvainKu_5285,3

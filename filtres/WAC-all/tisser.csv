@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+8451,31555,"Après un difficile périple de plusieurs jours, les maîtres tisserands vont confectionner des châles d'une qualité exceptionnelle sur des métiers à ",tisser, rudimentaires.,24.0,tisser,tisser,VERB,VERB,VerbForm=Inf,22.0,acl,22:acl,_,1.0
+83808,315008,"Il améliore les horloges, le métier à ",tisser,", les grues et de nombreux autres outils.",9.0,tisser,tisser,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,SpaceAfter=No,1.0
+99631,375926,"Nous sommes à Madagascar pour apporter de la bonne vibration», lance Admiral T dans un ton cool mais ferme, la chevelure ",tissée," et attachée par derrière, les lunettes noires sur les yeux.",25.0,tissée,tisser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,24.0,acl,24:acl,_,1.0
+127599,481807,La forge et les métiers à ,tisser, sont intéressants... la salle de banquet aussi.,7.0,tisser,tisser,VERB,VERB,VerbForm=Inf,5.0,acl,5:acl,_,1.0
+150567,568098,"Des perfectionnements rapides la mirent définitivement au point et en 1787, une machine à ",tisser, semi-automatique vis le jour de sorte que dès 1789 on pouvait employer la machine à vapeur à tous les stades de la fabrication textile.,16.0,tisser,tisser,VERB,VERB,VerbForm=Inf,14.0,acl,14:acl,_,1.0
+251884,948837,"Ces tapis sont noués, ",tissés,", ou de technique mixte.",6.0,tissés,tisser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,4.0,conj,4:conj,SpaceAfter=No,1.0

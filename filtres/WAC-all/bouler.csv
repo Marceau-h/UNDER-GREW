@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+72940,274971,"L'utilisateur en question a tenu des propos limites, a fait part assez nettement de son refus de conciliation, et a envoyé """"",boulé," plus que vertement Fugace qui passait par là, et ce pour insérer un morceau de texte non sourcé et pas vraiment neutre.",26.0,boulé,bouler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,24.0,obj,24:obj,SpaceAfter=No,1.0

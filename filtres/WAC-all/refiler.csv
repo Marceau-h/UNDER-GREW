@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+180481,680999,"Ces pages sont bien sûr incomplètes, alors si un galolien a un commentaire sur un concessionnaire, une bonne adresse à ",refiler,", ou tout truc utile, yapuka m'écrire, avec un scan de carte de visite format jpeg si possible.",23.0,refiler,refiler,VERB,VERB,VerbForm=Inf,21.0,acl,21:acl,SpaceAfter=No,1.0

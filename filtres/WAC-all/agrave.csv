@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+37615,141491,"En arrivant sur l'agglomération lyonnaise, suivre la direction Lyon / Villeurbanne jusqu'au boulevard de ceinture; le suivre &",agrave," gauche en direction de Saint-Etienne / Marseille, jusqu'à son extrémité.",23.0,agrave,agrave,VERB,VERB,VerbForm=Inf,21.0,xcomp,21:xcomp,_,1.0
+151954,573338,Soit par courrier &,agrave, l'adresse suivante :,5.0,agrave,agrave,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,fixed,4:fixed,_,2.0

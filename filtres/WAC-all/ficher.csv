@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+209661,790618,"Et en particulier l'article de Régis Soubrouillard, """" Edvige : Inutile de nous ",ficher,", nous le faisons nous-mêmes !",16.0,ficher,ficher,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,SpaceAfter=No,2.0

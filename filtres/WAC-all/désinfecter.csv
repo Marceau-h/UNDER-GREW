@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+62577,236073,Lorsqu'on n'y prend pas garde (habituellement je ,désinfecte, journalièrement) cela peut aller jusqu'au saignement.,11.0,désinfecte,désinfecter,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,5.0,advcl,5:advcl,_,1.0
+155095,585016,"Veillez à la propreté de la vaisselle et des mains (brosse à ongles obligatoire) lors de la préparation et de la consommation des aliments, nettoyez et ",désinfectez, régulièrement votre réfrigérateur.,30.0,désinfectez,désinfecter,VERB,VERB,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,28.0,conj,28:conj,_,1.0
+237113,893839,Après la descente des eaux:- Aérez et ,désinfectez," les pièces,",8.0,désinfectez,désinfecter,VERB,VERB,VerbForm=Inf,6.0,conj,6:conj,_,1.0

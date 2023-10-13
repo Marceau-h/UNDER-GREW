@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+13115,49078,Au fil de douze longues années de troubles politico-militaires la ligne du CNDD apparaissait en effet comme la plus facile à ,déchiffrer, pour une population saignée par la guerre.,24.0,déchiffrer,déchiffrer,VERB,VERB,VerbForm=Inf,22.0,xcomp,22:xcomp,_,1.0
+13580,50748,La plupart des illettrés savent faire quelques petites choses : ,déchiffrer,", écrire quelques mots, repérer des informations dans un texte.",11.0,déchiffrer,déchiffrer,VERB,VERB,VerbForm=Inf,9.0,acl,9:acl,SpaceAfter=No,1.0
+136123,513944,Mais les faits sont difficiles à ,déchiffrer, car il n'y a aucune source d'information indépendante sur place.,7.0,déchiffrer,déchiffrer,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,1.0
+187247,706289,"Bien évidemment, un apprentissage intensif du glossaire de Virtua Fighter est indispensable pour ",déchiffrer, et exécuter correctement les commandes.,15.0,déchiffrer,déchiffrer,VERB,VERB,VerbForm=Inf,13.0,advcl,13:advcl,_,1.0

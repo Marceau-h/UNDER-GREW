@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+261980,987513,"Depuis peu, nous sommes entrés dans une nouvelle phase avec les forages profonds, les plongées en submersibles habités ou ",téléguidés, et l'utilisation des satellites.,22.0,téléguidés,téléguider,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,20.0,conj,20:conj,_,1.0

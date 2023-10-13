@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+47080,177590,Il se peut qu'il y ait des Ethiopiens ,kidnappés," également, nous essayons de connaître leur nombre», a déclaré M. Berekat.",10.0,kidnappés,kidnapper,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,2.0
+66793,252108,"Il avait notamment chanté la chanson Stan, dont le clip montre une femme ",kidnappée, et enfermée dans le coffre d'une voiture.,15.0,kidnappée,kidnapper,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,14.0,acl,14:acl,_,1.0
+79009,297332,Son interprétation d'un adolescent ,kidnappé, et abusé par son père lui vaut une nomination aux Emmy Awards.,6.0,kidnappé,kidnapper,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0
+181584,685444,Leur travail a permis d'identifier 10% des 500 enfants ,kidnappés, ou nés en détention durant la période militaire et adoptés par les familles des bourreaux de leurs parents.,12.0,kidnappés,kidnapper,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,11.0,acl,11:acl,_,1.0

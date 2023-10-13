@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+65209,245936,"En 1991, le Conseil municipal décide d'installer, dans cette ancienne chapelle, une bibliothèque municipale ; ",dénommée," 'médiathèque municipale Marc-Mielly, elle fut inaugurée le 17 mai 1995.",20.0,dénommée,dénommer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,30.0,advcl,30:advcl,_,2.0
+95646,361090,Secrétariat 1. L'Agence internationale de l'énergie atomique (ci-après ,dénommée," l'"""" Agence """") assure le secrétariat des réunions des Parties contractantes. 2. Le secrétariat :",15.0,dénommée,dénommer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0

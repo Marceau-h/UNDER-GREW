@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+116901,441302,"Forcé de s'exiler comme régicide en 1816, Prieur de la Marne meurt le 30 mai 1827 à Bruxelles, sans avoir jamais ",renié, ni trahi ses idées de révolutionnaire.,25.0,renié,renier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,advcl,14:advcl,_,3.0

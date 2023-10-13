@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+190755,719679,"La résultante est dans le Métal : il se tord, ",enserre, et serre.,12.0,enserre,enserrer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,10.0,conj,10:conj,_,1.0

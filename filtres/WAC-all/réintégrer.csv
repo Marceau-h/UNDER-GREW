@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+213107,803725,"Au plan pratique, on comptabilise toutes les dépenses, même pendant l'utilisation privée, et on réintègre, en fin d'année, la part de ces dépenses qui revient à l'usage privé à la Ligne 35 """"Divers à ",réintégrer, de la déclaration 2035.,44.0,réintégrer,réintégrer,VERB,VERB,VerbForm=Inf,42.0,acl,42:acl,SpaceAfter=No,1.0

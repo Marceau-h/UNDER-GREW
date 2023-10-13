@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+230420,868699,"La mort n'a pas été accidentelle"""", a ",affimé," cette source citée par l'agence portugaise Lusa, ajoutant que la seule chose non prévue était que le voilier chavire.",11.0,affimé,affimer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,parataxis,7:parataxis,_,1.0

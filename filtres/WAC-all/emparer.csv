@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+9951,36978,"Un instant déboussolé, le Biterrois revient une première fois à hauteur du Manceau, puis une seconde lorsque Tsonga d'",empare, à nouveau de son service (4-4).,22.0,empare,emparer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,18.0,advcl,18:advcl,_,1.0

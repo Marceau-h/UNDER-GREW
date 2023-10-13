@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+248495,936453,"Se formeront ensuite de la sorte, dans notre langue : purifier, puriste, purisme, puritain, ",apurer,", apurement, épurer, épuration, épure.",20.0,apurer,apurer,VERB,VERB,VerbForm=Inf,12.0,conj,12:conj,SpaceAfter=No,3.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+188798,712238,Des luisants d'agate jouaient sur la peau unie et ,lustrée," de ses épaules à demi découvertes, et des rangs de grosses perles blondes, d'un ton presque semblable à son cou, lui descendaient sur la poitrine.",11.0,lustrée,lustrer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,_,1.0

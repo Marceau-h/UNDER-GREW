@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+503,emea-fr-test_00042,Une comparaison de l'ensemble des femmes sous Aclasta (associé ou non à d'autres traitements anti-ostéoporotiques) avec celles sous placebo a fait ,apparaître, une réduction du risque de fracture de la hanche de 41%. ,27,apparaître,apparaître,VERB,_,VerbForm=Inf,0,root,_,Subject=ObjRaising,1
+568,emea-fr-test_00024,L'ostéoporose est une maladie qui ,apparaît, lorsque la croissance d'os nouveau est insuffisante pour remplacer l'os qui se résorbe naturellement. ,7,apparaît,apparaître,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5,acl:relcl,_,_,1

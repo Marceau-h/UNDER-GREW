@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+247,fr-ud-dev_01443,Les mesures disciplinaires prises pour faire cesser et ,sanctionner, ces critiques internes mettent en évidence une absence de démocratie interne officiellement revendiquée et un mode de gouvernance dans lequel le grand-maître est élu ou réélu par un « Souverain grand comité » dont il a lui-même désigné préalablement les membres. ,9,sanctionner,sanctionner,VERB,_,VerbForm=Inf,7,conj,_,Subject=ObjRaising,1

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4764,17804,"L'enfant, ligoté et ",bâillonné,", a été retrouvé vivant samedi dans un champ près de Verviers.",6.0,bâillonné,bâillonner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,SpaceAfter=No,1.0
+8891,33189,On a vu des prévenus enchaînés à leur chaise ou ,bâillonnés, parce qu'ils troublaient les débats.,11.0,bâillonnés,bâillonner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,1.0
+243043,916055,"Laurent Bonomo et Gabriel Ferez, deux Français âgés de 23 ans, ligotés et ",bâillonnés,", ont été longuement torturés et poignardés à mort avant que l'appartement ne soit mis à feu.",16.0,bâillonnés,bâillonner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,14.0,conj,14:conj,SpaceAfter=No,1.0

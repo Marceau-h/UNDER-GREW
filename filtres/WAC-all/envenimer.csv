@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+76388,287577,"C'est sur la configuration des circonscriptions de la capitale que le conflit entre les deux parties s'est cristalisé à Doha, voire s'est ",envenimé, jusqu'à toucher parfois le point de rupture.,27.0,envenimé,envenimer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,20.0,conj,20:conj,_,1.0

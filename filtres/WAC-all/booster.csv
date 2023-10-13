@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+40970,154588,"En revanche, il est question d'apporter un plus, un coup de ",booster," à des petites entreprises qui avaient de l'emploi en magasin mais qui n'osaient pas créer ces emplois"""", a-t-il expliqué.",16.0,booster,booster,VERB,VERB,VerbForm=Inf,14.0,acl,14:acl,_,1.0

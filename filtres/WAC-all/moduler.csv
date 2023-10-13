@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+5543,20554,"Le contexte économique donne du fil à retordre à tous les acteurs et HP se met en ordre de marche pour y faire face, a ",modulé, le patron californien.,27.0,modulé,moduler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,parataxis,4:parataxis,_,1.0
+83034,312108,Cette information captée et ,modulée, est également provisoirement mémorisée dans le cerveau.,5.0,modulée,moduler,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,conj,3:conj,_,1.0
+214250,808012,Un constat à ,moduler," car si les dépenses des collectivités ont progressé de 6 %, celles des entreprises ont en revanche reculé de 6 %.",4.0,moduler,moduler,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0

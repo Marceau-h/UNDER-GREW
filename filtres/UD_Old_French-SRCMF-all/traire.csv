@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1445,12141,"Et l'espee est an son aguet Desus, qui ",tret," et fiert et prant, ",11,tret,traire,VERB,VERcjg,VerbForm=Fin,3,acl:relcl,_,XmlId=w_YvainKu_6360,2

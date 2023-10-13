@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1496,12233,"Et, quant ele s'an fu tornee, Fu tote la genz ",atornee,", Qui de.ii. parz as portes vindrent Et bastons et espees tindrent ; ",14,atornee,atorner,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_7540,2

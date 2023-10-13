@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+151174,570511,Cette oeuvre avait été alourdie et ,opacifiée, dans la version avec choeur présentée au dernier MusiMars.,7.0,opacifiée,opacifier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5.0,conj,5:conj,_,1.0

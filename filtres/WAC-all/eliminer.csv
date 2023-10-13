@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+253613,955431,"Quelque 150 manifestations se sont déroulées dans toute la France au rythme de slogans tels que """"C comme chômage, P comme précarité, E comme éjectable"""", """"Contrat Pourri à ",Eliminer,", ou encore """"CPE: Contrat Poubelle Embauche"""".",35.0,Eliminer,eliminer,VERB,VERB,VerbForm=Inf,32.0,acl,32:acl,SpaceAfter=No,2.0

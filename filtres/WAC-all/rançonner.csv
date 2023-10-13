@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+185015,698069,"Au service du roi Jean le Bon, il attaque et ",rançonne," les Anglais qui s'aventurent dans la forêt de Brocéliande, en Bretagne du Nord.",12.0,rançonne,rançonner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,10.0,conj,10:conj,_,1.0
+240492,906365,"Surnommé le « courbeur de pins », il ",rançonne, et torture les voyageurs en les écartelant entre deux arbres.,10.0,rançonne,rançonner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

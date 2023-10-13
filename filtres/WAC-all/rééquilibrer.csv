@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+125869,475377,"Les ventes ont augmenté de 28 %, et le marché s'est ",rééquilibré," : Nokia, qui vendait cinq fois plus de smartphones que son second, RIM (fabricant des Blackberry), est passé de 51 à 39 % de parts de marché.",14.0,rééquilibré,rééquilibrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0

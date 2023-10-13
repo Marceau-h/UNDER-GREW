@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+159302,600634,"Ce dernier, déjà bien en peine avec des résultats financiers qui ",périclitent," et un retard encore annoncé pour les lecteurs, devra rapidement trouver une riposte.",13.0,périclitent,péricliter,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,10.0,acl:relcl,10:acl:relcl,_,1.0
+215443,812307,"Le bouddhisme chinois connaît son apogée à l'époque Tang avant de décliner, puis de ",péricliter," (réprimé en 945 par l'empereur Busō, adepte du taoïsme).",17.0,péricliter,péricliter,VERB,VERB,VerbForm=Inf,13.0,conj,13:conj,_,1.0
+243118,916338,Des villages nés de l'activité ferroviaire ont même disparu et des familles gagnant leur vie grâce au passage du train ont ,périclité, faute de moyen d'évacuation pour leurs produits.,23.0,périclité,péricliter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,conj,10:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+147152,555284,Lavez les poireaux et ,émincez,-les en filaments.,5.0,émincez,émincer,VERB,VERB,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,1.0,conj,1:conj,SpaceAfter=No,1.0

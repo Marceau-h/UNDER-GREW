@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+130306,491897,"Or, ces atteintes, arbitraires ou ",légalisées,", aux droits humains, à la liberté de la presse et de l'information sur Internet, se multiplient.",8.0,légalisées,légaliser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,6.0,conj,6:conj,SpaceAfter=No,3.0
+142893,539469,"Toutes les données qui sont produites en relation avec des phénomènes institués, ",légalisés,", juridicisés, qui se rapprochent davantage des textes que des pratiques peuvent être considérés comme dures.",14.0,légalisés,légaliser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,12.0,conj,12:conj,SpaceAfter=No,2.0

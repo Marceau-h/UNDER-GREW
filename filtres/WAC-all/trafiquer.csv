@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+102928,388338,Une nourriture jamais ,trafiquée," et une eau bonne à boire rien qu'en ouvrant le robinet, sans corvée de bouteilles à trimballer.",4.0,trafiquée,trafiquer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

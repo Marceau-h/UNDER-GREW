@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+113840,429549,"Je déambule au marché, je ",farfouille,", j'achète, je reviens dans mon atelier, je visse et en une heure l'œuvre d'art est née.",7.0,farfouille,farfouiller,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,2.0,conj,2:conj,SpaceAfter=No,3.0

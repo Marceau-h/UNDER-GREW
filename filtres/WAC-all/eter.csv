@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+218897,825477,"Pour les liens, tu les trouves dans Special:whatlinkshere/Daoulas, et il faut les faire à la main, pour ",eter, sur qu'ils pointent bien vers la ville.,25.0,eter,eter,VERB,VERB,VerbForm=Inf,19.0,advcl,19:advcl,_,1.0

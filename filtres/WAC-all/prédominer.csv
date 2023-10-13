@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+69875,263746,La couleur et la sensation ,prédominent," (souvent violentes : rien de plus faux que l'idée d'un Debussy flou ou vague ; son dessin est toujours net et sa musique puissamment sensuelle), la dissonance s'émancipe.",6.0,prédominent,prédominer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+213380,804620,Si l'animation ,prédomine,", tous les types de programmes sont représentés : spectacles vivants, longs métrages, documentaires, fictions.",4.0,prédomine,prédominer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,12.0,advcl,12:advcl,SpaceAfter=No,1.0
+248326,935808,"Aujourd'hui, c'est d'abord l'industrie électrotechnique qui ",prédomine," (appareils de mesure, compteurs électriques).",11.0,prédomine,prédominer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8.0,dep,8:dep,_,3.0

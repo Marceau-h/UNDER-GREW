@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1762,6561,"En décembre, des programmateurs venus de douze pays s'y réuniront d'ailleurs pour découvrir, ou ",redécouvrir,", quinze chorégraphes du cru.",19.0,redécouvrir,redécouvrir,VERB,VERB,VerbForm=Inf,16.0,conj,16:conj,SpaceAfter=No,1.0
+48423,182526,"Il est alors possible de découvrir, outre les 5 premiers titres entièrement dédiés à LIM, des rappeurs de toute la France, tels que Karl'1 (77) ou de ",redécouvrir, ceux déjà entendus sur Violences Urbaines et Double Violences Urbaines.,33.0,redécouvrir,redécouvrir,VERB,VERB,VerbForm=Inf,6.0,conj,6:conj,_,2.0
+53570,201963,La photothèque vous propose une pleïade de photographies pour découvrir ou ,redécouvrir, les charmes Saint-Paulois.,12.0,redécouvrir,redécouvrir,VERB,VERB,VerbForm=Inf,10.0,conj,10:conj,_,1.0
+154527,582871,"En lisant Derrière l'épaule, on trouve le chemin pour découvrir ou ",redécouvrir," Sagan, en oubliant les romans dont seul le titre est une réussite - Sagan avait le sens des titres, souvent empruntés à des poètes du passé.",14.0,redécouvrir,redécouvrir,VERB,VERB,VerbForm=Inf,12.0,conj,12:conj,_,1.0
+243540,917914,Ils ne ménagent pas leurs efforts pour faire découvrir ou ,redécouvrir, leur collection.,11.0,redécouvrir,redécouvrir,VERB,VERB,VerbForm=Inf,9.0,conj,9:conj,_,1.0

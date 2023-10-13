@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+285,Europar.550_00232,Les inspecteurs de l'ONU pour le désarmement de l'Irak ont ,détruit," ou fait détruire les stocks d'armements, de matériels ou de produits pouvant conduire à la fabrication d'armes de destruction massive. ",13,détruit,détruire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,1
+606,Europar.550_00457,"Troisièmement, je considère comme positive l'obligation imposée aux exploitations frappées par la maladie de ",détruire, ou de supprimer l'ensemble de leur cheptel. ,18,détruire,détruire,VERB,_,VerbForm=Inf,8,acl,_,Subject=Instantiated,1

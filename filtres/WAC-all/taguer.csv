@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+263241,992198,La visite domiciliaire a permis la saisie d'un important matériel servant à ,taguer," et à graffer, dont 54 bonbonnes de peinture de différentes couleurs, 15 gros markeurs, des pochoirs et des esquisses.",14.0,taguer,taguer,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,_,1.0

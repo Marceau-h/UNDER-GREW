@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+123812,467968,"Le propriétaire de Boomer, le petit lion qui s'est brièvement ",évadé,", cette semaine, s'en est pris aux journalistes.",13.0,évadé,évader,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl:relcl,8:acl:relcl,SpaceAfter=No,1.0

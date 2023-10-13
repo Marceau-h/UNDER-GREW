@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+77288,290847,Les mot de passe ainsi ,positionnes, servent a l'authentification pour le protocole PPP PAP.,6.0,positionnes,positionner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+154300,582024,"L’artillerie, mal ",positionnée,", doit cesser le feu sous peine de tirer dans les rangs français.",5.0,positionnée,positionner,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+156756,591145,Ricardo le connaît pour l'avoir dirigé au début des années 2000 en sélection de jeunes. « Nous nous sommes clairement ,positionnés," », a confirmé le président bordelais Jean-Louis Triaud jeudi.",23.0,positionnés,positionner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,_,2.0
+233435,880086,Conserver les doigts exempts de colle : ils servent à ,positionner, et non à étendre la colle!,11.0,positionner,positionner,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,1.0
+245850,926550,"Équipement hydraulique 2 axes pour redresser, ",positionner, et maintenir les tubes série gaz et eau Ø 90 à 160 mm. L'axe horizontal permet de décaler les extrémités des tubes pour les opérations de préparation.,8.0,positionner,positionner,VERB,VERB,VerbForm=Inf,6.0,conj,6:conj,_,1.0

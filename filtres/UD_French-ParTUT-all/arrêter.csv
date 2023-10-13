@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+115,fr_partut-ud-268,C'est une bonne chose que cette directive soit ,arrêtée," maintenant, car sinon les états membres seraient obligés de modifier leur législation nationale pour une période transitoire très courte, ce qui ne ferait qu'entraîner des coûts inutiles et augmenterait encore une fois le mécontentement des gens face à la bureaucratie communautaire. ",10,arrêtée,arrêter,VERB,V,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5,csubj,_,_,2

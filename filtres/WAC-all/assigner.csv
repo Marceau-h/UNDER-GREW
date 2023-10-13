@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+230798,870030,Il s'agit de savoir si les objectifs collectivement ,assignés," sont atteints, à quels coûts, et avec quels bénéfices.",10.0,assignés,assigner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0

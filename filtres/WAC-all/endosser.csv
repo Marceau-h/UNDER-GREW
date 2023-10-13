@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+23739,89041,Un rôle que l'Eglise n'est évidemment pas prête à ,endosser,", surtout après une série de récents scandales comme des affaires de pédophilie qui lui ont déjà valu une mauvaise presse.",12.0,endosser,endosser,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,SpaceAfter=No,1.0
+226478,854144,"Ainsi, en premier lieu, le Conseil de gouvernement a examiné et ",endossé," le projet d'ordonnance portant mise en œuvre de la charte pour la paix et la réconciliation nationale, texte articulé en sept chapitres.",14.0,endossé,endosser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,conj,12:conj,_,1.0

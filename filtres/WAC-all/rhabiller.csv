@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+6078,22377,Les autres FPS peuvent ce ,rhabiller," , Spartan 117 is back .",6.0,rhabiller,rhabiller,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,2.0

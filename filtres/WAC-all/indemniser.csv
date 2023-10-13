@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+235094,886424,Laurent_Wauquiez: Le but n'est pas de sanctionner les chômeurs mais de sortir d'une logique qui était de se contenter d',indemniser, sans être suffisamment performant pour accompagner un chômeur dans son retour à l'emploi.,24.0,indemniser,indemniser,VERB,VERB,VerbForm=Inf,22.0,xcomp,22:xcomp,_,1.0

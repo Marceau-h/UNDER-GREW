@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+67902,256392,Les maisons non ,raccordées, doivent être dotées d'un assainissement autonome.,4.0,raccordées,raccorder,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+216715,817254,Facturée aux abonnés ,raccordés," ou raccordables au réseau d'égout, elle finance la construction et l'exploitation des équipements (réseaux et stations d'épuration), qui évacuent et épurent les eaux usées avant rejet dans le milieu naturel.",4.0,raccordés,raccorder,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,2.0
+238646,899495,"En 2003, la Communauté de Communes sera le premier canton de France assaini et ",raccordé, à 100 %.,16.0,raccordé,raccorder,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,conj,14:conj,_,1.0

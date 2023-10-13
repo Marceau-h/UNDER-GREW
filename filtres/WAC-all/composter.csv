@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+143432,541541,Les matières à ,composter," doivent être considérées comme un milieu de culture pour microbes, où le facteur limitant ne peut être que le carbone assimilable et non un autre constituant du milieu.",4.0,composter,composter,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0

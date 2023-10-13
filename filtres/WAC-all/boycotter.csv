@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+158454,597374,"Les résultats définitifs du référendum, que l'opposition a appelé à ",boycotter,", doivent être promulgués jeudi après-midi, mais une première indication chiffrée pourrait en être fournie dans la nuit.",13.0,boycotter,boycotter,VERB,VERB,VerbForm=Inf,11.0,xcomp,11:xcomp,SpaceAfter=No,1.0

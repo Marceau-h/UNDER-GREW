@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+34840,131301,Indeed.Cette comédie avec un humour étrange et ,camouflée," s'est avérée un vrai miroir de mon existence passée, quoique caricaturée au maximum.",10.0,camouflée,camoufler,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0
+260126,980512,"Celui à l'arrière plan est de couleur """"camo"""", c'est à dire ",camouflé,", pour la chasse.",17.0,camouflé,camoufler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,SpaceAfter=No,1.0

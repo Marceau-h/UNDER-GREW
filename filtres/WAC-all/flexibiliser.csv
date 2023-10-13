@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+200843,757877,"Il faut le reprendre et mettre au centre l'élève, la classe et l'organisation pédagogique pour diversifier et ",flexibiliser, (notamment l'emploi du temps) au service de la pluralité d'excellence et de la réussite scolaire.,21.0,flexibiliser,flexibiliser,VERB,VERB,VerbForm=Inf,19.0,conj,19:conj,_,2.0

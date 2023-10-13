@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+74,fr_partut-ud-160,Je le déplore mais le vote a été ,effectué,", la décision est tombée et nous devrions donc en rester là. ",9,effectué,effectuer,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3,conj,_,SpaceAfter=No,2

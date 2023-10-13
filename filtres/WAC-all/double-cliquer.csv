@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+118947,449456,"Plusieurs paragraphes Déplacez le pointeur vers la gauche des paragraphes jusqu'à ce qu'il change de direction, puis ",double-cliquez, et faites-le glisser vers le haut ou vers le bas.,21.0,double-cliquez,double-cliquer,VERB,VERB,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,3.0,conj,3:conj,_,1.0

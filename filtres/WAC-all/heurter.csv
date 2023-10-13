@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2229,8339,Deux dossiers auxquels s'étaient ,heurtés, les précédents ministres des Transports.,6.0,heurtés,heurter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl:relcl,2:acl:relcl,_,1.0

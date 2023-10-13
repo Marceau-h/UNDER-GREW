@@ -1,0 +1,8 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+32209,121363,Clin d'œil J'aime bien m',instruire," en lisant l'Oracle, mais là j'ai l'impression d'être larguée...",8.0,instruire,instruire,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,2.0
+35079,132256,"Le vers célèbre """"Je me sers d'animaux pour ",instruire," les hommes""""est inclus dans la dédicace.",11.0,instruire,instruire,VERB,VERB,VerbForm=Inf,7.0,advcl,7:advcl,_,1.0
+55381,208399,A peine ,instruite,", que la procession commença.",3.0,instruite,instruire,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8.0,advcl,8:advcl,SpaceAfter=No,1.0
+56371,212196,"L'Église, toutefois, ",instruite," et dirigée par Jésus-Christ, porte ses vues encore plus haut.",6.0,instruite,instruire,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+111927,422337,Je priai mon maître de s’expliquer et de m’,instruire,", car j’étais un pauvre jouvenceau de quarante-deux ans » (à propos de sa rencontre avec François Quesnay).",11.0,instruire,instruire,VERB,VERB,VerbForm=Inf,7.0,conj,7:conj,SpaceAfter=No,3.0
+125412,473776,"Pour être franc, je ne sais pas en quoi consistaient ces fameuses mutuelles (sinon qu'elles n'ont plus cours en Italie : et l'impact du film y aurait contribué) mais je ne demande qu'à m'",instruire, en votant pour ce film !,42.0,instruire,instruire,VERB,VERB,VerbForm=Inf,38.0,xcomp,38:xcomp,_,1.0
+133999,506140,Il explique qu'il avait à l'époque une centaine de dossiers à ,instruire, et rappelle qu'il n'était pas le seul magistrat à travailler sur cette affaire.,14.0,instruire,instruire,VERB,VERB,VerbForm=Inf,12.0,acl,12:acl,_,1.0

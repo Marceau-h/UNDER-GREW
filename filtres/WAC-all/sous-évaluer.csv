@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+117008,441772,"Concrètement, il s'agit d'une première ouverture pour une revalorisation de la monnaie chinoise notoirement ",sous-évaluée,", ce qui est de nature à améliorer la compétitivité des sociétés occidentales.",18.0,sous-évaluée,sous-évaluer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,15.0,acl,15:acl,SpaceAfter=No,2.0

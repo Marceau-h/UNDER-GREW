@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+87402,328853,¨ Battre les œufs en omelette et ,assaisonner,.Faire chauffer la poêle avec la noix de beurre.,8.0,assaisonner,assaisonner,VERB,VERB,VerbForm=Inf,2.0,conj,2:conj,SpaceAfter=No,1.0

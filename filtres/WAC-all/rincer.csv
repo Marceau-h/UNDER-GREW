@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+25603,95934,"Surtout pas de shampoing à poux, on le dilue, on ne ",rince," pas assez, on taquine juste le pou en l'habituant aux insecticides.",14.0,rince,rincer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,acl,4:acl,_,1.0
+48973,184655,"Il vaut mieux congeler les branches entières, (",rincées," et séchées dans un papier absorbant), à plat sur une plaque.",10.0,rincées,rincer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0
+192095,724700,"Dégraissez d'abord le PVC, à l'ammoniaque, puis ",rincez,-le à l'eau.,12.0,rincez,rincer,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,1.0,conj,1:conj,SpaceAfter=No,1.0
+214482,808819,"Ces produits doivent donc être ensuite, soit râpés, soit ",rincés, et égouttés puis ensaucés selon les recettes propres à chacun.,12.0,rincés,rincer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,9.0,conj,9:conj,_,1.0

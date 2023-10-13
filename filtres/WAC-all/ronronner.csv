@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+13626,50911,"Au retour, l'aspirateur nous a bien fait la fête, il ",ronronnait, et grondait en se gavant de terre.,14.0,ronronnait,ronronner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,9.0,advcl,9:advcl,_,1.0
+129333,488247,Laissant l'institution ,ronronner, sans utiliser les pouvoirs qui sont les siens.,4.0,ronronner,ronronner,VERB,VERB,VerbForm=Inf,1.0,xcomp,1:xcomp,_,1.0
+231238,871802,La classe politique ,ronronne," ainsi que l'opinion, soulagée de se retrouver une reine qui puisse tenir tête au roi ou en tout cas le rendre plus présentable, plus accommodant, lui faire enlever les signes de grossièreté les plus évidents.",4.0,ronronne,ronronner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

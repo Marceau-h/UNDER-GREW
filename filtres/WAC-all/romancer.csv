@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4201,15696,J'espère que tu n'es pas la réincarnation de la veuve Mao ;-) La source la plus facile à se procurer (peut-être 1/2 ,romancée,", je ne sais pas), c'est le livre de Lucien Bodard, """"Le chien de Mao"""" (ISBN 2253148717).",26.0,romancée,romancer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,16.0,acl,16:acl,SpaceAfter=No,3.0

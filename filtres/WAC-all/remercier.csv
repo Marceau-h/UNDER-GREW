@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+60232,226744,"On peut par exemple contextualiser sa question, en se présentant un minimum (je suis... je cherche ça parce que...), on peut aussi faire une petit phrase pour ",remercier, ; enfin un peu plus que le minimum syndical.,34.0,remercier,remercier,VERB,VERB,VerbForm=Inf,29.0,advcl,29:advcl,_,2.0
+117042,441923,"Et comme toute la horde de midinette ayant affolé tout le monde sur le site, n'ont pas daigner ",remercier," après être allés à l'enregistrement d'une émission Depuis, plus personne... bizarre non?",21.0,remercier,remercier,VERB,VERB,VerbForm=Inf,20.0,xcomp,20:xcomp,_,2.0
+242056,912330,Liliane et Annie Leroux avaient promis d'organiser un grand fest-noz afin de ,remercier, celles et ceux qui les ont aidées à implanter leur boutique.,16.0,remercier,remercier,VERB,VERB,VerbForm=Inf,17.0,amod,17:amod,_,1.0
+252071,949510,Des employés du Sénat parmi les ,remerciés,", vendredi, à Ankadifotsy.",7.0,remerciés,remercier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+254544,959135,"» Lorsqu'un tel compliment est amené par Henri Salvador, on ne peut que ",remercier," timidement, et rougir sans doute.",16.0,remercier,remercier,VERB,VERB,VerbForm=Inf,14.0,xcomp,14:xcomp,_,1.0

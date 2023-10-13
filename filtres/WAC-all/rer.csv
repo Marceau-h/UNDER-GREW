@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+155266,585630,Mais on remarquera qu'il ne fait rien pour amener le vieux vers une littérature plus digne de ce nom: il ,res, pecte les choix de son ami parce qu'il sent que pour lui ces livres sont une sorte de thérapie.,23.0,res,rer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,advcl,3:advcl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+167986,633472,"Avec ce raisonnement, on achète pas de lampes basse consommation car elles ",coutent, 10x plus cher.,14.0,coutent,couter,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,6.0,conj,6:conj,_,2.0

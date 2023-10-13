@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+182249,687780,"Le Guatemala a connu la campagne électorale la plus violente de son histoire, avec 49 hommes politiques, militants et leurs proches tués par balles, ",poignardés, ou étranglés ces quatre derniers mois.,28.0,poignardés,poignarder,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,26.0,conj,26:conj,_,1.0
+228067,860203,WINNIPEG - Les derniers gestes du jeune homme ,poignardé," et décapité à bord d'un autocar près de Portage La Prairie, au Manitoba, fin juillet, ont sauvé la vie d'autres passagers, estime un témoin de l'horrible agression.",9.0,poignardé,poignarder,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+14098,52595,"La plupart des jeux vidéo qui seront évoqués ici ont pour cadre le monde réel, présent ou passé, plus ou moins simplifié et ",idéalisé,", mais qui reflète souvent le monde tel qu’il est vu par les développeurs du jeu.",26.0,idéalisé,idéaliser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,24.0,conj,24:conj,SpaceAfter=No,1.0
+156352,589659,"Le visiteur rencontre ensuite le Sauvage, figure tantôt ",idéalisée,", tantôt diabolisée.",10.0,idéalisée,idéaliser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+62799,236945,"Après sa défaite devant le peuple, Broulis cherchait la réconciliation avec ses adversaires ",honnis, quelques mois plus tôt.,15.0,honnis,honnir,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,14.0,acl,14:acl,_,2.0

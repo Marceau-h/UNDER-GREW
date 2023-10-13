@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+91601,345261,"Dans la présentation générale, des aiguilles à ",tricoter," près de pelotes de laine, c'est LE TRICOT ( 38 x 46 cm ), copine avec BOCAUX ( 33 x 41 cm).",9.0,tricoter,tricoter,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,_,2.0
+255267,961898,Les plus désespérées s'introduisent une aiguille à ,tricoter," dans le vagin, provoquant souvent une perforation de l'utérus.",9.0,tricoter,tricoter,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+983,fr-ud-train_03166,Un algorithme dont les clés faibles sont inconnues ou difficiles à ,établir, n'inspirera pas confiance. ,12,établir,établir,VERB,_,VerbForm=Inf,10,ccomp,_,Subject=Generic,1

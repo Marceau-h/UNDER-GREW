@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+243764,918810,"Voici quelques festivals de cet été, en France mais aussi en Belgique ou en Suisse, si vous en avez d'autres à nous annoncer, ",mailez, nous : olivier.granger2@freesbee.fr ( Classé par numéro de département ) -------( 05 ),28.0,mailez,mailer,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,1.0,parataxis,1:parataxis,_,2.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+34045,128280,"Conformément à l'accord signé ce mardi entre les deux camps, les forces des Nations unies, la MONUC, et les soldats européens de l'Eufor ",patrouillent, pour vérifier que les miliciens aient bien quitté le centre ville.,29.0,patrouillent,patrouiller,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+75620,284818,Plusieurs centaines de Fous de Bassan ,patrouillant, près de la côte.,7.0,patrouillant,patrouiller,VERB,VERB,Tense=Pres|VerbForm=Part,0.0,root,0:root,_,1.0

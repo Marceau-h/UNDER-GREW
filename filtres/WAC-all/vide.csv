@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+33139,125021,"Ces dernières font osciller un poids, qui suivant son emplacement, rempli ou ",vide, des pompes hydrauliques chargeant des accumulateurs à haute pression.,15.0,vide,vide,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13.0,conj,13:conj,_,1.0
+112555,424833,Une fois la batterie ,vide,", ce collier spécial très léger (300 grammes) s'éjecte.",5.0,vide,vide,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17.0,advcl,17:advcl,SpaceAfter=No,1.0

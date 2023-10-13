@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+133719,505130,Faire chauffer la matière grasse dans la poêle et y faire rissoler les morilles ,égouttées, et épongées dans du papier absorbant.,15.0,égouttées,égoutter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,14.0,acl,14:acl,_,2.0
+214480,808819,"Ces produits doivent donc être ensuite, soit râpés, soit rincés et ",égouttés, puis ensaucés selon les recettes propres à chacun.,14.0,égouttés,égoutter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,12.0,conj,12:conj,_,1.0
+241708,911124,Laissez les cuire 5 minutes ; ,égouttez,-les très soigneusement en pressant pour en extraire toute l'eau.,7.0,égouttez,égoutter,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

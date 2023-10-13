@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+251185,946358,"A la fin de leur concert, Xavier Lacouture et ses deux musiciens ont, eux, salué le public de dos : ils ",arboraient," chacun un T-shirt où figure une des lettres du mot """"Non"""", histoire de rappeler à tous l'objet du rassemblement de ce week-end.",25.0,arboraient,arborer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,18.0,advcl,18:advcl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+84886,319086,L'autre possède quatre pièces noires pouvant bloquer la progression des rouges et une pièce jaune pouvant ,éjecter, et éliminer une pièce rouge ; il doit éliminer les pièces adverses.,18.0,éjecter,éjecter,VERB,VERB,VerbForm=Inf,17.0,xcomp,17:xcomp,_,1.0

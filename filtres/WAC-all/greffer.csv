@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+25276,94636,"Cette fin de journée est l'occasion pour Ubisoft de diffuser trois nouveaux artworks de Tom Clancy's EndWar, auxquels se sont ",greffées, deux images guères reluisantes.,24.0,greffées,greffer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,14.0,acl:relcl,14:acl:relcl,_,1.0
+26917,100959,Ensuite d'autres problèmes se sont ,greffés, autour de la gestion de l'Association.,7.0,greffés,greffer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+127545,481608,"Pour réparer des cartilages articulaires abîmés lors d'un accident, il est maintenant possible de cultiver et de ",greffer," les chondrocytes, les cellules qui produisent ce cartilage.",20.0,greffer,greffer,VERB,VERB,VerbForm=Inf,17.0,conj,17:conj,_,1.0
+183349,691882,Un choc aussi dans ce petit port sur lequel s'est ,greffée, une sorte de Luna Park tentaculaire grouillant de vacanciers.,12.0,greffée,greffer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl:relcl,7:acl:relcl,_,1.0
+240359,905791,"Kierspe, se présente comme un village auquel s'est ",greffé, un quartier plus récent.,11.0,greffé,greffer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl:relcl,7:acl:relcl,_,3.0

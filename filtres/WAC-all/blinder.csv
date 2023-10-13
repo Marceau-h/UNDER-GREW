@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+63240,238600,"C'est bien d'Israël qu'il s'agit, ",blindé," et fortifié derrière ses frontières, à la recherche d'une protection contre la répétition d'une agression qui a failli coûter la vie à tout un peuple.",11.0,blindé,blinder,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,advcl,9:advcl,_,1.0
+78309,294692,"Vous apprendrez à concevoir des scripts réutilisables et """"",blindés, que vous pourrez distribuer à l'échelle de entreprise.,10.0,blindés,blinder,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,7.0,conj,7:conj,SpaceAfter=No,1.0

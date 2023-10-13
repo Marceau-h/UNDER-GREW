@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+82182,308984,"Nous avons besoin,pour bien écrire une lettre, d'un papier blanc, non ",raturé,; il est malaisé de peindre sur une toile déjà peinte.,17.0,raturé,raturer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13.0,acl,13:acl,SpaceAfter=No,2.0
+128693,485881,Ont droit de vote aux assemblées les membres présents (ou représentés à raison de trois pouvoirs nominatifs et non ,raturés, par membre présent) remplissant les conditions énumérées à l'Article 7 des présents statuts.,21.0,raturés,raturer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,conj,18:conj,_,1.0

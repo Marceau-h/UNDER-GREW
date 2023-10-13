@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+64763,244256,"Une compilation de ces """"oeuvres"""" est tout de même réalisée : c'est l'album Les Onze Y ",Trônent,", fin 1998 (15 titres).",21.0,Trônent,trôner,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,12.0,advcl,12:advcl,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+58775,221153,"Si le fleuriste est en retard par rapport à son objectif (respectivement en avance), le progiciel favorise (respectivement ",défavorise,) ce fleuriste dans la sélection des exécutants des commandes transmises à la zone.,23.0,défavorise,défavoriser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,20.0,ccomp,20:ccomp,SpaceAfter=No,1.0

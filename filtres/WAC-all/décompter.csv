@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+33530,126367,"Tous les appels vers les DOM, l'Europe et les Etats-Unis seront de plus inclus (et donc ",décomptés,) dans le forfait.,20.0,décomptés,décompter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,16.0,conj,16:conj,SpaceAfter=No,1.0

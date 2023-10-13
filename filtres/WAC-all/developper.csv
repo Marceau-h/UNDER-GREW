@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+7332,27400,La SSII Sodifrance acquiert OneXt un intégrateur spécialisé dans l'intégration et la mise en oeuvre d'outils de gestion de contenu (CMS) ,developpés, autour d'applications open source.,26.0,developpés,developper,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,acl,18:acl,_,1.0
+40660,153377,D'une idée ,developpée," autour d'une bière au succès, portrait des acteurs d'une aventure commencée en 2002.",4.0,developpée,developper,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,2.0

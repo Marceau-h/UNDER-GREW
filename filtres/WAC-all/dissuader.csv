@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+5489,20388,"Il a pour but d'une part de prévenir, voire de ",dissuader,", les plongeurs non avertis aux techniques propres à la plongée spéléo, et d'autre part à matérialiser des points de repères pour les plongeurs dans le siphon.",13.0,dissuader,dissuader,VERB,VERB,VerbForm=Inf,9.0,conj,9:conj,SpaceAfter=No,1.0
+172451,650430,Les enfants font le vide autour des parents âgés et tentent de ,dissuader," ceux qui veulent les aider : l'infirmière, l'aide-ménagère, les autres enfants qui leur proposent des vacances.",13.0,dissuader,dissuader,VERB,VERB,VerbForm=Inf,11.0,xcomp,11:xcomp,_,1.0

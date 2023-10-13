@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+168906,636965,"C'est dans une unité pilote, installée dans un bâtiment de brique rouge entièrement ",confiné,", que sont cultivées et testées des cellules qui seront peut-être à la base, dans dix ou quinze ans, de médicaments efficaces contre le cancer.",16.0,confiné,confiner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,acl,11:acl,SpaceAfter=No,1.0
+245322,924557,"Sur son exploitation, il garde ses volailles ",confinées, plus longtemps avant l'abattage.,9.0,confinées,confiner,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0

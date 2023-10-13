@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+119691,452305,"Sur cette dernière année, Last.fm a continué de ",croitre, et se place juste devant Facebook avec une progression de 121%.,10.0,croitre,croitre,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,_,1.0

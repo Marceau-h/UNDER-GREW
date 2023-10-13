@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1310,fr-ud-train_04841,"Dès qu'on tousse, il faut aller voir un pneumologue"""", conseille Martine B., qui regrette d'avoir trop ",attendu, et d'en être de ce fait très handicapée. ,24,attendu,attendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,20,xcomp,_,_,3

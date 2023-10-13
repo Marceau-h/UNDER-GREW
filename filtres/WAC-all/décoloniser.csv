@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+145924,550617,"En 1952, la pétition des Basters pour se faire reconnaître comme peuple à ",décoloniser, reste sans effet aux Nations unies.,15.0,décoloniser,décoloniser,VERB,VERB,VerbForm=Inf,13.0,acl,13:acl,_,2.0

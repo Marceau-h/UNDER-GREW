@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+79995,300835,Les Hollandais ont finalement soumis et ,dissous, le sultanat de Riau-Lingga en 1911.,7.0,dissous,dissoudre,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,conj,5:conj,_,1.0
+107742,406685,"L'article 101 crée une Commission inter-États, un organisme aujourd'hui ",dissous,", mais qui était à l'origine prévue pour avoir un rôle important dans la structure fédérale.",12.0,dissous,dissoudre,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,SpaceAfter=No,1.0
+191859,723794,"Le groupuscule extrémiste de défense du peuple noir, aujourd'hui ",dissout,", la Tribu Ka, en a alors profité pour instrumentaliser l'affaire.",11.0,dissout,dissoudre,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+247817,933965,Le groupe s'est ,dissout, pour former le groupe The Eternal.,5.0,dissout,dissoudre,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

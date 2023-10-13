@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+165326,623282,Ils rendent non seulement l'information ,segmentée," et donc payable à l'acte mais peuvent aussi la transformer en publicité directe pour des produits, les serveurs télématiques devenant parfois de véritables plates-formes d'achat à distance.",7.0,segmentée,segmenter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+169191,638078,"D'une part, c'est à l'entreprise """"",inspectée, de prouver que les révélations ne font pas partie des informations que le public a le droit de connaître.,11.0,inspectée,inspecter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,9.0,acl,9:acl,SpaceAfter=No,2.0

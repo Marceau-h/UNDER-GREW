@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+158458,597390,"C'est comme pour la négociation où la base recherche le résultat """"le plus favorable"""" aux salariés mais récuse le mot """"",compromis,", encore assimilé à compromission !",25.0,compromis,compromettre,VERB,VERB,Gender=Masc|Tense=Past|VerbForm=Part,23.0,acl,23:acl,SpaceAfter=No,1.0
+173142,652971,"On estime que, quand on est jeune, on ne peut pas tomber dans une situation irrémédiablement ",compromise," », indique Pierrette Crosemarie, rapporteur du dossier.",19.0,compromise,compromettre,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,17.0,acl,17:acl,_,1.0

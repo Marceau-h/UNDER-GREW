@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+97497,367755,Les recettes sont ensuite encodées ou ,scannées, dans leur intégralité en vue de l'interprétation qui consiste à mettre en évidence les procédés de base.,7.0,scannées,scanner,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,5.0,conj,5:conj,_,1.0
+173449,654226,"On termine par l'analyse précise de chacune des dix fractures de la classification, en recherchant chaque repère sur les radios et le ",scanner, ce qui permet de dessiner la fracture sur un schéma de l'os iliaque.,25.0,scanner,scanner,VERB,VERB,VerbForm=Inf,22.0,conj,22:conj,_,2.0

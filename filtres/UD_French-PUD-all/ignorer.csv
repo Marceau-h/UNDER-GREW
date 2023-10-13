@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+63,n01104011,Faire match nul lorsqu’on domine le jeu est facile à ,ignorer,", mais le faire trois fois de suite laisse entrevoir une faiblesse. ",12,ignorer,ignorer,VERB,VB,VerbForm=Inf,10,xcomp,_,SpaceAfter=No,1

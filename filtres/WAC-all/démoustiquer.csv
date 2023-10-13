@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+37111,139637,"S'il n'y a pas un vaccin, je ne vois pas à quoi bon ",démoustiquer,", assure son mari Irénée Fidélis, chauffeur routier.",17.0,démoustiquer,démoustiquer,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,SpaceAfter=No,2.0

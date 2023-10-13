@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+120907,456906,"Les années 1934-1936 sont aussi celles de la collaboration avec Picasso pour De derrière les fagots (1934), Ernst pour Je ",sublime," (1936), Tanguy pour Trois cerises et une sardine.",26.0,sublime,sublime,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,23.0,acl:relcl,23:acl:relcl,_,1.0

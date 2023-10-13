@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+134128,506676,"Désormais, l'armée s'est ",redéployée, et est harcelée par les chefs tribaux.,7.0,redéployée,redéployer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

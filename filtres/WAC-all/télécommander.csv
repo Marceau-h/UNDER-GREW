@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+205962,777251,"Réglages du miroir par 3 vis à 120°, deux ",télécommandées," par moteur électrique, compensation du poids par 9 contrepoids à touches.",12.0,télécommandées,télécommander,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0

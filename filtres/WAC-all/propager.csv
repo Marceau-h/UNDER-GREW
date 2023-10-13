@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1538,5675,"Cette association se propose de réunir des personnes qui veulent étudier, pratiquer et ",propager," le chant choral, selon l'esprit du mouvement """"A COEUR JOIE"""".",15.0,propager,propager,VERB,VERB,VerbForm=Inf,11.0,conj,11:conj,_,1.0
+39236,147663,Les flammes se sont vite ,propagées, et ont atteint une partie d'un hôtel.,6.0,propagées,propager,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+52160,196721,Il revient en Irlande en affirmant avoir découvert une île qu'il assimile au Paradis ; le récit rapidement ,propagé," de ses aventures attire de nombreux pèlerins à Aldfert, le village d'où il avait pris son départ.",20.0,propagé,propager,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,18.0,acl,18:acl,_,1.0

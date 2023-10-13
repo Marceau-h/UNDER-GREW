@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+242947,915664,Certains pays peu respectueux des droits de l'homme ont une stratégie très bien ,concoctée,", alors que les Occidentaux paraissent moins bien organisés"""", a observé Mariette Grange, directrice de l'association à Genève.",16.0,concoctée,concocter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,13.0,acl,13:acl,SpaceAfter=No,1.0

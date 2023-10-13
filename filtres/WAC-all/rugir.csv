@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+71059,268001,"Toutes les créatures qui menacent d'attaquer grattent le sol, ",rugissent, ou bougent de façon menaçante lorsqu'un joueur s'en approche.,12.0,rugissent,rugir,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,8.0,conj,8:conj,_,1.0
+121361,458631,"Je te pousserai à la chasse, mais je ",rugirai, pour éloigner les prédateurs.,10.0,rugirai,rugir,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin,3.0,conj,3:conj,_,1.0
+125121,472626,"Pour compléter le tableau, les deux motards Troy Bayliss et Travis Pastrana feront ",rugir, leur moteur.,15.0,rugir,rugir,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,1.0

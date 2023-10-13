@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3939,14810,Pour les rédacteurs à la recherche d'un article à ,créér,", le projet Articles les plus demandés peut aussi les aider à trouver un sujet.",11.0,créér,créér,VERB,VERB,VerbForm=Inf,9.0,acl,9:acl,SpaceAfter=No,1.0

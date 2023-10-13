@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+82959,311856,"L'ETA a été celle qui a rompu, ",liquidé,", terminé le processus de paix"""", a ajouté le ministre de l'Intérieur.",11.0,liquidé,liquider,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,SpaceAfter=No,1.0

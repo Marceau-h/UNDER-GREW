@@ -1,0 +1,8 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+46209,174385,Sauf sur une déviation de Dindane après un centre de Jemaa (70) qui ,filait, de peu à côté du cadre de Barthez.,16.0,filait,filer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,9.0,acl:relcl,9:acl:relcl,_,3.0
+94426,356497,"Mis sous pression par Barbera, Dovizioso a réagi peu après la mi-course et est repassé en tête, tandis que Lorenzo passait à l'offensive et reprenait la troisième place à Barbera pour ne pas laisser ",filer, les leaders.,38.0,filer,filer,VERB,VERB,VerbForm=Inf,28.0,xcomp,28:xcomp,_,1.0
+107635,406271,"Les veuves sont aidées, on leur fourni de la filasse à ",filer,", le Baron de Janzé écrit le 27 janvier 1840 :",13.0,filer,filer,VERB,VERB,VerbForm=Inf,8.0,advcl,8:advcl,SpaceAfter=No,1.0
+123042,464966,"Le vase étant placé sur le tour, on versait, à l'aide d'une pipette, quelques gouttes de barbotine qui ",filaient, plus ou moins en adhérant à la paroi.,24.0,filaient,filer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,20.0,acl:relcl,20:acl:relcl,_,1.0
+172902,652125,Mais plusieurs États sont encore réticents à laisser ,filer, les déficits.,9.0,filer,filer,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,1.0
+197462,744974,"«C'est vrai, j'étais tendue», avoue la tête de série No 9. Le premier set ",filera, sans qu'elle puisse le rattraper.,22.0,filera,filer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,0.0,root,0:root,_,1.0
+246616,929412,Il est par conséquent temps de laisser ,filer, les charges.,8.0,filer,filer,VERB,VERB,VerbForm=Inf,5.0,dep,5:dep,_,1.0

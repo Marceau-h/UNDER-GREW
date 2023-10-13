@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+90891,342427,"Elle y reconnaît Auguste Jud, les pieds dans l'eau, tenant une sorte de grande poêle à ",frire, sans manche dans les mains .,20.0,frire,frire,VERB,VERB,VerbForm=Inf,18.0,acl,18:acl,_,1.0
+124609,470689,"Mais arrivée à Hanoi, le menu était tout différent dans le premier restaurant choisi au hasard dans les environs de l'hôtel: serpent bouilli ou ",frit,", sang de serpent, testicules de bœuf sous toutes ses formes, grenouilles et autres bizarreries.",28.0,frit,frire,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,26.0,conj,26:conj,SpaceAfter=No,1.0
+210923,795295,Et le poulet par exemple etait grille pas ,frit, (mais quand meme pane!),9.0,frit,frire,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,xcomp,7:xcomp,_,2.0

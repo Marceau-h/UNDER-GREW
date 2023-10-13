@@ -1,0 +1,8 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+152385,574993,"Un chœur d'enfants en robe marine, un trio à cordes, un quatuor de souffleurs, un carré rock, et puis Antony (celui des Johnsons, une voix en pâte à ",modeler,", un visage de poupin lacté) qui chante les contrepoints.",36.0,modeler,modeler,VERB,VERB,VerbForm=Inf,34.0,acl,34:acl,SpaceAfter=No,1.0
+164503,620271,"Les néophytes ont des corps souples, parfaitement ",modelés,", presqu'en ronde-bosse.",9.0,modelés,modeler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5.0,acl,5:acl,SpaceAfter=No,1.0
+196471,741120,Solidariser la pièce avec le plan de référence pour éviter qu'elle ne bouge au cours des manipulations (pâte à ,modeler,", colle...)",22.0,modeler,modeler,VERB,VERB,VerbForm=Inf,20.0,acl,20:acl,SpaceAfter=No,2.0
+197095,743531,Cette confiance à l'action du blanc de céruse qui ,modèle, et qui à lui seul ébauche et construit l'image submergeant la première trace.,11.0,modèle,modeler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,acl:relcl,2:acl:relcl,_,1.0
+235099,886437,Wallace et Gromit le mystère du lapin-garou emmènera nos deux héros en pâte à ,modeler, sur la trace d'un mystérieux lapin-garou géant !,17.0,modeler,modeler,VERB,VERB,VerbForm=Inf,15.0,acl,15:acl,_,3.0
+245387,924780,Avec de la pâte à ,modeler,", elle fait alors """"des petits gâteaux"""" et écrit une lettre de son nom sur chacun.",6.0,modeler,modeler,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,SpaceAfter=No,3.0
+248033,934813,On distribue aux enfants une pâte à ,modeler," sous forme de boule, ils essaient et observent que la boule coule.",8.0,modeler,modeler,VERB,VERB,VerbForm=Inf,6.0,acl,6:acl,_,1.0

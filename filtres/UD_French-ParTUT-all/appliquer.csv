@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+346,fr_partut-ud-1006,"Lorsque ces dérogations sont arrêtées après l'adhésion, elles peuvent être ",appliquées, à compter de la date d'adhésion. ,13,appliquées,appliquer,VERB,V,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,11,xcomp,_,_,1
+347,fr_partut-ud-1007,"Lorsque ces adaptations sont adoptées après l'adhésion, elles peuvent être ",appliquées, à compter de la date d'adhésion. ,13,appliquées,appliquer,VERB,V,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,11,xcomp,_,_,1

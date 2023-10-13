@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+50227,189567,"Après l’école de Saint-Cyr, dont il sort en 1812, il participe au sein de la Grande Armée à la campagne d'Allemagne, et est blessé à Dresde et à Külhm, puis fait prisonnier et ",interné, en Hongrie jusqu'à la chute de l'Empire.,40.0,interné,interner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,38.0,conj,38:conj,_,1.0
+155175,585301,Elle s'adresse aux jeunes sortants du cycle primaire ou secondaire jusqu'à 21 ans en ,internant, ou semi-internat.,17.0,internant,interner,VERB,VERB,Tense=Pres|VerbForm=Part,3.0,advcl,3:advcl,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+99151,374247,"«Vu le résultat et ce qu'il a eu à faire durant la partie, je n'ai au moins pas perdu mon temps», a-t-il lâché avant de conclure : «Je suis content qu'il ait ",rejoué, et repris sa place.»,43.0,rejoué,rejouer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,39.0,ccomp,39:ccomp,_,2.0
+107078,404187,"Après avoir arraché le match nul à dix minutes de la fin de la rencontre grâce à un but d'Angelo Domenghini, le 8 juin, l'Italie retrouve la Yougoslavie pour une finale à ",rejouer, deux jours plus tard.,37.0,rejouer,rejouer,VERB,VERB,VerbForm=Inf,30.0,advcl,30:advcl,_,3.0

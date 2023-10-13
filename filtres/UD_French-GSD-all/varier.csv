@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+443,fr-ud-train_00370,"Un grand choix de livres, les tarifs ",varient, beaucoup mais il faut prendre le temps de regarder et dénicher le livre qui vous passionnera. ,9,varient,varier,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,2

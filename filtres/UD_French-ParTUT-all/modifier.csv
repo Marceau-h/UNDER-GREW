@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+226,fr_partut-ud-640,- proposition de décision du conseil ,modifiant," et prorogeant la décision du conseil du 17 décembre 2001 établissant un programme d'action en matière d'échanges, d'assistance et de formation, pour la protection de l'euro contre le faux monnayage (programme «Pericles»). ",8,modifiant,modifier,VERB,V,Number=Sing|Tense=Pres|VerbForm=Part,7,acl,_,_,1

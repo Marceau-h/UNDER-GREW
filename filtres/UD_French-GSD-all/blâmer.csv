@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1384,fr-ud-train_05232,"Malgré tout, elle garde toujours sa mauvaise réputation et elle reste celle à ",blâmer, quand la magie cause des vétustes. ,15,blâmer,blâmer,VERB,_,VerbForm=Inf,13,acl,_,Subject=Generic,1

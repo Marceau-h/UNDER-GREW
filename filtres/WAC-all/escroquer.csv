@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+153619,579363,"Ullrich fait l'objet, en l'absence d'une législation antidopage en Allemagne, d'une plainte pour escroquerie émanant de Britta Bannenberg, elle-même ancienne athlète, qui estime qu'il a ",escroqué, en utilisant des substances illicites.,35.0,escroqué,escroquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,31.0,ccomp,31:ccomp,_,2.0

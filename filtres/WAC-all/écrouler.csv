@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+77752,292625,Le stade a vécu un moment de frayeur lorsque le chouchou s'est ,écroulé, en se tenant les chevilles taclées par Steve Sidwell.,14.0,écroulé,écrouler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,advcl,4:advcl,_,1.0
+98109,370153,"Autour de lui, la dévastation est totale: les façades ont été arrachées, les ponts se sont ",écroulés,", les rues sont recouvertes de montagnes de gravats.",20.0,écroulés,écrouler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,conj,8:conj,SpaceAfter=No,1.0
+141144,532764,"Ainsi, la jeune prodige de 15 ans, Michelle Wie, en tête avant le 4e parcours, s'est ",écroulée,", ne rendant qu'une carte de 82.",22.0,écroulée,écrouler,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,3.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+61979,233690,"Toutefois, dans ce processus les caractéristiques du milieu à ",échantillonner, ont un rôle important.,11.0,échantillonner,échantillonner,VERB,VERB,VerbForm=Inf,9.0,acl,9:acl,_,2.0

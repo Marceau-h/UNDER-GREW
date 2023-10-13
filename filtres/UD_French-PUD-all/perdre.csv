@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+182,w03005013,L'écriture et les écrits mycéniens en général sont ,perdus, et oubliés mais les Grecs adoptent l'alphabet phénicien tout en le modifiant ce qui deviendra l'alphabet grec. ,10,perdus,perdre,VERB,VBN,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_,1

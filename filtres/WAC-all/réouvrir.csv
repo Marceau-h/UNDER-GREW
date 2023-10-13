@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+231372,872302,"Le niveau des eaux dans le comté commence à baisser, la M5 a ",réouvert," mais la circulation est difficile à cause du trafic important"""", a indiqué un porte-parole de la police du Gloucestershire.",15.0,réouvert,réouvrir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,advcl,8:advcl,_,1.0

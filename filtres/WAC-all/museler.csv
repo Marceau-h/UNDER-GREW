@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+93200,351546,"Ces jeunes désabusés, clochardisés, ",muselés," se retrouvent avec toutes leurs difficultés devant un parterre de responsables qui tiennent comme d'habitude un langage bien huilé, prometteur mais vide de toute crédibilité.",7.0,muselés,museler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,3.0,conj,3:conj,_,1.0
+167691,632317,Une fillette de 10 ans a été sévèrement mordue au bras par un rottweiler non ,muselé, qui s'est jeté sur elle dans la rue mercredi soir à Vernon (Eure).,16.0,muselé,museler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,acl,14:acl,_,1.0

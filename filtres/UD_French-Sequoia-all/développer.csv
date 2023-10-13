@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+284,Europar.550_00222,Nous sommes d'avis que cela apportera davantage de cohérence et de transparence dans la manière de gérer le système et de renforcer la capacité du Parlement à examiner la manière dont la Commission gère et ,développe, le système Eurodac. ,38,développe,développer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,36,conj,_,_,2

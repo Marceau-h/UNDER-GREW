@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+168390,634994,"Dans les classes populaires, une alimentation à base de pain ou de bouillie tout juste suffisante et fortement ",carencée, rend les organismes particulièrement vulnérables devant les agressions microbiennes.,20.0,carencée,carencer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,17.0,conj,17:conj,_,2.0

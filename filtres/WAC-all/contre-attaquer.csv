@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+30187,113777,"Avec ce cessez-le-feu, les Ukrainiens peuvent ",contre-attaquer, et reprendre la Podolie ; ils établissent leur nouvelle capitale à Kamianets-Podilskyï.,8.0,contre-attaquer,contre-attaquer,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,_,2.0
+95859,361835,"Alors qu'un conseiller spécial de Nicolas a qualifié dimanche le niveau de l'euro d'""""absurdité"""", Jean-Claude Trichet a ",contre-attaqué, en épinglant les finances publiques hexagonales.,22.0,contre-attaqué,contre-attaquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,3.0
+130157,491355,"Le FN obtiendrait 9% avec Gilda Mih, le Modem 6,5% avec Christophe Madrolle, la liste """"Marseille ",contre-attaque," à gauche"""" 5%.",22.0,contre-attaque,contre-attaquer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19.0,acl,19:acl,_,1.0

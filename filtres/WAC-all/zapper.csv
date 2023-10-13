@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+66773,252046,Je n'ai pas besoin de ,zapper,", à la télévision, j'ai quatre magazines qui m'informent sur les programmes.",7.0,zapper,zapper,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,SpaceAfter=No,1.0

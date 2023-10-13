@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+23993,89922,"Depuis le décès de Sémira, nous avons encore eu des témoignages de personnes qui ont déclaré avoir eu la sensation d'",étouffer, car des policiers plaçaient leurs mains devant leur bouche.,23.0,étouffer,étouffer,VERB,VERB,VerbForm=Inf,21.0,acl,21:acl,_,1.0
+114849,433485,"Pour les écorchés serre-moi encore, ",étouffe, moi si tu peux.,7.0,étouffe,étouffer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+217484,820353,"Plusieurs dizaines ont été blessés, piétinés, ",étouffés, ou encore le ventre lacéré par les barbelés.,9.0,étouffés,étouffer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5.0,conj,5:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+126515,477760,"Imaginez-vous pour un moment, chers lecteurs, que vous êtes assis devant un pot de vin tout ",parfumé,", et que c'est un vieux joueur de fifre qui vous parle.",20.0,parfumé,parfumer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16.0,amod,16:amod,SpaceAfter=No,1.0

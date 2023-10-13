@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1817,13057,"Or ne devez vos pas songier, Mes les tornoiemanz ongier Et ",anpanre,", et tot fors giter, Que que il vos doie coster. ",13,anpanre,emprendre,VERB,VERinf,VerbForm=Inf,11,conj,_,SpaceAfter=No|XmlId=w_YvainKu_17586,2

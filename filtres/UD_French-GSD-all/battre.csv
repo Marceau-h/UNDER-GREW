@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2584,fr-ud-train_11072,"L'année consécutive, elle a fait son apparition quatrième dans ce festival maltais, mais n'a pas été toujours partie des trois dernières chansons qui se sont ",battus, pour réserver une place en 2009 de Moscou. ,31,battus,battre,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act,27,acl:relcl,_,_,1

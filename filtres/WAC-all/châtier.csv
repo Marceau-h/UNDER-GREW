@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+29528,111267,"Mais à peine Rubeo s'était-il éloigné de cette province, que les carmes ",châtiés," et excommuniés se mirent à intriguer odieusement contre lui à la cour royale, où ils furent relevés de leurs peines.",16.0,châtiés,châtier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,15.0,acl,15:acl,_,1.0

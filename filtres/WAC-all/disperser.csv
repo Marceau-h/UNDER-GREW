@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+44279,167100,"En fait, une fois ",dispersés,", les religieux prêtres vécurent en prêtres libres, non fonctionnaires publics.",6.0,dispersés,disperser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,11.0,advcl,11:advcl,SpaceAfter=No,1.0
+82842,311388,Entre un pouvoir centralisé et ,dispersé,", entre le pouvoir du gouvernement et les droits des individus.",6.0,dispersé,disperser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,SpaceAfter=No,1.0
+223539,842958,"Ces quangos, extrêmement nombreux et ",dispersés,", à la frontière du public et du privé, ont d'abord fait l'objet d'une politique de suppression importante au début des années 1980.",7.0,dispersés,disperser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5.0,conj,5:conj,SpaceAfter=No,1.0
+233461,880183,"Encore une fois, il faudra que je fasse attention à ne pas me ",disperser,", et à rester focalisée sur mon objectif.",15.0,disperser,disperser,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,SpaceAfter=No,1.0

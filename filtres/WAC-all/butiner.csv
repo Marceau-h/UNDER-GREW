@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+64028,241584,"Quant à l'intrigue, entre convenance, rebondissements prévisibles, conglomérats d'idées ",butinées," ça ou là, et comédie musicale, elle justifie tout le déballage technologique.",15.0,butinées,butiner,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,14.0,acl,14:acl,_,2.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+134112,506593,"Amateurs de musique au format MP3, ",méfiez,-vous!,8.0,méfiez,méfier,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+191214,721403,Les B. vagans sont généralement citées pour leur attitude paisible; ,méfiez,"-vous quand même car elles peuvent être un peu plus """"nerveuse"""".",12.0,méfiez,méfier,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+204553,772017,Son professeur de 5e disait à ses parents : « ,Méfiez,"-vous, on dira que votre fils est doué pour les langues, alors qu'il ne s'intéresse qu'à l'aspect scientifique et mathématique des langues : il faut qu'il devienne mathématicien ».",11.0,Méfiez,méfier,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,15.0,vocative,15:vocative,SpaceAfter=No,1.0

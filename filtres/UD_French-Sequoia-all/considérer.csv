@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+278,Europar.550_00181,Un autre mérite de cette résolution est de ,considérer,", de reconsidérer, de réaffirmer les droits de l'homme en tant qu'élément central de l'identité de l'Union européenne, une Union européenne qui soit une communauté de valeurs et dans laquelle les droits de l'homme constituent le centre de gravité de notre effort et de notre raisonnement. ",9,considérer,considérer,VERB,_,VerbForm=Inf,0,root,_,SpaceAfter=No|Subject=Instantiated,1

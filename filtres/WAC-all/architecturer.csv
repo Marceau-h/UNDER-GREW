@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+139170,525183,C'est une machine ,architecturée," autour d'un processeur Intel de type Celeron M, épaulé par 512 Mo de RAM (lire notre test).",5.0,architecturée,architecturer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,2.0
+197917,746832,Aux natures mortes puissamment ,architecturées, de 1949-1950 répond le dessin exact des « Marchés bretons » (1954).,5.0,architecturées,architecturer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+17219,64470,"De ce point de vue l'autoroute et la RN60 sont identiques, tant du point de vue écologique (c'est la forêt d'Orléans ou l'agriculture qui ",pâtira,) que du point de vue de l'organisation de la société qui va en résulter.,31.0,pâtira,pâtir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,16.0,acl:relcl,16:acl:relcl,SpaceAfter=No,2.0

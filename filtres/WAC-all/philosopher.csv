@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+47790,180253,Vivre d'abord et ,philosopher, ensuite; tel est mon propos.,5.0,philosopher,philosopher,VERB,VERB,VerbForm=Inf,1.0,conj,1:conj,_,1.0

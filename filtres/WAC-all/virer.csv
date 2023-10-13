@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+30297,114169,Les 3 premiers vaisseaux français commencent à ,virer," puis, voyant que leur chef ne manœuvre pas, reprennent le cap initial.",8.0,virer,virer,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,2.0
+107727,406613,"Il aurait pu ajouter """" en réussissant le premier vol d'un kilomètre lui ayant permis, de ",virer," et de venir se poser a son point de départ, il a ouvert, après la période des precurseurs, celui des pionniers de l'aviation.",19.0,virer,virer,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0
+142449,537782,Les successeur du SR-71 est un satellite espîon qui peut ,virer," en s'appyant sur les hautes couches atmosphériques, comme un surfer.",11.0,virer,virer,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,_,1.0
+169590,639617,Tout le paragraphe sur pointu était à ,virer,", mais l'info en elle même était intéressante.",8.0,virer,virer,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,SpaceAfter=No,2.0
+171919,648457,"Vus les salaires chez AMD, il ferait mieux de ",virée, un cadre du codir.,11.0,virée,virer,VERB,VERB,VerbForm=Inf,9.0,dep,9:dep,_,1.0
+254705,959907,What shall we do with a drunken sailor est un chant de marins de tradition anglaise « à ,virer," », repris par un très grand nombre d'artistes, parmi lesquels, Stan Hugill, Irish Rover, Noir Désir...",19.0,virer,virer,VERB,VERB,VerbForm=Inf,13.0,acl,13:acl,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+29,n01036002,L'association représentant les agents immobiliers à Ontario déclare qu'il est nécessaire de ,faire, davantage pour protéger les clients et punir les agents ayant fait preuve d'un comportement contraire à l'éthique. ,15,faire,faire,VERB,VB,VerbForm=Inf,13,csubj,_,_,1
+38,n01060069,"Et, elle admit, « Il faut regarder quand elle a reconnu que nous devons agir différemment - nous pouvons ",faire, mieux - et quand elle a fait part de ses regrets. » ,22,faire,faire,VERB,VB,VerbForm=Inf,21,xcomp,_,_,2

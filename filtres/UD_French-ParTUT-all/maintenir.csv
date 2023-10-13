@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+258,fr_partut-ud-732,- de poursuivre la surveillance afin de ,maintenir, ou de réduire le niveau actuel de la contrefaçon de billets en euros et d'éviter toute augmentation de la contrefaçon des pièces en euros qui altérerait la confiance du public; ,8,maintenir,maintenir,VERB,V,VerbForm=Inf,3,advcl,_,_,1

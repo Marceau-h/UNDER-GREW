@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+69,annodis.er_00473,Comme l'attaquant tenait encore à ,jouer,", il refusa et examina d'autres possibilités : """"Le Mans, Valence, Sedan et un quatrième club dont je dois taire le nom, me faisaient des offres intéressantes. ",7,jouer,jouer,VERB,_,VerbForm=Inf,4,xcomp,_,SpaceAfter=No|Subject=SubjRaising,2
+71,annodis.er_00479,"Bien sûr, Pablo Correa n'a obtenu aucune garantie concernant une place de titulaire : """"Je ne revendique rien, mais je connais mes qualités, mon envie et je sens que je peux ",jouer, plus que la saison dernière. ,37,jouer,jouer,VERB,_,VerbForm=Inf,36,xcomp,_,Subject=SubjRaising,2
+482,annodis.er_00420,Le conteur a fait ,jouer, les enfants. ,5,jouer,jouer,VERB,_,VerbForm=Inf,0,root,_,Subject=ObjRaising,1

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+80532,302817,Le combat déchirant et ,transfigurant, à la fois de l'amour.,5.0,transfigurant,transfigurer,VERB,VERB,Tense=Pres|VerbForm=Part,3.0,conj,3:conj,_,1.0

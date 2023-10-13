@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+56535,212873,"Son œuvre a eu, et ",conserve,", une influence majeure sur la philosophie analytique.",7.0,conserve,conserve,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,conj,4:conj,SpaceAfter=No,1.0
+95333,359876,"Je pense que dans un cas comme cela, soit on prolonge la PaS, soit on ",conserve,", soit on fait une annonce qqpart pour demander a ce que l'article soit amélioré.",18.0,conserve,conserve,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,12.0,conj,12:conj,SpaceAfter=No,3.0
+121138,457837,"Yannick Noah, l'ex tennisman, chanteur et surtout prophète de la bonne humeur, ",conserve, quant à lui son titre.,17.0,conserve,conserve,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+154243,581834,"Les lunettes (p.361) de """" ",conserve," """", qui ne grossissent point, protègent les yeux.",8.0,conserve,conserve,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,nmod,2:nmod,_,1.0

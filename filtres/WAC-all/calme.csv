@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+12386,46362,"Chanter une chanson traditionnelle, cela ",calme, et fait ouvrir la bouche.,7.0,calme,calme,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+120859,456697,"D'une manière générale, on apprécie la polyvalence et le pouvoir rééquilibrant du Ravensare, qui tonifie et ",calme, à la fois.,20.0,calme,calme,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,18.0,conj,18:conj,_,1.0

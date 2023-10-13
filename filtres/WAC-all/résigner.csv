@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+60563,228012,Le refus du déclin et la volonté de ne pas nous ,résigner,", de ne pas accepter le défaitisme général de la classe politique qui laisse la France sombrer lentement, nous a réunis autour de cette vision.",12.0,résigner,résigner,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,SpaceAfter=No,1.0

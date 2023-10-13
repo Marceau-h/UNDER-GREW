@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+476,annodis.er_00217,"Ce ne sera pas un cours magistral, mais plutôt un partage de connaissances"""", ",souligne," Dominique Richard, responsable des animations dans le village. ",18,souligne,souligner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7,parataxis:insert,_,_,1

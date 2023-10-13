@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+572,Rhap_M2004-40,nous réussirons parce que nous avons pris des décisions qui ,engagent, et qui garantissent notre avenir. ,11,engagent,engager,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,9,acl:relcl,_,_,1

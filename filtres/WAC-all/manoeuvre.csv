@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+255453,962668,"Notre milieu de terrain, en particulier, est de grande qualité et ",manoeuvre," très bien"""", a renchéri le milieu Otto Addo, qui joue en Allemagne, à Mayence, depuis 2005.",14.0,manoeuvre,manoeuvre,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,12.0,conj,12:conj,_,1.0

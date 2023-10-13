@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+29759,112167,Pour de nombreuses personnes blessées ou ,appareillées,", l'autonomie passe souvent par le réapprentissage de chaque geste de la vie quotidienne.",7.0,appareillées,appareiller,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,5.0,conj,5:conj,SpaceAfter=No,2.0
+146887,554187,"Dans la crise géorgienne, elle ne s'est d'ailleurs pas privée d'",appareiller, non loin des bâtiments de guerre américains qui apportaient de l'aide humanitaire.,15.0,appareiller,appareiller,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,_,2.0
+187973,709083,"Chaque soldat, lourdement ",appareillé,", a le doigt sur la gâchette et ils ne font pas dans le détail.",5.0,appareillé,appareiller,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+240343,905715,Le bateau a ,appareillé,", salué par 63 coups de canons.",4.0,appareillé,appareiller,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0

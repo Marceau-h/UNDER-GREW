@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+237530,895408,"La Valse ou Les Valseurs: un couple de danseurs, passionnément ",enlacés,", à la limite du déséquilibre, sont emportés dans un tourbillon.",13.0,enlacés,enlacer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,SpaceAfter=No,1.0

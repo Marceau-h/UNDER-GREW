@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+13045,48801,Les historiens grecs ou ,hellénisés," en font le portrait d'un tyran sanguinaire mais pour certaines sources il se montre un souverain capable, remarquable administrateur et sait conquérir, chose rare chez les Lagides, l'affection des Égyptiens.",5.0,hellénisés,helléniser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,3.0,conj,3:conj,_,1.0

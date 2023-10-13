@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+28210,105983,Nous avons toujours revendiqué le droit de ,récuser," ceux (coureurs, équipes, médecins) dont la présence peut porter atteinte à l'image de l'épreuve"""", a répété le président d'ASO.",9.0,récuser,récuser,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,_,3.0
+53672,202315,Le préposé général espagnol s'étant ,récusé,", Clément VIII intervint par le motu proprio du 20 mars 1597, par lequel il séparait les déchaux de Gênes et de Rome de ceux d'Espagne.",7.0,récusé,récuser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,advcl,11:advcl,SpaceAfter=No,1.0

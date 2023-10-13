@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+89082,335519,Leur rappeler la consigne (seuls les mots sont à ,recopier,"), leur donner des pénalités.",11.0,recopier,recopier,VERB,VERB,VerbForm=Inf,2.0,advcl,2:advcl,SpaceAfter=No,1.0
+121798,460270,"Alors, c'est la liste ",recopiée, ci-dessous qu'on choisirait pour la poésie de son anarchisme très ordré.,7.0,recopiée,recopier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+34384,129476,"Celui d'une """"guerre de libération"""" algérienne dont bien des acteurs ont paradoxalement ",immigré, et fait souche chez l'ancien colonisateur.,16.0,immigré,immigrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl:relcl,5:acl:relcl,_,1.0

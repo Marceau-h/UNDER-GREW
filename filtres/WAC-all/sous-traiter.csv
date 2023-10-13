@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+64103,241848,C'est le sens des tentatives de faire disparaître et ,sous-traiter," un maximum de missions de logistique : entretien, courrier, imprimerie.",11.0,sous-traiter,sous-traiter,VERB,VERB,VerbForm=Inf,9.0,conj,9:conj,_,1.0

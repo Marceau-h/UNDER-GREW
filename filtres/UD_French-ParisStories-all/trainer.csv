@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+597,ParisStories_2021_couruLaVoir_21,"et, euh, j'ai, je me rappelle, on, j'ai, presque couru pour aller la voir, genre euh, genre, pour lui demander est -ce que ce, ça, te dirait qu'on ",traine," ensemble, qu'on parle et tout vu qu'on est toutes les deux toutes seules en ce moment? ",43,traine,trainer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,48,reparandum,_,_,1

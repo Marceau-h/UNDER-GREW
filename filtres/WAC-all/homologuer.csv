@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+126422,477474,Certaines normes françaises ,homologuées, et certains DTU peuvent être rendus obligatoires d'application par décision réglementaire (souvent dans des domaines liés à la sécurité des personnes).,4.0,homologuées,homologuer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+131374,495946,Les consommateurs canadiens doivent éviter le produit non ,homologué," ADAM, qui traite la dysfonction érectile.",9.0,homologué,homologuer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,1.0
+193811,731320,Et de se demander si un véhicule parfaitement ,homologué, et qui correspond aux normes européennes sera interdit de vente sur le marché belge.,9.0,homologué,homologuer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,2.0

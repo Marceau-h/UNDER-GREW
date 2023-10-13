@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+92,fr_partut-ud-213,"Pour conclure, l'amendement proposé par le rapporteur est on ne ",peut, plus logique et je le soutiens avec joie. ,13,peut,pouvoir,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15,advcl,_,_,3

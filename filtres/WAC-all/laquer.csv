@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+116590,440242,Cette version se singularise en outre par sa carrosserie entièrement ,laquée, qui se décline en deux teintes exclusives : rouge Babylone et gris Manitoba.,11.0,laquée,laquer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,1.0

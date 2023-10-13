@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1847,fr-ud-train_07368,Chaque niveau contient généralement un chemin plus ou moins tracé par les fraises à ,ramasser,", avec des difficultés, comme par exemple des sauts, mines, loopings, tunnels, pentes ou montées raides, etc. ",15,ramasser,ramasser,VERB,_,VerbForm=Inf,13,acl,_,SpaceAfter=No|Subject=Generic,1

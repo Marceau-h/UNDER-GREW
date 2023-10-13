@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+225599,850905,"Nous nous sommes éveillés, les yeux encore ",embués," de sommeil, et nous nous sommes levés avec des gestes engourdis, comme des oiseaux mouillés.",9.0,embués,embuer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,2.0

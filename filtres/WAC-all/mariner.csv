@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+167312,630805,"Le repas le plus typique est certainement le Smörgasbord, un buffet composé de poissons frais, fumés ou ",marinés,", de pain de seigle, de boulettes de viandes, depommes de terre et de fromage.",20.0,marinés,mariner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,conj,18:conj,SpaceAfter=No,1.0

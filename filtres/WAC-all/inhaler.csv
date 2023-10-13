@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+94835,358027,"Par ailleurs, il ne permet pas une bonne résolution spatiale des images et enfin les quantités injectées ou ",inhalées, doivent être importantes à moins de choisir la voie intracarotidienne.,20.0,inhalées,inhaler,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,18.0,conj,18:conj,_,2.0

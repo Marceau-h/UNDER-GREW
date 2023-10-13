@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1707,12777,"- Dame, nule force si forz N'est come cele, sanz mantir, Qui me comande a consantir Vostre ",voloir, del tot an tot. ,22,voloir,voloir,VERB,VERinf,VerbForm=Inf,20,obl,_,XmlId=w_YvainKu_13968,2
+2048,13622,Ja fust ses ,voloirs, aconpliz Quant cil de pasmeisons revint ; ,4,voloirs,voloir,VERB,VERinf,VerbForm=Inf,5,csubj,_,XmlId=w_YvainKu_24631,1
+2296,14186,"Or a, tot ensi com il ",vialt,", Sa dameisele delivree ",8,vialt,voloir,VERB,VERcjg,VerbForm=Fin,12,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_32043,1
+2485,14633,"Que trestot seul, de vostre main, Vos covandra, ",voilliez," ou non, Conbatre et perdre vostre non Encontre les.ii. vis deables. ",12,voilliez,voloir,VERB,VERcjg,VerbForm=Fin,10,advcl,_,XmlId=w_YvainKu_37506,2

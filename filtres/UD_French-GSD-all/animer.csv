@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2677,fr-ud-train_11550,"Suivant l'importance de la structure et le niveau de responsabilité, peut ",animer, et encadrer une équipe et participer au recrutement des collaborateurs et au choix des intervenants. ,14,animer,animer,VERB,_,VerbForm=Inf,13,xcomp,_,Subject=SubjRaising,1

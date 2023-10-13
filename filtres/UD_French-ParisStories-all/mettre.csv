@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+493,ParisStories_2019_cuisineApproximative_28,"mais du coup après tu le retires du feu une fois que, une fois que c'est, XXX enfin une fois qu~ une fois que le beurre a fondu et que la la farine a été ",mise, et que ça s'est bien décollé de la casserole. ,41,mise,mettre,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,33,conj,_,_,1
+495,ParisStories_2019_cuisineApproximative_29,"et ensuite épices, et souvent l'épice que ma grand-mère, que ma mère, que toute ma famille ",met," c'est la muscade, bien sûr. ",21,met,mettre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8,acl,_,_,2

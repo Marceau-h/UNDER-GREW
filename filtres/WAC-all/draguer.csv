@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+125886,475462,"L'employée : """"Une femme, elle doit se laisser toucher pour maintenir sa clientèle, il faut se laisser ",draguer, si on est une femme.,22.0,draguer,draguer,VERB,VERB,VerbForm=Inf,19.0,xcomp,19:xcomp,_,1.0

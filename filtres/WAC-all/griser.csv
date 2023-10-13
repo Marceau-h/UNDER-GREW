@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+88728,334083,Les choix possibles dans les menus ou parmi les icônes (sont impossibles les choix et icônes notés en ,grisé,) dépendent des actions précédentes de l'utilisateur.,20.0,grisé,griser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,18.0,obl:mod,18:obl:mod,SpaceAfter=No,1.0
+260853,983291,Mais Audi ne s'est pas laisser ,griser, et répétait à qui voulait l'entendre qu'une course de 24 heures se joue plus sur la régularité que sur la performance pure.,8.0,griser,griser,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,1.0

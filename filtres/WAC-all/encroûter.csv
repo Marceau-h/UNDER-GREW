@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+207216,781594,Cela était différent à cette époque: les gens de gauche pensaient que la droite était un ramassis de vieux notables ,encroûtés," ou corrompus, et les gens de droite que la gauche était formée de dangereux révolutionnaires.",22.0,encroûtés,encroûter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,21.0,acl,21:acl,_,1.0

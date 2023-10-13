@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+20620,77276,Allez dans la boutique de l'Hôtel pour vous ,marrer, un peu (lisez aussi le panneau juste à gauche áà l'entrée de la boutique).,10.0,marrer,marrer,VERB,VERB,VerbForm=Inf,1.0,advcl,1:advcl,_,2.0

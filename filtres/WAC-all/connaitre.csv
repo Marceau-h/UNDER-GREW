@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+87357,328723,Au lieu de critiquer sans ,connaitre,", certains seraient bien inspirés de jouer d'abord à ces jeux.",6.0,connaitre,connaitre,VERB,VERB,VerbForm=Inf,4.0,advcl,4:advcl,SpaceAfter=No,1.0
+122022,461122,Vous trouverez dans la suite un petit résumé des informations à ,connaitre, si le jeu a retenu votre attention.,12.0,connaitre,connaitre,VERB,VERB,VerbForm=Inf,10.0,acl,10:acl,_,1.0
+131554,496682,Vous avez connu cette presse et vous avez du ,connaitre, mieux que nous tous les Personnes de ce milieu .,10.0,connaitre,connaitre,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,1.0
+258949,976016,"Il s'agit d'un titre emblématique des débuts de la Motown, et c'est aussi le titre qui a fait ",connaitre, Martha Reeves et son groupe.,23.0,connaitre,connaitre,VERB,VERB,VerbForm=Inf,19.0,acl:relcl,19:acl:relcl,_,1.0

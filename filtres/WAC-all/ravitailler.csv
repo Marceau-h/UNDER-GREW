@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+194911,735181,"Deux tours plus tard, c'est Alonso qui a ",ravitaillé," et est ressorti 5e devant Hamilton, laissant la tête de la course à Räikkönen.",11.0,ravitaillé,ravitailler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,dep,8:dep,_,1.0

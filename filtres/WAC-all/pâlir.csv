@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+79706,299747,La soif de la semaine va s'épuiser dans un nectar glacé et rosé à faire ,pâlir, le taulier de la Tantina.,17.0,pâlir,pâlir,VERB,VERB,VerbForm=Inf,8.0,advcl,8:advcl,_,1.0
+107829,406992,Ces taches ,pâlissent, quand une pression est exercée sur elles (la disparition des papules à la vitropression permet de différencier l’érythème du purpura).,3.0,pâlissent,pâlir,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+136639,515724,"Quant au portefeuille du pétrole, il revient provisoirement au chiite Ahmad Chalabi, ancien protégé des Américains dont l'étoile a ",pâli,", qui occupe en outre l'un des quatre postes de vice-premier ministre.",23.0,pâli,pâlir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,18.0,acl:relcl,18:acl:relcl,SpaceAfter=No,1.0

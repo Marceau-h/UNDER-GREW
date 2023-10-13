@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+44374,167537,Lorsqu'un député ,vote," autrement que la majorité de son groupe, son vote apparaît en lettres capitales.",4.0,vote,vote,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15.0,advcl,15:advcl,_,2.0
+105251,397153,"Ce principe implicite de """"communauté"""" wiki, qui discute sur bistrot, décide, argumente, ",vote, me semble alors du tralala...,19.0,vote,vote,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11.0,conj,11:conj,_,1.0
+183795,693530,"Un chiffre satisfaisant pour des collectifs comme """"Aujourdhui, je m'inscris, demain je ",vote,", qui ont sensibilisé les citoyens à leur devoir civique.",17.0,vote,vote,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,13.0,conj,13:conj,SpaceAfter=No,1.0

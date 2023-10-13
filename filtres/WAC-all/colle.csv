@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+133207,503149,"Bref, les développeurs ont affublé chaque joueur d'une particularité physique suffisamment distinctive pour que FIFA Street 3 ",colle, toute de même avec l'actualité footballistique.,20.0,colle,colle,VERB,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,advcl,6:advcl,_,2.0
+159719,602269,"Maintenant, rien ne dis que cette culture soit la plus appropriée pour que MediaWiki ",colle, au mieux à Wikipédia.,16.0,colle,colle,VERB,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,12.0,advcl,12:advcl,_,3.0
+252946,952840,L'adjectif ,colle,-t-il mieux aux téléphones portables Toshiba TS-605 ou Sony-Ericsson S500i dont la pub nous apprend qu'ils sont très sexy?,3.0,colle,colle,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+142109,536479,À son réveil il eut la surprise de constater qu’une partie de son bétail qui s’était ,volatilisé, l’entourait de nouveau.,19.0,volatilisé,volatiliser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,15.0,acl:relcl,15:acl:relcl,_,2.0

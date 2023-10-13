@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2589,fr-ud-train_11106,"En effet, les articles L2323-6 et L2323-15 du code du travail précise que l'employeur doit informer et ",consulter, le comité d'entreprise sur tout projet de restructuration et de compressions des effectifs. ,22,consulter,consulter,VERB,_,VerbForm=Inf,20,conj,_,Subject=SubjRaising,1

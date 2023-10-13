@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+233487,880267,"L'astiquage ne disparaît jamais : c'est une modification physique de la structure moléculaire de surface et des monnaies antiques montées en bijou ont toujours leur """"",astiqué, d'origine&#133;,29.0,astiqué,astiquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,nmod,14:nmod,SpaceAfter=No,1.0

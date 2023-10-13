@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+30687,115760,"Bon, d'accord ), et ",branchons,", branchons à l'instant notre jolie poupée.",8.0,branchons,brancher,VERB,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,3.0,conj,3:conj,SpaceAfter=No,2.0
+54039,203573,Quel charabia pseudo ,branché, de la part d'un gars pourtant plein d'humour.,4.0,branché,brancher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,amod,2:amod,_,1.0
+101530,383047,"Plus besoin de chercher, ",branchez,-vous sur MontréalCafé.com !,6.0,branchez,brancher,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,2.0,dep,2:dep,SpaceAfter=No,1.0
+196198,740061,"En jouant sur la sélectivité du solvant par le biais de la température, on passe d'agrégats ",branchés," aléatoirement (""""animaux"""") à des micelles formées d'un coeur insoluble et de boucles solubles (""""fleurs"""") (Thèse d' E. Raspaud).",19.0,branchés,brancher,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,acl,18:acl,_,1.0
+211006,795638,Tous les périphériques ,branchés, dessus montent sur le bureau.,4.0,branchés,brancher,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,1.0
+243601,918190,India Interface & Dialogue (SA): Réalisation de schémas d'un ensemble de boîtiers de commande permettant de simuler des prises ,branchées," ou débranchées, de manière automatique 1995:",23.0,branchées,brancher,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,22.0,acl,22:acl,_,3.0

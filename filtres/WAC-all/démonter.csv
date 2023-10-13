@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+24378,91326,"Comme il assure la fonction d'avance à l'allumage, on doit bloquer par un fil de fer, ou ",démonter,", les masselottes d'avance centrifuge.",22.0,démonter,démonter,VERB,VERB,VerbForm=Inf,14.0,conj,14:conj,SpaceAfter=No,2.0
+28379,106633,"Le forains ont précisé qu'ils allaient """"ouvrir la fête jusqu'à minuit, avant de ",démonter, les stands.,18.0,démonter,démonter,VERB,VERB,VerbForm=Inf,9.0,advcl,9:advcl,SpaceAfter=No,1.0
+103493,390378,"C'était une personne très excentrique, qui achetait et ",démontait, les navires hors d'usage dont le port était plein après la paix.,11.0,démontait,démonter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,9.0,conj,9:conj,_,1.0
+120776,456414,"Aujourd'hui, il reste l'église de Nuisement entièrement ",démontée, puis remontée à Sainte-Marie-du-Lac-Nuisement.,10.0,démontée,démonter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0
+178598,673746,"Enfin, vous pouvez écrire un petit programme C qui monte et ",démonte, le CD-ROM et l'installer en tant qu'exécutable setuid.,13.0,démonte,démonter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11.0,conj,11:conj,_,1.0

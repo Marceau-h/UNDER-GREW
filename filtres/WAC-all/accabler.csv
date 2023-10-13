@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+150499,567858,De petits groupes de proches aux visages ,accablés," et vêtus de noir arrivaient en minibus dans l'une des plus importantes morgues de Donetsk, située dans le centre-ville.",8.0,accablés,accabler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,1.0

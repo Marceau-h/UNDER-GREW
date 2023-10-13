@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2510,fr-ud-train_10672,"Pour célébrer l'évènement, Comic Screen a choisi de vous faire découvrir ou ",redécouvrir, les chansons consacrées aux super héros qui étaient interprétées par Noam à l'époque où la fête de la musique allait apparaître en France. ,15,redécouvrir,redécouvrir,VERB,_,VerbForm=Inf,13,conj,_,Subject=Generic,3

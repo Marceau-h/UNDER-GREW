@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+12008,44976,"Il assouplit le règlement, parant ainsi au relâchement de la discipline qui, ",signe," des temps, s'amorce.",15.0,signe,signe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,20.0,advcl,20:advcl,_,1.0
+111678,421510,Le dernier témoin ,signe, : L. Jamin.,4.0,signe,signe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,2.0
+115152,434679,Le dolois ,signe," dit-il """"sa plus belle médaille"""" et se relance dans la course pour les qualifications aux prochains jeux olympiques.",3.0,signe,signe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+131101,494986,"Revenant sur les critiques très dures émises à Kinshasa, le ministre des Affaires étrangères persiste et ",signe," : « Je ne vois pas pourquoi nous devrions nous excuser », dit-il, « parce que nous avons dit la vérité ».",18.0,signe,signe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16.0,conj,16:conj,_,2.0
+143860,542986,"Mais si on peut gagner à la Meinau, à Picot, et remporter la Coupe de France, je ",signe, tout de suite mais je crois que je m'emballe un peu (rires).,21.0,signe,signe,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,2.0
+248875,937898,"Si ça vient un jour en France, je ",signe," tout de suite, il n'y a pas de problème.",10.0,signe,signe,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

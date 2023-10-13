@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+91538,345019,"Le domicile est le lieu du principal établissement, qui permet de ",rattacher," juridiquement, qu'il y vive de façon stable ou non.",13.0,rattacher,rattacher,VERB,VERB,VerbForm=Inf,11.0,xcomp,11:xcomp,_,1.0
+109741,414063,"Par ailleurs, les établissements dits non ",rattachés,", sont soumis au code car ils sont en fait des EPA de l'État (cf. les chambres de commerce et d'industrie, les chambres d'agriculture).",8.0,rattachés,rattacher,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6.0,xcomp,6:xcomp,SpaceAfter=No,2.0

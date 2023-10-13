@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+247134,931347,"De même, quand le détective monte les escaliers du manoir dans Psychose, le spectateur voit la porte s’",entrouvrir, et il est seul à prévoir le meurtre du détective.,21.0,entrouvrir,entrouvrir,VERB,VERB,VerbForm=Inf,17.0,xcomp,17:xcomp,_,3.0
+264763,997935,"Elle nourrira bien des regrets, la porte des quarts de finales s'étant ",entrouverte,", l'Ukraine représentait une chance à saisir.",15.0,entrouverte,entrouvrir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,advcl,2:advcl,SpaceAfter=No,3.0

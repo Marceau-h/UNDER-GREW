@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+146038,551004,"Dans tout le pays, il est demandé d'",abreuver," et de nourrir les animaux en intérieur, de façon à ne pas attirer les canards ou les oies de passage.",10.0,abreuver,abreuver,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,_,1.0

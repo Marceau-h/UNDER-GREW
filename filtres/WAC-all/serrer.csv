@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+58089,218504,Soero avait réussi à se qualifier pour son premier tournoi professionnel en passant brillamment à travers les mailles pourtant ,serrées, des différents tournois de qualifications.,20.0,serrées,serrer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,18.0,acl,18:acl,_,1.0
+196611,741642,"Seize mois à sillonner inlassablement l'Etat de New York, sourires indétrônables, tenues Oscar de la Renta et la main toujours prête à ",serrer, celle d'un électeur potentiel.,26.0,serrer,serrer,VERB,VERB,VerbForm=Inf,24.0,xcomp,24:xcomp,_,1.0
+222760,839961,Aussitôt les rangs se sont ,serrés, pour affronter l'épreuve.,6.0,serrés,serrer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+264336,996342,Clôtures métalliques et blocs de béton ,serrés," les uns contre les autres s'étendent sur des km. Sur une colline artificielle surplombant la route, trône un blindé.",7.0,serrés,serrer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0

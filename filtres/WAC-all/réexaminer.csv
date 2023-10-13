@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+159249,600475,"C'est en fonction du seuil légal constitué par le """"salaire minimum interprofessionnel de croissance"""" que sont déterminées les exonérations de charges patronales et ",réexaminés," pensions de retraite, minima sociaux et prime pour l'emploi.",27.0,réexaminés,réexaminer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,22.0,conj,22:conj,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+42352,159787,"Les instituts bancaires, financiers et d'assurance allemands qui ont perdu des centaines de millions dans la crise financière auront-ils accès aux dollars qu'envisage de ",déverser, le gouvernement américain pour stabiliser la situation ?,29.0,déverser,déverser,VERB,VERB,VerbForm=Inf,27.0,xcomp,27:xcomp,_,1.0
+178596,673742,"Selon la préfecture vendredi, """"162 tonnes sur les 400 ",déversées," ont été ramassées et stockées à la raffinerie"""" depuis lundi et les travaux de dépollution vont se poursuivre pendant tout le week-end de Pâques.",12.0,déversées,déverser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,2.0

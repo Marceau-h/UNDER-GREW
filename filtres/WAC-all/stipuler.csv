@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+212630,801879,"Et les pertes concerneront autant des jeunes travailleurs que des personnes qui ont l'âge de la retraite, a ",stipulé, M. Blaise.,21.0,stipulé,stipuler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,parataxis,4:parataxis,_,2.0

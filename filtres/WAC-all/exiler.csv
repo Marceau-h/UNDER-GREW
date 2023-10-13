@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+135452,511497,Les autres décemvirs s’,exilèrent,", et leurs biens furent confisqués.",5.0,exilèrent,exiler,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,2.0
+197746,746196,Beppe2006 : Vous avez été l'un des premiers joueurs italiens à vous ,exiler, pour rejoindre un grand club anglais.,14.0,exiler,exiler,VERB,VERB,VerbForm=Inf,7.0,advcl,7:advcl,_,2.0

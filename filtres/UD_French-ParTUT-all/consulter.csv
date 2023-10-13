@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+200,fr_partut-ud-599,Il y a lieu de ,consulter, et de faire collaborer activement les parties intéressées à cette analyse. ,6,consulter,consulter,VERB,V,VerbForm=Inf,4,acl,_,_,1

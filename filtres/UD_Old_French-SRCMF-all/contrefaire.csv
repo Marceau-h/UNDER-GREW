@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1380,12027,"et tarde Del vilain qui tant par est lez, Granz et hideus et ",contrefez, Et noirs a guise d'esperon. ,15,contrefez,contrefaire,VERB,VERppe,Tense=Past|VerbForm=Part,9,conj,_,XmlId=w_YvainKu_4931,1

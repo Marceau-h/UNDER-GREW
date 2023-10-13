@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+126135,476395,Le retour en forme de Kaka et de Gattuso après leur blessure a stabilisé et ,bonifié, le jeu milanais.,16.0,bonifié,bonifier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,conj,14:conj,_,1.0
+140378,529674,"Lorsqu'il acquiert des immeubles de style et de caractère, le Crédit Immobilier du Puy-de-Dôme respecte et ",bonifie, ce patrimoine régional.,19.0,bonifie,bonifier,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17.0,conj,17:conj,_,2.0

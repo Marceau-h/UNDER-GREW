@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+39192,147525,Voilà que sa mère et c'est là que l'écrivain n'emprunte pas des chemins trop ,balisés," décide de ne plus lui donner de médicaments, car elle veut connaître la personnalité vraie de son enfant.",18.0,balisés,baliser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,16.0,acl,16:acl,_,1.0
+74365,280235,Pont-de-Pany - Chenôve 25 km de parcours varié et ,balisé, sur chemins et sentiers.,10.0,balisé,baliser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,3.0
+158335,596949,"La zone périphérique du Parc National propose de nombreux sentiers, souvent bien ",balisés,", qui vous offriront des panoramas somptueux.",14.0,balisés,baliser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,10.0,acl,10:acl,SpaceAfter=No,1.0
+166957,629539,"Car nous, les mères, sommes tenues directement responsables du pourcentage de fils qui n'empruntent pas le chemin ",balisé, et rassurant de l'hétérosexualité.,21.0,balisé,baliser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,20.0,acl,20:acl,_,1.0

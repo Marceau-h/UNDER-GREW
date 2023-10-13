@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+198242,748088,Et pour le vandalisme : eh bien l'avantage de la situation actuelle est qu'il est aussi facile de vandaliser que d'annuler un vandalisme (voire même plus facile de ,reverter, avec ces petits liens qui vont bien ^^).,33.0,reverter,reverter,VERB,VERB,VerbForm=Inf,31.0,dep,31:dep,_,3.0

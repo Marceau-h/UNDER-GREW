@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+36850,138655,Faut-il oui ou non ,limiter,", voire interdire, les lâchers de petit gibier ?",6.0,limiter,limiter,VERB,VERB,VerbForm=Inf,1.0,xcomp,1:xcomp,SpaceAfter=No,1.0
+59469,223869,"La mesure la plus controversée du projet concerne la légalisation des mesures techniques de protection (MTP, en anglais DRM, digital rights management) empêchant ou ",limitant, la copie de fichiers musicaux ou vidéo et la duplication des CD.,29.0,limitant,limiter,VERB,VERB,Tense=Pres|VerbForm=Part,27.0,conj,27:conj,_,1.0
+111231,419707,Cette indemnité est rémunérée par jour effectivement travaillé et ,limité, à une seule opération d'habillage/déshabillage par jour.,10.0,limité,limiter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0
+143204,540676,"Il est donc très bénéfique pour le coeur et la circulation sanguine, notamment la circulation veineuse, pouvant ainsi éviter ou ",limiter, l'apparition des varices.,23.0,limiter,limiter,VERB,VERB,VerbForm=Inf,21.0,conj,21:conj,_,1.0
+251056,945922,Ce type de comportement est de nature à ,limiter,", voire à bloquer le talent et l'épanouissement.",9.0,limiter,limiter,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,SpaceAfter=No,1.0

@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+121,496,Le député péquiste Serge Deslières a ,salué, lui aussi l'initiative de la ministre.,7.0,salué,saluer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+20317,76143,Cette consolidation dans le secteur aérien européen est à ,saluer,", a estimé mardi la commissaire européenne à la concurrence Neelie Kroes.",10.0,saluer,saluer,VERB,VERB,VerbForm=Inf,0.0,root,0:root,SpaceAfter=No,1.0
+69936,264017,Il s'agit souvent de petits détails qui font la différence comme la façon de ,saluer,", d'accueillir ou simplement de rédiger une lettre.""""",16.0,saluer,saluer,VERB,VERB,VerbForm=Inf,14.0,acl,14:acl,SpaceAfter=No,3.0
+86649,326008,"Le tyran est tombé"""", ",salue, quelqu'un.,7.0,salue,saluer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,advcl,4:advcl,_,1.0
+132332,499710,L'initiative est à ,saluer, puisque l'exploitation de la HD reste encore rare sur les compacts numériques actuels.,5.0,saluer,saluer,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,1.0
+151982,573461,"Sa gestion de la crise économique, unanimement ",saluée,", a permis au Premier ministre et au parti travailliste de refaire presque entièrement leur retard dans les sondages.",9.0,saluée,saluer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+16688,62358,"Contrairement à l'ordonnateur qui décide, le comptable du Trésor public, qui exécute, effectue l'opération financière, débite ou ",crédite," les comptes, encaisse ou décaisse les espèces et les valeurs.",24.0,crédite,créditer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,22.0,conj,22:conj,_,1.0
+86536,325545,"D'autre part, les papillons de rappel indiquant un compte à ",créditer," ne sont plus distribuées provisoirement, en raison d'un problème de logiciel.",13.0,créditer,créditer,VERB,VERB,VerbForm=Inf,11.0,acl,11:acl,_,1.0
+176140,664330,Joignez obligatoirement un relevé d'identité du compte à ,créditer,", émis par votre établissement financier.",10.0,créditer,créditer,VERB,VERB,VerbForm=Inf,8.0,acl,8:acl,SpaceAfter=No,2.0

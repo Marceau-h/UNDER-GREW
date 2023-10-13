@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+665,ParisStories_2022_10_frèreHyperDifférent__35,"ouais, bah, en fait, on a eu une enfance qui est assez similaire, parce que, parce que bon, bah, on a quand même ",vécu," ensemble, même si on n'avait pas les mêmes papas. ",31,vécu,vivre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,21,reparandum,_,AlignBegin=98801|AlignEnd=98927,1

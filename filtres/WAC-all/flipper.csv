@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+152735,576220,"Il faut juste me laisser le temps de m'entraîner, c'est pas super évident au début, ca fait ",flipper, quand la bécane se cabre d'un seul coup...,22.0,flipper,flipper,VERB,VERB,VerbForm=Inf,21.0,xcomp,21:xcomp,_,1.0
+202012,762170,"Cela me permet de vivre aussi, de rouler en bagnole six mois pour trouver des décors sans ",flipper, pour la fin du mois.,19.0,flipper,flipper,VERB,VERB,VerbForm=Inf,15.0,advcl,15:advcl,_,1.0

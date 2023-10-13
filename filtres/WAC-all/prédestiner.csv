@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+234995,886017,"Sous le couvert de la volonté souveraine de Dieu - glorifié et magnifié soit Son Nom, Lui seul accorde Sa Grâce à qui Il ",prédestine,", le premier pas doit venir de toi.",26.0,prédestine,prédestiner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,20.0,ccomp,20:ccomp,SpaceAfter=No,1.0

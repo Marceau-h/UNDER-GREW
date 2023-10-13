@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+159,fr_partut-ud-448,"Nous proposons en particulier un impôt unifié sur le capital, qui permettrait d'alimenter des fonds ",utilisés, pour accompagner l'harmonisation des systèmes de protection sociale et la réduction du temps de travail au niveau européen. ,18,utilisés,utiliser,VERB,V,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,17,acl,_,_,2
+165,fr_partut-ud-464,"En revanche, vous avez la possibilité d'acheter des crédits Facebook, qui peuvent être ",utilisés, pour envoyer des cadeaux ou acheter des articles sur des applications ou des jeux. ,17,utilisés,utiliser,VERB,V,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,15,xcomp,_,_,1

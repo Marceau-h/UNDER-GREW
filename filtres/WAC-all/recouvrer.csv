@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+13572,50712,"Pis, on signale un écart financier de 421 449 706 FCFA de restes à ",recouvrer,", constaté par une récente mission de vérification.",16.0,recouvrer,recouvrer,VERB,VERB,VerbForm=Inf,14.0,acl,14:acl,SpaceAfter=No,1.0
+255438,962632,L'imposition prévue au premier alinéa est établie et ,recouvrée, comme en matière de contributions directes.,10.0,recouvrée,recouvrer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0

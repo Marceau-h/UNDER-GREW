@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+80229,301748,"Toutes les places de la ville seraient trop petites pour contenir toutes les victimes de Milosevic et de son régime, ceux qui ont été tués ou ",estropiés,", qui sont devenus sans abri ou réfugiés"""", a-t-il déclaré à Belgrade.",28.0,estropiés,estropier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,26.0,conj,26:conj,SpaceAfter=No,2.0

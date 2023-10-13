@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+89823,338287,C'est là l'un des enjeux décisifs qui se cachent derrière les débats souvent obscurs et largement ,pipés, sur la monnaie unique et le niveau des taux de change.,19.0,pipés,piper,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,16.0,conj,16:conj,_,1.0

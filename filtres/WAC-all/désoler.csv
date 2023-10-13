@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+242760,914952,"Nous sommes en train d'enterrer l'esprit de Grenelle"""", s'est ",désolé, le sénateur Verts Jacques Muller.,16.0,désolé,désoler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,parataxis,5:parataxis,_,3.0

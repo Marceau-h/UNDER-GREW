@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+72879,274780,"Mais là aussi, modernisme et braconnage se sont ",ligués, pour faire disparaître l'esturgeon de nos rivières.,10.0,ligués,liguer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+204798,772874,Les éléments se sont ,ligués, pour faire de la Croatie un eldorado du vin.,5.0,ligués,liguer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

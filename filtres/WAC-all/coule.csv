@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+49002,184775,Le village s'étend sur deux vallons entre lesquels ,coule, un ruisseau qui se jette dans une rivière la Dhuys.,10.0,coule,coule,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7.0,acl:relcl,7:acl:relcl,_,1.0
+86214,324176,"C'est pas très grave, l'OM qui ",coule," on s'en fou de ce club houhouhouhou, ALLEZ LE PSG vous étes sur la bonne voix.",10.0,coule,coule,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8.0,acl:relcl,8:acl:relcl,_,1.0
+109711,413969,De là-bas l'on domine toute la vallée dans laquelle ,coule, la rivière Bléone.,13.0,coule,coule,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,10.0,acl:relcl,10:acl:relcl,_,2.0
+148154,559112,"Il est grand temps que la Ville veille au grain, affirme le maire Labeaume. « Quand le toit ",coule,", il est plus intelligent d'augmenter son hypothèque pour faire les réparations, d'emprunter pour changer le toit, que de se payer du luxe dit-il.",21.0,coule,coule,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,26.0,advcl,26:advcl,SpaceAfter=No,3.0
+173843,655711,Ex : un dé seul ,coule, et un dé accroché à un bouchon flotte.,6.0,coule,coule,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,1.0,acl:relcl,1:acl:relcl,_,2.0

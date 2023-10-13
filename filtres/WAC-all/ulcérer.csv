@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+205878,776920,"Dans un entretien paru samedi dans le quotidien auvergnat """"La Montagne"""", elle se déclare donc """"excédée"""" et """"",ulcérée," qu'on la soupçonne d'""""avoir fait du mal à (son) gosse"""".",24.0,ulcérée,ulcérer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,20.0,conj,20:conj,SpaceAfter=No,2.0

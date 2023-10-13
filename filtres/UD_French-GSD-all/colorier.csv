@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1046,fr-ud-train_03471,"Durant près de vingt ans de collaboration, Les Éditions Héritage ont mis sur le marché de nombreux albums à ",colorier,", des cahiers d'activités, des casse-têtes, etc. sous le thème de Bobino. ",21,colorier,colorier,VERB,_,VerbForm=Inf,19,acl,_,SpaceAfter=No|Subject=Generic,3
+2627,fr-ud-train_11286,Les deux premiers albums à ,colorier, se sont vendus à plus de exemplaires chacun. ,6,colorier,colorier,VERB,_,VerbForm=Inf,4,acl,_,Subject=Generic,1

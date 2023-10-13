@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+45857,173014,L'expression « mal ,léché," » signifiant donc « mal élevé et sans éducation », s'applique donc à une personne dont la « formation » aux règles de vie en société n'a pas été entièrement accomplie.",5.0,léché,lécher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+55330,208221,En tout cas je me suis branlé comme un dieu en te lisant et m'imaginant comme tu ,léchais,", suçais et te faisais mettre une belle queue.",19.0,léchais,lécher,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,16.0,ccomp,16:ccomp,SpaceAfter=No,1.0

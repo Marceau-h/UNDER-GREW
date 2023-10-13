@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+214321,808282,"La géographie de ce micro rêve est laissée à votre imagination car elle n'a, ",somme," toutes, que peu d'importance.",17.0,somme,sommer,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,21.0,nmod,21:nmod,_,1.0

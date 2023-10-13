@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+112714,425460,"Des romans écrits avec beaucoup d'intelligence, dont beaucoup ont été adaptés avec succès au cinéma ( même si ces adaptations ne ",reflètent, que très peu la qualité de ses romans).,24.0,reflètent,refléter,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,2.0,acl,2:acl,_,1.0
+130984,494528,"Le volet Histoire de vie, plus narratif, ",reflète, l&#39;expression directe des acteurs sociaux aux prises avec la vie courante à mettre en forme et en sens.,10.0,reflète,refléter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+144755,546202,Le nom des cytochromes tend à ,refléter, (mais ce n'est pas toujours vrai) le type de hèmes qu’ils contiennent.,7.0,refléter,refléter,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,1.0

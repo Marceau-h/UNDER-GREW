@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+15849,59201,II précise les activités physiques et sportives recommandées ou ,déconseillées,", le contexte dans lequel elles peuvent s'exercer, les précautions à prendre.",10.0,déconseillées,déconseiller,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,8.0,conj,8:conj,SpaceAfter=No,3.0
+78812,296608,"Un peu fort mais au moins le film s'achève dans une note positive (un peu moraliste) mais au moins c'est fini.Donc la morale, film à ",déconseiller,", pour les amateurs, à moins que Mel Gibson soit vraiment votre seule obsession terrestre.",33.0,déconseiller,déconseiller,VERB,VERB,VerbForm=Inf,31.0,acl,31:acl,SpaceAfter=No,2.0
+231641,873298,Les forts grossissements sont à ,déconseiller,", car l'objet occupe un champ plus grand que la pleine Lune.",6.0,déconseiller,déconseiller,VERB,VERB,VerbForm=Inf,0.0,root,0:root,SpaceAfter=No,1.0

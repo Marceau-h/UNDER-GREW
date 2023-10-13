@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+70231,265046,"Lancée en 1957 et achevée en 1964, cette opération de 2 200 logements sur un terrain de 7 hectares conjugue un vocabulaire de tours et de barres savamment ",ordonnancées, autour de remarquables espaces intérieurs.,30.0,ordonnancées,ordonnancer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,25.0,acl,25:acl,_,3.0

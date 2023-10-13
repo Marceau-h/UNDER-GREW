@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+728,2694,Toute entreprise assurant des transports pour compte d'autrui avec des véhicules de PTAC ,>," 3,5 T, doit être inscrite au registre des transporteurs tenu par DRE, ce qui implique :",15.0,>,>,VERB,VERB,Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin,12.0,acl,12:acl,_,1.0
+109192,412150,"Le mode de blocage de la primitive poll dépend du paramètre timeout timeout == INFTIM Bloquant, INFTIM est défini dans stropts.h. timeout == 0 Non bloquant. timeout ",>," 0 Semi bloquant, attente de timeout micro secondes.",33.0,>,>,VERB,VERB,Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+126395,477352,"Par définition des suites de Cauchy, pour ε > 0, il existe un entier N tel que pour tous p, q",>,"N, on a : |x_p-x_q|<epsilon et |y_p-y_q|<epsilon.",10.0,>,>,VERB,VERB,Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

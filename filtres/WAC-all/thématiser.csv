@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+249372,939712,"L'équipe de CG3 a été mandatée par la Société générale de financement du Québec pour concevoir, ",thématiser, et réaliser l'édition 2005 de son rapport annuel.,19.0,thématiser,thématiser,VERB,VERB,VerbForm=Inf,17.0,conj,17:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+214528,808970,"De nos jours, de nombreuses personnes vouent un culte à ce monument en y déposant un mot adressé à Merlin (en général un souhait qu'on désire qu'il ",exauce,) ou un objet.,32.0,exauce,exaucer,VERB,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,29.0,ccomp,29:ccomp,SpaceAfter=No,1.0

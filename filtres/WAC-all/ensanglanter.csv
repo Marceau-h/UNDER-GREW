@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+45713,172529,"Qui d'autre que Tarantino aurait eu l'idée, ou du moins l'audace de présenter une mariée battue et ",ensanglantée, en séquence d'ouverture?,22.0,ensanglantée,ensanglanter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,20.0,conj,20:conj,_,1.0
+82039,308467,"La télévision a montré une scène de dévastation dans le bâtiment, et de nombreux blessés ",ensanglantés, et soignés dans les hôpitaux.,17.0,ensanglantés,ensanglanter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,16.0,acl,16:acl,_,1.0
+209028,788395,"Ces 1er mai, parfois ",ensanglantés,", ils réclamaient, entre autres, la semaine de 40 heures.",6.0,ensanglantés,ensanglanter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,9.0,advcl,9:advcl,SpaceAfter=No,1.0

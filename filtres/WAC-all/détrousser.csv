@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+112390,424279,D'autres agents de Securicor ont été attaqués et ,détroussés," au cours des dernières heures, dans la région de Montréal.",10.0,détroussés,détrousser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,2.0

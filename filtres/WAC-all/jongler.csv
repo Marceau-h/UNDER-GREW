@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+61794,232990,L'équipe essaye pourtant de ,jongler, au mieux pour éviter les conflits ouverts… Jusqu'au point de non retour un après midi où Hitchcock fait dans la loge de l'actrice des avances sexuelles qu'elle repousse violemment.,6.0,jongler,jongler,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,1.0

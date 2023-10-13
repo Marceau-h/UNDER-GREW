@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+10033,37293,"Tout en prenant des leçons au cours Simon, il commence par le théâtre, puis fait un peu de cinéma et de dramatiques ",radiodiffusées, et du cabaret.,25.0,radiodiffusées,radiodiffuser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,24.0,acl,24:acl,_,1.0
+256272,965786,Aussi le Conseil supérieur de l'audiovisuel devrait-t-il pouvoir fixer la durée des émissions télévisées et ,radiodiffusées, sans qu'aucune autre condition ne soit posée par le décret qu'une durée minimale d'émission.,19.0,radiodiffusées,radiodiffuser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,17.0,conj,17:conj,_,1.0

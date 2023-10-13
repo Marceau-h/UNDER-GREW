@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+91329,344119,Les mécaniciens expliquent : vu la pente à ,gravir,", la machine est située à l'arrière par sécurité.",9.0,gravir,gravir,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,SpaceAfter=No,1.0
+159135,600002,"De là, il reste encore 500 mètres à ",gravir, pour atteindre le col Sud où se trouve le camp IV à 7 920 m (26 000 pieds).,10.0,gravir,gravir,VERB,VERB,VerbForm=Inf,8.0,acl,8:acl,_,2.0

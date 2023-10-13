@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+154063,581126,"En faisant cela, on se libère de barrières indésirables qui ",inhibent,", stoppent ou réduisent les aptitudes.",12.0,inhibent,inhiber,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,9.0,acl:relcl,9:acl:relcl,SpaceAfter=No,1.0

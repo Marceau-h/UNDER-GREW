@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2783,fr-ud-train_12019,"Les oncles ont donc le droit d'épouser leur nièce, dans le silence du texte ou à l'alliance de la femme, ou au fait qu'elle ",allaite,".. Rien n'est jusqu'ici donc dit de l'époux, en revanche (art. 24, v. cep. art 30 infra). ",32,allaite,allaiter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,29,acl,_,SpaceAfter=No,1

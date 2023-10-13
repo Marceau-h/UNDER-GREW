@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+181963,686845,Au fur et à mesure qu'ils ,déambulent,", des histoires d'amour déchu farfelues fusent de leur mémoire pour les distraire et pour les faire réfléchir sur leur présent et leur futur.",8.0,déambulent,déambuler,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,16.0,advcl,16:advcl,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1539,fr-ud-train_05950,Entre la croissance qui ,ralentit,", le moral des ménages et des chefs d'entreprises qui flanche, les politiques restrictives d'Etats trop endettés et la crise européenne qui repart, la rentrée économique s'annonce difficile. ",5,ralentit,ralentir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,acl:relcl,_,SpaceAfter=No,2

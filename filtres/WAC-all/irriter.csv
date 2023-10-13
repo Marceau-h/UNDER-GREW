@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+73158,275821,"L'UDC se dit """"surprise et ",irritée, par la décision du Conseil fédéral.,8.0,irritée,irriter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,conj,6:conj,SpaceAfter=No,2.0

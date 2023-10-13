@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+71,fr-ud-dev_00437,"En fonction de toutes les données présentées dans les sections précédentes, quel serait, en ",simplifiant,", le développement et de la dynamique du comportement de reproduction des mammifères ? ",17,simplifiant,simplifier,VERB,_,Tense=Pres|VerbForm=Part,13,advcl,_,SpaceAfter=No,1
+1120,fr-ud-train_03870,"Je suis très satisfait de l'intervention d'Assistmac, l'informatique de mon entreprise s'est ",simplifiée, et a gagné en efficacité. ,18,simplifiée,simplifier,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,4,conj,_,_,1

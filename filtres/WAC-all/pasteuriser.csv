@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+53963,203314,"En dehors des produits carnés, d'autres aliments d'origine animale ont également été incriminés: des produits laitiers non ",pasteurisés,", ainsi que des boissons (cidre et eau du robinet).",22.0,pasteurisés,pasteuriser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,19.0,acl,19:acl,SpaceAfter=No,2.0
+88738,334120,Fabriqué avec 13 à 14 litres de lait ,pasteurisé," ou cru [1], le saint-nectaire laitier, pour sa part, se distingue par une marque carrée en caséine verte.",9.0,pasteurisé,pasteuriser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,2.0
+132410,500068,"Le lait tout d'abord, non ",pasteurisé," bien sûr, et de brebis de race Lacaune exclusivement.",8.0,pasteurisé,pasteuriser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

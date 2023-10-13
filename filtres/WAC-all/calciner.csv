@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+103899,391924,"Un expert a été nommé lundi pour examiner la carcasse du bus, complètement ",calcinée, et qui a été transférée dans une caserne militaire à Grenoble.,15.0,calcinée,calciner,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0

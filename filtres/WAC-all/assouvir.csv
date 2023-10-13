@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+195869,738885,Cela donne du grain à moudre aux extremistes et occulte les véritables maux du problème : chomage pauvreté envies non ,assouvies, éducations dans les complexes et non le développement de soi même.,21.0,assouvies,assouvir,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,19.0,acl,19:acl,_,3.0

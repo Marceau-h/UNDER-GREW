@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+155573,586769,"Quelle que soit l'exigence vocale de ces oeuvres, la maîtrise et l'aisance d'à4 ",subjuguent,", époustouflent et charment à l'infini.",18.0,subjuguent,subjuguer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

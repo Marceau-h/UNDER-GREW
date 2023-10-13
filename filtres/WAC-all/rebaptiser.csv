@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+80376,302240,"La nouvelle entité, bientôt ",rebaptisée,", sera dans un premier temps détenue à 62,5% par l'Etat norvégien.",6.0,rebaptisée,rebaptiser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,SpaceAfter=No,2.0

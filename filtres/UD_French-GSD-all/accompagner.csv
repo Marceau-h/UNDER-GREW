@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+84,fr-ud-dev_00511,"Alors qu'il vivait le plus souvent une sexualité anhédonique, il est invité à « goûter » le plaisir qui précède et ",accompagne, la décharge éjaculatoire et à partager cette découverte avec son/sa partenaire. ,24,accompagne,accompagner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,22,conj,_,_,1

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+94350,356189,"Environ 60% du prix d'un plein d'essence va au Trésor public, tandis que la contribution fiscale des consommateurs de diesel ",frôle, les 50%.,25.0,frôle,frôler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11.0,advcl,11:advcl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+258897,975806,"Le déverrouillage des salles est manuel, mais le verrouillage (impossibilité de nouveaux logins sans action du responsable, mais pas arrêt des machines déjà ",loggées,) est automatique une heure après.,27.0,loggées,logger,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,25.0,acl,25:acl,SpaceAfter=No,1.0

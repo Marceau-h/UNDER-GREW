@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+264,Rhap_M1003-35,"et, euh, c'est vrai que même si on a un programme à ",suivre,", donc, les programmes sont établis, euh, on, on jouit d'une certaine liberté en, en cours. ",16,suivre,suivre,VERB,_,VerbForm=Inf,14,acl,_,SpaceAfter=No|Subject=NoRaising,1

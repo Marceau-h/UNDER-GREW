@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+260553,981991,"Voici mon serviteur, mon élu; j'ai mis mon Esprit sur Lui - lui ne s'étiolera pas, lui ne ",ploiera," pas, jusqu'à ce qu'il ait impose sur la terre le jugement, et les îles seront dans l'attente de ses lois.",24.0,ploiera,ployer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,19.0,advcl,19:advcl,_,1.0

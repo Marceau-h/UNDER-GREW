@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2287,14170,"Qu'arrieres ne l'en puet chacier, Por ferir ne por ",menacier,", Messire Yvains en nule guise ; ",13,menacier,menacier,VERB,VERinf,VerbForm=Inf,10,conj,_,SpaceAfter=No|XmlId=w_YvainKu_31861,1

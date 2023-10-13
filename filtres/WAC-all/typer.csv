@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+149875,565567,Le Système T de Gödel qui fusionne la récursion primitive et le lambda-calcul simplement ,typé," offre aussi, au prix d'un enrichissement, un système plus expressif.",17.0,typé,typer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,15.0,acl,15:acl,_,1.0
+174381,657716,"Par convention, ces dernières sont des -termes simplement ",typés,* de type o* ().,10.0,typés,typer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,SpaceAfter=No,1.0
+213488,805070,"Donc, Perl n'est pas seulement un langage dynamiquement ",typé,", c'est aussi un langage statiquement typé, bien qu'avec peu de types statiques.",11.0,typé,typer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,acl,9:acl,SpaceAfter=No,2.0
+213489,805070,"Donc, Perl n'est pas seulement un langage dynamiquement typé, c'est aussi un langage statiquement ",typé,", bien qu'avec peu de types statiques.",11.0,typé,typer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,acl,9:acl,SpaceAfter=No,2.0
+216170,815000,On peut coder en -calcul simplement ,typé,* les polarités et l'opérateur d'inversion de polarité.,7.0,typé,typer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,SpaceAfter=No,1.0

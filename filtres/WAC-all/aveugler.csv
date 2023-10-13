@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4519,16821,La victoire en Coupe de France contre l'OM (2-1) nous a ,aveuglé, alors qu'on avait terminé à la neuvième place.,17.0,aveuglé,aveugler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

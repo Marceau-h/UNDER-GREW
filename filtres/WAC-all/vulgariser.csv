@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+62522,235860,L'organisation de cette tombola figure dans notre politique de démocratiser et ,vulgariser, l'internet annonce-t-elle.,13.0,vulgariser,vulgariser,VERB,VERB,VerbForm=Inf,11.0,conj,11:conj,_,1.0
+87149,327895,Toutes les disciplines y sont traitées le plus souvent par les chercheurs eux-mêmes qui présentent et ,vulgarisent, leurs propres travaux.,19.0,vulgarisent,vulgariser,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,17.0,conj,17:conj,_,1.0

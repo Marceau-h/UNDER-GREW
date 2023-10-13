@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+32257,121578,"Les nouveaux investisseurs ont apparemment été séduits par son modèle mixte, car RBS est à la fois intégrateur et éditeur, les deux activités se complétant nécessairement (avec un équilibre qui ",penche, plutôt du côté de l'intégration).,34.0,penche,pencher,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,32.0,acl:relcl,32:acl:relcl,_,2.0
+73641,277481,"Voilà pour les références, ",penchons,-nous maintenant sur le fond.,6.0,penchons,pencher,VERB,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

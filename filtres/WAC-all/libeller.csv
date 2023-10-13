@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+202108,762508,"Dans l'ensemble, tout est donc dans la rédaction des questions : ",libellées," autrement, il est probable que les résultats eussent été différents.",14.0,libellées,libeller,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,19.0,advcl,19:advcl,_,2.0
+202795,765030,Fiche Matériau En plus des renseignements courants (,libellé,", prix tarif, remise, ), d'autres options telles que les petites fournitures et la pose (main d'œuvre) sont à votre disposition dans la fiche matériau.",9.0,libellé,libeller,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,SpaceAfter=No,1.0

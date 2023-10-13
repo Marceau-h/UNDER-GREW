@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+40381,152285,"Le Bloc a toute la qualité d'être sûr de ne pas se faire critiquer, parce qu'il n'a pas besoin de ",performer,", il ne gouverne pas et il ne gouvernera jamais affirme-t-il.",25.0,performer,performer,VERB,VERB,VerbForm=Inf,21.0,xcomp,21:xcomp,SpaceAfter=No,3.0

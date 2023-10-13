@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+121856,460457,"Tout d'abord, l'espace sera moins confiné, plus ",aéré,", ce qui en favorisera l'agrément et la sécurité.",12.0,aéré,aérer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,SpaceAfter=No,1.0
+227351,857562,D'où l'importance d',aérer,", mais aussi de colmater les éventuelles fissures pour lutter contre l'accumulation de radon.",6.0,aérer,aérer,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,SpaceAfter=No,1.0
+252272,950176,"L'aménagement du local de stockage des produits phytosanitaires doit être fermé à clé, ",aéré," ou ventilé, isolé du gel et avoir un sol étanche avec un rebord sur le seuil de la porte.",16.0,aéré,aérer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,conj,12:conj,_,1.0

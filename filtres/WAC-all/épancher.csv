@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+45488,171682,En réalité il s’agit de quatre Sephiroth particulières qui reçoivent et ,épanchent,", et tel est le secret de l’androgyne.",14.0,épanchent,épancher,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,12.0,conj,12:conj,SpaceAfter=No,1.0

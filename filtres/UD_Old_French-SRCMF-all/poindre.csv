@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1235,11725,"Toz jorz doit puir li fumiers, Et toons ",poindre,", et maloz bruire, Et felons enuier et nuire. ",10,poindre,poindre,VERB,VERinf,VerbForm=Inf,4,conj,_,SpaceAfter=No|XmlId=w_YvainKu_805,1

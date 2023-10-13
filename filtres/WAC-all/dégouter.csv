@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+154307,582039,L'annonce d'un nouveau plan social serait sûrement très mal accueillie par des salariés las de faire des efforts et ,dégoutés, devant les soupçons de délits d'initiés qui pèsent sur certains dirigeants.,22.0,dégoutés,dégouter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,20.0,conj,20:conj,_,1.0

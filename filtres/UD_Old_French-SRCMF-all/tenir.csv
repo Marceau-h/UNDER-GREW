@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1467,12171,Se vos estes ceanz ,tenuz,", Vos i seroiz toz depeciez, ",5,tenuz,tenir,VERB,VERppe,Tense=Past|VerbForm=Part,11,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_6756,2

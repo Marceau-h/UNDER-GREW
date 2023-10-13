@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+64562,243544,"Sur le chemin de la corruption, Anakin, interprété de manière vénéneuse par Hayden Christensen, accomplit sans ",ciller," des actes innommables, au milieu de paysages dominés par l'obscurité, illustrés par une musique angoissante.",20.0,ciller,ciller,VERB,VERB,VerbForm=Inf,18.0,advcl,18:advcl,_,2.0
+162743,613731,"Dans les deux manches ultimes, la tension était vive, mais Federer a toujours eu un léger ascendant, qui lui a permis de s'en sortir, sans briller mais sans ",ciller,", à sa troisième balle de match.",34.0,ciller,ciller,VERB,VERB,VerbForm=Inf,31.0,conj,31:conj,SpaceAfter=No,1.0

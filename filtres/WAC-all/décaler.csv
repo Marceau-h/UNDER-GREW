@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+71858,270938,"Non parce qu'il était d'une discrétion extrême, mais plutôt car il jaillissait dans la ligne de trois-quarts, semblant venir de nulle part, pour ",décaler, et envoyer son ailier à l'essai.,29.0,décaler,décaler,VERB,VERB,VerbForm=Inf,8.0,advcl,8:advcl,_,1.0

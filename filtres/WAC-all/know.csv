@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+134020,506223,"Ainsi, """"what every computer scientist should ",know," about floating-point arithmetic"""" ne concerne plus seulement quelques spécialistes mais, fort heureusement, se répand largement dans la communauté des utilisateurs de calcul scientifique.",9.0,know,know,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,_,2.0
+144153,544078,Et quand on a droit à « Firth of fifth » et « I ,know," what I like » (tirés de Selling England by the pound, 1973), il est difficile de rester de marbre.",15.0,know,know,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,8.0,conj,8:conj,_,1.0
+164975,621937,Il comprend 11 reprises de chansons pop des années 60 à 80. Foreigner y est repris 2 fois (Waiting for a girl like you et I want to ,know," what love is, deux morceaux plus loin).",31.0,know,know,VERB,VERB,VerbForm=Inf,29.0,xcomp,29:xcomp,_,3.0

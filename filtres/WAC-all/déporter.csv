@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+262633,990100,"Quant à Benoît Hamon, il représente """"une ligne totalement ",déportée," sur la gauche"""", ajoute un autre.",12.0,déportée,déporter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,3.0

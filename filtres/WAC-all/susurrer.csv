@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+221059,833773,"Je suis gentille avec les journalistes"""", ",susurrait," Mlle Sam, se retournant vers les rangs de la presse.",10.0,susurrait,susurrer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,4.0,parataxis,4:parataxis,_,1.0

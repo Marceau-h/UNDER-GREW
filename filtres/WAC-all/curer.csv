@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+94943,358414,Elles sont moins régulées par l'Homme que les étangs plus souvent ,curés, ou vidés ou empoissonnés ou utilisés comme zone de loisir.,13.0,curés,curer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0

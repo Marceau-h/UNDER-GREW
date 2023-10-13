@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+137223,517912,"Le flic, joué par Tony Leung Chiu Waï dans Hard Boiled, se « ",suicide, » en tirant à travers son propre corps pour se libérer de son preneur d'otage (le méchant du film).,16.0,suicide,suicide,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

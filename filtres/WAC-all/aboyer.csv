@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+56358,212135,"Tout d'un coup, il arriva une bête monstrueuse, pleine de poils, qui courait à toute allure, les oreilles à l'horizontale et qui ",aboyait, aussi fort qu'elle le pouvait.,29.0,aboyait,aboyer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,17.0,conj,17:conj,_,1.0
+89898,338551,Le Chien se mettait à ,aboyer, pour entendre le son de sa voix.,6.0,aboyer,aboyer,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0

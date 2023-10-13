@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+353,fr-ud-test_00257,Le signe qui ne ,trompe," pas, ce midi là... les clients à table n'étaient que des habitués, et la salle était pleine. ",5,trompe,tromper,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2,acl:relcl,_,_,1

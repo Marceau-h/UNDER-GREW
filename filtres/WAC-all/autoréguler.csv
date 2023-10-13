@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4443,16557,Ainsi le marché s’,autorégule," et maximise la seule production; toutefois, Smith avait oublié que son modèle ne réglait pas la question de la répartition.",5.0,autorégule,autoréguler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

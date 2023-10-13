@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1749,6498,Un trafic que les autorités ne parviennent pas à ,endiguer,". « Première difficulté », rapporte Cambodge Soir, « les trafiquants usent d'une logistique qui met la police à rude épreuve.",10.0,endiguer,endiguer,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,SpaceAfter=No,1.0

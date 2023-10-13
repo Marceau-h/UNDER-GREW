@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+139968,528103,"L'orthophoniste intervient auprès d'enfants, d'adolescents et d'adultes en difficulté dans leur communication, afin de ",suppléer, ou d'optimiser les compétences existantes.,21.0,suppléer,suppléer,VERB,VERB,VerbForm=Inf,19.0,obl:arg,19:obl:arg,_,1.0

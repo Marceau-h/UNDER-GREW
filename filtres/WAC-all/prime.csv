@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+123028,464921,C'est aussi la fonction qui ,prime," et détermine les rapports.""""",7.0,prime,prime,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,acl:relcl,5:acl:relcl,_,3.0
+153545,579116,"Entre ces deux bornes - maîtrise des flux et rôle des immigrés -, les compromis sont périlleux et la bonne volonté, quand ",prime," la raison d'Etat, est vite limitée.",25.0,prime,prime,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,33.0,advcl,33:advcl,_,3.0
+171988,648708,"Sa première exposition personnelle date de 1968 et trois ans plus tard, il s ' inscrit dans la mouvance de « Support-Surface » , ce groupe d ' artistes pour qui ",prime, la réalité physique du tableau.,35.0,prime,prime,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,32.0,acl:relcl,32:acl:relcl,_,1.0

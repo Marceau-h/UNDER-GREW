@@ -1,0 +1,8 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+21613,80916,On le remplit partiellement du produit à ,moudre," puis on ajoute les éléments de broyage (billes métalliques, galets de silex,...).",8.0,moudre,moudre,VERB,VERB,VerbForm=Inf,6.0,acl,6:acl,_,2.0
+86050,323540,Ces conclusions donneront du grain à ,moudre, aux détracteurs de la navigation assistée par satellite.,7.0,moudre,moudre,VERB,VERB,VerbForm=Inf,5.0,acl,5:acl,_,1.0
+137927,520486,Un recrutement important de fonctionnaires à compter de 2005 pour combler en partie les départs à la retraite pourrait donner du grain à ,moudre, pour ce type de sélection.,24.0,moudre,moudre,VERB,VERB,VerbForm=Inf,22.0,acl,22:acl,_,1.0
+195868,738885,Cela donne du grain à ,moudre, aux extremistes et occulte les véritables maux du problème : chomage pauvreté envies non assouvies éducations dans les complexes et non le développement de soi même.,6.0,moudre,moudre,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,_,3.0
+196416,740916,"Par son manque de tact, Benoît XVI va malheureusement donner du grain à ",moudre," à tous les extrémistes, les paranoïaques et fous furieux qui ne cessent de nous demander de prendre les armes contre «les croisés» et «les infidèles».",15.0,moudre,moudre,VERB,VERB,VerbForm=Inf,13.0,acl,13:acl,_,2.0
+198527,749236,Les autres industriels ont donc réalisé qu'il n'y avait plus de grain à ,moudre, dans la commission.,16.0,moudre,moudre,VERB,VERB,VerbForm=Inf,14.0,acl,14:acl,_,1.0
+246241,928024,Les entreprises et le marché immobilier ont donné du grain à ,moudre, au fisc.,12.0,moudre,moudre,VERB,VERB,VerbForm=Inf,10.0,acl,10:acl,_,1.0

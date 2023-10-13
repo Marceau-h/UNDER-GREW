@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+46660,176045,Ayant donc choisi son champ de bataille -ce fut la seule fois de toute sa carrière où il out la possibilité de le ,faire-,", Napoléon entreprit d'y attirer l'ennemi.",24.0,faire-,faire-,VERB,VERB,VerbForm=Inf,21.0,acl,21:acl,SpaceAfter=No,1.0

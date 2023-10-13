@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+151801,572827,"Le magazine Rolling Stone l'a nommée plus grande chanson de tous les temps, affirmant qu'« aucune autre chanson n'a jamais ",défié, et transformé les codes commerciaux et les conventions artistiques de son époque aussi profondément »[1].,26.0,défié,défier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16.0,ccomp,16:ccomp,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+81977,308220,Pas le moment de ,flancher," La vie est ainsi faite de moments d'enthousiasme ou d'instants de faiblesse, et puis vont et viennent les réussites et le doute.",5.0,flancher,flancher,VERB,VERB,VerbForm=Inf,3.0,nmod,3:nmod,_,1.0
+132915,502063,Seules les Norvégiennes ont ,flanché,", étonnamment balayées 5-1 par le Japon; mais elles étaient déjà qualifiées.",5.0,flanché,flancher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,2.0

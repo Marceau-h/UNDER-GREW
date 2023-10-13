@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+67,n01110022,"Les placements en obligations à prime, et dans d’autres comptes d’épargne et d’investissement nationaux, sont ",utilisés, pour apporter une aide financière aux dépenses publiques. ,21,utilisés,utiliser,VERB,VBN,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,_,1

@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+101432,382667,"Des montagnes se sont élevées, des vallées se sont ",abaissées,", Au lieu que tu leur avais fixé.",11.0,abaissées,abaisser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,5.0,conj,5:conj,SpaceAfter=No,1.0
+142729,538786,Une fois les flammes ,abaissées,", les gens du village s'amusent à sauter au-dessus des braises restantes.",5.0,abaissées,abaisser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,12.0,advcl,12:advcl,SpaceAfter=No,1.0
+147073,554988,Ce n'est point une honte de vous ,abaisser," pour ramener un enfant coupable; c'est, au contraire, une chose utile et glorieuse devant Dieu et devant les hommes.",9.0,abaisser,abaisser,VERB,VERB,VerbForm=Inf,6.0,dep,6:dep,_,1.0
+225021,848788,Tous les leurres ORION ont une attache de tête que l'on peut ,abaisser," ou relever légèrement, à l'aide d'une pince.",14.0,abaisser,abaisser,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,_,1.0

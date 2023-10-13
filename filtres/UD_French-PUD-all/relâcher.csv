@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+139,w01142063,Le chevalier Lyvet fut ,relâché, et son disciple fut jeté dans la Tour. ,5,relâché,relâcher,VERB,VBN,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,1

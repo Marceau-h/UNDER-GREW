@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+69647,262902,Ma détermination ne ,faillira, pas et tu finiras bien par céder.,4.0,faillira,faillir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,0.0,root,0:root,_,1.0
+85253,320350,"La conclusion qu'il convient de tirer de tout cela, c'est que ce n'est pas le système qui a ",failli,", mais quelques acteurs du système.",23.0,failli,faillir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,20.0,acl:relcl,20:acl:relcl,SpaceAfter=No,1.0
+176725,666650,"A commencer par les 50 000 actionnaires salariés du groupe de BTP, propriétaires de 23,3% du capital, qui ont approuvé sans ",faillir, chacune des résolutions proposées par la direction.,25.0,faillir,faillir,VERB,VERB,VerbForm=Inf,23.0,advcl,23:advcl,_,1.0
+239194,901395,«Ce n'est pas le système qui a ,failli,", mais quelques acteurs du système», motivés par «l'avidité, l'égoïsme et le manque d'égards».",10.0,failli,faillir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl:relcl,7:acl:relcl,SpaceAfter=No,2.0

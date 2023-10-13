@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+138532,522861,"Il aura été le principal témoin du procès, celui auquel la poursuite s'est ",fiée, pour étayer sa preuve.,16.0,fiée,fier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl:relcl,10:acl:relcl,_,1.0

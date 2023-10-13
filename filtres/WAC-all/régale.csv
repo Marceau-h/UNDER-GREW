@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+38380,144496,"Au final, l'effet est bien le même que par le passé : je me ",régale, et je sens que je vais encore passer des nuits blanches.,17.0,régale,régale,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,9.0,advcl,9:advcl,_,1.0
+188789,712210,"Lyon, pour avoir une équipe de foot qui ",régale,", a rappelé qu'elle était encore la capitale du basket français.",10.0,régale,régale,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,acl:relcl,6:acl:relcl,SpaceAfter=No,2.0

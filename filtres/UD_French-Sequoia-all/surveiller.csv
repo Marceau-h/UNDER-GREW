@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+641,emea-fr-dev_00524,Le médecin administrant et ,surveillant," le traitement, une omission est très peu probable. ",5,surveillant,surveiller,VERB,_,Tense=Pres|VerbForm=Part,3,conj,_,_,1

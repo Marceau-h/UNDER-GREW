@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+35522,133716,"Les virements de coupons doivent être émis en faveur du centralisateur, ",affilié," 347, nature de compte 55 pour le paiement en espèces et 56 pour l'option-titres.",13.0,affilié,affilier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,acl,11:acl,_,1.0
+164128,619003,"Bien que le terme Parti vert puisse être utilisé librement, il existe un certain nombre de partis, plus ou moins ",affiliés,", mais néanmoins organisés comme partis politiques et mouvements politiques, reposant sur les Quatre piliers des partis verts.",23.0,affiliés,affilier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,acl,18:acl,SpaceAfter=No,2.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+176977,667600,"Il est malmené, sa silhouette s'affaisse, il porte la hotte, tire la langue, ses membres ",raidissent,; il est sur ses fins.,21.0,raidissent,raidir,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,3.0,advcl,3:advcl,SpaceAfter=No,1.0

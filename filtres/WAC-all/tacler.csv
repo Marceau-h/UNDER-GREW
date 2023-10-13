@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+70814,267027,"Après 10 minutes de jeu, premier coup dur pour les Bleus : Franck Ribéry se blessait en ",taclant, et devait céder sa place à Samir Nasri.,19.0,taclant,tacler,VERB,VERB,Tense=Pres|VerbForm=Part,17.0,advcl,17:advcl,_,2.0

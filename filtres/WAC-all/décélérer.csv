@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+41558,156845,"Non, car nous sommes protégés par l'atmosphère qui ",décélère, et absorbe ces particules.,11.0,décélère,décélérer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,acl:relcl,9:acl:relcl,_,1.0
+89796,338203,"Selon l'Insee, après une """"forte hausse en 2007"""", le pouvoir d'achat des Français va sensiblement ",décélérer, début 2008.,22.0,décélérer,décélérer,VERB,VERB,VerbForm=Inf,20.0,xcomp,20:xcomp,_,2.0
+160138,603800,"En revanche, dans l'industrie, l'hémorragie entamée depuis six ans s'est poursuivie mais a ",décéléré,": les effectifs ont reculé de 1,1% comparé à 2006.",19.0,décéléré,décélérer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16.0,conj,16:conj,SpaceAfter=No,1.0

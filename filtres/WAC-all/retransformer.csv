@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+264375,996528,"Astuce : si vous vous battez sous l'eau et avez besoin de remonter à la surface pour respirer, transformez-vous en Forme aquatique pour vous réapprovisionner en oxygène, et ",retransformez,-vous ensuite.,33.0,retransformez,retransformer,VERB,VERB,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,21.0,conj,21:conj,SpaceAfter=No,2.0

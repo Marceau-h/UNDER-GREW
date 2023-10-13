@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+182833,689906,"Outre le respect de la vie privée des autres athlètes, le CIO exige des sportifs blogueurs qu'ils ne ",divulguent," pas d'""""informations susceptibles de compromettre la sécurité, la tenue et l'organisation des Jeux"""".",21.0,divulguent,divulguer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,16.0,acl:relcl,16:acl:relcl,_,2.0
+207808,783875,Des scènes de combats citadines seront également présentes mais avant de pouvoir davantage en ,divulguer,", voici une série de nouveaux visuels.",15.0,divulguer,divulguer,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,SpaceAfter=No,1.0

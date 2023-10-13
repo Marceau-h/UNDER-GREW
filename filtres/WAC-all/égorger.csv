@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+102201,385683,"Ces derniers fuient hors des murs, mais 13 prêtres sont arrêtés, ",égorgés," et jetés à la mer du haut de la tour de la Lanterne, qui prendra à l’occasion le surnom de « tour des Prêtres ».",14.0,égorgés,égorger,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,12.0,conj,12:conj,_,2.0

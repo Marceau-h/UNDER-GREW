@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+80854,304079,Même chose pour Julia Roberts qui joue à merveille l'ex-épouse à ,reconquérir,".De leur côté, Brap Pitt et George Clooney nous font vivre des moments tout simplement succulants.",13.0,reconquérir,reconquérir,VERB,VERB,VerbForm=Inf,11.0,acl,11:acl,SpaceAfter=No,1.0
+260390,981459,C'est par le terrain à nouveau ,reconquis, que la balance penchera de notre côté.,8.0,reconquis,reconquérir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0
+264263,996036,Les provinces nouvellement ,reconquises, ont perdu l’habitude de payer de lourds impôts sous l’administration barbare incapable de les prélever régulièrement.,4.0,reconquises,reconquérir,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+95471,360394,"On n'avait pas d'attaque de spam, scan, smurf, flood, spoofing, ",sniffer,", (se référer aux articles de la presse informatique grand public).",18.0,sniffer,sniffer,VERB,VERB,VerbForm=Inf,8.0,conj,8:conj,SpaceAfter=No,2.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+90195,339715,La peau ainsi ,cicatrisée, reste fragile ; la rééducation et les attelles doivent en tenir compte pendant les premiers mois.,4.0,cicatrisée,cicatriser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

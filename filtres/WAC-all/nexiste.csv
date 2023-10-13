@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+61482,231794,"Lenquête, intitulée """"Global Better Sex Survey """", révèle quil ",nexiste," """" aucun lien clair entre la satisfaction sexuelle et la fréquence des rapports.",13.0,nexiste,nexiste,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16.0,cop,16:cop,_,1.0

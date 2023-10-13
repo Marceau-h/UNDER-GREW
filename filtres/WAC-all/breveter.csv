@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+151599,572069,Il planche alors sur une technique miracle qu'il fait aussitôt ,breveter,: des trous percés dans la semelle recouverts d'une fine membrane qui laisse sortir la vapeur mais pas rentrer l'eau.,12.0,breveter,breveter,VERB,VERB,VerbForm=Inf,6.0,acl:relcl,6:acl:relcl,SpaceAfter=No,1.0
+259075,976505,"Certaines innovations, ",brevetées," ou non, ainsi que la compétence acquise par le CIRVA grâce à ces travaux de collaboration avec les artistes peuvent être mises à la disposition des professionnels du verre.",4.0,brevetées,breveter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

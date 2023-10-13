@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+248204,935357,Les saucissons secs se composent de maigre de coche et/ou de porc charcutier correctement paré et ,dénervé,", de gras de porc et d'une enveloppe.",19.0,dénervé,dénerver,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,17.0,conj,17:conj,SpaceAfter=No,1.0

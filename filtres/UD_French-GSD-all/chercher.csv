@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2171,fr-ud-train_08979,Le troisième album Sounds Of Love ne marche pas aussi bien (même si le titre ,Cherchez, pas est un tube dans les clubs et le seul titre qui sera classé dans le hit parade suédois). ,17,Cherchez,chercher,VERB,_,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,16,appos,_,ExtPos=PROPN|Title=Yes|wordform=cherchez,3

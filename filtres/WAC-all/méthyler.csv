@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+82747,311057,La méthylation de l'adénine du site d'hydrolyse inhibe la reconnaissance du site par Hind II. L'ADN de la bactérie ainsi ,méthylé, n'est pas hydrolysé alors que l'ADN parasite qui n'est pas méthylé sera hydrolysé.,25.0,méthylé,méthyler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,23.0,acl,23:acl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1431,fr-ud-train_05459,Au bout de 2 heures de pêche et comme la mer s'était ,levée,", nous avons voulu nous mettre à l'abri et là, le moteur démarre 2 fois mais s'arrête. ",15,levée,lever,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,3,conj,_,SpaceAfter=No,1

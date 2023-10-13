@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+65456,246828,"Les logos des Jaguars de Zurich et des Gulls A venir, des photos du V-FORM tournament, terminer la page sur 6 ans de RHI, ajouter des liens, le NHL Breakout 2000,... ben oui je sais je ",traine,... si quelqu'un veut m'aider ;-),45.0,traine,traine,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,43.0,ccomp,43:ccomp,SpaceAfter=No,1.0

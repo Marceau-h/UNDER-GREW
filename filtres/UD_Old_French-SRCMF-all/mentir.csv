@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1708,12777,"- Dame, nule force si forz N'est come cele, sanz ",mantir,", Qui me comande a consantir Vostre voloir del tot an tot. ",14,mantir,mentir,VERB,VERinf,VerbForm=Inf,7,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_13960,2
+2262,14095,"« Ha ! dist il, fame, chose avere De voir dire et de ",mantir," large ! Mout est po sages qui encharge, Por ta parole, si grant fes ; ",16,mantir,mentir,VERB,VERinf,VerbForm=Inf,13,conj,_,XmlId=w_YvainKu_30941,1

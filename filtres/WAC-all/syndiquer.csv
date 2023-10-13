@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+166468,627719,"Thierry Daviaud, travailleur dans un établissement et ",syndiqué," SSP, rappelle que le métier a beaucoup évolué.",9.0,syndiqué,syndiquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,3.0
+215681,813160,Par rapport au secteur privé non ,syndiqué," toutefois, leur rémunération globale _ qui inclut les salaires et les avantages sociaux _ est équivalente.",7.0,syndiqué,syndiquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+85171,320039,"Avec un corps qui, certes, est transformé, ",sublimé,", qui a des propriétés qu'il n'avait pas quand il était sur la terre, mais qui vit toujours.",11.0,sublimé,sublimer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,SpaceAfter=No,2.0
+165994,625865,Il est l'idole ,sublimée, et convoitée de toute une société décadente. (...),5.0,sublimée,sublimer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,3.0

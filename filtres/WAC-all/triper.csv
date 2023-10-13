@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+109899,414683,Nous avons choisi de mettre en scène 3 groupes habitués à ,triper, ensemble pour ouvrir ce festival sur un bon moment convivial et entraînant à souhait :,12.0,triper,triper,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,_,1.0

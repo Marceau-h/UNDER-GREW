@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+181820,686291,Un souterrain entièrement ,voûté," de pierres de taille circule sous le village à plus de six mètres de profondeur, une des entrées se situant sous le grenier à sel, et dont la hauteur est de deux mètres cinquante.",4.0,voûté,voûter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+253912,956570,"En 1506, construction de la nef dont la voûte est en premier lieu lambrissée puis ",voûtée, en briques et plâtres vers 1830-1840.,17.0,voûtée,voûter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,15.0,conj,15:conj,_,1.0

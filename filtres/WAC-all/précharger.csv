@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+32900,123947,Un système d'exploitation Red Hat Linux ,préchargé," et renforcé ainsi que l'authentification par """"token"""" garantissent la sécurité dans les réseaux des clients.",8.0,préchargé,précharger,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

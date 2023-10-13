@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+34764,131015,"Ils tournent avec leurs voitures, ",stoppent,", redémarrent.",7.0,stoppent,stopper,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,2.0,conj,2:conj,SpaceAfter=No,1.0
+77766,292671,"Après, depuis l'applet, tu peux démarrer/",stopper, coherence qui fonctionne alors sans aucune configuration !,11.0,stopper,stopper,VERB,VERB,VerbForm=Inf,9.0,conj,9:conj,_,1.0
+154064,581126,"En faisant cela, on se libère de barrières indésirables qui inhibent, ",stoppent, ou réduisent les aptitudes.,14.0,stoppent,stopper,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,12.0,conj,12:conj,_,1.0
+166637,628295,"Et ce n'est pas la premiere ni la derniere fois qu'une telle vhose arrive, de tres grand groupe ayant deja ete ",stopper, et malgre ça le piratage existe toujours.,25.0,stopper,stopper,VERB,VERB,VerbForm=Inf,21.0,acl,21:acl,_,3.0
+204224,770695,"Les hydravions commerciaux, l'activité à ",stopper, pour l'Association des propriétaires du lac Tremblant.,8.0,stopper,stopper,VERB,VERB,VerbForm=Inf,6.0,acl,6:acl,_,1.0
+213600,805526,"Dès qu'on la sort du liquide, le chronomètre est déclenché puis ",stoppé, dès que la dernière goutte de liquide s'échappe de l'orifice de la coupe.,14.0,stoppé,stopper,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,conj,12:conj,_,1.0

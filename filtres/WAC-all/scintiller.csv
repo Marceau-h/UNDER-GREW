@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+57665,217034,"Pourtant, elle n'était qu'une simple fille de gentilhomme, et était loin de ",scintiller," comme Bessie Blount, une ancienne maîtresse du roi qui lui avait donné un fils malheureusement illégitime.",17.0,scintiller,scintiller,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,3.0

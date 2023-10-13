@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+43,annodis.er_00328,"Si cela continue, je vais ouvrir une salle municipale"""" ",confiait, le premier magistrat. ,13,confiait,confier,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,7,parataxis:insert,_,_,1
+51,annodis.er_00353,"Près de trente ans après le combat mené par Françoise Giroud, il est paradoxal de devoir tirer la sonnette d'alarme"""", ",confie, la députée de Moselle en rendant hommage à celle qui fut secrétaire d'Etat à la Condition féminine. ,26,confie,confier,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16,parataxis:insert,_,_,2

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+67087,253191,"Les locomotives 4397 et 4398 étaient, elles, accouplées à des tenders à bogies contenant 21,5 m³ d'eau et 5 t de charbon ",immatriculés, : 4397 et 4398 puis : 1-21 D 397 et 398.,26.0,immatriculés,immatriculer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,23.0,acl,23:acl,_,1.0
+136446,514970,"Les procurations établies pour une durée supérieure (qui peut aller jusqu'à trois ans),sont réservées aux Français résidant à l'étranger et régulièrement ",immatriculés, auprès de leur consulat.,25.0,immatriculés,immatriculer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,19.0,conj,19:conj,_,1.0

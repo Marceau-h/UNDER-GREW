@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+197624,745594,Les banques n'auront donc plus beaucoup d'incitations à ,titriser, plutôt qu'à conserver des actifs au bilan.,11.0,titriser,titriser,VERB,VERB,VerbForm=Inf,9.0,acl,9:acl,_,1.0

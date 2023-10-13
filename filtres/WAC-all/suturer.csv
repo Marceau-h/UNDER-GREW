@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+189428,714867,"La société DUSSARTRE développe, fabrique du matériel médico-chirurgical (une centaine de références d'aiguilles à ",suturer,", porte aiguilles, passe fil&#133;.) et répare aussi du matériel (comme les pinces endoscopiques).",18.0,suturer,suturer,VERB,VERB,VerbForm=Inf,16.0,acl,16:acl,SpaceAfter=No,1.0

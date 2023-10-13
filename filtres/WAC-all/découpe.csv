@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+83489,313748,"Le rayon laser, dont le foyer mesure moins d'un micron, fixe et ",découpe, certaines parties de la cellule.,16.0,découpe,découpe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,14.0,conj,14:conj,_,1.0

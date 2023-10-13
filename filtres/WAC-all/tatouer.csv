@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+208893,787878,"Si vous rédigez une annonce concernant la transaction d'un chien, vous devez obligatoirement mentionner """" ",tatoué,"/vacciné """" dans le texte de votre annonce.",18.0,tatoué,tatouer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16.0,xcomp,16:xcomp,SpaceAfter=No,1.0

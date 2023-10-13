@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+311,fr-ud-test_00117,"Au sein de cette équipe professionnelle, chacun est important et a son rôle à ",jouer, pour contribuer au rayonnement de la ville de Bayonne et de la culture basque. ,17,jouer,jouer,VERB,_,VerbForm=Inf,15,acl,_,Subject=SubjRaising,1
+2236,fr-ud-train_09380,Les terroristes ,jouent," là-dessus, ils se fichent pas mal des frontières qu'ils franchissent allégrement. ",3,jouent,jouer,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+2945,fr-ud-train_12813,Elle est le fruit d'un enseignement qui a commencé à l'âge de 6 ans avec son professeur de père qui lui apprend à ,jouer," le plus long possible pour briser le jeu de ses adversaires : un tennis solide, académique, sans faille, mécanisé, automatisé, et repoli chaque jour durant des heures. ",26,jouer,jouer,VERB,_,VerbForm=Inf,24,xcomp,_,Subject=OblRaising,1

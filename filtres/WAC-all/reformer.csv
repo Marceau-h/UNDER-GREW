@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+101525,383034,"Depuis, le """"masque sans yeux"""" s'est ",reformé," paraît-il, mais en tous cas ses membres se font des plus discrets.",11.0,reformé,reformer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+141753,535073,L'Oriph collabore avec plus de 1500 entreprises romandes et forme ou ,reforme, les bénéficiaires de l'assurance invalidité à plus de 30 métiers différents.,13.0,reforme,reformer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11.0,conj,11:conj,_,1.0

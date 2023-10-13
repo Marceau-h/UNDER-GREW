@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+41381,156121,"Dalts, c'est un peu comme un grand-père pour ses camarades"""", ",plaisante," Brad Butterworth, un ami de longue date, plus si ami en cette veille d'affrontement.",15.0,plaisante,plaiser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,parataxis,9:parataxis,_,1.0
+103263,389555,"Ce qu'ils ne veulent pas, c'est être assis à côté de quelqu'un qui utilise le sien"""", ",plaisante, le PDG d'OnAir.,23.0,plaisante,plaiser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,parataxis,9:parataxis,_,3.0
+139426,526142,"L'opération «ressemblait surtout à un appel désespéré aux candidatures», ",plaisante, un diplomate.,14.0,plaisante,plaiser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,parataxis,4:parataxis,_,1.0
+219176,826533,"Loin de s'appesantir sur son sort, elle ",plaisante, en tournant les pages de son album.,10.0,plaisante,plaiser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+223282,842104,«Je n'aimerais pas (jouer contre moi-même ,plaisante, le champion bulgare.,12.0,plaisante,plaiser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,parataxis,4:parataxis,_,2.0

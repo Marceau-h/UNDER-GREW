@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+208698,787202,"Je n'ai qu'une envie : avoir, pour une seconde fois, ce DÉSIR DU COEUR; revoir et ",réentendre, CAFETIÈRE BLEU.,22.0,réentendre,réentendre,VERB,VERB,VerbForm=Inf,20.0,conj,20:conj,_,2.0

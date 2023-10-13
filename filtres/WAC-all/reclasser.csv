@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+14368,53590,Nous ne sommes pas une machine à ,reclasser," », assure Véronique Lefebvre-Deloubrière, responsable des site Opportunité à Paris.",8.0,reclasser,reclasser,VERB,VERB,VerbForm=Inf,6.0,acl,6:acl,_,3.0
+22215,83213,"Si l'objectif de maintenir la moitié des salariés sur le site de Mérignac """"était atteint, il n'y aurait donc qu'entre 500 et 600 personnes"""" à ",reclasser,", a souligné M. Forgeard.",32.0,reclasser,reclasser,VERB,VERB,VerbForm=Inf,22.0,advcl,22:advcl,SpaceAfter=No,2.0

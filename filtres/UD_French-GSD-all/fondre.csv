@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+637,fr-ud-train_01372,"Considéré comme le plus célèbre ébéniste de l'histoire, il introduisit en ameublement l'art du bronze doré, qu'il sculptait, ",fondait,", ciselait et dorait lui-même, et le porta à un point de noblesse et d'excellence sans comparaison en son temps. ",26,fondait,fondre,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,24,conj,_,SpaceAfter=No,1

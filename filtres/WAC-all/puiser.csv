@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+54640,205702,"Il a aussi le droit d'être honnête et de reconnaitre l'intérêt de Wikipedia, puisqu'il va y ",puiser,", plutôt que d'essayer de diaboliser régulièrement l'encyclopédie.",21.0,puiser,puiser,VERB,VERB,VerbForm=Inf,19.0,xcomp,19:xcomp,SpaceAfter=No,1.0

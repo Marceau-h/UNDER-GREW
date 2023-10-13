@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+223441,842625,"Chaque année, 15.000 PC sont ainsi collectés et ",revalorisés, dans les ateliers de seconde main d'Oxfam-Solidarité.,10.0,revalorisés,revaloriser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0
+232188,875278,"De l'avis des organisateurs, """"ce patrimoine mérite d'être sauvegardé et ",revalorisé," pour les générations présentes et celles futures, d'autant plus que le jardin peut servir d'exemple d'un développement durable respectueux de l'environnement"""".",15.0,revalorisé,revaloriser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13.0,conj,13:conj,_,2.0

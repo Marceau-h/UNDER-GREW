@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+153852,580323,"Un professeur d'écriture, c'est ce que devient au milieu de sa vie et jusqu'à sa mort, celui qui écrira ce récit habilement ",transcrit," de Scarron dans la manière du Roman comique: Le Capitaine Fracasse (1863), paru en feuilleton de 1861 à 1863.",28.0,transcrit,transcrire,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,26.0,acl,26:acl,_,1.0
+160326,604474,Contient les brins ,transcrit," et non transcrit du gène Reeler, ainsi que l'ARNm et la protéine correspondants.",4.0,transcrit,transcrire,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,2.0
+160327,604474,Contient les brins transcrit et non ,transcrit," du gène Reeler, ainsi que l'ARNm et la protéine correspondants.",4.0,transcrit,transcrire,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,2.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+11759,44055,"Pour la première fois du Mondial, les Bleus ont donné l'impression de jouer véritablement à l'endroit : en attaquant prioritairement le cercle et en ",shootant," de loin si nécessaire, comme le conseillait le vénérable Antoine Rigeaudeau.",28.0,shootant,shooter,VERB,VERB,Tense=Pres|VerbForm=Part,22.0,conj,22:conj,_,2.0
+62809,236971,"On y ressent l'ambiance """"Junkie"""", la vétusté des endroits où les prostituées se regroupent pour se """"",shooter, et se morfondre dans leurs souvenirs.,22.0,shooter,shooter,VERB,VERB,VerbForm=Inf,18.0,advcl,18:advcl,SpaceAfter=No,1.0

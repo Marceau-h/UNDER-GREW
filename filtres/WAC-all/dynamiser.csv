@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+40227,151665,Ce spécialiste du secteur high-tech et du commerce électronique sera chargé de ,dynamiser, et relancer l'offre produits.,15.0,dynamiser,dynamiser,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,_,1.0
+50787,191629,Le nouvel ensemble contribuera à ,dynamiser, et à élargir le marché français de la télévision et du cinéma.,6.0,dynamiser,dynamiser,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0
+244670,922036,"Tenus à l'écart des grandes discussions, y compris de celles qui les concernent directement, ils se sont sentis frustrés, partant peu encouragés à déployer des efforts pour repenser, humaniser et ",dynamiser, leur administration.,36.0,dynamiser,dynamiser,VERB,VERB,VerbForm=Inf,32.0,conj,32:conj,_,1.0

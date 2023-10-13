@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+74912,282213,Pour que cet acteur ne se sente pas trop ,dépayser,", les pirates de films, les pros du warez, ont diffusé """"Hyper Tension"""", son dernier film, en DiVX sur Internet, voilà plusieurs semaines avant sa sortie en salle.",10.0,dépayser,dépayser,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,SpaceAfter=No,1.0
+78029,293653,"Les poules gloussent, la vache, le cheval et les poneys, complètement ",dépaysés,", jettent des regards apeurés autour d'eux.",15.0,dépaysés,dépayser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6.0,acl,6:acl,SpaceAfter=No,1.0
+234824,885359,"L'artiste, ",dépaysé," et vivant mal le choc culturel, se souviendra de la terre natale, de ses mythes ancestraux, africains et amérindiens, de la mer turquoise, et de Lazare.",4.0,dépaysé,dépayser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

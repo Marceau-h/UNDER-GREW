@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+143039,540025,"Et plus vous avez à traiter des petits morceaux de fichiers, plus les disques vont être sollicités et donc ",surchargés,"», complète l'ingénieur système et réseau.",21.0,surchargés,surcharger,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,conj,18:conj,SpaceAfter=No,1.0

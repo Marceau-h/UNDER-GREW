@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1006,fr-ud-train_03255,Le schiste règne ici en maître et fournit non seulement la pierre à ,bâtir, mais aussi le pavé des rues et les lauzes des toits. ,14,bâtir,bâtir,VERB,_,VerbForm=Inf,12,acl,_,Subject=Generic,1

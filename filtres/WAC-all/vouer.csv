@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+127129,480040,L’abbaye s’enrichit et les moines sont rapidement obligés de créer la charge de ,voué, pour protéger l’abbaye.,16.0,voué,vouer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,nmod,14:nmod,_,2.0
+151855,573018,Premier festival cinématographique québécois ,voué," entièrement à l'environnement, le Festival de films de Portneuf sur l'environnement (FFPE) célèbre de façon originale le Jour de la Terre à Saint-Casimir de Portneuf, du 21 au 30 avril 2006.",5.0,voué,vouer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

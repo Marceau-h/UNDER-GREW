@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+113549,428553,"Mettre 1 cuillère dans 1/3 de verre d'eau + 1 cuillère à café de miel la veille, ",remuer, et faire boire le matin à jeun.,20.0,remuer,remuer,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,2.0
+133405,503813,"Le ministre de l'Ecologie Jean-Louis Borloo a testé le dispositif et a confié, un petit peu ",remué,", ses premières impressions: """"on se rend bien compte de ce que ça donne"""".",19.0,remué,remuer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,advcl,14:advcl,SpaceAfter=No,1.0
+244735,922289,"Porter lentement à ébullition, en ",remuant, pour faire fondre le sucre.,7.0,remuant,remuer,VERB,VERB,Tense=Pres|VerbForm=Part,1.0,advcl,1:advcl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+206468,779053,La Lutte contre la Douleur - une demande fondamentale des Patients : Nous avons ,dÃ,©jÃ une longue pratique dans le domaine de la lutte contre la douleur.,15.0,dÃ,dã,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0

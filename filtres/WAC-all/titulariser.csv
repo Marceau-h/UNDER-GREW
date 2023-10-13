@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+70228,265035,"JO du 11-09-2001, p. 14510 M. Michel de Fornel, maître de conférences de l'EHESS, est nommé et ",titularisé, en qualité de directeur d'études de l'EHESS des hautes études en sciences sociales à compter du 1er mars 2001.,26.0,titularisé,titulariser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,24.0,conj,24:conj,_,2.0

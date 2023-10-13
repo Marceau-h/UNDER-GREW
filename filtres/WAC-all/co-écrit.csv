@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+10549,39425,Le musicien avait notamment écrit ou ,co-écrit," plusieurs pièces sur ces disques dont """"You Could Be Mine"""" et """"Don't Cry"""".",7.0,co-écrit,co-écrit,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,conj,5:conj,_,1.0
+102519,386945,"Pour la télévision, il a également conçu et ",co-écrit, pendant trois ans la série It's Garry Shandling's Show.,10.0,co-écrit,co-écrit,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,2.0

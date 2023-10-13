@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+98399,371340,De toutes les raisons ou tous les faits qui nourrissent et ,aiguisent," le ras-le-bol des Irakiens, on retiendra d'abord celle-ci : rien n'a changé depuis trois ans.",12.0,aiguisent,aiguiser,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,10.0,conj,10:conj,_,1.0

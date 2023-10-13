@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+42931,161799,Dès que je tape = dans une cellule il ,plante, et se ferme automatiquement .,10.0,plante,pler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+245470,925038,"Apparemment ça peut être lié à la quantité de mémoire prise par l'application, mais ça, c'est un symptôme, pas une cause (si Mozilla ",plante," quand il n'y a plus de RAM, c'est quand même un bug).",30.0,plante,pler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,45.0,advcl,45:advcl,_,2.0

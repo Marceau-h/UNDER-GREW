@@ -1,0 +1,16 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+17280,64711,Son signe particulier est qu’il ,nage," très bien, il dort en bordure de rivière.",7.0,nage,nager,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,ccomp,4:ccomp,_,1.0
+43424,163661,Les filles ont superbement ,nagé,", s'est félicitée leur entraîneur Julie Fabre.",5.0,nagé,nager,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0
+51214,193182,"De ce fait, ils sont incapables de ",nager, comme le font tous les autres poissons et se déplacent par bonds sur le substrat.,9.0,nager,nager,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,_,1.0
+75151,283018,Ses amis l'ont vu ,nager, avant de sombrer dans l'eau.,6.0,nager,nager,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,1.0
+90610,341333,Les encouragements de la foule m'ont aidé à ,nager," plus vite a dit Oriwol, de retour au Québec depuis deux ans après des séjours à Toronto et en Californie où il a été diplômé à l'Université Stanford.",10.0,nager,nager,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,_,1.0
+104229,393320,Pour améliorer ses aptitudes à ,nager,", il dispose également de pattes palmées en U plus longues sur leurs bords latéraux, les pattes avant étant toujours plus courtes que les pattes arrière.",6.0,nager,nager,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,SpaceAfter=No,1.0
+195734,738378,"Passionné de théâtre et de boxe, il a continué à ",nager, jusqu'à l'âge de 102 ans.,12.0,nager,nager,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,_,1.0
+209891,791312,Jean Murin a témoigné dans l'ouvrage de Jean Meyer : «Je ,nage," sans penser, obéissant à l'instinct de conservation...",14.0,nage,nager,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,4.0,advcl,4:advcl,_,1.0
+214176,807692,"Pour développer leur agilité, les enfants ",nagent, et grimpent aux arbres.,8.0,nagent,nager,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+219417,827323,"Il nage vers le mâle, lui passe derrière et essait de lui monter sur le dos. Cela semble déplaire au mâle qui se met à ",nager, en tournant sur lui-même comme pour l'empêcher de tourner.,28.0,nager,nager,VERB,VERB,VerbForm=Inf,26.0,xcomp,26:xcomp,_,1.0
+228471,861842,"Dès que le courant est moins fort, ",nagez, parallèlement à la rive en vous en approchant doucement.,9.0,nagez,nager,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,3.0
+244509,921513,"Parmi les possibilités de jeu, il est toujours possible de sauter, courir, ramper, grimper, ",nager,", tirer sur des adversaires...",20.0,nager,nager,VERB,VERB,VerbForm=Inf,12.0,conj,12:conj,SpaceAfter=No,1.0
+251510,947474,"Jeu de mots entre le sens propre """" nager """" dans l'eau et figuré """" ",nager," dans """" = être dans la plénitude d'un sentiment. p 46 :",9.0,nager,nager,VERB,VERB,VerbForm=Inf,6.0,acl,6:acl,_,2.0
+251511,947474,"Jeu de mots entre le sens propre """" ",nager," """" dans l'eau et figuré """" nager dans """" = être dans la plénitude d'un sentiment. p 46 :",9.0,nager,nager,VERB,VERB,VerbForm=Inf,6.0,acl,6:acl,_,2.0
+257783,971516,Car il était certain que la vice-championne olympique de cette distance devait ,nager, plus vite pour accéder parmi les huit finalistes.,13.0,nager,nager,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,_,1.0

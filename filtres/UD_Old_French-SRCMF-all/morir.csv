@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1440,12130,Qu'il crient sa poinne avoir perdue Se ,mort," ou vif ne le retient, ",9,mort,morir,VERB,VERppe,Tense=Past|VerbForm=Part,14,amod,_,XmlId=w_YvainKu_6205,1
+1526,12274,"Que son seignor en voit porter Devant li, en la biere, ",mort,", Don ja ne cuide avoir confort ; ",14,mort,morir,VERB,VERppe,Tense=Past|VerbForm=Part,3,acl,_,SpaceAfter=No|XmlId=w_YvainKu_8022,1
+1530,12282,"Que li sans chauz, clers, et vermauz Rissi au ",mort, parmi la plaie ; ,12,mort,morir,VERB,VERppe,Tense=Past|VerbForm=Part,10,ccomp,_,XmlId=w_YvainKu_8139,1
+1618,12506,"- Certes, fet il, ma dolce amie, ",Morir," n'i voldroie je mie, ",11,Morir,morir,VERB,VERinf,VerbForm=Inf,0,root,_,XmlId=w_YvainKu_10869,3
+1989,13475,Les vis desor les ,morz," roelent, Qui s'antrafolent et ocïent ; ",5,morz,morir,VERB,VERppe,Tense=Past|VerbForm=Part,6,advcl,_,XmlId=w_YvainKu_22890,1

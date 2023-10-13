@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+16392,61225,"Placer votre argent de poche, ",économiser, pour acheter la prochaine génération de console de jeux ou votre prémière voiture...,7.0,économiser,économiser,VERB,VERB,VerbForm=Inf,1.0,conj,1:conj,_,1.0
+54704,205875,Le poids ainsi ,économisé," permet de transporter quinze passagers supplémentaires par vol. Une fois de plus, les chercheurs se sont inspirés de la nature.",4.0,économisé,économiser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+73212,276012,J'ai passé toute ma vie à ,économiser, pour pouvoir offrir à ma famille cette maison.,8.0,économiser,économiser,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,1.0
+91173,343568,Si le parlement décide d',économiser,", le conseiller d'Etat doit prendre acte et fixer ensuite les priorités dans sa direction.",6.0,économiser,économiser,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,SpaceAfter=No,1.0
+105662,398810,Le milliard ainsi ,économisé," pourrait servir à financer des crèches ou des panneaux solaires, a plaidé en vain Geri Müller (Verts/AG).",4.0,économisé,économiser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+126002,475863,Une autre façon d',économiser, est due à la réduction du pic de charge.,5.0,économiser,économiser,VERB,VERB,VerbForm=Inf,3.0,acl,3:acl,_,1.0

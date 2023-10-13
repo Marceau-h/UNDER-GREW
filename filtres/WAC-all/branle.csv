@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+162511,612834,"Un peu plus loin, en haut de la butte, se trouvent un autre mégalithe en équilibre, surnommé """"la roche qui ",branle,", une chapelle et un chemin de croix.",25.0,branle,branle,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,23.0,acl:relcl,23:acl:relcl,SpaceAfter=No,1.0

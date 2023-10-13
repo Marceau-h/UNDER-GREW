@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4341,16188,"La notation UML sur les diagrammes d'états comprend les notions d'état de départ, de sortie, ",imbriqué,", historisé, concurrents...",20.0,imbriqué,imbriquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13.0,conj,13:conj,SpaceAfter=No,1.0
+69777,263384,Les remarques qui précèdent me conduisent à suggérer une analyse du domaine viaire qui articule trois approches fortement ,imbriquées,": la voirie en tant qu'espace, la voirie en tant qu'infrastructure, la voirie en tant que réseau.",19.0,imbriquées,imbriquer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,17.0,acl,17:acl,SpaceAfter=No,1.0

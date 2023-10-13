@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+159677,602149,"De nombreux conseils pratiques y sont délivrés, avec humour et poésie, pour que jardiniers """"en herbe"""" comme spécialistes confirmés sachent choisir, soigner et ",choyer, leurs plantes ou leurs cultures.,29.0,choyer,choyer,VERB,VERB,VerbForm=Inf,25.0,conj,25:conj,_,1.0

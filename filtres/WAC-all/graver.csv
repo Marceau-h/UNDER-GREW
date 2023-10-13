@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+77210,290597,"Son système, appelé phonographe, fonctionne avec un cylindre de cire ",gravé, et manipulé à la main.,13.0,gravé,graver,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0
+84487,317586,"La céramique présente d’innombrables variantes (en fonction de la morphologie et de la décoration imprimée, ",gravée, ou peinte).,19.0,gravée,graver,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,17.0,conj,17:conj,_,1.0
+176323,665080,"On y trouve les noms de 22 haberts, dont celui de Pravouta, sur lequel on peut voir encore ",gravée, la date de 1698.,21.0,gravée,graver,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,19.0,xcomp,19:xcomp,_,3.0
+224938,848508,"Toutes les grandes marques de cartouches d'encre, CD et DVD à ",graver,", papiers, accessoires PC Bonnes affaires à saisir.",14.0,graver,graver,VERB,VERB,VerbForm=Inf,6.0,acl,6:acl,SpaceAfter=No,3.0

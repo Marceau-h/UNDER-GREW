@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+126087,476203,Le préfet prend et ,notifie, ainsi un arrêté de consignation à l'égard de l'exploitant répondant de la somme nécessaire aux travaux ainsi prescrits.,5.0,notifie,notifier,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,conj,3:conj,_,1.0
+145486,548987,"La publication du nouveau gouvernement relève de la décision du chef de l'Etat congolais de porter des ajustements significatifs à la composition, au fonctionnement et aux missions du gouvernement, a ",notifié, M. Mvouba.,34.0,notifié,notifier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,parataxis,6:parataxis,_,1.0
+215069,811014,L'UE veut s'aligner sur les USA et introduire une obligation de ,notifier, 24h à l'avance les envois de marchandises provenant de pays tiers.,14.0,notifier,notifier,VERB,VERB,VerbForm=Inf,12.0,acl,12:acl,_,2.0

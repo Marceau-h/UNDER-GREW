@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+151271,570894,"Les autorités américaines ont accusé à plusieurs reprises le régime chiite iranien d'ingérence en Irak où la majorité chiite, longtemps ",opprimée,", est maintenant au pouvoir.",23.0,opprimée,opprimer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,19.0,acl,19:acl,SpaceAfter=No,1.0
+237006,893501,"Le """"despotisme légal"""" s'oppose au """"despotisme arbitraire"""" qui « se sert de sa supériorité pour ",opprimer, » en édictant des lois positives non conformes aux lois de la nature.,21.0,opprimer,opprimer,VERB,VERB,VerbForm=Inf,16.0,advcl,16:advcl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+181023,683213,L'idée et l'ambition de ce premier événement sont de favoriser un réseau : de permettre aux juristes et avocats européens de ,mutualiser, et de communiquer sur le droit et les problématiques liés aux logiciels libres/open source.,24.0,mutualiser,mutualiser,VERB,VERB,VerbForm=Inf,17.0,xcomp,17:xcomp,_,1.0

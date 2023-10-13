@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+31355,118146,"Mais on peut tout de même saluer le sang-froid des défenseurs du Champagne qui n'outragent personne, et vont dans le calme à Angers ",interjeter,", comme dit la basoche, un appel indigné mais qu'on devine pauvre d'espoir.",28.0,interjeter,interjeter,VERB,VERB,VerbForm=Inf,22.0,xcomp,22:xcomp,SpaceAfter=No,1.0

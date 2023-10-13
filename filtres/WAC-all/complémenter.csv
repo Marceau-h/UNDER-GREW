@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+201007,758524,Le produit contenant une protéine spéciale pourrait ,complémenter,", voire remplacer les préservatifs.",8.0,complémenter,complémenter,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,SpaceAfter=No,1.0

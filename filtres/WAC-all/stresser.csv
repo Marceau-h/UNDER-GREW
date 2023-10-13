@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+123134,465309,"Les villes, qui étaient des foyers de culture et de civilisation, sont de plus en plus stressantes, ",stressées,", polluées.",21.0,stressées,stresser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,19.0,advcl,19:advcl,SpaceAfter=No,1.0
+179845,678502,"Ils ont trouvé la centaine de chiens, crasseux et ",stressés,", dans un bâtiment aménagé en chenil à Brigstock.",11.0,stressés,stresser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,9.0,conj,9:conj,SpaceAfter=No,3.0

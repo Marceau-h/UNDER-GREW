@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+19136,71818,"Depuis l&#8217;arrivée d&#8217;Internet en France (milieu des années 1995), le terme de télématique est daté et fortement ",connoté," """"&#160;Minitel&#160;"""".429.",21.0,connoté,connoter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,18.0,conj,18:conj,_,1.0

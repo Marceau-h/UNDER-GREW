@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2006,fr-ud-train_08135,"Dans ce rapport de force, remarquait Hegel, l'esclave est toujours sûr de ",gagner, pour la bonne raison qu'en tant qu'esclave il n'a rien à perdre. ,16,gagner,gagner,VERB,_,VerbForm=Inf,14,xcomp,_,Subject=SubjRaising,2

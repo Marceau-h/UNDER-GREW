@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+107851,407069,"Après avoir fait vérifier que la zone n'était pas minée, le capitaine Todd confia une mission de reconnaissance au Winslow lui prescrivant d'examiner notamment si le vapeur ",amarré, le long du quai était ou non un navire de guerre ennemi.,31.0,amarré,amarrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,30.0,acl,30:acl,_,1.0

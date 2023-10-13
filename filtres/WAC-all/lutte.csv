@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+25472,95397,"L'ancien codirecteur de campagne de Ségolène Royal, Jean-Louis Bianco, ",lutte, pour conserver son siège.,13.0,lutte,lutte,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+111877,422176,"Elle se propose de faciliter l'accès des personnes homosexuelles à la santé, aux soins, etc... mais également contribue à l'acceptation de soi et ",lutte, contre la marginalisation.,29.0,lutte,lutte,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,22.0,conj,22:conj,_,1.0
+227724,858949,L'amour qui ne ,lutte," pas, qui ne connait pas d'ennemi.",5.0,lutte,lutte,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,acl:relcl,2:acl:relcl,_,1.0
+249957,941692,"Un forfait dans le Grand Chelem anglais, où elle a remporté la plus belle victoire de sa carrière en 2006, serait un nouveau coup dur pour l'ex-N.1 mondiale, qui ",lutte, pour retrouver son meilleur niveau.,36.0,lutte,lutte,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,32.0,acl:relcl,32:acl:relcl,_,1.0

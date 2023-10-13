@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+156068,588712,"Moi je propose WikiAнтология, juste parce que, d'abord, ",na,", épicétou.",13.0,na,ner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15.0,dep,15:dep,SpaceAfter=No,1.0

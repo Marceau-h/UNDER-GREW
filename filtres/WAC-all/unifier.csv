@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+36738,138280,Le pays enfin ,unifié,", cohérent, sous l'emprise d'une administration forte réalise d'immenses ouvrages, que ce soit dans l'architecture ou la sculpture.",4.0,unifié,unifier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+105469,398053,"Et là est votre destinée, et aussi le fil directeur de vos différentes missions : prévenir et ",unifier, les races ayant réussi à faire basculer une première fois les Ombres.,19.0,unifier,unifier,VERB,VERB,VerbForm=Inf,17.0,conj,17:conj,_,3.0
+116826,441041,"Cette solution, d'une communauté humaine librement associée et ",unifiée,", c'est le communisme.",11.0,unifiée,unifier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,SpaceAfter=No,1.0

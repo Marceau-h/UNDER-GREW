@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+77245,290725,"Ajouter une cuillerée à soupe de bouillon aux bolets, bien ",déglacer, et les ajouter au porto.,12.0,déglacer,déglacer,VERB,VERB,VerbForm=Inf,1.0,xcomp,1:xcomp,_,1.0

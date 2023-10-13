@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+36606,137718,La moitié des 634 espèces de primates de la planète risque de ,disparaitre,", d'après un rapport de la Société internationale de primatologie, réunie en congrès en Ecosse.",13.0,disparaitre,disparaitre,VERB,VERB,VerbForm=Inf,11.0,xcomp,11:xcomp,SpaceAfter=No,1.0
+41646,157118,Le joueur peut également tirer dessus ; la canette commencera à ,disparaitre,", mais rapportera 1000 points si Duke la rattrape.",12.0,disparaitre,disparaitre,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,SpaceAfter=No,1.0
+181298,684356,"Le trio les dépasse et force les Allemands qui les surveillent à avancer plus vite devant leur véhicule, laissant sans surveillance les soldats français, qui s'empressent de ",disparaitre, dans le bois longeant la route.,31.0,disparaitre,disparaitre,VERB,VERB,VerbForm=Inf,29.0,xcomp,29:xcomp,_,1.0

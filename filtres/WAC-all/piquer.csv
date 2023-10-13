@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+115829,437255,"Les moustiques femelles, qui ",piquent," surtout pour se procurer le sang nécessaire à la production de leurs œufs, doivent au moins prendre le temps de digérer leur repas sanguin, de trouver un site de ponte adéquat et d'y déposer leurs œufs.",6.0,piquent,piquer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,2.0,acl:relcl,2:acl:relcl,_,1.0
+126744,478609,Ribeiro a dit ne pas savoir quelle mouche avait ,piqué," le défenseur Nick Boynton, qui s'en est pris à lui en deuxième période.",10.0,piqué,piquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,ccomp,6:ccomp,_,1.0
+150042,566212,Asada a raté sa combinaison triple Flip - triple boucle ,piqué, avant de dérouler le reste de son programme proprement.,11.0,piqué,piquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,2.0
+182223,687691,"Ricco dit """"le Cobra"""" cessera de ",piquer, pendant un moment.,9.0,piquer,piquer,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,_,1.0

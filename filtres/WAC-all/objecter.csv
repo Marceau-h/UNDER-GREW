@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+67505,254846,"Des gens emprunteront l'identité virtuelle d'une autre personne», a ",objecté, un informaticien présent dans la salle.,14.0,objecté,objecter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,parataxis,3:parataxis,_,1.0
+87417,328909,"C'est un peu facile de dire que la révision vient à contretemps"""", ",objecte," André Kuhn, professeur de criminologie et de droit pénal à l'Université de Lausanne.",16.0,objecte,objecter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,parataxis,5:parataxis,_,3.0

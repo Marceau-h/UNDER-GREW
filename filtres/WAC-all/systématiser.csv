@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+35976,135370,"Cependant d'autres courants théoriques s'attachent au contraire à justifier, expliquer et ",systématiser," cette diversité des marchés : théories de la segmentation, école de la régulation, économie des conventions.",15.0,systématiser,systématiser,VERB,VERB,VerbForm=Inf,11.0,conj,11:conj,_,1.0

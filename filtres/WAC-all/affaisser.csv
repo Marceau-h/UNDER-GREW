@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+97046,365978,Une partie du terre-plein du port de Toliara s'est ,affaissée,", provoquant quelques perturbations des embarquements et des débarquements des marchandises.",13.0,affaissée,affaisser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0
+113740,429196,La charpente s'est ,affaissée, en tournant à cause du poids excessif de la couverture.,5.0,affaissée,affaisser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

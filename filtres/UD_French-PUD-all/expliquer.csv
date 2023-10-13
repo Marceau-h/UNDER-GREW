@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+72,n01122024,"« Les super-héros restent au-delà de l’expérience humaine, et ça aussi, alors je l’ai traité comme un drame », a ",expliqué, Zimmer. ,26,expliqué,expliquer,VERB,VBN,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,1

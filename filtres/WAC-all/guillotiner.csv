@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+149077,562654,"Il n'en fut pas moins accusé de trahison par le Comité de salut public pour avoir offert sa démission ; traduit devant le tribunal révolutionnaire, il fut arrêté et ",guillotiné, le 31 décembre 1793 place de la Révolution à Paris.,32.0,guillotiné,guillotiner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,30.0,conj,30:conj,_,3.0

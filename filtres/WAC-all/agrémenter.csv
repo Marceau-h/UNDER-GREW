@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+20897,78288,Plus besoin de sortir du métro pour déguster un croissant ou acheter son journal : de plus en plus de commerces et de distributeurs dans les stations pour faciliter et ,agrémenter, votre déplacement.,31.0,agrémenter,agrémenter,VERB,VERB,VerbForm=Inf,29.0,conj,29:conj,_,1.0
+28952,108894,La fanfare de la Commune était là pour ,agrémenter, et donner à la fête toute sa splendeur.,9.0,agrémenter,agrémenter,VERB,VERB,VerbForm=Inf,6.0,advcl,6:advcl,_,1.0
+81245,305463,"Chaque module, décoré suivant le style de l'époque, replonge le public dans une ambiance particulière, ",agrémentée," et enrichie d'animations visuelles, sonores et parfois odorantes.",20.0,agrémentée,agrémenter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,17.0,acl,17:acl,_,1.0

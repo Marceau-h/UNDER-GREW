@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+32226,121416,L'application de Line Planning définit et ,structure, la collection autour des objectifs stratégiques et économiques de l'entreprise.,8.0,structure,structure,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,conj,6:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+14,n01024013,Les résultats de cette expérience étayent le fait que des graines de roquettes peuvent être envoyées et ,conservées, pendant 6 mois dans la Station Spatiale Internationale sans avoir d'effet néfaste sur leur capacité à germer et pousser sur Terre. ,18,conservées,conserver,VERB,VBN,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,16,conj,_,_,1

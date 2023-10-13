@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+38,annodis.er_00304,"Cette animation, qui comporte trois tours, dont le prochain aura lieu à Faulx (date à ",définir,") et le troisième le 1er mai, à Nomeny, est destinée à montrer une première approche de la compétition à tous ces petits sportifs. ",19,définir,définir,VERB,_,VerbForm=Inf,17,acl,_,SpaceAfter=No|Subject=Generic,1

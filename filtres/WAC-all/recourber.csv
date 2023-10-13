@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+264734,997820,"Enfin, on trouve des poignée de toutes formes : droite, ",recourbée," comme une canne classique ou légérement en avant, en forme de pommeau ergonomique ou en béquille derby[27].",13.0,recourbée,recourber,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,11.0,conj,11:conj,_,1.0

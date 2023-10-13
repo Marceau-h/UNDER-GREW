@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+168669,636128,"Et, quand je travaille avec des artistes, je leur file tout : je n'essaie pas de colmater une construction qui ",ami," ou un travail que j'aime dans un ensemble plus complexe, l'artiste a l'entière responsabilité de son travail.",24.0,ami,ami,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,22.0,acl:relcl,22:acl:relcl,_,1.0

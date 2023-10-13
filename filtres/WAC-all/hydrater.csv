@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+105408,397762,"Un soin unique pour sublimer, ",hydrater,", bronzer.",7.0,hydrater,hydrater,VERB,VERB,VerbForm=Inf,5.0,conj,5:conj,SpaceAfter=No,1.0

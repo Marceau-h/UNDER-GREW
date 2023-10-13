@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+38616,145390,"Pour 150 FF (23 Euros), vous pouvez acquérir un des ces systèmes composés d'une cloche de diffusion à membrane poreuse qui se """"ventouse"""" sur une paroi, la petite bouteille de CO2 faiblement ",pressurisée, et le tuyau reliant la bouteille à la cloche.,40.0,pressurisée,pressuriser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,36.0,acl,36:acl,_,1.0

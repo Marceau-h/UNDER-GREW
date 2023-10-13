@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+110074,415305,"Le judaïsme comporte une liturgie riche en prières et bénédictions, ",récitées, lors de circonstances quotidiennes ou particulières.,12.0,récitées,réciter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0
+196995,743174,"Les enfants de l'établissement situé à Mchinji, un village près de la frontière zambienne, ont chanté et ",récité," des leçons pour la chanteuse, alors que sa fille Lourdes les filmait.",21.0,récité,réciter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,19.0,conj,19:conj,_,1.0
+226709,855148,"Selon la proposition, le texte pourrait être chanté ou ",récité, lors des événements importants du Québec.,11.0,récité,réciter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,_,1.0

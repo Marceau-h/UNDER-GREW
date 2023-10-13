@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+246235,927993,"Derek Anderson a lancé deux passes de touché et Joe Jurevicius a recouvré deux bottés courts en fin de match, dimanche, alors que les Browns de Cleveland se sont ",cramponnés, pour finalement l'emporter 24-18 contre les Jets de New York.,32.0,cramponnés,cramponner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,13.0,advcl,13:advcl,_,1.0

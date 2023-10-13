@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+206418,778875,J'ai pensé que ces martinets s'étaient ainsi ,agglutinés, pour se protéger de la pluie.,10.0,agglutinés,agglutiner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,3.0,ccomp,3:ccomp,_,1.0

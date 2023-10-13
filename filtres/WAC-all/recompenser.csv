@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+180763,682176,"Le défenseur champion du monde arriverait en tête (498 voix) devant Zinedine Zidane (454), déjà trois fois ",recompensé," (1998, 2000, 2003) et Ronaldinho (380), élu en 2004 et 2005.",23.0,recompensé,recompenser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,22.0,acl,22:acl,_,1.0

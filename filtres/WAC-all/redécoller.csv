@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+12228,45713,L'aile gauche a touché le sol et le pilote a décidé de ,redécoller,"», a expliqué le porte-parole de la compagnie, Thomas Jachnow.",14.0,redécoller,redécoller,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,SpaceAfter=No,1.0
+166834,628997,"Un temoin, Ialmo Junior Matos, vendeur de matériel électronique, a raconté à l'AFP que """"l'avion a accéléré en arrivant au bout de la piste d'atterrissage et a tenté de ",redécoller,", mais c'est alors qu'il est entré dans le batiment et a explosé"""".",37.0,redécoller,redécoller,VERB,VERB,VerbForm=Inf,35.0,xcomp,35:xcomp,SpaceAfter=No,1.0
+168728,636343,Vraiment contente que sa carrière ait enfin ,redécoller,", c'est un des meilleurs acteurs de sa génération!",8.0,redécoller,redécoller,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,ccomp,2:ccomp,SpaceAfter=No,1.0

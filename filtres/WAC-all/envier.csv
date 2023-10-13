@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+211791,798661,Et la prestation de la jeune actrice Eun Seo-woo n'a pas grand chose à ,envier,", même si elle est moins spectaculaire, à celle de son aînée Linda Blair dans The Exorcist.",18.0,envier,envier,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,SpaceAfter=No,2.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+264015,994995,Les résultats sportifs indéfiniment ,retransmis," et répétés accentuent le goût de la """" nouvelle """" : une information toujours réactualisée, rampante, omniprésente, celle qui caractérise la société d'aujourd'hui.",5.0,retransmis,retransmettre,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

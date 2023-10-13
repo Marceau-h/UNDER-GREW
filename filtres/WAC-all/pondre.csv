@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+47730,180014,L'activité plus tardive des individus ayant ,pondu, ne semble pas en relation avec l'heure de la ponte.,8.0,pondu,pondre,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0
+89693,337805,La reine arrête de ,pondre, pour accoucher comme un mammifère d'un Alien humanoïde.,5.0,pondre,pondre,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,1.0
+104470,394203,"Elles atteignent leur maturité sexuelle avant les autres, commencent à ",pondre," plus tôt et, pour une raison quelconque, en plus grandes quantités.",12.0,pondre,pondre,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,_,1.0
+108474,409452,Au moment de ,pondre,", la femelle choisit une feuille envahie de pucerons.",4.0,pondre,pondre,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,SpaceAfter=No,1.0
+141945,535819,"Les abeilles (reine, ouvrières ou faux bourdons) sont toutes issues au départ d'un oeuf minuscule ",pondu, et déposé par la reine dans une alvéole.,20.0,pondu,pondre,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,18.0,acl,18:acl,_,1.0

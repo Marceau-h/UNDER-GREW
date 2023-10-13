@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+69119,260948,Ces enfants du siècle sont des enfants ,gatés,", lisant le monde comme leurs manuels de khâgne.",8.0,gatés,gater,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,7.0,acl,7:acl,SpaceAfter=No,1.0

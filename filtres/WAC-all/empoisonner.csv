@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+234277,883305,"Encore un cadeau """" ",empoisonné," """" de l'ancienne municipalité.",5.0,empoisonné,empoisonner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,1.0

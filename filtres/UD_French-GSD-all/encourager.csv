@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2481,fr-ud-train_10507,Nous sommes fermement opposés à ce qu'un gouvernement étranger ou une personnalité politique soutienne et ,encourage," ces activités"""", avait-il ajouté. ",18,encourage,encourager,VERB,_,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16,conj,_,_,1

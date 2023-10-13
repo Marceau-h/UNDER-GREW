@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+159275,600550,Les rastas ,privilégient, et hiérarchisent les pronoms et pour eux « I » est suprême.,3.0,privilégient,privilégier,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+242100,912505,Le bureau des relations avec les collectivités locales a vu évoluer sa mission traditionnellement ,privilégiée, avec les communes et leurs établissements publics par la mise en &#156;uvre de la loi du 2 Mars 1982.,15.0,privilégiée,privilégier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,13.0,acl,13:acl,_,1.0
+242230,912925,"L'univers du logiciel propriétaire privilégiait, et ",privilégie," toujours, les dépenses marketing à l'investissement dans l'ingénierie.",9.0,privilégie,privilégier,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,conj,6:conj,_,1.0

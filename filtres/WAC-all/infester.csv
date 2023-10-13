@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+169137,637913,"En 1936, il fait son entrée à la Warner Brothers, et fait partie d'une joyeuse bande d'animateurs turbulents (parmi lesquels Chuck Jones ou Bob Clampett) qui s'installent à Termit Terrasse, un bungalow isolé et ",infesté, de termites.,43.0,infesté,infester,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,41.0,conj,41:conj,_,1.0

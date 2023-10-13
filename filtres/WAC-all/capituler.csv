@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+102772,387771,Les chevaliers de Saint Jean de Jérusalem seront contraints de ,capituler, et de quitter l'île le 1er janvier 1523.,11.0,capituler,capituler,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,1.0
+121799,460276,"De même, les autres places européennes ",capitulaient,": Londres reculait de 7,58% et Francfort de 8,71%, tandis que l'Eurostoxx 50 se repliait de 8,64%.",8.0,capitulaient,capituler,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+200600,757005,Les pilotes éreintés et obligés de ,capituler,", rejoignent le rang des spectateurs.",7.0,capituler,capituler,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,SpaceAfter=No,1.0
+213211,804057,"Le point important de l'article de M. BEYLAU est bien celui-ci : """" Si MILOSEVIC a ",capitulé,", c'est en fait parce que l'Otan a infligé des coups décisifs non à l'armée serbe, mais aux infrastructures civiles"""".",18.0,capitulé,capituler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,advcl,12:advcl,SpaceAfter=No,1.0

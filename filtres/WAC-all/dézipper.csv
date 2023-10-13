@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+110109,415437," le n&ordm; 19, le n° 20 et le n°21 sont à ",dézipper, puis à parcourir avec le viewer PDF.,16.0,dézipper,dézipper,VERB,VERB,VerbForm=Inf,12.0,acl,12:acl,_,2.0

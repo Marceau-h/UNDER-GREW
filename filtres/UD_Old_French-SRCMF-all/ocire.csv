@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1966,13444,Et vit assez gisanz par terre Des afolez et des ,ocis,", Des suens et de ses anemis, Et plus des autres que des suens. ",11,ocis,ocire,VERB,VERppe,Tense=Past|VerbForm=Part,8,conj,_,SpaceAfter=No|XmlId=w_YvainKu_22356,1
+2181,13926,"Par po que li preudon n'enrage, Qui ot celui qui a putage Dit que sa fille li metra, Ou or androit, si quel verra, Seront ",ocis, si.iv. fil ; ,31,ocis,ocire,VERB,VERppe,Tense=Past|VerbForm=Part,20,conj,_,XmlId=w_YvainKu_28904,1
+2513,14714,S'ancontre aus vos poez desfandre Et aus endeus vaincre et ,ocirre,", Ma fille a seignor vos desirre, ",12,ocirre,ocire,VERB,VERinf,VerbForm=Inf,6,conj,_,SpaceAfter=No|XmlId=w_YvainKu_38490,1

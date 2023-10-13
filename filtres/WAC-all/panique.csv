@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+40604,153108,Mais l'ESTAC ne ,panique, pas encore et souhaite rééditer sa dernière sortie avec un match nul ramené de Nantes (1-1).,5.0,panique,panique,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,2.0
+215645,813054,Je vais avoir 41 ans (en septembre) et moi aussi je ,panique, parfois en voyant ce que les années nous font !,14.0,panique,panique,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,11.0,dep,11:dep,_,3.0

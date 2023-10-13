@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+179509,677218,"Chipper Jones a également fait marquer quatre points, grâce à un circuit et deux doubles, tandis que les recrues Ryan Langerhans et Kelly Johnson ",cognaient, chacun une longue balle.,27.0,cognaient,cogner,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,6.0,advcl,6:advcl,_,1.0
+209773,790973,"Ceux qui ne font pas attention aux choses, ne les voient guère que pour ne pas s'y ",cogner,", ceux-là sont toujours du même avis, ils sont tout d'une pièce et cohérents.",20.0,cogner,cogner,VERB,VERB,VerbForm=Inf,12.0,ccomp,12:ccomp,SpaceAfter=No,3.0

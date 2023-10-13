@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2111,fr-ud-train_08649,"Dès 1967, les habitants de Boulder devinrent les premiers Américains à se taxer eux-mêmes afin d'acheter et de ",préserver, des espaces verts municipaux autour de la ville (open space). ,21,préserver,préserver,VERB,_,VerbForm=Inf,18,conj,_,Subject=Generic,2

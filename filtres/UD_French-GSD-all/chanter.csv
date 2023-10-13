@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+156,fr-ud-dev_00966,Billie Holiday ne ,chante," pas, elle joue dans tous les sens du terme, elle est à la fois enfant et actrice. ",4,chante,chanter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+2300,fr-ud-train_09693,"Le bandit est promené à travers différentes rues de la ville, accompagné des « Palokis », personnages qui dansent et ",chantent," accompagnés de cornemuses, et d'autres figures qui symbolisent différents métiers de la zone : bergers, agriculteurs, charbonniers... ",24,chantent,chanter,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,22,conj,_,_,1

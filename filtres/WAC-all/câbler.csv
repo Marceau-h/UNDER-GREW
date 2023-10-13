@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2983,11171,Connecteurs SUB-D haute densité à ,câbler," (fig. 1&2), pour le raccordement des écrans vidéo.",6.0,câbler,câbler,VERB,VERB,VerbForm=Inf,1.0,acl,1:acl,_,1.0
+178004,671404,"Son grand intérêt est qu'il ne nécessite que la fonction de chiffrement, ce qui le rend moins cher à ",câbler, ou programmer pour les algorithmes ayant une fonction de chiffrement différente de la fonction de déchiffrement (exemple: AES).,22.0,câbler,câbler,VERB,VERB,VerbForm=Inf,20.0,xcomp,20:xcomp,_,2.0
+208508,786487,"L'activité """"",câblé, était la principale puisqu'elle générait un chiffre d'affaires de 2 milliards et occupait 2000 des salariés.,4.0,câblé,câbler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+226592,854609,Toujours présent sur les chaînes ,câblées," et en aéroport, Accenture s'ouvre à de nouveaux médias, comme la presse économique magazine et Internet.",6.0,câblées,câbler,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,3.0

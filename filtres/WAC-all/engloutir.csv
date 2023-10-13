@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+121329,458488,Un animal (réel ou imaginaire) peut être engoulant (c’est-à-dire ,engloutissant,) une pièce secondaire.,18.0,engloutissant,engloutir,VERB,VERB,Tense=Pres|VerbForm=Part,10.0,conj,10:conj,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+20606,77227,On trouve aussi des optimisations pour réduire la fragmentation de la mémoire (notamment pour les machines qui ,reboot, rarement).,19.0,reboot,reboot,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17.0,acl:relcl,17:acl:relcl,_,2.0

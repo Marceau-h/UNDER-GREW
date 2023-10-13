@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+147759,557632,"Ainsi, le dernier épisode de fièvre aphteuse en Bretagne en 1981 était dû au passage du virus vaccinal (mal ",inactivé,") d'un cheptel de bovins (qui régulièrement vaccinés, étaient immunisés) à une exploitation porcine voisine.",22.0,inactivé,inactiver,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,18.0,acl,18:acl,SpaceAfter=No,3.0

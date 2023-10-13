@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+88229,332045,Mais l'équipe ne s'est jamais ,affolée, et elle est restée solidaire jusqu'au bout.,8.0,affolée,affoler,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+118234,446743,Une situation complexe qui ne semble pas perturber Frédéric Antonetti. « Je ne m',affole," pas , explique le coach des Aiglons dans L'Equipe .",16.0,affole,affoler,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

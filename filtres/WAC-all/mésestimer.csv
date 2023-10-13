@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+42262,159410,Ce fut une incroyable démonstration par l'un des joueurs les plus ,mésestimés," du baseball, et peut-être un peu intimidante pour ses rivaux.",13.0,mésestimés,mésestimer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0

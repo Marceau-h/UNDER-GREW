@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+5262,19570,"Dans un magasin, la distinction entre les articles ",soldés, et non soldés doit clairement apparaître aux yeux du consommateur et les limitations de garantie sont illégales.,10.0,soldés,solder,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,2.0
+5263,19570,"Dans un magasin, la distinction entre les articles soldés et non ",soldés, doit clairement apparaître aux yeux du consommateur et les limitations de garantie sont illégales.,10.0,soldés,solder,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,2.0

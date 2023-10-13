@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+86573,325706,"Les colliers qui mettent en valeur le costume créole sont aussi légion : chaîne de forçat(faite de mailles ovales, creuses et ",emboîtées,"), grain d'or, les colliers choux, etc. On trouve aussi de nombreux bracelets rivalisant de beauté.",23.0,emboîtées,emboîter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,21.0,conj,21:conj,SpaceAfter=No,1.0
+232760,877455,"Posé sur une """"rotule"""", il est constitué de vingt tubes métalliques, ",emboîtés, et arrimés les uns au dessus des autres.,16.0,emboîtés,emboîter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,13.0,acl,13:acl,_,3.0

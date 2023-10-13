@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+18410,68976,Ces systèmes MLS peuvent explicitement étiqueter les paquets à ,expédier,", ou l'ensemble du réseau d'origine peut avoir des caractéristiques de sensibilité associées à cela.",10.0,expédier,expédier,VERB,VERB,VerbForm=Inf,8.0,acl,8:acl,SpaceAfter=No,1.0
+56344,212092,"En 2004, suite à un bêta test plutôt vite ",expédié,", le jeu sort.",11.0,expédié,expédier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl,7:acl,SpaceAfter=No,2.0
+96373,363510,"Une table ronde, à Toulon, moins """"",expédiée," que d'habitude, l'absence des Ray-Ban sur les photos de son voyage en Afrique du Sud, la quasi-disparition des clichés de jogging et du gros chronographe à son poignet.",10.0,expédiée,expédier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+235678,888576,Les consoles affectées par ce type de problème pourront être réparées et ,expédiées, gratuitement.,13.0,expédiées,expédier,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,11.0,conj,11:conj,_,1.0

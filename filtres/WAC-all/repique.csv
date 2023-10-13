@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+125339,473421,"Bonne prise de balle sur la droite de Darcheville, qui ",repique, et adresse une lourde frappe du gauche aux seize mètres.,12.0,repique,repique,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7.0,acl:relcl,7:acl:relcl,_,1.0

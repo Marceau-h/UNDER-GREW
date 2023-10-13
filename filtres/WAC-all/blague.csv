@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+245600,925609,"Et de plus, si j'ai envie de traiter un anglicisme d'ignoble, je revendique ma liberté d'expression ArséniureDeGallium 8 février 2006 à 10:53 (CET) Eh, je ",blague,", hein !",34.0,blague,blague,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

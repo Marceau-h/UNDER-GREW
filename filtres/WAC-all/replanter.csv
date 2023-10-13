@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+205758,776365,La politique consistant à leur faire acheter des semences qu'ils pouvaient auparavant ,replanter, eux-mêmes menace leur survie.,14.0,replanter,replanter,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,_,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+53728,202537,"Une croix rouge sur un fond blanc avec une main rouge, sur une étoile à six branches et ",couronnée,", représentant les 6 comtés d'Irlande du Nord.",20.0,couronnée,couronner,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,15.0,conj,15:conj,SpaceAfter=No,3.0
+255513,962898,"Leur pointe effilée, plaquée or et « ",couronnée," », assure en effet un maximum d'adhérence pour des tests sur des surfaces à haute densité de composants.",9.0,couronnée,couronner,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5.0,conj,5:conj,_,1.0
+255588,963163,"Zidane (1998, 2000, 2003) et Ronaldinho (2004, 2005) sont les deux seuls joueurs déjà ",couronnés, présents dans cette présélection.,22.0,couronnés,couronner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,20.0,acl,20:acl,_,1.0

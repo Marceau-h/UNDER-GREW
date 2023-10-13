@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+668,fr-ud-train_01543,La langue utilisée par les scientifiques pour ,décrire, (diagnose originale) et nommer les espèces vivantes est le latin. ,8,décrire,décrire,VERB,_,VerbForm=Inf,3,advcl,_,Subject=Generic,1

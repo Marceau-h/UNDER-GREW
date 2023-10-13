@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+97636,368283,Le narrateur est d'ailleurs un de ceux que la tentation de la sauvagerie commence à ,déshumaniser,", ce qui met le lecteur en situation de reconnaître l'héroïsme de ceux qui résistent jusqu'au bout.",17.0,déshumaniser,déshumaniser,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,SpaceAfter=No,1.0

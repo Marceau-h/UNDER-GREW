@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+67553,255015,On sait que l'eau à 4° est plus lourde que l'eau à 0° la glace monte et ,flotte,", l'eau non gelée reste au fond.",22.0,flotte,flotte,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,20.0,conj,20:conj,SpaceAfter=No,1.0
+116056,438136,"On y apprendra entre autres comment plier des os sans les casser, comment enlever la rouille d'un vieux sou et pourquoi le savon Ivory ",flotte, alors que les autres coulent au fond de la baignoire Ça vous intrigue ?,27.0,flotte,flotte,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,conj,3:conj,_,3.0

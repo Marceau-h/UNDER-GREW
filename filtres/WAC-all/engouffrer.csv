@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+197077,743442,Une idée qui situe bien l'impasse dans laquelle s'est ,engouffrée," sa candidature, son projet politique.",12.0,engouffrée,engouffrer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl:relcl,7:acl:relcl,_,1.0

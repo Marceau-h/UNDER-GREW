@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+85733,322144,"Déjà mal disposés, les citoyens ont vu d'un très mauvais oeil ce projet immobilier, dont la taille est la première ",incriminée," : 237 terrains à bâtir sur 42 hectares, cela correspond à un doublement des habitants du Beau Vallon.",24.0,incriminée,incriminer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,20.0,acl,20:acl,_,2.0

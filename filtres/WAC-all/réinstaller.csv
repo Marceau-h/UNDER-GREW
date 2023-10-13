@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+138611,523131,"La restauration a réussi"""" g déjà fait une restauration, deux scandisk (il a réparé plein d'erreur), désinstallé et ",réinstallé," norton qui à chaque démarrage était désactivé,mais tjrs le même message.",25.0,réinstallé,réinstaller,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,23.0,conj,23:conj,_,1.0

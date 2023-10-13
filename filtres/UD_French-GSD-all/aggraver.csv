@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1524,fr-ud-train_05884,"En 1987, lorsque la situation s'est ",aggravée,", un nouveau groupe directeur s'est chargé de la gestion de l'entreprise qui a adapté l'activité de cette dernière à la réparation et le carrossage de trains, d'autobus et de cars. ",9,aggravée,aggraver,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,17,advcl,_,SpaceAfter=No,1

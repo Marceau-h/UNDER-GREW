@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+17180,64289,"Épicée, pigmentée, piquée de graines, teintée, striée, et même ",mixée,", sous ses doigts la pâte devient tour à tour collier, torque, bague, boucles d'oreilles...",15.0,mixée,mixer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,SpaceAfter=No,1.0
+62782,236882,Assaisonnez le tout et ,mixez, afin d'obtenir une préparation onctueuse.,5.0,mixez,mixer,VERB,VERB,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,1.0,conj,1:conj,_,2.0
+69476,262291,"Trois brigades """"",mixées, ont été déployées dans la province.,4.0,mixées,mixer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+80433,302400,"Le bundle Pro Tools Music Creation Studio offre tout pour enregistrer, éditer, ",mixer, et promouvoir sa musique.,15.0,mixer,mixer,VERB,VERB,VerbForm=Inf,11.0,conj,11:conj,_,1.0
+161181,607708,On mettra au congélateur 2 à 3h et on ,mixera, avant de remettre 2h au froid.,10.0,mixera,mixer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,5.0,conj,5:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+648,Rhap_M0019-5,"euh à côté d'elle, il y a une voiture avec une camionnette en, avec, euh, un monsieur en train de, de ",décharger,", euh, de, en train de décharger des aliments. ",28,décharger,décharger,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,32,reparandum,_,SpaceAfter=No,1

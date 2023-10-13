@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+214752,809845,"Plusieurs dirigeants du Fatah, ",laminé," lors des législatives, se sont d'ores et déjà déclarés hostiles à une cohabitation avec le groupe radical.",6.0,laminé,laminer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

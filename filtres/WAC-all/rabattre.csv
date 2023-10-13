@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+83456,313622,"La Verso souhaite satisfaire sa clientèle friande de modularité en proposant une banquette coulissant sur 15 cm, que l&rsquo;on peut certes ",rabattre," totalement ou en partie, mais que l&rsquo;on peut aussi escamoter en deux parties asymétriques.",23.0,rabattre,rabattre,VERB,VERB,VerbForm=Inf,21.0,xcomp,21:xcomp,_,1.0

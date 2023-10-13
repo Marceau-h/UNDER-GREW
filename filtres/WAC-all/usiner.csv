@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+164728,621042,"La boite à noyau, l’outillage, est réalisé en bois, résine de coulée ou ",usinée,", aluminium, cupro-aluminium, fonte ou acier.",18.0,usinée,usiner,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,16.0,conj,16:conj,SpaceAfter=No,1.0
+170846,644350,Les optiques sont montées sur des barillets en aluminium ,usinés, et assemblés sur des tubes métalliques peints en blanc.,10.0,usinés,usiner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,1.0
+237439,895053,De nombreux matériaux utilisés dans l'industrie sont à la fois homogènes et isotropes (métaux ,usinés, ou bruts de fonderie).,17.0,usinés,usiner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,16.0,acl,16:acl,_,2.0

@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+33107,124879,Certains titres sont parvenus à ,surnager," comme United Airlines qui a bondi de 4,27% à 49,10 dollars.",6.0,surnager,surnager,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0
+44873,169457,Quelques-uns ,surnagent,": Virgin Mobile a """"largement dépassé les 500.000 clients"""", NRJ Mobile en compte 520.000, Tele2 Mobile 450.000 fin septembre, Neuf Mobile 200.000 cet été.",4.0,surnagent,surnager,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,20.0,advcl,20:advcl,SpaceAfter=No,1.0
+145925,550619,La matière qui ,surnage," et les solides qui se sont déposée peuvent être conservés six mois et plusieurs années, pendant lesquels ils subissent une décompositions anaérobie.",4.0,surnage,surnager,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,acl:relcl,2:acl:relcl,_,1.0
+163576,616901,"Par dilution et décantation, on met en évidence dans le ",surnageant, ces formes pré-imaginales.,12.0,surnageant,surnager,VERB,VERB,Tense=Pres|VerbForm=Part,7.0,obl:mod,7:obl:mod,_,1.0

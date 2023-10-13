@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2420,fr-ud-train_10245,"En effet, pour eux, il y a une réelle logique : pourquoi ",payer, alors que tout est en libre accès ? ,15,payer,payer,VERB,_,VerbForm=Inf,9,parataxis,_,Subject=Generic,1

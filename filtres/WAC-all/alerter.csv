@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+28259,106171,C'est notre responsabilité d',alerter,", a ajouté l'élue devant le tribunal correctionnel.",6.0,alerter,alerter,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,SpaceAfter=No,2.0
+30972,116768,"L'intersyndicale se donne """"trois priorités d'action"""": informer, débattre et ",alerter, à la fois l'opinion publique et les parlementaires.,16.0,alerter,alerter,VERB,VERB,VerbForm=Inf,12.0,conj,12:conj,_,1.0
+88687,333893,"Cependant les propriétaires, ",alertés," plus rapidement, ont eu le temps de mettre en fuite les indélicats amateurs de foie gras, avant que la razzia ne soit trop importante.",5.0,alertés,alerter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,10.0,advcl,10:advcl,_,2.0
+249271,939322,"Ces envahisseurs martiens contrôlent l'esprit humain au moyen d'un implant situé dans le cou de leurs victimes.Avec l'infirmiére de son école, le garçon va tenter d'",alerter, et obtenir l'aide de l'armée américaine.,33.0,alerter,alerter,VERB,VERB,VerbForm=Inf,31.0,xcomp,31:xcomp,_,1.0

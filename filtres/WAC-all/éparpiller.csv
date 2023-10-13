@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+99767,376441,"Le mythe de Pan concentre toute la dualité de l'imitation : désir/jalousie, rassembler/",éparpiller,", présence/absence.",19.0,éparpiller,éparpiller,VERB,VERB,VerbForm=Inf,17.0,conj,17:conj,SpaceAfter=No,1.0
+191164,721266,Je travaille avec un grand nombre de collaborateurs ,éparpillés, (géographiquement !).,9.0,éparpillés,éparpiller,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,3.0
+256589,967069,"Les souverainistes appuient, je ne sais trop dans quel but, le Bloc, mais les nationalistes mous, les souverainistes de fin de semaine qui ont quitté le PQ et se sont ",éparpillés,", votent pour les nouveaux autonomistes fédéraux, les conservateurs.",35.0,éparpillés,éparpiller,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,29.0,conj,29:conj,SpaceAfter=No,1.0

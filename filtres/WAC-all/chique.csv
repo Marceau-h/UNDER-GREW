@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+221759,836323,L'usage du tabac est populaire (on ,chique,", on prise, on le fume dans les pipes), il est aussi la marque d'un raffinement bourgeois.",9.0,chique,chique,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,parataxis,6:parataxis,SpaceAfter=No,1.0

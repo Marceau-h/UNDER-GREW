@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+588,Rhap_M2004-59,l'avenir dépend de notre capacité à ,construire,", à créer, à rêver ensemble les voies de l'aventure humaine. ",8,construire,construire,VERB,_,VerbForm=Inf,6,acl,_,SpaceAfter=No|Subject=NoRaising,1

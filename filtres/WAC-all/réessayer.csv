@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+262479,989515,"Le niveau de difficulté était vraiment dur pour débuter, je n'ai jamais pris le temps de ",réessayer, tellement je me trouvais nul face à l'IA :),19.0,réessayer,réessayer,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+123,499,"Pour cela, l'auteur fait observer, dessiner et ",légender, aux élèves une coupe de peau afin de mettre en évidence sa structure en tant que barrière naturelle.,11.0,légender,légender,VERB,VERB,VerbForm=Inf,7.0,conj,7:conj,_,2.0

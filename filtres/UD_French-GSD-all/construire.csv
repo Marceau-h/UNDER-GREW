@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1776,fr-ud-train_06960,"Peu de temps après, le 26 mars 1999, elle fonde son propre parti, baptisé « Citoyens pour ",construire," » et se voulant de tendance non-indépendantiste, progressiste et « accordiste », et s'allie avec la FCCI pour les élections provinciales du 9 mai 1999. ",21,construire,construire,VERB,_,VerbForm=Inf,19,acl,_,Subject=Generic,2

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+116963,441552,"L'ancien dictateur chilien, âgé de 89 ans, s'était ",évanoui, et s'était réveillé à l'hôpital militaire de Santiago.,13.0,évanoui,évanouir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,2.0
+165170,622702,"Je n'arrêtais plus de jouir et je me suis même retrouvée couchée, ",évanouie, pendant quelques instants sur le sol...,15.0,évanouie,évanouir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,13.0,acl,13:acl,_,1.0
+265344,999940,"Et, si on a encore l'art, on ne le comprend qu'à grand peine puisque s'est ",évanoui, le visage propagande.,21.0,évanoui,évanouir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,17.0,acl,17:acl,_,2.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+106013,400044,Nous poursuivrons les recherches jusqu'à ce que nous ayions ,secouru," ou retrouvé tous les disparus"""".",12.0,secouru,secourir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,3.0

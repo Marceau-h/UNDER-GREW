@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+25791,96682,Elle consiste à déposer le minerai concassé et ,aggloméré, dans une large fosse rectangulaire.,9.0,aggloméré,agglomérer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,conj,7:conj,_,3.0
+67705,255585,Cette thèse peut aussi aider à expliquer comment la matière s'est ensuite ,agglomérée," pour former les galaxies, les étoiles et les planètes dans un univers qui a commencé comme une soupe cosmique super-chaude, a-t-il ajouté.",14.0,agglomérée,agglomérer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,7.0,ccomp,7:ccomp,_,1.0
+211280,796717,Henry Bogdan[2] les rattache aux anciens Marcomans de Bohême auxquels se seraient ,agglomérés, quelques peuples germaniques marginaux.,14.0,agglomérés,agglomérer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl:relcl,8:acl:relcl,_,3.0

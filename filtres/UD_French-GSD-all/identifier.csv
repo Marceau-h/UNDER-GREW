@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2490,fr-ud-train_10554,"En général, des processus et des techniques sont disponibles pour ",identifier, et mesurer les habilités et les traits requis dans la sélection et le placement du personnel. ,12,identifier,identifier,VERB,_,VerbForm=Inf,10,advcl,_,Subject=Generic,1

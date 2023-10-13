@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+167782,632673,"Le """"mesnil"""" d' Hildwinus, nom de personne germanique dont ",dérive," le nom de famille Hédouin demeuré en usage dans le centre de la Manche (Fichier Lechanteur) A noter aussi le Hamel-Hédouin à Dragey-Ronthon, commune voisine d'Hudimesnil.",14.0,dérive,dérive,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,acl:relcl,9:acl:relcl,_,3.0
+173804,655559,Ce terme ,dérive, pour désigner les pécheurs dès le milieu du XVe siècle puis tout un bestiaire de créatures imaginaires plus ou moins néfastes ou mystérieuses.,3.0,dérive,dérive,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

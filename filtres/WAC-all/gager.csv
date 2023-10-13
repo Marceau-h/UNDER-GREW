@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+178635,673849,On retrouvera le problème habituel de la recherche de fonds non ,gagés,", mais l'intervenante semblait afficher un certain optimisme sur cet aspect, les dossiers de candidature devant d'emblée permettre de faire un point précis.",12.0,gagés,gager,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,10.0,acl,10:acl,SpaceAfter=No,2.0
+216434,816041,"Nous reviendrons prochainement en détail sur cette grande manifestation qui, ",gageons,"-le, est appelée à un beau succès.",12.0,gageons,gager,VERB,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,17.0,advmod,17:advmod,SpaceAfter=No,1.0

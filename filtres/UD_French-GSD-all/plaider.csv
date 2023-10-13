@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+491,fr-ud-train_00685,"C'est une première étape, qui nous permet d'interpeller les politiques sur ce qu'ils doivent faire », ",plaident, Augustine et Marie. ,22,plaident,plaider,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,5,parataxis:insert,_,_,3
+1225,fr-ud-train_04469,"Si on assume que ce dernier a agi comme particulier et non comme ministre, jamais n'a été recherché que d'autres particuliers ont aussi ",plaidé, pour que leur on livre une station émettrice. ,27,plaidé,plaider,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,20,csubj:pass,_,_,2

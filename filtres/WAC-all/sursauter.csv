@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+83700,314607,La présidente Roslin ,sursaute, lorsqu'elle entend qu'Adama a également mis en branle les Vipers de la patrouille de combat de la flotte pour aider les recherches de Starbuck.,4.0,sursaute,sursauter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+220346,830893,"Plongé dans vos pensées, vous ",sursautez, quand vous réalisez qu'un mini dragon vient de passer à vos côtés.,7.0,sursautez,sursauter,VERB,VERB,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

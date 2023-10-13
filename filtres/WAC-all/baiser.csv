@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+27680,103832,"Là, agenouillés, la tête ",baisée," et orientée vers """" le Trône du Dragon """", ils écoutaient attentivement le """" Fils du Ciel """".",7.0,baisée,baiser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,2.0
+151736,572565,L'image de la France comme salope à ,baiser," est en effet une métaphore, c'est-à-dire une figure de style, une image mentale délicatement encapsulée dans du langage.",9.0,baiser,baiser,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,_,1.0

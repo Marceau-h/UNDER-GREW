@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+165425,623632,"Au finish, il faudra valider, enrichir et ",amender, les constats et les plans d'action issus du processus de concertation.,10.0,amender,amender,VERB,VERB,VerbForm=Inf,6.0,conj,6:conj,_,1.0
+166793,628868,Cet Accord peut être étendu ou ,amendé, par accord mutuel des deux Parties.,7.0,amendé,amender,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,conj,5:conj,_,1.0
+209187,788938,Puis il s'est à moitié ,amendé," : «Je n'ai pas lancé un appel au public, mais au partage.",7.0,amendé,amender,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

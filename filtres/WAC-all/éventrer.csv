@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+225484,850493,Une dynamique semblable est en train de conquérir (ou d’,éventrer,") l’espace politique, par le jeu spontané des intérêts.",12.0,éventrer,éventrer,VERB,VERB,VerbForm=Inf,8.0,conj,8:conj,SpaceAfter=No,1.0

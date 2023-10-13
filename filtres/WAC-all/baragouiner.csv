@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+47033,177394,"D'autre part, jabber signifie ",baragouiner,", bafouiller, peut-être en référence au langage employé par Jabba.",7.0,baragouiner,baragouiner,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,SpaceAfter=No,2.0

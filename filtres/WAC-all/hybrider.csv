@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+241801,911430,"Avec sa femme, Florence Signaigo Wagner (1919-), il démontre que les fougères s’",hybrident," facilement et que cette hybridation était une des origines de l’apparition des nouvelles espèces, idée nouvelle à l’époque.",18.0,hybrident,hybrider,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,13.0,ccomp,13:ccomp,_,1.0

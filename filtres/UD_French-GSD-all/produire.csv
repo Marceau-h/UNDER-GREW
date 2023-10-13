@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+115,fr-ud-dev_00707,"Les médecins purent bientôt le déclarer hors de danger, et même les plus hostiles au staretz durent convenir qu'il s'était ",produit, là un événement quasi miraculeux de guérison à distance. ,25,produit,produire,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,20,ccomp,_,_,1

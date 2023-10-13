@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+581,Europar.550_00062,Le nouveau cadre d'action constitue surtout une énorme possibilité de ,créer, et de diffuser de la culture selon des modalités inédites. ,12,créer,créer,VERB,_,VerbForm=Inf,10,acl,_,Subject=Generic,2

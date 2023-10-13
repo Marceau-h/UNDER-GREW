@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+249828,941233,"L'exercice a été marqué par une situation difficile dans sa division """"",consumer,", active dans les téléviseurs, qui représente les trois quarts de ses ventes.",14.0,consumer,consumer,VERB,VERB,VerbForm=Inf,12.0,acl,12:acl,SpaceAfter=No,1.0

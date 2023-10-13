@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+135773,512686,"Les groupes contre la publicité sont généralement petits, ",morcelés, et s'organisent à l'aide de l'Internet.,10.0,morcelés,morceler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0
+196083,739678,"Un message fait place à un autre, sans lien direct, ",morcelé,", parfois adressé à plusieurs personnes en même temps et dont chacun peut lire le contenu à tout moment.",13.0,morcelé,morceler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,SpaceAfter=No,1.0

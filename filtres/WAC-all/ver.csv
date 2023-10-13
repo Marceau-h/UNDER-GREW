@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+53286,200913,"Comme disait Moitessier, «",Vent,", Mer, Soleil, la Trinité du Dieu des marins» !",6.0,Vent,ver,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,2.0
+160589,605463,"Ces acquisitions étrangères sont un éloge à l'ouverture du marché britannique"""", ",vante, un porte-parole de l'Association des bières et pubs britanniques.,16.0,vante,ver,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7.0,parataxis,7:parataxis,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+561,Rhap_M2004-7,"nous mesurons aussi l'importance du rôle de l'État, dans notre société, un État sur lequel pèsent des responsabilités essentielles, le service public, la sécurité, la solidarité, un État auquel il appartient de ",prévoir,", de faire face, d'assurer la coordination des moyens du pays. ",43,prévoir,prévoir,VERB,_,VerbForm=Inf,41,xcomp,_,SpaceAfter=No|Subject=SubjRaising,1

@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+77400,291218,Ce volet fera l'objet d'un texte dans la prochaine édition de Québec Hebdo ,dédiée, entièrement à l'anniversaire de Québec.,16.0,dédiée,dédier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,12.0,acl,12:acl,_,1.0
+140038,528317,On téléchargera le fichier ChromeSetup.exe depuis la page ,dédiée, et ouverte à l'instant.,9.0,dédiée,dédier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0
+174812,659381,"Au chapitre """"musique concrète"""", je travaille sur un morceau """"",dédié," a Dublin et basé sur les concepts dévellopés par Luciano Berlio dans """"Thema"""".",14.0,dédié,dédier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,acl,12:acl,SpaceAfter=No,1.0
+204788,772851,Les directions fonctionnelles ,dédiées," directement au fonctionnement du pôle (contrôle de gestion, ressources humaines, moyens généraux) font également parties du transfert.",4.0,dédiées,dédier,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+71363,269164,"Alors que 535 représentants et sénateurs s'écharpent à Washington, 12 millions de latinos continuent de ",trimer, en se demandant à quelle sauce ils vont être cuisinés.,18.0,trimer,trimer,VERB,VERB,VerbForm=Inf,16.0,xcomp,16:xcomp,_,3.0
+157928,595374,Ses ennuis se sont poursuivis sur des deux derniers trous et il a dû ,trimer, dur pour se maintenir à un coup du meneur.,15.0,trimer,trimer,VERB,VERB,VerbForm=Inf,14.0,xcomp,14:xcomp,_,1.0
+194436,733524,"Le malaise qui traverse la société, surtout chez les jeunes qui ",triment, pour trouver un peu de stabilité .,13.0,triment,trimer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,11.0,acl:relcl,11:acl:relcl,_,1.0

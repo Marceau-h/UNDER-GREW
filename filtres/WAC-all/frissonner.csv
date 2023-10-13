@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+68246,257615,Je pars… et dans vos mains ma main tremble et ,frissonne, ; (…). 52 vers.,12.0,frissonne,frissonner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,10.0,conj,10:conj,_,1.0

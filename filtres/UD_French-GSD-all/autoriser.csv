@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1966,fr-ud-train_07973,"En 1586, par un édit de la Star Chamber, l'archevêque reçut le pouvoir d'",autoriser, et de contrôler tout l'appareil de l'imprimerie dans le pays. ,18,autoriser,autoriser,VERB,_,VerbForm=Inf,16,acl,_,Subject=SubjRaising,1

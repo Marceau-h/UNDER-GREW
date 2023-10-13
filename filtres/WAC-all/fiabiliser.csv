@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+245320,924555,"Nous allons aussi parler des métiers sur le site, de tous ces corps de métier qui s'y exercent pour ",fiabiliser, et sécuriser notre production.,22.0,fiabiliser,fiabiliser,VERB,VERB,VerbForm=Inf,20.0,advcl,20:advcl,_,1.0

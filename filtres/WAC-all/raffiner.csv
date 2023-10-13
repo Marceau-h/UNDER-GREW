@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+41157,155215,"Quand l'Arabie saoudite accroît sa production, elle extrait davantage de pétrole lourd, plus compliqué à ",raffiner, que le brut léger.,19.0,raffiner,raffiner,VERB,VERB,VerbForm=Inf,17.0,xcomp,17:xcomp,_,2.0

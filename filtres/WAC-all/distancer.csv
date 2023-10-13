@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+49770,187847,"En revanche, le coréen LG, qui avait pourtant connu un certain regain d'intérêt avec le """"Chocolate"""", se laisse désormais ",distancer," : sa part de marché a reculé de 0,5 point à 6%.",26.0,distancer,distancer,VERB,VERB,VerbForm=Inf,24.0,xcomp,24:xcomp,_,1.0
+68383,258130,Ce miracle n'a pas lieu pour Behra rapidement ,distancé, puis contraint à l'abandon.,10.0,distancé,distancer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0

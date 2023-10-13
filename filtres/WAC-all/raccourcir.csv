@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+23063,86629,Sa coupe au bol s'est ,raccourcie, mais la barbichette et les fines lunettes lui conservent son air de vieil étudiant.,7.0,raccourcie,raccourcir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+31259,117777,Heureusement que mes trajets se sont ,raccourcis," parce qu'au bout de cinq minutes, il n'y a plus rien à lire, on manque de nourriture a-t-il lancé lors d'un débat à l'université Paris-Dauphine le 6 mai, rapporte le journal en ligne politique.net.",7.0,raccourcis,raccourcir,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,_,2.0

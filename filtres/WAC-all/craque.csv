@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+116240,438857,Sois tu es un super caid qui ne ,craque," jamais, et surtout pas au bout de 48 misérables heures d'interrogatoire et alors chapeau bas Monsieur.",9.0,craque,craque,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,acl:relcl,6:acl:relcl,_,1.0
+129569,489118,"Un internaute français a tenté d'écrire à l'hébergeur 1&1. Bilan, il ",craque, et préfére passer chez un concurrent.,16.0,craque,craque,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+235651,888462,On voit le joueur qui ,craque," puis qui se dit qu'il va apporter sa motivation en étant juste lui-même à ce groupe, ça fait plaisir.",6.0,craque,craque,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,acl:relcl,4:acl:relcl,_,1.0
+242313,913335,"Le froid attaque, Le bois mort ",craque,", Les branches se cassent,",8.0,craque,craque,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,conj,3:conj,SpaceAfter=No,2.0
+252804,952260,"Quant vous jouez une telle équipe, c'est le premier qui ",craque,", et ce soir c'était nous"""", notait Ken Hitchcock, l'entraîneur de Philadelphie.",14.0,craque,craque,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,12.0,dep,12:dep,SpaceAfter=No,1.0

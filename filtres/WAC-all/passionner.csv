@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+197651,745720,L'autre grand sujet qui ,passionne," lorsque se fait ou prend rage le débat de la révision de la constitution, c'est celui du couplage des élections.",6.0,passionne,passionner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,acl:relcl,4:acl:relcl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1879,fr-ud-train_07571,"Possédant, pour la peinture religieuse, la foi qui inspire le génie et le talent qui ",exécute,", Poussin mérite l'une des premières places parmi les peintres de l'école française. ",18,exécute,exécuter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16,acl:relcl,_,SpaceAfter=No,2

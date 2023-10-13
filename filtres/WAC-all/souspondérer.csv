@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+248341,935842,"Le bureau d'études dégrade l'assurance de """"Surpondérer"""" à """"",Souspondérer,", et accroît sa """"souspondération"""" du secteur bancaire de 100 points de plus.",14.0,Souspondérer,souspondérer,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,SpaceAfter=No,1.0

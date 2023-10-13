@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+209816,791082,Aucun programmateur n'a autant ,disséqué, et analysé le contenu de la chaîne que CanalSat.,6.0,disséqué,disséquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+211484,797549,"La vie d'Olivier Besancenot aurait donc été «épiée, ",disséquée,", mise en fiches», via tout d'abord la mise en place d'«une surveillance physique» au pied de son immeuble dans le XVIIIe arrondissement de Paris.",12.0,disséquée,disséquer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,conj,10:conj,SpaceAfter=No,1.0

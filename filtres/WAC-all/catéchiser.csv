@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+78706,296210,"La Constitution permet aux chrétiens d'avoir trois députés (deux Arméniens, un Assyro-Chaldéen), mais les deux communautés chrétiennes ne peuvent officier ou ",catéchiser," que dans leur langue, l'arménien ou le syriaque.",29.0,catéchiser,catéchiser,VERB,VERB,VerbForm=Inf,27.0,conj,27:conj,_,1.0

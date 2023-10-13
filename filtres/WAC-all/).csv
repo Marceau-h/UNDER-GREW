@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+106829,403152,La hauteur de la (ou des) cheminée(s,)," sera déterminée en se référant, dans les tableaux suivants, à la puissance totale de chaque catégorie d'appareils (moteurs ou turbines) prise séparément.",8.0,),),PUNCT,PUNCT,_,9.0,punct,9:punct,_,1.0
+121635,459659,"En effet : qu'il soit à son domicile, sur son (ses) lieu(x",)," de travail, ou en déplacement, le temps n'est plus très lointain où il pourra s'asseoir devant un poste de travail ou ouvrir sa machine portable pour se connecter à sa formation.",15.0,),),PUNCT,PUNCT,_,16.0,punct,16:punct,_,1.0
+174172,656990,Le responsable d'un secteur d'activités de l'hôpital saisit le comité pour toute insertion ou réactualisation d'informations concernant son service soit par l'intermédiaire du (des) correspondant(s,)," de son secteur, soit directement.",31.0,),),PUNCT,PUNCT,_,27.0,obj,27:obj,_,1.0
+217257,819413,Leur Directeur est nommé par le(les) Ministres(s,), sur proposition de leur Conseil d'Administration.,7.0,),),DET,DET,_,4.0,obl:agent,4:obl:agent,_,1.0
+233994,882244,Un (ou plusieurs) modèle(s,), de documents est (sont) joint(s) au programme d'action.,5.0,),),PUNCT,PUNCT,_,6.0,punct,6:punct,_,1.0

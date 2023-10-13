@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+166006,625912,Le projet de loi Borloo consacré au développement des services à la personne prévoit la création d'un CESU dont le montant est à remplir par l'utilisateur et d'un CESU à montant ,prédéfini, et prépayé (du type ticket-restaurant).,35.0,prédéfini,prédéfinir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,34.0,amod,34:amod,_,1.0

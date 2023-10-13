@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+169668,639854,"Cette année, 35 unités ont rédigé ou ",réactualisé," leur plan de formation d'unité et pour chacun de ces plans, les deux premières actions ciblées comme prioritaires par les laboratoires demandeurs devraient être retenues.",9.0,réactualisé,réactualiser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,conj,7:conj,_,1.0
+230803,870058,Ne manquez pas de découvrir les ateliers pour créer et ,réactualiser, votre garde-robe.,11.0,réactualiser,réactualiser,VERB,VERB,VerbForm=Inf,9.0,conj,9:conj,_,1.0
+242480,913967,"Elle a été dressée à la suite de l'élaboration d'un état départemental des lieux d'appui et d'information des associations, et ",réactualisée, début 2002.,26.0,réactualisée,réactualiser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,2.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+8021,29971,Les macaques représentent le genre le plus géographiquement ,étalé, et comportementalement diversifié de tous les genres de primates.,9.0,étalé,étaler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0
+200556,756804,Cette famille se caractérise visuellement par un corps totalement ,étalé, (quand l'animal est à terre).,10.0,étalé,étaler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0
+258019,972397,"Appliquez ensuite la peinture à l'aide d'un rouleau, en commençant par le côté fenêtre, ",étalez," verticalement, croisez horizontalement puis finissez en lissant verticalement de bas en haut sans appuyer.",19.0,étalez,étaler,VERB,VERB,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,1.0,dep,1:dep,_,3.0

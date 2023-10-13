@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+18956,71094,Les outils mis à notre disposition étaient innombrables : poèmes ,rimés," ou en prose, contes, Haïku, romans, créations de personnages, critiques, thèmes, théâtres, lettres, etc.",11.0,rimés,rimer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0
+56359,212137,"Bien évidemment, si ces restrictions ",riment," plus que jamais avec """"frustration"""", ceci a au moins l'avantage de te préserver, toi lecteur, qui a envie de toucher à Metal Gear Solid 4 mais qui ne pourra le faire avant le 12 juin prochain.",7.0,riment,rimer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,17.0,advcl,17:advcl,_,2.0

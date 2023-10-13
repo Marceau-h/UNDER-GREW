@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+79166,297837,Le sort de l'opérateur téléphonique ,préfigure,"-t-il ce qui attend les autres ex-régies, la Poste et les CFF?",7.0,préfigure,préfigurer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+265204,999372,"De son côté, le ministre a souligné que l'accord """"peut ",préfigurer," ce que sera la directive européenne """"Télévision sans frontière"""", qui s'appliquera en principe aux services non-linéaires, c'est-à -dire à la VOD.",14.0,préfigurer,préfigurer,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,SpaceAfter=No,2.0

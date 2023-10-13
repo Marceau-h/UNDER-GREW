@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+58466,219895,"La couche """"D"""", trop faiblement ",ionisée,", absorbe l'énergie de l'onde, provoquant une atténuation du signal.",9.0,ionisée,ioniser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+155525,586574,"Comme leur nom l'indique, ces galaxies montrent uniquement des raies spectrales indiquant la présence d'éléments faiblement ",ionisés,", et n'ont aucune autre caractéristiques des AGN.",20.0,ionisés,ioniser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,acl,18:acl,SpaceAfter=No,2.0
+238843,900177,"Ainsi, la méthadone très ",ionisée, avec un coefficient de partage intermédiaire diffusera assez lentement avec une bonne fixation réceptorielle.,6.0,ionisée,ioniser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,2.0

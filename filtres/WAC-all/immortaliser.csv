@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+119353,451041,"Après 3 ans, il crée une très belle statue de saint Jean dans laquelle il dépose et ",immortalise, les traits de son ami Narcisse.,19.0,immortalise,immortaliser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17.0,conj,17:conj,_,2.0

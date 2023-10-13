@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+700,2586,Il trouve «inacceptable» qu'un patron qui vient de ,licencier, puisse partir avec un parachute doré.,12.0,licencier,licencier,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,_,2.0
+7964,29735,"Je pense plutôt à la Pologne au début de Solidarité : des étudiants virés des facs, des gens ",licenciés," pour avoir manifesté, des arrestations par milliers, etc. Il ne s'agit pas seulement de combattre une dictature.",20.0,licenciés,licencier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,19.0,acl,19:acl,_,1.0
+81976,308219,"L'épreuve est ouverte à tous, ",licenciés, ou non et peut se disputer en individuel ou par équipe de deux (un coureur et un cycliste.),8.0,licenciés,licencier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0
+100466,379047,Le brevet de plongeur de niveau IV et tous les brevets d'encadrant ne peuvent être validés que par des encadrants de niveau IV ,licenciés, et brevetés à la FSGT.,25.0,licenciés,licencier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,21.0,acl,21:acl,_,1.0
+170454,642864,Tu peux te ,licencier, ou te relicencier au Grenoble UC.,4.0,licencier,licencier,VERB,VERB,VerbForm=Inf,2.0,xcomp,2:xcomp,_,1.0
+170604,643415,"L'Etat engagera 500 millions d'euros"""" pour venir en aide aux salariés ",licenciés, économiquement.,16.0,licenciés,licencier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,15.0,acl,15:acl,_,1.0

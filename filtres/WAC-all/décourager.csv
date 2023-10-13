@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+155376,586041,"En tout cas, je ne pense pas qu'il soit déstabilisé ou ",découragé, au point de vouloir quitter le Tour avant les Pyrénées.,14.0,découragé,décourager,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,conj,12:conj,_,1.0
+161074,607286,"Des langages dynamiques comme Python, permettent le 'monkey-patching', c'est à dire l'ajout post-hoc de méthodes à des classes existantes; mais c'est une pratique ",découragée, et posant des problèmes de maintenabilité.,34.0,découragée,décourager,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,33.0,acl,33:acl,_,1.0
+161843,610295,"Au début des années 1990, beaucoup de projets proposaient de limiter ou ",décourager, les pratiques économiques et industrielles qui dégradent l'environnement.,14.0,décourager,décourager,VERB,VERB,VerbForm=Inf,12.0,conj,12:conj,_,1.0

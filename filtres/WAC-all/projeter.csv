@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+7327,27387,"Elles sont désignées par différentes déclinaisons des termes """"penser"""", """"attendre"""", """"anticiper"""", """"estimer"""", """"",projeter,", """"prévoir"""", """"pro-forma"""", """"envisager"""", ou des verbes au futur ou au conditionnel.",26.0,projeter,projeter,VERB,VERB,VerbForm=Inf,10.0,conj,10:conj,SpaceAfter=No,1.0
+34906,131537,Dégâts incroyables : les maisons sont rasées ou ,projetées, sur de grandes distances.,9.0,projetées,projeter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,7.0,conj,7:conj,_,1.0
+75546,284510,"Selon les pays, les stockages ",projetés, ou en exploitation sont réversibles ou irréversibles.,7.0,projetés,projeter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,2.0
+86202,324104,"Absorber, stocker et ",projeter, des formes variées d'énergie.,5.0,projeter,projeter,VERB,VERB,VerbForm=Inf,1.0,conj,1:conj,_,1.0
+173361,653893,"Alors, le projecteur doit-il se contenter de ",projeter,", ou l'avenir est-il au tout en un ?",10.0,projeter,projeter,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,SpaceAfter=No,3.0
+261759,986584,"L'organisme estime que la réduction de 6 pour cent des gaz à effet de serre (GES), telle que ",projetée,", doit être atteinte avant 2012 pour officiellement rencontrer les objectifs de Kyoto.",23.0,projetée,projeter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,21.0,dep,21:dep,SpaceAfter=No,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+87736,330192,"De ce côté-là, rien de bien nouveau et les coaches se consoleront en se souvenant que, même ",émoussé,", ce SLUC est capable de dénicher des ressources.",21.0,émoussé,émousser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,26.0,advcl,26:advcl,SpaceAfter=No,1.0
+254701,959890,Son enthousiasme s'est ,émoussé,", et il a annoncé à Banjul qu'il ne solliciterait pas le renouvellement de son mandat en juillet prochain.",5.0,émoussé,émousser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0

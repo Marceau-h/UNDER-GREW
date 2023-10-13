@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+111751,421760,"· Ce document (une centaine de pages, petit format) a été réalisé dans une approche très pragmatique : il contient une centaine de conseils d'écriture ",exemplifiés," ou visualisés, à travers 5 parties :",30.0,exemplifiés,exemplifier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,27.0,acl,27:acl,_,1.0

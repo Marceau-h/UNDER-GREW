@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+24400,91427,"Dans un récit allemand, on raconte les nombreux méfaits de Vlad Tepes qui fit brûler des châteaux et des villages entiers en Transylvanie, fit bouillir des hommes, ",empaler, ou rôtir d'autres ou encore dépecer vifs certains.,31.0,empaler,empaler,VERB,VERB,VerbForm=Inf,12.0,conj,12:conj,_,2.0

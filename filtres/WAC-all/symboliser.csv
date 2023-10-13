@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+50083,189024,"Si donc on veut être juste avec la Traumdeutung, la grammaire philosophique de verbes comme """"souhaiter"""", """"fantasmer"""", """"agir"""" ou """"",symboliser, doit servir de base au commentaire.,30.0,symboliser,symboliser,VERB,VERB,VerbForm=Inf,26.0,conj,26:conj,SpaceAfter=No,1.0

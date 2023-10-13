@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+54666,205776,"Chaque matin, en vous ",éveillant,", vous constatez que lesévénements oniriques étaient purement imaginaires.",6.0,éveillant,éveiller,VERB,VERB,Tense=Pres|VerbForm=Part,9.0,advcl,9:advcl,SpaceAfter=No,1.0
+122076,461353,"Par le mouvement, nous pouvons communiquer, ",éveiller,", calmer et enrichir le lien qui nous unit aux tout-petits.",9.0,éveiller,éveiller,VERB,VERB,VerbForm=Inf,7.0,conj,7:conj,SpaceAfter=No,1.0
+208214,785464,"Tôt le matin, Melanie, seule ",éveillée,", entend un bruit à l'étage.",8.0,éveillée,éveiller,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,SpaceAfter=No,1.0

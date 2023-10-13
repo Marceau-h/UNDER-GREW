@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+88790,334328,"Ils se mangent généralement sucrés avec du sirop d'érable, de la confiture du miel ou ",salé," avec du beurre (à faire fondre sur le pancake chaud), des œufs, du bacon.",18.0,salé,saler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0
+140108,528608,"Tremper les foies dans le lait 1 à 2 heures, essuyer, mixer les foies avec les cubes de lard, ",saler,", poivrer, sucrer, pimenter, puis passer au tamis.",23.0,saler,saler,VERB,VERB,VerbForm=Inf,12.0,conj,12:conj,SpaceAfter=No,1.0

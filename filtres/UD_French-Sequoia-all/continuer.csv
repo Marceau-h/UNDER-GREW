@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+535,frwiki_50.1000_00359,L'enquête suisse confiée au juge Paul Perraudin ,continue,", mais l'argent des Wang n'a pas été redistribué. ",10,continue,continuer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,SpaceAfter=No,1

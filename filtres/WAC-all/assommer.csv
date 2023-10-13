@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+109997,415057,"Sur un corner de Kuyt, Hyypiä effectue un appel-contre appel qui trompe la défense et place tranquillement sa tête au premier poteau pour le but du KO (2-0, 49e La messe est dite pour les Toulousains ",assommés, et sevrés de ballons.,44.0,assommés,assommer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,43.0,acl,43:acl,_,1.0
+255018,961088,"La grande bâtisse du PS était, hier, silencieuse, les rares militants paraissaient comme ",assommés,. « Nous attendons les résultats officiels.,17.0,assommés,assommer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,15.0,xcomp,15:xcomp,SpaceAfter=No,2.0

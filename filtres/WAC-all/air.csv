@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+99353,374928,La livre a tout l',air," d'être tombée bas et d'être là pour y rester"""" commentait pour sa part Howard Archer, du cabinet IHS Global Insight.",6.0,air,air,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,xcomp,3:xcomp,_,1.0
+115818,437203,"Lui qui passe son temps à dire que les gouvernements devraient """"mettre leurs culottes"""", ça a bien l'",air, qu'il ne sera jamais plus qu'un ti-cul en culottes courtes devant les gros capitalistes!,22.0,air,air,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,19.0,xcomp,19:xcomp,_,1.0
+212743,802316,Nous attendons de pouvoir tester ce nouveau système avant de nous prononcer mais il a l',air, diablement intéressant !,17.0,air,air,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15.0,xcomp,15:xcomp,_,2.0

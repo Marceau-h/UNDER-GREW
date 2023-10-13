@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+204036,769902,"Il faut de l'argent pour accompagner un processus de réformes"""", a-t-il ajouté, en se disant """"dans la logique"""" de la version renégociée - et ",assouplie, - du Pacte de stabilité.,34.0,assouplie,assouplir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,31.0,conj,31:conj,_,1.0
+226242,853264,"On en oublie le rituel guindé de Lucerne, les robes longues et les nœuds pap, même si les règles se sont ",assouplies, et qu'il n'est plus obligatoire de porter la cravate.,24.0,assouplies,assouplir,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,3.0,advcl,3:advcl,_,1.0
+262345,989003,La Confédération pourrait notamment ,assouplir,", voire lever le confinement des volailles, car l'épizootie tant redoutée n'a finalement pas eu lieu.",5.0,assouplir,assouplir,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,SpaceAfter=No,1.0

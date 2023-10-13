@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+53677,202332,"Laurent Le Mesle est un ancien conseiller judiciaire de Jacques Chirac et a été nommé par ce dernier, ce qui contribue à ",alimenter, la controverse[réf. nécessaire].,24.0,alimenter,alimenter,VERB,VERB,VerbForm=Inf,22.0,xcomp,22:xcomp,_,2.0
+96246,363043,"Selon le principe de la Yagi, d'autres éléments directeurs non ",alimentés," peuvent être ajoutés, augmentant le gain et la directivité.",13.0,alimentés,alimenter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0
+155199,585357,Son rôle est d',alimenter, et de mettre à jour le web de sa mission.,5.0,alimenter,alimenter,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,1.0

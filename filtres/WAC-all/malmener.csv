@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+41152,155194,"Laminés comme l'acier qu'ils ont « écrasé, étiré, ",malmené, pour que son épaisseur diminue ».,13.0,malmené,malmener,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,_,3.0
+194571,734006,"Vous connaissez le reste de l'histoire, on l'a embarqué, ",malmené,", enfermé à Mons, on a effacé les images enregistrées sur son téléphone et quand il a voulu se défendre, on l'a réenfermé à Mons où son neveu est finalement venu le récupérer.",14.0,malmené,malmener,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,conj,12:conj,SpaceAfter=No,3.0
+211243,796573,Non pas que IBM soit une coque de noix ,malmenée," et au bord du naufrage, mais leur ancienne approche les soumettait quasi complètement aux diktats de Microsoft.",10.0,malmenée,malmener,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,3.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+223145,841505,"La queue, habituellement ",écourtée,", est recouverte d'un poil bleu plus foncé que le reste du corps,particulièrement sur le bout.",5.0,écourtée,écourter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+244854,922705,Tout chien ,écourté, ou essorillé né après cette date ne peut plus participer aux expositions finlandaises où l'interdiction d'écourter le fouet et les oreilles est en vigueur.,3.0,écourté,écourter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

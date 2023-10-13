@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+61004,229855,"Par ailleurs, des re productions d'oeuvres du peintre Tony Harris, re présentant Otis Grant (lorsqu'il ",boxait,") et la légende du jazz Oliver Jones, peuvent être obtenues en contactant Linday Bellevue, au 514 697-6616.",21.0,boxait,boxer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,16.0,acl,16:acl,SpaceAfter=No,1.0
+193810,731309,"Et son entraîneur de lui glisser : «Tu verras, quand tu seras chez Acariès, tu ",boxeras," tôt, tu boxeras à 21 heures.",19.0,boxeras,boxer,VERB,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin,6.0,ccomp,6:ccomp,_,1.0

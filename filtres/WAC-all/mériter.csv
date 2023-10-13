@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+21693,81212,"Loin d'être ridicule, l'équipe de Sikasso a développé un football séduisant et ",méritait, mieux que cette lourde défaite.,16.0,méritait,mériter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,11.0,conj,11:conj,_,1.0
+37050,139448,Le sort de Pluton fait l'objet de vifs débats depuis qu'on a découvert plusieurs objets qui ,méritent, au moins autant qu'elle le titre de planète.,19.0,méritent,mériter,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,17.0,acl:relcl,17:acl:relcl,_,1.0
+47653,179745,"Seul Québécois à l'Omnium canadien, Éric Landreville aurait souhaité - et ",mérité, - mieux comme conditions pour sa première expérience à la PGA.,14.0,mérité,mériter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,conj,11:conj,_,1.0
+162906,614380,"Le jeune homme qui écrivait à sa fiancée, le 27 août 1898, """"Il faut ",mériter,", vouloir et provoquer la vie"""" est toujours resté fidèle à cet exigeant programme.",18.0,mériter,mériter,VERB,VERB,VerbForm=Inf,17.0,xcomp,17:xcomp,SpaceAfter=No,1.0

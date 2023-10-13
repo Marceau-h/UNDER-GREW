@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+17598,66005,Un vrai labyrinthe qui permet aux sachants d',édicter, et de soustraire ce qui bon leur semble.,9.0,édicter,édicter,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,1.0
+126366,477248,"Ainsi, la loi du 3 juillet 1985 comporte un titre II qui ",édicte,", contrairement à ce qu'indique M. Pascal NEGRE, une série d'obligations et de recours possibles pour obtenir desdites sociétés toute l'information souhaitable.",14.0,édicte,édicter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11.0,acl:relcl,11:acl:relcl,SpaceAfter=No,2.0
+200895,758055,Les décrets ainsi ,édictés," n'auront qu'un caractère provisoire, et ils ne seront en vigueur que le temps nécessaire à la Chambre pour prendre une décision ou légiférer en la matière.",4.0,édictés,édicter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+650,fr-ud-train_01460,"Comme lors des campagnes précédentes, il ",avance, le long de la rive ouest de la Chikuma. ,9,avance,avancer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,3
+1402,fr-ud-train_05332,"En raison de sa basse priorité, le projet ",avança," lentement, le XP-62 fut finalement ferraillé en automne 1943. ",10,avança,avancer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0,root,_,_,1
+2696,fr-ud-train_11658,"Le diabète gestationnel de la mère est la cause de la surcharge pondérale de l'enfant, a ",avancé, la presse locale. ,19,avancé,avancer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,9,parataxis:insert,_,_,1

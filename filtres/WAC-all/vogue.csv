@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+54607,205606,"Il en a déduit que le """"modèle BV"""", très en ",vogue,", était inadéquat et ne rendait pas compte de la complexité des images naturelles.",14.0,vogue,vogue,VERB,VERB,VerbForm=Inf,8.0,amod,8:amod,SpaceAfter=No,2.0
+136397,514869,En cause le respect des normes élémentaires de sécurité trop peu en ,vogue, sur notre continent.,13.0,vogue,vogue,VERB,VERB,VerbForm=Inf,6.0,amod,6:amod,_,1.0

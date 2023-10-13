@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+48706,183606,La pièce de contre-plaqué (avec le capteur précedemment ,vissé,") est mise en place dans le boîtier, puis percée et vissée.",10.0,vissé,visser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl,8:acl,SpaceAfter=No,1.0
+170037,641293,C'est l'outil idéal pour ,visser, vite et avec régularité.,7.0,visser,visser,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,_,1.0
+233313,879629,"Sitôt arrivé au Camp des Loges et débarrassé de ses imposantes valises, Souza, un bonnet bien ",vissé," sur la tête, est parti faire un footing de trente minutes environ.",19.0,vissé,visser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,17.0,acl,17:acl,_,2.0

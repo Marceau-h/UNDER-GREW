@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+143424,541513,Mélangeant les gènes de ce virus ainsi ,recréé," avec ceux de pathogènes de la grippe d'aujourd'hui, le Dr Kawaoka et ses collègues ont pu créer des virus de la grippe dotés de différentes combinaisons génétiques.",8.0,recréé,recréer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,2.0

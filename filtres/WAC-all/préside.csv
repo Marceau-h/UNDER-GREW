@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+237158,893994,Nicolas Sarkozy est président quand il ,préside,", quand il travaille ; il est une personne privée quand il est en vacances avec sa famille.",7.0,préside,préside,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,advcl,4:advcl,SpaceAfter=No,1.0
+250720,944708,"La cérémonie catholique, à laquelle ",préside," Mgr Gallard, évêque de Meaux, se déroule dans la chapelle de Henri IV, tandis que la cérémonie luthérienne, célébrée par le pasteur Cuvier, a lieu dans le salon Louis-Philippe.",7.0,préside,préside,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,acl:relcl,2:acl:relcl,_,1.0

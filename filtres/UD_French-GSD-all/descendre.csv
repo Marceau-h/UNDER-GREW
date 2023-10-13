@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+607,fr-ud-train_01265,"Par exemple, pour indiquer « 326 », il suffit de placer le stylet dans l'encoche « 6 » de la tirette la plus à droite et de ",descendre,", puis de faire de même dans la tirette immédiatement à gauche avec l'encoche « 2 », puis répéter le processus avec l'encoche « 3 » juste à côté. ",31,descendre,descendre,VERB,_,VerbForm=Inf,13,conj,_,SpaceAfter=No|Subject=Generic,1

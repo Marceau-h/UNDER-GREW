@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+21159,79306,"Malgré les craintes des acteurs du e-tourisme en début d'été, la saison estivale a été décalée et ",condensée, sur fin juillet et sur l'ensemble du mois d'août.,20.0,condensée,condenser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,18.0,conj,18:conj,_,1.0

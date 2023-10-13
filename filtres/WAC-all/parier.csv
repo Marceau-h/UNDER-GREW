@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+73830,278140,"La locataire de Bercy, qui a rappelé que « la France est connue pour son avant-gardisme en matière technologique », ",parie, en particulier sur la modernisation du territoire pour en accroître l'attractivité.,23.0,parie,parier,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+84202,316541,"Outre le mah-jong ou les cartes, tous les prétextes sont bons pour ",parier,", de la partie de soccer jusqu'aux combats de criquets !",16.0,parier,parier,VERB,VERB,VerbForm=Inf,14.0,xcomp,14:xcomp,SpaceAfter=No,1.0
+199269,752110,"Elle a décidé de laisser libre l'accès à ses services web pour ne plus compter que sur ses recettes publicitaires qui, ",parie,"-t-elle, s'en trouveront de ce fait gonflées.",24.0,parie,parier,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,30.0,dep,30:dep,SpaceAfter=No,2.0

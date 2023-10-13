@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+148842,561719,"Deuxièmement, une bande légèrement ",surélevée, et rembourrée permet de ne pas se casser le poignet quand on travaille.,6.0,surélevée,surélever,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,3.0
+171826,648115,"Le bassin hydrographique de la Levrière est formé de plateaux crayeux, recouverts de limon, légèrement ",surélevés, et affectés de petites déformations de direction armoricaine.,18.0,surélevés,surélever,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0

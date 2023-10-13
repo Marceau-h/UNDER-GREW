@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+54,Rhap_M2006-24,"le chef de l'État annonce des mesures de justice, je ",cite,", pour les salariés touchés par la crise économique. ",13,cite,citer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,6,parataxis:insert,_,SpaceAfter=No,1

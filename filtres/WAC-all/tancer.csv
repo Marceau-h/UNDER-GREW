@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+57238,215353,"Il réagit comme un politicien et non comme un dirigeant, cherchant un avantage personnel au lieu d'une solution pour son pays"""", a ",tancé, le sénateur de l'Arizona.,28.0,tancé,tancer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,parataxis,3:parataxis,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+131791,497627,"Comme d'habitude, Microsoft devrait également profiter de cette publication pour nous proposer une version à jour de son logiciel pour lutter contre les programmes malicieux (pour ",évincer, et détecter les principaux vers et virus du moment).,30.0,évincer,évincer,VERB,VERB,VerbForm=Inf,23.0,advcl,23:advcl,_,2.0

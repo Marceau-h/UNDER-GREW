@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4845,18073,"Comment se réjouir en effet, de l'accélération de la pollution électromagnétique interroge l'association qui dénonce cette volonté industrielle du «tout sans-fil», ",additionnant, et multipliant les sources d'exposition.,28.0,additionnant,additionner,VERB,VERB,Tense=Pres|VerbForm=Part,16.0,acl,16:acl,_,1.0
+189391,714709,La plus simple de ces machines fut un modeste calculateur capable d',additionner," ou de multiplier des chiffres, plus vite qu'un cerveau d'être pensant (encore que certaines races très développées n'aient nul besoin de ces machines).",13.0,additionner,additionner,VERB,VERB,VerbForm=Inf,11.0,xcomp,11:xcomp,_,2.0

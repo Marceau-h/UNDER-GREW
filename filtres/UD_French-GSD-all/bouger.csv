@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+539,fr-ud-train_00923,"Hors détresse vitale (la victime parle, ouvre les yeux, et ne présente pas de saignement abondant), éviter que la victime ne ",bouge," et la laisser dans la position où elle se sent le mieux : tout mouvement risquerait d'aggraver la plaie, de provoquer des douleurs, ou de provoquer une hémorragie. ",27,bouge,bouger,VERB,_,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,22,ccomp,_,_,1

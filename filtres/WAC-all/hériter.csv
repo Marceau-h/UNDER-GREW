@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+16834,62868,C'est sa soeur Jamie Lynne qui ,hériterait, (c'est le cas de le dire) de la tâche.,8.0,hériterait,hériter,VERB,VERB,Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,dep,4:dep,_,1.0

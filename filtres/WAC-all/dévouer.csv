@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+225320,849858,"Sun Hongkai, chercheur à l'Institut d'ethnologie et d'anthropologie de l'Académie des Sciences sociales de Chine, s'est longtemps ",dévoué, corps et âme à l'observation et à la recherche des langues des ethnies minoritaires.,25.0,dévoué,dévouer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,2.0

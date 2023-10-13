@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+80771,303736,L'idée de mixité et de diversité qui ,sous-tend, chacune de ces procédures doit maintenant se traduire dans les faits.,9.0,sous-tend,sous-tendre,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,acl:relcl,4:acl:relcl,_,1.0

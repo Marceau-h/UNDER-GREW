@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+39860,150131,"La composition d'un bâtiment, l'utile et l' esthétique d'étages existants plus ou moins ",superposés,", est du domaine de l'architecture.",19.0,superposés,superposer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,14.0,acl,14:acl,SpaceAfter=No,1.0
+67585,255138,Deux PMI qui sont simplement en contact (juxtaposées ou ,superposées,) sont considérées comme deux PMI distinctes.,11.0,superposées,superposer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,9.0,conj,9:conj,SpaceAfter=No,1.0

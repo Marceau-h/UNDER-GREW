@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+90638,341445,"Ces types haineux, ces morts pour rien, ces gosses qui hurlent, cette humanité à ",éponger,", il faut les laisser sortir de soi dans des remue-ménage de cauchemars.",18.0,éponger,éponger,VERB,VERB,VerbForm=Inf,16.0,acl,16:acl,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1940,fr-ud-train_07842,"En 579, il lance une attaque contre ceux-ci, prenant et ",saccageant," Classe, le port de Ravenne. ",13,saccageant,saccager,VERB,_,Tense=Pres|VerbForm=Part,11,conj,_,_,3

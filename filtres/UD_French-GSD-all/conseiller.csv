@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1311,fr-ud-train_04841,"Dès qu'on tousse, il faut aller voir un pneumologue"""", ",conseille," Martine B., qui regrette d'avoir trop attendu et d'en être de ce fait très handicapée. ",15,conseille,conseiller,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8,parataxis:insert,_,_,3

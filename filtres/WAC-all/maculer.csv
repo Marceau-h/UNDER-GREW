@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+75669,285037,"Leurs premières actions ont eu pour cadre le métro de Paris, où des dizaines d'affiches avaient été détruites ou ",maculées,", avec pour résultats quelques procès très médiatisés.",22.0,maculées,maculer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,20.0,conj,20:conj,SpaceAfter=No,2.0

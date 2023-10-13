@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+20617,77261,"Pour remédier à ce problème, les spécialistes avaient proposé de faire reposer les constructions sur des pilotis ",enfoncés, directement dans la couche gelée.,19.0,enfoncés,enfoncer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,acl,18:acl,_,2.0
+24505,91817,"Tout cela fait partie d'un nombre incalculable de promesses non tenues par le régime"""", ",enfonce," l'élu de Vangaindrano, qui aimerait bien donner l'estocade.",18.0,enfonce,enfoncer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,parataxis,3:parataxis,_,1.0
+251217,946431,"Bref, le seul remède expérimental que je commence à maîtriser pour abréger cette pathétique parenthèse: deux doigts bien ",enfoncés, au fond de la gorge.,21.0,enfoncés,enfoncer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,19.0,acl,19:acl,_,1.0

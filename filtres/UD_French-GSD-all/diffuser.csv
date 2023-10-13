@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3070,fr-ud-train_13493,"Chers Internautes, Voici une adresse à retenir et à ",diffuser," largement si vous voulez investir dans l'or, que vous soyez novices ou avertis, vous y trouverez un discours """"pro"""" et une grande réactivité plus qu'appréciable dans ce type de démarche ! ",11,diffuser,diffuser,VERB,_,VerbForm=Inf,8,conj,_,Subject=Generic,1

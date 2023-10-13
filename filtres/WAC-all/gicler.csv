@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+202362,763280,Cronos coupa les parties génitales de son père et les jeta dans la mer ; du sang ,gicla,", et des gouttes naquirent les Érinyes : Alecto, Tisiphone et Mégère.",18.0,gicla,gicler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,3.0

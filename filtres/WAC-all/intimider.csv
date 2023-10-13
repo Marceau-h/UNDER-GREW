@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+120416,455109,Cet article a une dimension politique car il sert à ,intimider,", a analysé le secrétaire général Gregor Rutz.",11.0,intimider,intimider,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,SpaceAfter=No,1.0
+161685,609698,Il a ajouté que des membres du TMPV avait menacé et ,intimidé, des électeurs.,12.0,intimidé,intimider,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,conj,10:conj,_,1.0

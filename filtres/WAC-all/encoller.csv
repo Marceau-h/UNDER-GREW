@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+190805,719894,"En ce réceptacle que certains, sous influence télévisuelle nomment """" gluon """", il emballe, en des replis savants et ",encollés,", une substance blanche et cristalline, au goût sucré.",23.0,encollés,encoller,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,21.0,conj,21:conj,SpaceAfter=No,2.0

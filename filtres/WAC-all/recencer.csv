@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+84221,316594,Le superintendant Fudge affirme qu'il est trop tôt pour savoir si les 13 morts ,recencés, récemment font partie d'une nouvelle tendance ou sont juste le reflet de violences passagères.,16.0,recencés,recencer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,15.0,acl,15:acl,_,1.0

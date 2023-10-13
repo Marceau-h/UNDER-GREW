@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+181493,685087,Notre premier souhait est d',inculquer," et de faire comprendre aux maires africains l'importance de la décentralisation», a confié le vice-président chargé de l'Afrique au Centre d'initiatives canadiennes basé au Cameroun, Jules Kuat.",6.0,inculquer,inculquer,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,2.0

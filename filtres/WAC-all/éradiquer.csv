@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+82215,309078,C'est un mal qu'il faut ,éradiquer," absolument, en pensant d'abord à ses conséquences très lourdes sur les enfants-victimes et sur leurs familles.",8.0,éradiquer,éradiquer,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,_,1.0
+170832,644324,L'erreur graphique Considérée autrefois comme une sorte de monstruosité à ,éradiquer,", la faute d'orthographe a été réévaluée.",12.0,éradiquer,éradiquer,VERB,VERB,VerbForm=Inf,10.0,acl,10:acl,SpaceAfter=No,1.0

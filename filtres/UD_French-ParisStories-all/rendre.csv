@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+260,ParisStories_2020_histoireOurs_13,"et, en fait, après, je me suis ",rendu," compte que c'était un déguisement puisque l'animateur, il avait enlevé la tête de son déguisement. ",11,rendu,rendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,1
+261,ParisStories_2020_histoireOurs_14,"et, donc, en fait, je me, me suis ",rendu," compte que, oui, c'était bel et bien l'animateur et que ce n'était pas un ours ! ",13,rendu,rendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,1
+268,ParisStories_2020_histoireOurs_25,"et, en fait, on s'est ",rendu," compte, quand même, que il y avait des, des casseroles et des, des popotes, donc, nos gammelles, dans lesquelles on mangeait, qui avaient, quand même, disparu. ",9,rendu,rendre,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0,root,_,_,1
+499,ParisStories_2019_devoirPhilosophie_1,"alors c'était au lycée, j'avais un devoir maison à ",rendre,", en philosophie. ",14,rendre,rendre,VERB,_,VerbForm=Inf,11,acl,_,SpaceAfter=No|Subject=SubjRaising,1

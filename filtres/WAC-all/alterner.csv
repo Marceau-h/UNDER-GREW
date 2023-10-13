@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+64057,241701,Des liaisons par route ou sur des grands chemins au bord des champs ,alternent," et nous permettent de rallier des tronçons de forêt, c'est le moment de souffler un peu.",14.0,alternent,alterner,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+190802,719883,"Les passagers, eux, se laisseront séduire par les feulements combinés et ",alternés, du V6 et des moteurs électriques.,14.0,alternés,alterner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,12.0,conj,12:conj,_,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+115647,436592,Les molécules sont immobiles et ,empilées, régulièrement comme le montre cet exemple de structure de glace (il en existe plusieurs variétés).,6.0,empilées,empiler,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0
+186752,704426,"On a ici un constructeur : creer, trois transformateurs : ",empiler,", reste et insererFin, et deux observateurs : sommet et estVide.",12.0,empiler,empiler,VERB,VERB,VerbForm=Inf,10.0,acl,10:acl,SpaceAfter=No,3.0
+243389,917365,"Le phénomène est le plus souvent constaté lorsque de l'eau provenant de pluie ou de condensations d'humidité a été retenue, emprisonnée entre des pièces ou des tôles ",empilées, ou colisées en vue de leur stockage ou de leur transport.,31.0,empilées,empiler,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,27.0,acl,27:acl,_,1.0

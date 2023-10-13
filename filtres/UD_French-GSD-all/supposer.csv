@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+546,fr-ud-train_00971,"Un petit coiffeur tenu par """"Jorge"""" je ",suppose,", qui vous fera un bon accueil et une bonne coupe. ",10,suppose,supposer,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,4,parataxis,_,SpaceAfter=No,1

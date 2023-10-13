@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+216095,814713,"Dites, les gars, sans vouloir vous ",offenser,", vous avez vécu ce genre d'expériences aux USA, vous avez vécu la bas plusieurs années ou bien vous ne faites que répéter ce que raconte votre bonne TV (Envoyé Spécial, Karl Zero, VideoGag ?",9.0,offenser,offenser,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,SpaceAfter=No,3.0

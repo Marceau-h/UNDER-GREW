@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+58512,220028,"Depuis, les Elfes sont traqués, ",parqués," et exterminés par un organisme para-militaire secret placé sous la tutelle du Vatican, la Ligue.",8.0,parqués,parquer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,3.0

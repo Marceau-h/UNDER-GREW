@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+175903,663484,Si le nationalisme est une doctrine à ,proscrire,", mon idéologie d'un québec indépendant et libre se doit-elle d'être proscrite elle-même ?",8.0,proscrire,proscrire,VERB,VERB,VerbForm=Inf,6.0,acl,6:acl,SpaceAfter=No,2.0
+225181,849373,Les instruments sont même à ,proscrire," puisque l'oeil humain offre une parfaite vision """"grand angle"""", indispensable pour restituer l'ampleur du phénomène qui peut occuper la quasi-totalité de la voûte céleste.",6.0,proscrire,proscrire,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,1.0

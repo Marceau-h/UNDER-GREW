@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+8980,33480,Les eaux adoucies ou ,déminéralisées," : les eaux traitées par un adoucisseur d'eau doivent contenir une teneur minimale en calcium ou en magnésium (dureté), de même qu'en carbonate ou en bicarbonate (alcalinité).",5.0,déminéralisées,déminéraliser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,3.0,conj,3:conj,_,1.0

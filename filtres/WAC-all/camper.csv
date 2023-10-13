@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+68241,257598,L'ange de l'Éternel ,campe," autour de ceux qui le craignent, Et il les arrache au danger.",6.0,campe,camper,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+177343,668918,En fait tout notre voisinage ,campe,", raconte Yuan Limei, 25 ans.",6.0,campe,camper,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+202788,765021,"Le 5 août, trois Anglais, un homme, sa femme et leur fille, qui ",campaient,", ont été massacrés au fusil, par balles pour les parents, à coups de crosse pour la petite fille.",18.0,campaient,camper,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,6.0,acl:relcl,6:acl:relcl,SpaceAfter=No,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+98847,373134,Celle-ci était composée de deux murs décorés et ,espacés," de 5,35 mètres.",11.0,espacés,espacer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,9.0,conj,9:conj,_,1.0
+143684,542367,"Au sein des """" Galiottes """" au milieu de 20 hectares de terre léchés par le rivage, emplacements limités et ",espacés, avec vue sur mer ; accès facile et sûr pour les enfants.,22.0,espacés,espacer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,20.0,conj,20:conj,_,1.0
+249350,939630,"Les traits sont carrés, aplatis dans leur partie médiane, ",espacés, et tendent à déborder sur les côtés.,12.0,espacés,espacer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+240254,905395,"Comprimé par le bitume et l'agricuture intensive céréalières, le Marais avait été partiellement remembré et ",drainé, et son régime hydraulique totalement modifié.,18.0,drainé,drainer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16.0,conj,16:conj,_,3.0

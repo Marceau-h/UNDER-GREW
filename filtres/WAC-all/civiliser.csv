@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+102932,388363,"On peu dire que ce fut le seul premier sport """"",civilisé,", en ce qu'il se déroule comme une procédure judiciaire : observez un match de tennis et vous comprenez la procédure judiciaire anglaise.",12.0,civilisé,civiliser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,SpaceAfter=No,3.0

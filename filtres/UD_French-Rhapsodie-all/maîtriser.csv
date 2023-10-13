@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+576,Rhap_M2004-43,mais une mondialisation ,maîtrisée,", organisée, respectueuse de l'environnement, capable de prendre en compte les aspirations des hommes et capable de faire reculer la pauvreté. ",4,maîtrisée,maîtriser,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3,acl,_,SpaceAfter=No,1

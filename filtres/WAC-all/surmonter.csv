@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+47568,179442,Quelles difficultés l'enfant a-t-il à ,surmonter,", qui le préoccupent tant?",9.0,surmonter,surmonter,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,SpaceAfter=No,1.0
+52729,198929,"En revanche, l'Allemagne n'a aucun déséquilibre structurel ou budgétaire à ",surmonter,", l'emploi résiste, les salaires augmentent et la compétitivité de l'industrie reste forte.",14.0,surmonter,surmonter,VERB,VERB,VerbForm=Inf,9.0,acl,9:acl,SpaceAfter=No,1.0
+104921,395906,Le premier obstacle à ,surmonter," sera le premier tour qui se disputera en quatre groupes, que le hasard du tirage au sort a façonné avec des configurations différentes et des spécificités qui avantagent, sur le papier, les uns au détriment d'autres.",5.0,surmonter,surmonter,VERB,VERB,VerbForm=Inf,3.0,acl,3:acl,_,2.0
+114302,431405,Un drame que Jan De Rooy a mis 14 ans à ,surmonter,", ne revenant sur le Dakar qu'en 2002.",12.0,surmonter,surmonter,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,SpaceAfter=No,1.0
+196175,739979,"En plus des difficultés face à l'école, Ninise a reçu une éducation qui permet d'expliquer l'origine de ces handicaps scolaires qu'elle a du donc ",surmonter, pour réussir malgré son origine sociale.,30.0,surmonter,surmonter,VERB,VERB,VerbForm=Inf,28.0,xcomp,28:xcomp,_,2.0

@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+537,fr-ud-train_00920,"Comprenant qu'il ne pouvait l'en empêcher, Azmuth activa le code maître, ",donnant, accès à Ben au plein potentiel de l'Omnitrix afin qu'il ait plus de chance de réussir. ,16,donnant,donner,VERB,_,Tense=Pres|VerbForm=Part,11,advcl,_,Subject=Instantiated,1
+1071,fr-ud-train_03587,"En plus, la carte ",donne, accès à plusieurs centres. ,6,donne,donner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+1122,fr-ud-train_03885,Une très bonne cuisine traditionnelle et un patron très impliqué qui ,donne, envie de goûter tous les plats. ,12,donne,donner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8,acl:relcl,_,_,1
+3038,fr-ud-train_13250,"Un second appareil prit l'air le 20 mars 1999, qui ",donna, satisfaction. ,13,donna,donner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,3,acl:relcl,_,_,1

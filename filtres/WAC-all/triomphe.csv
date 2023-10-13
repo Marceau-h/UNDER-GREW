@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+117601,444227,"Simultanément, le pop art ",triomphe," : la société de consommation impose ses images, ses objets.",6.0,triomphe,triomphe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+150452,567659,Le capitalisme qui ,triomphe," n'est pas un système parfait, parcequ'il n'est pas un système, mais l'absence de tout système.",4.0,triomphe,triomphe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,acl:relcl,2:acl:relcl,_,1.0

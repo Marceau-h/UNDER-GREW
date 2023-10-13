@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+141109,532654,Il faut te ,débrouiller, pour trouver un bureaucrate et lui demander de renommer l'autre compte.,4.0,débrouiller,débrouiller,VERB,VERB,VerbForm=Inf,2.0,xcomp,2:xcomp,_,1.0
+239844,903870,Les magistrats se sont ainsi ,débrouillés," pour """"rattraper"""" la première ordonnance.",6.0,débrouillés,débrouiller,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

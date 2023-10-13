@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+47967,180848,II) Le changement climatique planétaire ,engendre,-t-il une augmentation du nombre de tempêtes?,7.0,engendre,engendrer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+65253,246086,"De même, l'engouement pour la technologie mobile ne va pas sans inquiétudes quant aux coûts qu'elle risque d'",engendrer, et à sa fiabilité.,22.0,engendrer,engendrer,VERB,VERB,VerbForm=Inf,20.0,xcomp,20:xcomp,_,1.0

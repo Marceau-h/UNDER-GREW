@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1007,fr-ud-train_03256,"Ce mouvement religieux qui n'avait jamais constitué une doctrine véritablement établie, ne résista pas aux oppositions internes qui se manifestèrent au cours du siècle, qu'il s'agisse du schisme de l'Église d'Utrecht, de l'attitude à ",adopter, vis-à-vis du phénomène convulsionnaire ou de la Constitution civile du clergé. ,48,adopter,adopter,VERB,_,VerbForm=Inf,46,acl,_,Subject=Generic,1

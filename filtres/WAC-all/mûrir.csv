@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+6075,22367,L'idée a ,mûri," et en 1999, pour la seconde campagne, huit sites sont venus rejoindre les six premières régions pilote.",4.0,mûri,mûrir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+56519,212776,Les clients des débuts ont ,mûri,": """"Ils ont des possibilités économiques qu'ils n'avaient pas au départ"""", relève Renzo Rosso.",6.0,mûri,mûrir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0
+137999,520777,L'homme a ,mûri, et considère les évènements de la vie avec plus de recul mais sans se départir toutefois de son esprit critique.,4.0,mûri,mûrir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+162430,612512,La vengeance met en général beaucoup de temps à ,mûrir, et se manifeste ainsi au moment où on s'y attend le moins.,10.0,mûrir,mûrir,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,1.0
+174891,659657,"Cette anecdote mise à part, rarement réunion de ce niveau fut plus longuement préparée, ",mûrie,", voire """"soigneusement mise en scène"""", selon l'économiste Gilles Dostaler.",17.0,mûrie,mûrir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,15.0,conj,15:conj,SpaceAfter=No,1.0

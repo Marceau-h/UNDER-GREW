@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1250,fr-ud-train_04567,"Armé d'un fouet, le conducteur faisait ",tourner, les animaux « dépiqueurs ». ,9,tourner,tourner,VERB,_,VerbForm=Inf,0,root,_,Subject=ObjRaising,3
+1876,fr-ud-train_07545,Mais l'opération ,tourne, mal et Luke Cage acquiert une force surhumaine et possède désormais une peau à l'épreuve des balles. ,4,tourne,tourner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+2460,fr-ud-train_10435,Une jeune femme est tuée dans un braquage qui ,tourne, mal. ,10,tourne,tourner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8,acl:relcl,_,_,1
+2910,fr-ud-train_12648,"Et plutôt que de tourner autour du côté droit, ils ",tournent, autour du côté gauche. ,13,tournent,tourner,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1

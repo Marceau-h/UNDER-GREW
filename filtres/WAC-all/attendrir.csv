@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+63524,239646,"Il n'y a pas d'histoire, plutôt des moments, des scènes qu'observe le spectateur devenu un témoin lucide, amusé, ",attendri," parfois, à ces mots qui pourraient être les siens.",26.0,attendri,attendrir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,21.0,acl,21:acl,_,1.0
+133507,504265,"Les végétaux sont composés de cellules jointes par une lamelle pariétale, composée de pectine et de cellulose que l'on doit ",attendrir, en changeant le ciment pectique.,23.0,attendrir,attendrir,VERB,VERB,VerbForm=Inf,22.0,xcomp,22:xcomp,_,1.0

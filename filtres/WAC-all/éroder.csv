@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+44337,167351,L'image de droite continue le thème des structures ,érodées,", recouvertes puis à nouveau exposées.",10.0,érodées,éroder,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,9.0,acl,9:acl,SpaceAfter=No,1.0

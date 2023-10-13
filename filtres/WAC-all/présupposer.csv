@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+66200,249744,"Donc dans le cas où il y aurait réduction, il n'y aurait pas là ",présupposé,", mais bel et bien analyse et donc conclusion sur la nature du rêve quant à son être.",17.0,présupposé,présupposer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+167648,632121,"Mis à part sur ce coup d'éclat de Conceiço, à la 9e minute: le Portugais laissait passer le ballon entre ses jambes pour mystifier Nys avant d'adresser un caviar sur la tête de Roussel qui ",décroisait, pour tromper Thieren (0-1).,40.0,décroisait,décroiser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,38.0,acl:relcl,38:acl:relcl,_,2.0

@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+103048,388798,De nombreux points sont encore à ,élucider,", notamment concernant les causes de son extinction.",7.0,élucider,élucider,VERB,VERB,VerbForm=Inf,0.0,root,0:root,SpaceAfter=No,1.0
+104458,394174,Le second thème d'investigation porte sur le mode d'action encore non ,élucidé, des hormones thyroïdiennes sur l'expression des gènes mitochondriaux.,14.0,élucidé,élucider,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,2.0
+140936,531967,"Depuis la mort tragique, non encore ",élucidée,", de l`étudiant en première année de droit, Balla Gaye, lors de la grève du 31 janvier 2001, l`UCAD n`a plus connu un mouvement d`une telle ampleur.",8.0,élucidée,élucider,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,SpaceAfter=No,1.0
+243384,917353,Pour une raison non encore ,élucidée,", l'avion a été contraint de faire demi-tour sitôt avoir décollé.",6.0,élucidée,élucider,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,SpaceAfter=No,2.0
+257499,970391,Pour des raisons mal ,élucidées,", les astrologues numérotent les douze maisons en sens inverse du sens horaire.",5.0,élucidées,élucider,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,3.0,acl,3:acl,SpaceAfter=No,1.0

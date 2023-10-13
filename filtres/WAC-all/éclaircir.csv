@@ -1,0 +1,10 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+9376,34849,Il est de plus utilisé en cosmétologie pour ,éclaircir, et unifier le teint.,9.0,éclaircir,éclaircir,VERB,VERB,VerbForm=Inf,5.0,advcl,5:advcl,_,1.0
+16860,62982,La sombre palette de Gleizes de ses débuts s’,éclaircie," et il n'hésite pas à employer de larges aplats de couleurs vives et franches («La Parisienne», 1915).",10.0,éclaircie,éclaircir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+30423,114693,"Traditionnellement, le cacaoyer est planté sur des défriches de forêts : on ",éclaircit, et on remplace par des arbustes qui poussent à l'ombre d'arbres protecteurs.,14.0,éclaircit,éclaircir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,advcl,6:advcl,_,3.0
+61455,231654,Les circonstances de l'accident restaient à ,éclaircir, lundi soir.,8.0,éclaircir,éclaircir,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,1.0
+116557,440119,L'affiche vient confirmer et ,éclaircir, cette thèse.,6.0,éclaircir,éclaircir,VERB,VERB,VerbForm=Inf,4.0,conj,4:conj,_,1.0
+118870,449174,La terreur que l'Océanien avait inspirée au démon et sa métamorphose en géant de feu restaient deux faits que le Britannique ne parvenait pas à ,éclaircir, et classer dans le domaine du bien ou du mal.,27.0,éclaircir,éclaircir,VERB,VERB,VerbForm=Inf,24.0,xcomp,24:xcomp,_,1.0
+121793,460262,Un premier point à ,éclaircir, avant de continuer la lutte.,5.0,éclaircir,éclaircir,VERB,VERB,VerbForm=Inf,3.0,acl,3:acl,_,1.0
+248486,936414,"Ces suicides de """"patrons"""", rares, pas """"totalement ",éclaircis," selon les syndicats, avaient surpris dans les milieux policiers.",13.0,éclaircis,éclaircir,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5.0,acl,5:acl,SpaceAfter=No,1.0
+260887,983444,"Nous savons, à la CELAIO, grâce aux entretiens que nous avons quotidiennement avec vous, que vous ressentez la nécessité d'",éclaircir, ou d'approfondir de nombreux points concernant ce sujet :,24.0,éclaircir,éclaircir,VERB,VERB,VerbForm=Inf,22.0,acl,22:acl,_,1.0

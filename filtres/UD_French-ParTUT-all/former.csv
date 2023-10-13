@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+306,fr_partut-ud-923,Et toutes sortes d'autres oxalates renferment aussi du dioxyde de carbone par le biais des minéraux qui sont ,formés, et sortis de la matrice rocheuse. ,22,formés,former,VERB,V,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,19,acl:relcl,_,_,2

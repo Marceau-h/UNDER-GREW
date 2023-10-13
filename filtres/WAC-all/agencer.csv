@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+22990,86319,"Pour bien délimiter le rôle de l'ergonome par rapport aux autres, je dirais que son métier est de décider du contenu : il ",agence, et met en forme l'application.,26.0,agence,agencer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19.0,advcl,19:advcl,_,1.0
+139956,528058,"J¹ai rejoint au pas de course, un premier S.O. que j¹avais repéré Piazza Palermo et qui semblait organiser, ",agencer,", avoir quelques rôles dans l¹organisation.",21.0,agencer,agencer,VERB,VERB,VerbForm=Inf,19.0,conj,19:conj,SpaceAfter=No,1.0

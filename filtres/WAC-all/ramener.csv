@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+63502,239539,Jai proposé à Francis Graille différentes mesures pour ,ramener, lordre.,9.0,ramener,ramener,VERB,VERB,VerbForm=Inf,2.0,advcl,2:advcl,_,1.0
+158417,597227,P_LOGO offre la possibilité de sauvegarder et ,ramener, des formes dans un fichier sur disque.,8.0,ramener,ramener,VERB,VERB,VerbForm=Inf,6.0,conj,6:conj,_,1.0
+230434,868736,Aucun patron ne te dira précisément combien ,ramener,", mais en suivant un peu, tu sais ce que tu dois faire pour ne pas être écarté des missions qui nous permettent d'être pointés"""", a déclaré sous anonymat, un vieux routier des missions.",8.0,ramener,ramener,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,SpaceAfter=No,1.0

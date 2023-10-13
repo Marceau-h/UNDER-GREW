@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+140547,530369,"Même si les socialistes, qui semblent trouver en Christoph Blocher un adversaire tellement ",profilé," qu'il leur permet de mieux s'afficher comme force de résistance, hésitent.",15.0,profilé,profiler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13.0,acl,13:acl,_,1.0
+192042,724494,"Il sert dans la sculpture de bois pour créer des lignes ou des cercles et aux tailleurs de pierre pour la taille des moulures, dans le tournage sur bois pour ",profiler, ou creuser un objet.,32.0,profiler,profiler,VERB,VERB,VerbForm=Inf,2.0,advcl,2:advcl,_,1.0
+209949,791506,"Le portail principal, richement ",profilé,", se trouve au milieu du bas-côté nord, sous un porche.",6.0,profilé,profiler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0

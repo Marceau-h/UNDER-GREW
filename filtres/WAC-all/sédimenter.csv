@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+9629,35807,Les lamelles ont été laissées pendant 1h ou 2h en chambre humide pour que les cellules germinales ,sédimentent,", ou séchées sous un ventilateur.",18.0,sédimentent,sédimenter,VERB,VERB,Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,5.0,advcl,5:advcl,SpaceAfter=No,1.0

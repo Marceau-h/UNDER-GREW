@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+226039,852493,"SAP, on l'a vu, a su en quelques années faire évoluer le produit R/3 d'une architecture centralisée et ",compartimentée, à une décomposition en véritables objets métier bien adaptés à des applications de type client-serveur.,23.0,compartimentée,compartimenter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,21.0,conj,21:conj,_,1.0

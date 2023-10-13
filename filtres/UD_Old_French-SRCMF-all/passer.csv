@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1375,12009,"Et fist trois sairemanz antiers, L'ame Uterpandagron son pere Et la son fil et la sa mere, Qu'il iroit veoir la fontaine, Ja einz ne ",passeroit," quinzaine, Et la tempeste et la mervoille, Si que il i vanra la voille Monseignor Saint Jehan Baptiste, ",31,passeroit,passer,VERB,VERcjg,VerbForm=Fin,23,advcl,_,XmlId=w_YvainKu_4614,3
+1869,13184,et si li raportast Einçois que fust ,passez, li anz. ,8,passez,passer,VERB,VERppe,Tense=Past|VerbForm=Part,4,advcl,_,XmlId=w_YvainKu_19268,2

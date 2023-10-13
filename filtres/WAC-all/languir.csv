@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+88293,332280,"Elle demanda à Charles de lui traduire les vers français: «Egards, tendresse, soins, tout s'épuise en ce jour/Bientôt l'Hymen ",languit, et voit s'enfuir l'amour.»,29.0,languit,languir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,2.0,conj,2:conj,_,2.0

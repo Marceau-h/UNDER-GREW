@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+67952,256565,Temoin ce garragiste qui voyant jumelles et Jonsson sur la banquette de la voiture m'a dit (avec cet acccent du nord ineffable) qu'il était ecoeure et que si ça ,continait, il rendait son permit.,34.0,continait,continer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,36.0,advcl,36:advcl,_,1.0

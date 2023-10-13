@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+50325,189895,"Une confusion qui """"met en avant l'insuffisance des moyens dont bénéficient les policiers, à Bordeaux comme dans toute la France, pour assurer leur mission de gardiens de la paix"""", ",pointent, les syndicats de la profession.,36.0,pointent,pointer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+91539,345024,"Les termes les plus significatifs sont représentés, et il suffit de ",pointer, sur chacune des zones pour les faire apparaître.,13.0,pointer,pointer,VERB,VERB,VerbForm=Inf,11.0,dep,11:dep,_,1.0
+144225,544299,La lumière au bout du tunnel s'est ,pointée, lorsque René a décroché la première place aux Découvertes de Jen Roger.,9.0,pointée,pointer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

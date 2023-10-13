@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+114258,431229,La présence massive d'immigrants le plus souvent ,anglicisés," et la montée de l'islamisme, comme dans l'arrondissement de Cartierville où les femmes «enfoulardées» sont à tous les coins de rue, me choque profondément.",9.0,anglicisés,angliciser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0

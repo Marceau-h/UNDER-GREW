@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+104860,395606,"Ils remplissaient leur tâche avec une adresse et une agilité incomparables, riant, criant, ",gesticulant, et gambadant comme une troupe de singes.,17.0,gesticulant,gesticuler,VERB,VERB,Tense=Pres|VerbForm=Part,13.0,conj,13:conj,_,1.0

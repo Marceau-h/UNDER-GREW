@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+57776,217384,Il est donc nécessaire de créer l'association qui viendra gérer et ,pérenniser, le site.,13.0,pérenniser,pérenniser,VERB,VERB,VerbForm=Inf,11.0,conj,11:conj,_,1.0
+225337,849932,"L'aménagement y est spécifique, contextuel, adapté à des usages qu'il faut ",pérenniser," ou développer : un éclairage, une essence végétale, un matériau de sol ou un mobilier peuvent le caractériser.",16.0,pérenniser,pérenniser,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,1.0
+259733,979105,Il importe que ces valeurs soient encouragées et ,pérennisées," pour que les athlètes africains demeurent des exemples pour des générations futures"""", a estimé le ministre.",9.0,pérennisées,pérenniser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,7.0,conj,7:conj,_,1.0

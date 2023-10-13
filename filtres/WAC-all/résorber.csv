@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+134402,507630,"Après avoir atteint un prix record de 113,93 $US en cours de séance à New York, la valeur du baril de brut s'est ",résorbée," pour terminer la journée à 113, 79 $US, en hausse de 2,03 $US.",27.0,résorbée,résorber,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

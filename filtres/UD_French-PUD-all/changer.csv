@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+194,w05005083,Les choses ont commencé à ,changer," en octobre 1777 lorsque les forces britanniques sous le commandement du général John Burgoyne se sont rendues à Saratoga, dans le nord de l'État de New York. ",6,changer,changer,VERB,VB,VerbForm=Inf,4,xcomp,_,_,1

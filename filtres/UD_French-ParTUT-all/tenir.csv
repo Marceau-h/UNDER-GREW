@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+160,fr_partut-ud-449,"Or, la commission, ",tenue," de présenter des orientations, ne le fait qu'avec regret et de façon floue. ",6,tenue,tenir,VERB,V,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4,acl,_,_,2

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2955,fr-ud-train_12873,"Il parle alors des ajouts almohades à la mosquée (deux fontaines et une porte), mais ne ",remonte," aucunement plus loin, et ne la lie aucunement aux Idrissides. ",21,remonte,remonter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2,conj,_,_,1

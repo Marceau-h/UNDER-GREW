@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+91698,345615,"Quatre ans à tenir, c'est long quand tous les angles d'attaque ont déjà été explorés, creusés, voire ",réutilisés,", passés de rédaction en rédaction jusqu'à épuisement.",23.0,réutilisés,réutiliser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,conj,18:conj,SpaceAfter=No,1.0
+135638,512209,De nombreuses pierres sont souvent récupérées et ,réutilisées, dans les constructions récentes.,8.0,réutilisées,réutiliser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,2.0
+208206,785448,La solution est récupérée puis ,réutilisée," : le système fonctionne en circuit fermé, ce qui limite l’évaporation de l’eau.",6.0,réutilisée,réutiliser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+139790,527390,"Deux boutons sont utilisés, un pour passer la balle à sa coéquipière ou ",lober,", un autre pour mettre la balle directement dans le camp adverse, sans passe donc, qui sert également à smasher et à contrer.",15.0,lober,lober,VERB,VERB,VerbForm=Inf,8.0,conj,8:conj,SpaceAfter=No,1.0

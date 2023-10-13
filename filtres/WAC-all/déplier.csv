@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+6437,24042,"Avec Photoshop CS3, elles se rangent à droite, on les plie/",déplie,", et c'est 'achement mieux.",15.0,déplie,déplier,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13.0,conj,13:conj,SpaceAfter=No,2.0

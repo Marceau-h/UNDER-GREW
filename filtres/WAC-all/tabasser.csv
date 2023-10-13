@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+178654,673932,"En France rarement, en Espagne beaucoup plus souvent, dans le public en tout cas, des parents moins subtils viennent menacer ou ",tabasser, des professeurs parce que leur enfant s'est fait traiter de paresseux ou a eu une mauvaise note.,25.0,tabasser,tabasser,VERB,VERB,VerbForm=Inf,23.0,conj,23:conj,_,1.0

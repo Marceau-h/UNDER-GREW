@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+208911,787934,Je puis vous assurer que le gouvernement malien ,veille," et veillera toujours à utiliser, de manière judicieuse, ces fonds», a-t-il rassuré, s'adressant aux amis allemands.",9.0,veille,veille,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,ccomp,4:ccomp,_,2.0
+262613,990043,"Chargée d'assurer, en toutes circonstances, la liberté et la sécurité des communications des autorités publiques, cette direction ",veille, parallèlement à la protection et à la sécurité des populations sur le territoire.,22.0,veille,veille,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+228383,861495,"Elle poursuit son cours pour passer à Vineuil où elle devient parallèle à la Loire à cause de la vallée en face de Blois et enfin, ",conflue, avec le Beuvron à Candé-sur-Beuvron.,28.0,conflue,confluer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11.0,conj,11:conj,_,3.0

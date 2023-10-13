@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+21731,81329,"Cette dlégation aura pour tâche de """"mener des contacts et de tenir des réunions avec la présidence, le Parlement et le gouvernement libanais"""" et """"d'",œuvrer," pour créer l'atmosphère propice à une reprise du dialogue national libanais"""".",30.0,œuvrer,œuvrer,VERB,VERB,VerbForm=Inf,8.0,conj,8:conj,_,1.0
+22223,83266,De nombreuses associations sont représentées et ,œuvrent," socialement, dont le Rotary Club, la Croix-Rouge française, Les Restos du Cœur, le Secours catholique.",7.0,œuvrent,œuvrer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,5.0,conj,5:conj,_,2.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+87163,327944,«Notre objectif était de ,matérialiser, le rêve de tout mélomane: être assis dans une salle de concerts et pouvoir entendre son musicien favori jouer live.»,6.0,matérialiser,matérialiser,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,2.0
+103159,389164,"Mystérieux car, maintes fois invoqué, ce consortium de cavaliers blancs ne s'est jamais ",matérialisé, alors que le sort d'Alitalia agite les milieux économiques depuis des mois.,17.0,matérialisé,matérialiser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+196370,740724,"Du coup, on cherche à ",matérialiser," pour se rassurer, pour rendre les choses plus explicites, plus profondes.",7.0,matérialiser,matérialiser,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,1.0

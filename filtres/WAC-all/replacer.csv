@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+70899,267335,Les élèves portent à nouveau l'épée au lendemain des trois glorieuses journées de juillet 1830 : par ordonnance du 13 novembre 1830 l'Ecole est remilitarisée et ,replacée, dans les attributions du Ministère de la Guerre.,29.0,replacée,replacer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,27.0,conj,27:conj,_,1.0

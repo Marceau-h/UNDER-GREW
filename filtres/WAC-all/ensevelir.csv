@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+889,3291,Des pelles mécaniques et des équipes d'ouvriers armés de marteaux piqueurs géants continuaient à déblayer les décombres du marché à la recherche d'éventuels corps restant ,ensevelis, et d'indices.,28.0,ensevelis,ensevelir,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,27.0,xcomp,27:xcomp,_,1.0

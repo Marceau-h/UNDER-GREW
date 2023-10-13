@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+95793,361591,Certaines structures microbiennes ,démantelées, et accumulées entre 10 et 21 m de profondeur montrent des indices d'induration précoce.,4.0,démantelées,démanteler,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+213248,804183,"Parti le 31 décembre de France, le Clemenceau était attendu dans deux mois en Inde pour être désamianté et ",démantelé, sur le chantier Shree Ram Scrap Vessel à Alang dans l'Etat du Gujarat (ouest).,21.0,démantelé,démanteler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,19.0,conj,19:conj,_,2.0
+213561,805404,Pyongyang s'était alors engagé à geler et ,démanteler, son programme nucléaire militaire en échange de réacteurs civils.,9.0,démanteler,démanteler,VERB,VERB,VerbForm=Inf,7.0,conj,7:conj,_,2.0
+220143,830159,"Selon des médias sud-coréens, Pyongyang devrait être appelé à donner un calendrier précis pour geler ou ",démanteler, des installations nucléaires.,18.0,démanteler,démanteler,VERB,VERB,VerbForm=Inf,16.0,conj,16:conj,_,2.0

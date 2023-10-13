@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+508,Rhap_D2004-73,"alors, j'",a~,", j'avais beaucoup, j'avais beaucoup trop peur de m'installer, comme ça, seule de~, dans la brousse. ",4,a~,a~,VERB,_,_,11,reparandum,_,SpaceAfter=No,1

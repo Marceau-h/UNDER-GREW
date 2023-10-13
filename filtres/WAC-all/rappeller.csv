@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+188676,711697,"Il se retournera également vers sa maitresse, la jolie colette DérealMais si, ",rappellez," vous : A la gare St Lazare, Femmes à lunettes, telstar.....Cette charmante femme passait un peu du cinéma, à plus souvent la chansonnette.",15.0,rappellez,rappeller,VERB,VERB,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

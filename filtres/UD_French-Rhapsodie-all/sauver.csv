@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+58,Rhap_M2006-47,sept cent quatre-vingt-sept milliards de dollars destinés à ,sauver, ou créer plus de trois millions et demi d'emplois. ,9,sauver,sauver,VERB,_,VerbForm=Inf,7,xcomp,_,Subject=SubjRaising,1

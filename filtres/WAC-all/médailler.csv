@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+69963,264089,"Le titre se disputera entre le champion olympique français et son nouveau partenaire et les champions en titre slovènes Luka Spik et Iztok Cop, ",médaillés, d'argent aux JO-2004.,26.0,médaillés,médailler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,23.0,appos,23:appos,_,1.0

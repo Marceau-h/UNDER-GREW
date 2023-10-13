@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+125478,474015,"Il avait même oublié de boire, de sorte qu'il s'est ",déshydraté," et n'a pas été en mesure de terminer lors du dernier championnat du monde"""".",15.0,déshydraté,déshydrater,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,3.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+183347,691870,L'ordre vient de la capitale : les consuls de la République populaire à l'étranger doivent traquer et ,harasser, les Chinois sympathisants de l'indépendance de Taïwan.,20.0,harasser,harasser,VERB,VERB,VerbForm=Inf,18.0,conj,18:conj,_,1.0

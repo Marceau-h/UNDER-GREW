@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+39227,147636,"Les Troyens ne restaient pas en infériorité numérique très longtemps, le Nantais Rossi ",écopant, quelques minutes plus tard d'un deuxième carton jaune (26).,15.0,écopant,écoper,VERB,VERB,Tense=Pres|VerbForm=Part,4.0,advcl,4:advcl,_,1.0
+227138,856724,L'entraîneur Dave Lewis a ensuite ,écopé,", remplacé par Claude Julien au cours de la saison morte.",7.0,écopé,écoper,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0

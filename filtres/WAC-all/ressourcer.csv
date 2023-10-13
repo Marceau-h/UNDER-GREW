@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+17244,64571,Nous avons besoin en Eglise de ces moments de grand rassemblement pour nous ,ressourcer,", pour relier notre vitalité personnelle ou celle de notre équipe à l'élan de tout le Mouvement.",14.0,ressourcer,ressourcer,VERB,VERB,VerbForm=Inf,2.0,advcl,2:advcl,SpaceAfter=No,2.0
+225981,852309,Nous avions ce besoin de toujours nous ,ressourcer, pour rester des témoins de l'amour que le Christ porte à chacun de nous.,8.0,ressourcer,ressourcer,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,_,3.0

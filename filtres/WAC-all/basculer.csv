@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+49351,186055,Le match aurait pu ,basculer, quand les visiteurs ont bénéfié d'une supériorité numérique de deux joueurs.,5.0,basculer,basculer,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0
+197576,745402,"Les suspentes se trouvant libres en tête, tout l'ensemble du tablier ",bascula, en pivotant autour de la suspension aval.,14.0,bascula,basculer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0.0,root,0:root,_,1.0
+229817,866647,"Jusqu'alors, il nous manquait juste ce petit quelque chose qui fait ",basculer, une rencontre.,14.0,basculer,basculer,VERB,VERB,VerbForm=Inf,10.0,acl:relcl,10:acl:relcl,_,1.0
+235235,886954,Sylvia Zappi : Le conseil général du 93 a effectivement de fortes chances de ,basculer," et d'être pris par Claude Bartolone, député PS du département.",15.0,basculer,basculer,VERB,VERB,VerbForm=Inf,13.0,acl,13:acl,_,1.0

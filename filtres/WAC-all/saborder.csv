@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+243669,918425,Il est symptomatique que le parti décidé à ,saborder," """"Ecclesia Dei"""" poursuive son action comme il l'a commencée : dans l'hypocrisie et la dissimulation.",9.0,saborder,saborder,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,_,1.0

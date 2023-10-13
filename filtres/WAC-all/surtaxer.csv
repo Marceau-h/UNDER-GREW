@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+23504,88286,N'allez surtout pas en déduire qu'il s'agit d'un service gratuit: ces logiciels connectent directement l'internaute à un numéro fortement ,surtaxé, qui plombe les factures téléphoniques à leur insu.,26.0,surtaxé,surtaxer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,24.0,acl,24:acl,_,1.0

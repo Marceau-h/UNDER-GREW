@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+29228,110029,Les pourparlers ont toutefois ,achoppé," quand les deux parties ne se sont pas entendues sur le partage des revenus d'un éventuel combat, qui devrait rapporter plus de 100 millions.",5.0,achoppé,achopper,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+88416,332738,Un seul point ,achoppe, : il n'a toujours pas appris le français.,4.0,achoppe,achopper,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+132579,500721,Les pourparlers ayant ,achoppé,", Moscou a décidé de couper le robinet.",4.0,achoppé,achopper,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0

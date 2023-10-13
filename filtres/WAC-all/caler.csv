@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+78448,295243,Deux générations de mecs hyper ,calés, en zic' :,6.0,calés,caler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0
+135826,512884,L'arme tire au coup par coup et en rafale grâce à une culasse non ,calée, Le sélecteur de tir et le cran de sûreté se trouvent sur le côté de l'arme.,16.0,calée,caler,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,14.0,acl,14:acl,_,1.0
+137216,517889,L'estomac ainsi ,calé,", on peut se contenter à midi d'une soupe et d'un sandwich de pain de mie (le déjeuner préféré des Nord-Irlandais).",4.0,calé,caler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+180306,680299,Une grande campagne de mesure destinée à ,caler, et valider de tels modèles est prévue entre 2000 et 2001 sur la région de Fos l'Etang de Berre.,8.0,caler,caler,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,2.0
+218390,823691,Il avait un patient complètement ,calé," (drogué, ndlr) et il ne l'avait pas décelé.""""",6.0,calé,caler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,3.0
+262056,987788,"La machine est compacte, simple à ",caler," et son pupitre de commande est facile d'emploi et très accessible."""" déclare Jacques Lamotte.",8.0,caler,caler,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,1.0

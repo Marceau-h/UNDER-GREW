@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+35593,133953,"Le futur président assurera la représentation de l'Union sur la scène internationale, tout en ",présidant, et coordonnant les travaux du Conseil européen.,17.0,présidant,présider,VERB,VERB,Tense=Pres|VerbForm=Part,4.0,advcl,4:advcl,_,2.0
+52721,198900,La musique comprend l'ensemble des arts auxquels ,président, les Muses.,9.0,président,présider,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7.0,acl:relcl,7:acl:relcl,_,1.0
+79473,298912,"Dans le monde, la marque, dirigée, ",présidée," et fondée par Ralph Lauren, dispose d'un réseau de 300 boutiques.",10.0,présidée,présider,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0
+242017,912198,"Aujourd'hui elles ne sont que quelques centaines à diriger, ",présider, ou administrer de grandes entreprises.,11.0,présider,présider,VERB,VERB,VerbForm=Inf,9.0,conj,9:conj,_,1.0
+255030,961132,Une Equipe d'Animation Pastorale animera et ,présidera, ces ensembles de paroisses.,8.0,présidera,présider,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,6.0,conj,6:conj,_,1.0

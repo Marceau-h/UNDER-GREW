@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+92966,350620,Fournir aux participants les éléments pratiques nécessaires pour ,initialiser,", mettre en oeuvre et exploiter cette méthodologie d'étude.",9.0,initialiser,initialiser,VERB,VERB,VerbForm=Inf,5.0,acl,5:acl,SpaceAfter=No,1.0
+213516,805205,"En effet l'ordre que j'ai donné ci dessus indique que vector<unsigned char>(hauteur*largeur) s'éxécute AVANT hauteur(x) et largeur(y), donc avec des entiers non ",initialisés, donc catastrophe.,32.0,initialisés,initialiser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,30.0,acl,30:acl,_,1.0

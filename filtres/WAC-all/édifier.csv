@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+170559,643220,"L'entreprise vient de s'installer en zone industrielle, sur la commune de Saint-Yorre (Allier), dans des bâtiments spécialement ",édifiés,", rompant ainsi avec plus d'un siècle d'histoire.",24.0,édifiés,édifier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,22.0,acl,22:acl,SpaceAfter=No,1.0
+253812,956218,"Les principales variables prises en compte sont le poids de l'ouvrage, sa surface au sol et sa fréquence de résonance, qui dépend essentiellement de la forme et de la hauteur du bâtiment à ",édifier,", souligne M. Chazelas.",37.0,édifier,édifier,VERB,VERB,VerbForm=Inf,35.0,acl,35:acl,SpaceAfter=No,2.0

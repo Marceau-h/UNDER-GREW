@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+148464,560280,"Enfin, troisième recommandation: l'IGAS et l'IGF souhaitent """"que soit engagée une réflexion pour simplifier et ",refondre," la typologie des catégories de DEFM inscrits à l'ANPE"""", selon le ministère de l'Economie.",21.0,refondre,refondre,VERB,VERB,VerbForm=Inf,19.0,conj,19:conj,_,3.0

@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2724,10228,Un pneu à ,crevé,", j'ai jeté le vélo dans les buissons.",4.0,crevé,crever,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0
+73749,277830,"Chaque fois qu'un opérateur est annoncé pour un pays, toute une meute crie à l'arnaque, plutôt ",crever,", moi, chez X jamais,....",21.0,crever,crever,VERB,VERB,VerbForm=Inf,15.0,advcl,15:advcl,SpaceAfter=No,1.0
+96001,362279,Le film d'action avec Bruce Willis Vis libre ou ,crève,", nouvel épisode de la franchise à succès Die Hard lancée en 1988, est en 3e position avec 17,4 millions de dollars.",11.0,crève,crever,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,conj,9:conj,SpaceAfter=No,1.0
+129307,488168,"Composé du verbe """"",crever," et de """"coeur"""", le nom désigne un terrain infertile qui """"crève le coeur"""" des paysans.",5.0,crever,crever,VERB,VERB,VerbForm=Inf,3.0,acl,3:acl,SpaceAfter=No,1.0

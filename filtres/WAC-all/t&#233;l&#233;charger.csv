@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+156101,588810,La plupart des lecteurs n'auront pas &#224; ,t&#233;l&#233;charger," s&#233;par&#233;ment XFree86, et trouveront cet ensemble dans leur distribution binaire de Linux.",12.0,t&#233;l&#233;charger,t&#233;l&#233;charger,VERB,VERB,VerbForm=Inf,10.0,dep,10:dep,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+34121,128538,"Depuis quelques années, les feuilles de mes plants de persil, qu'ils soient d'Hambourg ou de Naples, ",frisés," ou pas, se faisaient toujours dévorer par l'élégante chenille du céleri.",22.0,frisés,friser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,2.0

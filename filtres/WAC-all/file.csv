@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+56154,211379,Qui vous appel sans mobile C'est vous dire s'il est habile Pour tuer le temps qui ,file," C'est le mobile'homme, C'est le mobile'homme,",19.0,file,file,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17.0,acl:relcl,17:acl:relcl,_,1.0
+146914,554293,Le temps ,file," et, malgré tout, M. Dion continue de souffler le chaud et le froid.",3.0,file,file,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+252664,951755,"Quelques mois plus tard, le disque enfin ",ouï,", on se dit que c’était une bonne idée.",9.0,ouï,ouïr,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl,7:acl,SpaceAfter=No,1.0

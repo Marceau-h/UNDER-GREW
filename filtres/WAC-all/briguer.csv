@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+213037,803488,Le socialiste Bernard Soguel ne ,briguera, pas de 3e mandatLe conseiller d'Etat socialiste Bernard Soguel ne briguera pas de troisième mandat au gouvernement neuchâtelois.,6.0,briguera,briguer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,0.0,root,0:root,_,1.0

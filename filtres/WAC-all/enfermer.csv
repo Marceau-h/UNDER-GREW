@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+20567,77067,L'enfermement est nécessaire mais sur le plan moral ça me dérange énormément de voir quelqu'un de malade ,enfermé," punitivement"""".",20.0,enfermé,enfermer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,15.0,xcomp,15:xcomp,_,1.0

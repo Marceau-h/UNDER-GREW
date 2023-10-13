@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+353,Europar.550_00535,"En conséquence, les partis nationalistes démocratiques ont dû rompre les coalitions conclues avec Euskal Herritarrok dans certaines municipalités parce qu'il est inconcevable d'",accepter, et de comprendre ce tir dans la nuque et la violence permanente en tant que stratégie politique. ,26,accepter,accepter,VERB,_,VerbForm=Inf,24,csubj,_,Subject=Generic,1

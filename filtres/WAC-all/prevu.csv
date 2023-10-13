@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+147066,554970,"Les 2 sites (aile 3 et centre-anneau) sont toujours en competition pour accueillir SU5, mais la decision finale approche et devrait pouvoir etre prise comme ",prevu, vers la mi-avril.,31.0,prevu,prevu,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,29.0,advcl,29:advcl,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+74090,279178,Ceux ayant avoué ou ayant été déclarés innocents se verraient attribuer une rente et pourraient vivre dans une maison de l'ordre alors que tous ceux ayant nié ou s'étant ,rétractés,", subiraient un châtiment sévère (la peine de mort).",32.0,rétractés,rétracter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,28.0,conj,28:conj,SpaceAfter=No,2.0
+118535,447847,Un expert en sécurité s'est soudainement ,rétracté, après avoir annoncé la découverte d'une vulnérabilité critique dans le navigateur open source Firefox.,8.0,rétracté,rétracter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

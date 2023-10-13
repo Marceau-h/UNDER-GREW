@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+111684,421523,Une fois une carte posée ou ,piochée,", le tour passe au joueur suivant.",7.0,piochée,piocher,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5.0,conj,5:conj,SpaceAfter=No,1.0
+136161,514078,Toujours sur le même principe vous pouvez utiliser Gush pour ,piocher, et reposer vos lands et le coût alternatif de Thawrt devient une formalité pour contrer.,11.0,piocher,piocher,VERB,VERB,VerbForm=Inf,8.0,advcl,8:advcl,_,3.0
+178815,674559,Une mine à ,piocher," : Uppsala software factory, quelques utilitaires de toutes sortes...,",4.0,piocher,piocher,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0

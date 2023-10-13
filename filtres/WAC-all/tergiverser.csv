@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+34658,130622,Les autorités américaines recommandent aux Canadiens de ne pas ,tergiverser, lorsque le moment sera venu d'obtenir les documents de voyage nécessaires pour franchir la frontière à compter de juin prochain.,10.0,tergiverser,tergiverser,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0
+47107,177678,Pendant ce temps Bayer a vacillé et ,tergiversé," après le coup d'assommoir du retrait du médicament anti-cholestérol Lipobay, en 2001, et des procès ultérieurs.",8.0,tergiversé,tergiverser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,2.0
+48311,182096,Il n'y a pas lieu de ,tergiverser, et de refaire la loi juste pour se faire plaisir.,8.0,tergiverser,tergiverser,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0

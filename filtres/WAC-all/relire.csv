@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+110778,418016,"La littérature anthropologique classique mérite donc d'être lue, ou ",relue,", dans cet esprit.",12.0,relue,relire,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,SpaceAfter=No,1.0
+145176,547807,"Comme chaque semaine, on a fouillé, épluché, puis lu et ",relu, vos commentaires.,14.0,relu,relire,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,conj,12:conj,_,1.0

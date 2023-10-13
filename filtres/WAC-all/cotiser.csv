@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1852,6924,"On notera au passage que l'employeur SNCF, tel qu'en parle Mr Ngoc, ",cotise, beaucoup plus qu'employeur privé.,17.0,cotise,cotiser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,ccomp,2:ccomp,_,2.0
+96257,363076,"Après avoir appris la situation, des marchands d'Anosibe se sont ",cotisés, pour acheter un tissu pour recouvrir le corps.,13.0,cotisés,cotiser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+134593,508338,"Une façon d'être à la fois un actif et un retraité, de continuer à ",cotiser, tout en levant le pied.,17.0,cotiser,cotiser,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,1.0
+221326,834815,"En revanche, je m'engage à ce que personne ne perde de sa retraite en ",cotisant," plus"""", a répondu le chef de l'Etat.",17.0,cotisant,cotiser,VERB,VERB,Tense=Pres|VerbForm=Part,12.0,advcl,12:advcl,_,1.0
+234062,882494,"C'est moins cher que l'hosto, beaucoup moins cher, et on ne paye pas sa retraite en plus (alors que le gars a ",cotisé,"), tout va pour le mieux.",28.0,cotisé,cotiser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16.0,advcl,16:advcl,SpaceAfter=No,1.0
+247558,932959,Si la réforme consiste à travailler plus longtemps pour ,cotiser," plus cher et toucher moins de retraite, la réaction sera forte"""", ajoute-t-il.",11.0,cotiser,cotiser,VERB,VERB,VerbForm=Inf,7.0,advcl,7:advcl,_,2.0

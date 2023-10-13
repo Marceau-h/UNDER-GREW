@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3720,13941,"En cinquante-deux films tournés en trente ans, elle a offert son port de reine, son profil d’équidé et la noblesse de sa démarche à des femmes en vrac, ",humiliées,", perdues mais jamais soumises.",35.0,humiliées,humilier,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,31.0,acl,31:acl,SpaceAfter=No,1.0
+191039,720813,"À la fin de la guerre du Pacifique, qui éclate en 1879, le Pérou se retrouve amputé, ruiné, ",humilié, ; la Bolivie perd son accès à l'océan et les richesses du désert d'Atacama.,23.0,humilié,humilier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,19.0,conj,19:conj,_,2.0

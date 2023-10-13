@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2450,fr-ud-train_10384,"L'homme de ma vie, c'est moi qui l'appelle ainsi, me portait sur ses épaules pour que sa petite louve ",crie, encore plus fort que tous les loups... je hurlais « liberté pourquoi m'as-tu abandonnée ? ,25,crie,crier,VERB,_,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16,advcl,_,_,1

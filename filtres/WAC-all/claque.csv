@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+165697,624725,"Il avait posé son large chapeau devant lui, et regardait le plafond, quand le bruit d'une porte qui ",claque, le fit bondir.,22.0,claque,claque,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,20.0,acl:relcl,20:acl:relcl,_,2.0

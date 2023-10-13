@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+19711,73936,"Des fois, il est difficile de faire la différence entre une divergence d'opinion dans un monde où la réalité n'existe pas et une action partisane faisant ",fuire, les véritables contributeurs et contraires aux théories admises dans ce domaine.,30.0,fuire,fuire,VERB,VERB,VerbForm=Inf,27.0,acl,27:acl,_,1.0
+55613,209388,Et les habitants continuent de ,fuire," les zones de combat, emportant avec eux le strict nécessaire.",6.0,fuire,fuire,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,2.0
+114859,433539,Des habitants ont indiqué que des centaines de villageois étaient en train de ,fuire, Buale par craintes de nouvelles violences.,14.0,fuire,fuire,VERB,VERB,VerbForm=Inf,12.0,acl,12:acl,_,1.0

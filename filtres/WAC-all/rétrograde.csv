@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+141445,533884,Elle enchaîne les rapports sans à-coups et ,rétrograde,", hélas, sans ce petit coup de gaz du double débrayage.",8.0,rétrograde,rétrograde,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,conj,2:conj,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+36919,138951,Les planètes présentant un albédo très faible ont forcément une atmosphère très ,raréfiée, et ont très probablement une croûte solide.,13.0,raréfiée,raréfier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,11.0,acl,11:acl,_,1.0

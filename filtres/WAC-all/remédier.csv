@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+169150,637949,Cette impuissance prend ses racines dans un profond traumatisme juif auquel le sionisme avait promis de ,remédier," lors de la création du pays en 1948, autrement dit protéger les juifs, explique Halevi, du centre de réflexion Shalem à Jérusalem.",17.0,remédier,remédier,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+169169,638017,Cette vision doit être partagée pour nous permettre non seulement de nous épanouir pour ,réinvestir," ensuite et créer plus d'emplois, générer plus de ressources fiscales.",15.0,réinvestir,réinvestir,VERB,VERB,VerbForm=Inf,13.0,advcl,13:advcl,_,1.0

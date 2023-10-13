@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+274,ParisStories_2020_maisonAbondonnee_6,"et un jour, il y a, euh, une copine, euh, de ma meilleure amie qui elle ",habitait," là-bas qui, euh, qui nous a amenées dans un endroit. ",22,habitait,habiter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,12,acl:relcl,_,_,1

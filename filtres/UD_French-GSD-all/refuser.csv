@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+920,fr-ud-train_02778,"J'ai exigé que le nom de ce demandeur d'asile me soit communiqué, mais Mekaoui ",refusa," net, arguant que l'intéressé ne veut pas pour le moment être connu, pour des raisons de sécurité. ",18,refusa,refuser,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,3,conj,_,_,1

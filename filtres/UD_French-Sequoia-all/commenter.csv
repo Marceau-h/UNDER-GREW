@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+615,annodis.er_00333,"Une sorte de réaction épidermique par rapport à leur présence"""" ",commentait, le commissaire central. ,12,commentait,commenter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,4,parataxis:insert,_,_,1

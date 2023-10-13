@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+24569,92046,Le président de la République ,promulgue,", elle abroge.",6.0,promulgue,promulguer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+40909,154344,"Le président de la République, auquel la Constitution fixe comme première mission de """"veiller au respect de la Constitution"""", a signé et ",promulgué, une loi votée par la Parlement.,27.0,promulgué,promulguer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,25.0,conj,25:conj,_,1.0

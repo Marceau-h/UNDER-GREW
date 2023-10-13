@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+117722,444735,"Durant trois jours, un atelier de sensibilsation se tient à Ambohimanga Rova afin de responsabiliser et ",conscientiser, la population environnante ainsi que le peuple en entier pour la preservation de ce site classé patrimoine mondial.,18.0,conscientiser,conscientiser,VERB,VERB,VerbForm=Inf,16.0,conj,16:conj,_,2.0
+126830,478906,"Comme à l'accoutumée, le personnel du Bianco va sensibiliser,voire ",conscientiser,", les parlementaires sur leur rôle et l'importance de leur mission dans le contexte économique actuel.",14.0,conscientiser,conscientiser,VERB,VERB,VerbForm=Inf,11.0,parataxis,11:parataxis,SpaceAfter=No,3.0

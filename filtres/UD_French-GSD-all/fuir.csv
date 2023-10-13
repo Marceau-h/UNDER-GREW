@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+509,fr-ud-train_00779,"Le frère marianiste Carlos Eraña Guruceta (1884-1936), bienheureux et martyr, enseigna à l'école primaire de 1933 à 1936, date à laquelle il dut ",fuir, à cause des dangers encourus par la communauté durant la guerre ; ,30,fuir,fuir,VERB,_,VerbForm=Inf,29,xcomp,_,Subject=SubjRaising,1
+1269,fr-ud-train_04639,Le fort taux d'imposition en France ferait ,fuir, les talents et empêcherait les clubs de l'Hexagone de progresser. ,9,fuir,fuir,VERB,_,VerbForm=Inf,0,root,_,Subject=ObjRaising,2
+1893,fr-ud-train_07632,"Berou, vaincu, décide d'abord de ",fuir, mais en mai 1854 il abdique et finit en prison où il reste pendant quatorze ans. ,9,fuir,fuir,VERB,_,VerbForm=Inf,5,xcomp,_,Subject=SubjRaising,1

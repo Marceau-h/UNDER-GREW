@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+137740,519735,"Le solo (chose rare pour un battlefield-like) s'annonce Mega fun, les protagonistes sont super cool et ",délirent,", surtout dans la première vidéo .",23.0,délirent,délirer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,21.0,conj,21:conj,SpaceAfter=No,1.0

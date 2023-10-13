@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+5,FQB_CAF-21,Quelles démarches dois-je effectuer pour demander et ,recevoir, une aide au logement ? ,9,recevoir,recevoir,VERB,_,VerbForm=Inf,7,conj,_,_,1

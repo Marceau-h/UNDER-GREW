@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+150307,567090,"Il était temps, car, cinq minutes après, ça a tellement ",bardé,", que tous les quatre, nous nous sommes réfugiés dans le couloir.",14.0,bardé,barder,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,conj,3:conj,SpaceAfter=No,1.0

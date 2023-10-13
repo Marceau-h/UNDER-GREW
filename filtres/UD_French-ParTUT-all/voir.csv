@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+179,fr_partut-ud-551,Permettez à tout le monde de ,voir, vos mises à jour publiques. ,7,voir,voir,VERB,V,VerbForm=Inf,1,xcomp,_,_,2

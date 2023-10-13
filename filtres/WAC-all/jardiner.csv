@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+55434,208635,"Il joue au golf, ",jardine,", cuisine, bricole et il lui arrive même d'écrire encore.",6.0,jardine,jardiner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,conj,2:conj,SpaceAfter=No,3.0
+150127,566462,Avec plein d'infos sur l'art et la manière de ,jardiner," bio, dans la bonne humeur et avec les moyens du bord, plus des sorties qui font du bien et toute l'actualité des bonnes solutions pour la planète.",12.0,jardiner,jardiner,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,_,1.0

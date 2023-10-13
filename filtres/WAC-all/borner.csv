@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+844,3136,"Les caractères : ouvert, semi-ouvert, ",borné," ne sont pas conservés par continuité (exemple1, exemple2).",8.0,borné,borner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0
+156368,589701,"Pour les étrangers aussi, le coq symbolise la France, même si c'est un animal auquel on ne prête pas que des qualités (",bornés,", orgueilleux...).",27.0,bornés,borner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,25.0,acl,25:acl,SpaceAfter=No,2.0

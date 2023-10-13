@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+26436,99170,La présence de bulletins mal ,orthographiés, semblait illustrer la volonté de certains sénateurs de l'Union de mettre en garde Prodi.,6.0,orthographiés,orthographier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0

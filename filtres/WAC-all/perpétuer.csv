@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+86906,326971,"Et d'ajouter : """"65 ans, le temps a passé (...) l'horreur, elle, n'a pas diminué et avec elle s'est ",perpétuée," notre obligation de protester, de pratiquer l'exercice du souvenir et de la vigilance"""".",30.0,perpétuée,perpétuer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,24.0,conj,24:conj,_,3.0
+257741,971345,Ces hommes et femmes ,perpétuent,", en conservant la mémoire locale, la tradition de leurs aïeux.",5.0,perpétuent,perpétuer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

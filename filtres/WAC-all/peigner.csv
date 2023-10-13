@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+26016,97497,"Tout se passera bien, les queues des chevaux bien ",peignées," brilleront, notre beau cheval gris n'aura aucune tache jaune, on aura pris soin de mettre de la graisse à pied noire sur les sabots noirs et de la verte sur les sabots blancs.",11.0,peignées,peigner,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,2.0

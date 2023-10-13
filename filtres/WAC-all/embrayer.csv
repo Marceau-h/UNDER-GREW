@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+10151,37786,"C'est un match très particulier pour moi», ",embraye," le coach du Léo, Vincent Van Gucht.",11.0,embraye,embrayer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,parataxis,4:parataxis,_,3.0

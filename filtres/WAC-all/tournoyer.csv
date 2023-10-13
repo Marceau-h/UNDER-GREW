@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+6666,24857,"Au départ, les obus flèches étaient tirés par des canons rayés dont les rainures faisaient ",tournoyer, et le sabot et la cheville (qui alors n'avait pas d'ailettes).,17.0,tournoyer,tournoyer,VERB,VERB,VerbForm=Inf,11.0,acl:relcl,11:acl:relcl,_,1.0
+196180,740003,"Le couple a dîné au restaurant sur le front de mer, puis entamé une promenade, jetant un oeil sur les lumières des phares qui ",tournoient,", observant la bande de lumières au loin, qui prouve l'existence de la Grande-Bretagne.",27.0,tournoient,tournoyer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,25.0,acl:relcl,25:acl:relcl,SpaceAfter=No,1.0

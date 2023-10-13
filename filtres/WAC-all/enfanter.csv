@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+126498,477709,Toutes les femmes plus ou moins équilibrées peuvent ,enfanter,", donner la vie.",9.0,enfanter,enfanter,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,SpaceAfter=No,1.0

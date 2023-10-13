@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+107911,407260,"D'autres personnalités, déjà ",absentes," lors du premier rendez-vous, ne sont pas encore rentrées de leurs vacances.",6.0,absentes,absenter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,1.0
+136958,516970,Le co-locataire s'est de nouveau ,absenté," et, à son retour, il a trouvé les deux hommes tués par balles.",7.0,absenté,absenter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

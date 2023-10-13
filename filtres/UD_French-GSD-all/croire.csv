@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+649,fr-ud-train_01455,"Dans une interview accordée à EspyRock, il explique que le titre de l'album « est une façon de dire aux gens que nous n'appartenons ou ne ",croyons," ni au paradis, ni à l'enfer. ",31,croyons,croire,VERB,_,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,28,conj,_,_,1

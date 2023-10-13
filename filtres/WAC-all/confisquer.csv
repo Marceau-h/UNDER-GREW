@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+65523,247061,Nous navons cesse de décrier des élections ,confisquées," , ça et là dans le monde, par des partis uniques exempts de tout débat en leur sein.",8.0,confisquées,confisquer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,1.0
+134733,508794,"Il ne faut pas s'étonner que les problèmes des entreprises et de l'économie ne soient pas toujours bien compris, et, pire, soient appropriés, voire ",confisqués,", par les élus politiques, issus souvent d'autres mondes.",31.0,confisqués,confisquer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,28.0,conj,28:conj,SpaceAfter=No,1.0
+134872,509287,Bacon fut arrêté et ses terres ,confisquées, et remises à William Randolph dont la famille eut une grande influence en Virginie.,7.0,confisquées,confisquer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,3.0

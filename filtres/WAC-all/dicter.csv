@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+179474,677077,"Pourtant les volontes, les idees sont la et il ne manque surement qu un peu de methodes de rigueur mais pas celle qui ",dicte,", celle qui oblige, non cette rigueur qui permet de se respecter et de faire ensemble en quoi on croit.",25.0,dicte,dicter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,23.0,acl:relcl,23:acl:relcl,SpaceAfter=No,2.0

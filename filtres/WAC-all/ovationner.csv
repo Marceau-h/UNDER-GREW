@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+208803,787595,"Et à Une vérité qui dérange (lire ci-dessous), Oscar du meilleur documentaire qui aura permis à Al Gore d'être enfin élu - et ",ovationné, - à l'unanimité.,28.0,ovationné,ovationner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,25.0,conj,25:conj,_,1.0

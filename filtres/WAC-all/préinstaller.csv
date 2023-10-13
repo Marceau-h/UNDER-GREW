@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+122835,464147,"Aux parents, AOL proposera des démonstrations de son dispositif de Contrôle Parental, gratuit et ",préinstallé, sur son service.,17.0,préinstallé,préinstaller,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,15.0,conj,15:conj,_,1.0

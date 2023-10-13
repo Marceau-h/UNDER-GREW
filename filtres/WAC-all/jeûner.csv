@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+5275,19605,"Le Ramadhan est célébré par tout le monde, dans les grandes villes turques, y compris par ceux qui ne ",jeûnent," pas. » Nilufer Narli, un sociologue de Bahçensehir University, se réjouit de « la coexistence entre la religion et la modernité ».",22.0,jeûnent,jeûner,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,19.0,acl:relcl,19:acl:relcl,_,2.0

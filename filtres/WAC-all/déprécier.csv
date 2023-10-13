@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+208914,787939,Fortis en revanche « est la seule banque de l'étude à avoir ,déprécié, davantage que ce qu'exigeait notre modèle ».,14.0,déprécié,déprécier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,2.0
+222372,838447,L'enseignement professionnel véhicule une image encore très inégale avec des filières fort ,dépréciées, alors que certaines branches professionnelles manquent justement de main-d'oeuvre qualifiée.,14.0,dépréciées,déprécier,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,12.0,acl,12:acl,_,1.0
+226116,852798,"Dans son courrier, le président de la CES avait pris la défense du texte romain et affirmé que celui-ci n'avait pas eu pour but de ",déprécier, ni de discriminer les Eglises issues de la Réforme.,28.0,déprécier,déprécier,VERB,VERB,VerbForm=Inf,26.0,acl,26:acl,_,2.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+77564,291896,"Nous libère, non sans remords, d'un étrange excédent de poids, nous laisse tout retournés avec notre os à ",ronger,. nova Magazine.,23.0,ronger,ronger,VERB,VERB,VerbForm=Inf,21.0,acl,21:acl,SpaceAfter=No,1.0
+252750,952084,Un os de moins à ,ronger, pour les hyènes pleureuses.,6.0,ronger,ronger,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0

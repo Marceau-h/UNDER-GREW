@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+233312,879628,Mais le Maccabi ne ,désespérait," pas et grignotait son retard, revenant à 3 points à deux minutes de la fin notamment grâce à Nate Huffman (26 points).",5.0,désespérait,désespérer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0.0,root,0:root,_,2.0

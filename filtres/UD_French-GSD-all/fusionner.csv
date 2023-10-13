@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+493,fr-ud-train_00691,"En raison d'une possibilité de monopole, la décision de ",fusionner, a été suspendu par les instances américaines. ,12,fusionner,fusionner,VERB,_,VerbForm=Inf,10,acl,_,Subject=Generic,1

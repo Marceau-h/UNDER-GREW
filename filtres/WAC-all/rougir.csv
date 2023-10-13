@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4727,17661,"Afin de tirer en avant ses ambitions, mais également un vif éclairage médiatique sur son commerce, elle annonce sans ",rougir, sa volonté de concevoir cet ordinateur portable à 75 dollars.,22.0,rougir,rougir,VERB,VERB,VerbForm=Inf,20.0,advcl,20:advcl,_,1.0
+201118,759003,"L'A.S.Mantaise, cette année, n'a pas eu à ",rougir, et peut conserver ses couleurs.,12.0,rougir,rougir,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,_,1.0
+232833,877732,Le soleil ,rougit,", le massif des Maures se teinte de la couleur chaude des fins d'après-midi ensoleillé.",3.0,rougit,rougir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

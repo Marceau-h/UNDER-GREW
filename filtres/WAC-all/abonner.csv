@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+110652,417503,"Sur la page des newsletters, vous pouvez vous ",abonner, ou vous désabonner automatiquement de nos newsletters.,10.0,abonner,abonner,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,_,1.0
+131522,496526,"Si vous aimez l'idée, ",abonnez,-vous vite (l'accès est ouvert en ce moment) et profitez de la vente Ève Gravel.,7.0,abonnez,abonner,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,3.0
+141740,535011,"La nouvelles fenêtre offre la liste des forums de la Maîtrise, les sélectionner un à un sans oublier de cliquer sur S'",abonner, pour chaque sélection.,24.0,abonner,abonner,VERB,VERB,VerbForm=Inf,21.0,xcomp,21:xcomp,_,1.0

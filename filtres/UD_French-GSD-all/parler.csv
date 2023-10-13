@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+494,fr-ud-train_00702,"Lorsque les fruits s'écrasaient à la cuisson, on ",parlait, au contraire de marmelade : une marmelade de pommes. ,11,parlait,parler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0,root,_,_,1
+540,fr-ud-train_00923,Hors détresse vitale (la victime ,parle,", ouvre les yeux, et ne présente pas de saignement abondant), éviter que la victime ne bouge et la laisser dans la position où elle se sent le mieux : tout mouvement risquerait d'aggraver la plaie, de provoquer des douleurs, ou de provoquer une hémorragie. ",7,parle,parler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2,parataxis,_,SpaceAfter=No,1
+672,fr-ud-train_01557,Ses qualités de vitesse et son sens du but font ,parler, le monde du football. ,12,parler,parler,VERB,_,VerbForm=Inf,0,root,_,Subject=ObjRaising,1
+712,fr-ud-train_01757,Ces fruits sont botaniquement ,parlant, des faux-fruits. ,5,parlant,parler,VERB,_,Tense=Pres|VerbForm=Part,7,advcl,_,Subject=Instantiated,1

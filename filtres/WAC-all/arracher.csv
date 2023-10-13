@@ -1,0 +1,8 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+108,449,Dorko et Ilona eurent les doigts ,arrachés, avant d’être jetées au feu.,7.0,arrachés,arracher,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0
+505,1820,"Même au niveau de l'émotion, car on s'est vraiment ",arrachées,", a souligné Wuillème, troisième de l'épreuve individuelle dimanche dernier.",13.0,arrachées,arracher,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,3.0,conj,3:conj,SpaceAfter=No,2.0
+40455,152560,"Et une célèbre mélodie chinoise, donnée en bis, a ",arraché, des «oh!»,12.0,arraché,arracher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,3.0
+69117,260942,"Si qu'i'accroches eune fainiesse, i'",arrache, tout dins'vitesse.,9.0,arrache,arracher,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+120464,455251,"Le Père Jogues, maintenu en esclavage pendant 13 mois et torturé (il perdra la plupart de ses doigts, brûlés ou ",arrachés,"), finit par s'échapper avec l'aide de Calvinistes hollandais qui lui font gagner New Amsterdam (New York).",24.0,arrachés,arracher,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,22.0,conj,22:conj,SpaceAfter=No,1.0
+169386,638828,"Le jeune homme, avec les mains pratiquement ",arrachées,", a été déposé mardi soir à l'entrée de l'hôpital de la Citadelle à Liège, par des proches.",9.0,arrachées,arracher,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,7.0,acl,7:acl,SpaceAfter=No,1.0
+233757,881342,D'or à trois têtes de lion de gueules ,arrachées, et languées d'azur.,10.0,arrachées,arracher,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0

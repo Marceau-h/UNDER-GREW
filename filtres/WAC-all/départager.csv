@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2059,7768,"Le refus des indigènes de """"",départager," """" a valeur de message général et universel : """"départager"""", qu'il s'agisse du sport ou de la guerre est une """"chose injuste et barbare"""".",7.0,départager,départager,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0

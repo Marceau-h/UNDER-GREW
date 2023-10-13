@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+228923,863374,"Lors d'une longue """"déclaration aux Français"""" enregistrée depuis l'Elysée, Jacques Chirac, l'air grave et ",chaussé," - fait exceptionnel - de lunettes, a annoncé la création d'un """"service civil volontaire"""" associant accompagnement et formation.",22.0,chaussé,chausser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,20.0,conj,20:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+214746,809830,La proposition de pacte vise à coordonner et à ,parachever," les efforts institutionnels au niveau européen en vue de mettre au point une approche européenne commune en matière d'immigration, aussi bien légale et que clandestine.",10.0,parachever,parachever,VERB,VERB,VerbForm=Inf,7.0,conj,7:conj,_,1.0

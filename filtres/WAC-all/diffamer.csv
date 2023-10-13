@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+16405,61292,"Don't feed the troll"""" d'accord, c'est bien gentil, mais pas se faire insulter, ",diffamer, et calomnier par un troll.,22.0,diffamer,diffamer,VERB,VERB,VerbForm=Inf,20.0,conj,20:conj,_,1.0
+71633,270142,"Il n’est pas le bouffon du pouvoir, le provocateur maison, le sémillant putasson : il subit les tracasseries des pouvoirs publics, il est traîné en justice, jeté en prison, traqué dans sa vie privée, ",diffamé,", occulté, paupérisé.",42.0,diffamé,diffamer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,conj,6:conj,SpaceAfter=No,3.0

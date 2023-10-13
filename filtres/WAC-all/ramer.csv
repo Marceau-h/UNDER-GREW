@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+109359,412717,"Certaines autres en étaient à leurs troisièmes Jeux, ça fait longtemps qu'elles ",rament,", elles ont des familles.",15.0,rament,ramer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,11.0,ccomp,11:ccomp,SpaceAfter=No,1.0
+125657,474646,"La semaine a bien commencé pour la petite Indiana Anderson: la fillette de 8 ans a eu droit à une journée de congé, hier, pendant que la Commission scolaire de Montréal ",ramait, pour déneiger le toit son l'école.,35.0,ramait,ramer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,5.0,advcl,5:advcl,_,1.0

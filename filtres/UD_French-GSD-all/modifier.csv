@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+806,fr-ud-train_02189,Vous n'avez pas le droit de ,modifier,", de transformer ou d'adapter cette création. ",8,modifier,modifier,VERB,_,VerbForm=Inf,6,xcomp,_,SpaceAfter=No|Subject=SubjRaising,1

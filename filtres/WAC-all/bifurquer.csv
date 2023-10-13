@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+128267,484185,Elles partagent les mêmes voies sur cinq stations en direction du Nord puis elles ,bifurquent, mais se croisent à la Beurs (Bourse).,15.0,bifurquent,bifurquer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,2.0,conj,2:conj,_,2.0
+226063,852576,"En arrivant dans la rue piétonne, nous avons rattrapé l'orchestre mais comme il y avait beaucoup de monde, nous avons ",bifurqué, pour nous retrouver dans une rue où marchaient trois musiciens.,24.0,bifurqué,bifurquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+238017,897227,"Il prit tout de suite à droite dans la rue de Charonne, ",bifurqua, et s'arrêta devant le squat.,14.0,bifurqua,bifurquer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,2.0,conj,2:conj,_,1.0

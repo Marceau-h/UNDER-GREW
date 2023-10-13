@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+78279,294554,Ces sociÃ©tÃ©s ou personnes ont accÃ¨s aux informations personnelles nÃ©cessaires pour accomplir leurs tÃ¢ches mais ne sont pas autorisÃ,©,es Ã les utiliser dans d'autres buts.,3.0,©,copyright,NOUN,NOUN,Gender=Masc|Number=Plur,4.0,nmod,4:nmod,SpaceAfter=No,1.0

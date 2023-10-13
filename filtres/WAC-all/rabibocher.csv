@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+61302,231068,"Le temps était donc venu, hier, de tenter de ",rabibocher," ceux qui avaient pris part, à des titres divers, aux actes précédents.",12.0,rabibocher,rabibocher,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,_,1.0

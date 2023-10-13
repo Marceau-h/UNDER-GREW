@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+256696,967482,"L'équipe préfère attendre les conclusions de l'affaire Puerto, dans laquelle ",trempe," Basso, avant de donner le feu vert au cycliste.",14.0,trempe,trempe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,acl:relcl,9:acl:relcl,_,1.0

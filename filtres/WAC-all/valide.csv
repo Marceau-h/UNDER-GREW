@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+205235,774515,"Bestofmicro sélectionne, contrôle, ",valide," et centralise, en temps réel les meilleures offres des professionnels de l'informatique de toute la France.",6.0,valide,valide,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,conj,2:conj,_,3.0
+234726,885000,"Le Conseil scientifique composé de personnalités du monde de la Recherche, évalue et ",valide, les axes de recherche des six laboratoires correspondant chacun aux grands domaines de l'École.,15.0,valide,valide,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13.0,conj,13:conj,_,1.0

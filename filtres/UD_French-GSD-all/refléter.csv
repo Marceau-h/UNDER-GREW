@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2263,fr-ud-train_09521,"Cette année c'est le thème de la qualité de l'eau qui a été retenu, ",reflétant," ainsi l'importance des deux thèmes, quantité et qualité, pour la gestion des ressources en eau. ",18,reflétant,refléter,VERB,_,Tense=Pres|VerbForm=Part,6,acl,_,_,1

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+38455,144736,"La gueule du loup était là, droit devant elle, avec ses yeux qui ",reluisaient, et sa langue qui pendait.,16.0,reluisaient,reluire,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,14.0,acl:relcl,14:acl:relcl,_,1.0

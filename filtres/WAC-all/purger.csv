@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+5926,21923,"Détenu depuis son arrestation, le 31 mai 2007, il lui reste 20 mois à ",purger,", la détention préventive comptant en double.",17.0,purger,purger,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,SpaceAfter=No,1.0
+52754,199033,"En 1927, le mouvement de prédicateurs Tabligh (Foi et pratique) - encore très présent en France aujourd'hui - est créé avec cette vocation de purifier, ",purger, ce que des siècles de cohabitation ont pollué.,30.0,purger,purger,VERB,VERB,VerbForm=Inf,28.0,conj,28:conj,_,3.0
+83242,312790,L'emprisonnement à vie devenait dès lors automatique mais la juge devait déterminer combien d'années elle devrait ,purger, avant de pouvoir s'adresser à la Commission des libérations conditionnelles.,19.0,purger,purger,VERB,VERB,VerbForm=Inf,18.0,xcomp,18:xcomp,_,1.0
+222895,840461,"Cette détention préventive a été calculée au double de telle sorte que concrètement, la sentence à ",purger, est de six ans et neuf mois.,18.0,purger,purger,VERB,VERB,VerbForm=Inf,16.0,acl,16:acl,_,1.0

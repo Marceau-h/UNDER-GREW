@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+24261,90933,"Dans cette version, ",repêchées,", sauvées du bruit de fond par la technologie, les voix deviennent audibles, et à travers elles les intentions des personnages plus évidentes.",5.0,repêchées,repêcher,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,18.0,advcl,18:advcl,SpaceAfter=No,2.0
+154042,581036,Et l'agence International Scouting Service estime qu'il sera le premier joueur ,repêché," lors du prochain repêchage de la Ligue de hockey junior majeur du Québec (LHJMQ), en juin 2007.",14.0,repêché,repêcher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13.0,acl,13:acl,_,2.0

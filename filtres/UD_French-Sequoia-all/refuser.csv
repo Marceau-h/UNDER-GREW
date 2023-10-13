@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+68,annodis.er_00473,"Comme l'attaquant tenait encore à jouer, il ",refusa," et examina d'autres possibilités : """"Le Mans, Valence, Sedan et un quatrième club dont je dois taire le nom, me faisaient des offres intéressantes. ",10,refusa,refuser,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,0,root,_,_,2

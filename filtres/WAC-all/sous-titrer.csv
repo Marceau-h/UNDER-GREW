@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+229004,863717,"Le rapport, intitulé 'République 2.0' et ",sous-titré," « vers une société de la connaissance ouverte », formule 94 recommandations dessinant, explique son auteur, « les contours d'un véritable programme d'action gouvernemental ».",10.0,sous-titré,sous-titrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0

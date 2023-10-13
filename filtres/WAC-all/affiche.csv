@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+11442,42965,"Lorsque je clique sur modifier, l'écran ",affiche," : """"Safari ne peut ouvrir la page “http://fr.wikipedia.org/w/index.php?",9.0,affiche,affiche,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,3.0
+56422,212372,"L'oxymétre OEG 2070 prélève le gaz sur la ligne d'échantillonnage, mesure puis ",affiche, simultanément sur l'écran du coffret électronique :,16.0,affiche,affiche,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,14.0,conj,14:conj,_,2.0
+140991,532127,Chaque année le jury de Licence définit et ,affiche, les règles de délivrance du diplôme.,9.0,affiche,affiche,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7.0,conj,7:conj,_,1.0

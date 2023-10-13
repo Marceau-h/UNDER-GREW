@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+68153,257294,Les revendeurs ,son," actuellement en cours de certification en trois niveaux : bronze, gold et Elite.",3.0,son,son,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,6.0,cop,6:cop,_,1.0

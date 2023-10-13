@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+97,w01016034,"Lors des précipitations de pluie, les gouttes d'eau absorbent et ",dissolvent, du dioxide de carbone issu de l'air environnant. ,14,dissolvent,dissoudre,VERB,VBC,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,12,conj,_,_,2

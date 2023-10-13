@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+13005,48684,"Les deux buts, « ce n'est pas le plus important , ",tente,-t-il de convaincre.,14.0,tente,tente,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,12.0,parataxis,12:parataxis,SpaceAfter=No,1.0
+51663,194816,Je ne sais pas si on peut citer un site mais bon je ,tente,", je corrigerai si jamais je fais une erreur : Spresi.",14.0,tente,tente,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,3.0,advcl,3:advcl,SpaceAfter=No,1.0
+100465,379046,Le Portege M400 dispose donc de cette dernière solution qui ,tente," à peut près correctement, de gommer sa goutonnerie énergétique, liée à une richesse fonctionnelle importante.",11.0,tente,tente,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,acl:relcl,9:acl:relcl,_,2.0

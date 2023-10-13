@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+146178,551525,Toute les cellules sont capables de ,phagocyter," et elles le feront par exemple lors d'apoptose de cellule voisine pour """"nettoyer"""".",7.0,phagocyter,phagocyter,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,2.0

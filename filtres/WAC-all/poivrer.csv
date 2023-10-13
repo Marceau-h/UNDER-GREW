@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+140109,528608,"Tremper les foies dans le lait 1 à 2 heures, essuyer, mixer les foies avec les cubes de lard, saler, ",poivrer,", sucrer, pimenter, puis passer au tamis.",25.0,poivrer,poivrer,VERB,VERB,VerbForm=Inf,23.0,conj,23:conj,SpaceAfter=No,1.0
+221931,836878,"Pour varier les plaisirs, découvrez le tchaï doux, ",poivré, ou pimenté.,11.0,poivré,poivrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,_,1.0

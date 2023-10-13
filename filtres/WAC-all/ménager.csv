@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+52017,196192,"L'entraîneur sochalien pourra également compter sur le retour de quelques titulaires comme Dalmat, Isabey ou Erding, ",ménagés, ou très peu utilisés mardi.,20.0,ménagés,ménager,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,14.0,acl,14:acl,_,1.0
+128388,484692,La star n'est pas facile à ,ménager," (un peu idiot, il vomit à chaque fois qu'il est content).",8.0,ménager,ménager,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,1.0

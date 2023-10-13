@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+162516,612841,"En l’absence d’une mobilité parfaite des hommes et des capitaux, des agglomérations d’activités apparaissent et s’",autoalimentent, en bénéficiant de la taille des marchés locaux et de leur éventuelle spécialisation.,21.0,autoalimentent,autoalimenter,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,18.0,conj,18:conj,_,1.0

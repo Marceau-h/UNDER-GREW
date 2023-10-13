@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1561,fr-ud-train_06055,"Si le chômage de masse n'est pas encore complètement vaincu, il disparaîtra avec l'effort de guerre, il a tendance à ",diminuer, et les affaires repartent. ,25,diminuer,diminuer,VERB,_,VerbForm=Inf,23,xcomp,_,Subject=SubjRaising,2

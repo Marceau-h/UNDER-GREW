@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+115686,436733,"Le Livret A qui est un produit d'épargne gratuit, disponible à tout instant et totalement ",défiscalisé, sera toujours aussi attractif qu'aujourd'hui pour les épargnants.,18.0,défiscalisé,défiscaliser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,conj,12:conj,_,1.0

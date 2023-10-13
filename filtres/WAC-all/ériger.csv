@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+17949,67301,C'est un mur sanitaire qu'elle veut ,ériger," en bloquant l'accès au médecin pour les plus modestes"""", dénonce-t-elle.",10.0,ériger,ériger,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,3.0
+151589,572042,La chapelle ,érigée," dessus, construite en 1663, fut détruite en 1923 pour être reconstruite à l'identique en 1926.",3.0,érigée,ériger,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

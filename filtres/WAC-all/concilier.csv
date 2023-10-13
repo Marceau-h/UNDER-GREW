@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+123520,466833,Il surveille et contrôle les stages Il doit prévenir et ,concilier, toutes contestations ou conflits d'ordre professionnel.,11.0,concilier,concilier,VERB,VERB,VerbForm=Inf,9.0,conj,9:conj,_,2.0

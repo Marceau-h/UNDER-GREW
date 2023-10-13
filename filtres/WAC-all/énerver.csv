@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+143727,542531,"Je t'invite, Ceedjee, à plus de mesure et à ne pas t'",énerver,", ce qui n'a aucune espèce d'intérêt.",16.0,énerver,énerver,VERB,VERB,VerbForm=Inf,3.0,conj,3:conj,SpaceAfter=No,1.0
+151039,570011,Le JAF s'est manifestement ,énervé,": il peut effectivement imposer la mesure, mais pas refuser un appel.",6.0,énervé,énerver,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0
+227850,859392,Cette histoire ne fait pas qu',énerver," mais devient un poids pour le Bayern"""", a-t-il souligné sur la chaîne de télévision régionale bavaroise.",7.0,énerver,énerver,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0

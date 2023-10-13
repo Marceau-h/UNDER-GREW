@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+186925,705136,Le brin de folie de cette interrogation permet de rappeler ou de ,démêler, quelques ficelles de l'organisation et du financement du deuxième tournoi du Grand Chelem de la saison.,13.0,démêler,démêler,VERB,VERB,VerbForm=Inf,10.0,conj,10:conj,_,1.0

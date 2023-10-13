@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+50526,190638,"Dans quelques régions, le MST a créé de véritables supermarchés pour ",approvisionner, bien au-delà de ses sphères d''influence.,13.0,approvisionner,approvisionner,VERB,VERB,VerbForm=Inf,8.0,advcl,8:advcl,_,1.0

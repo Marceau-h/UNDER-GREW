@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1355,5045,PS : J'ai essayé d'inverser l'odre de tracé dans le fichier gabarit (fenêtre EN DESSOUS) mais ça ne change rien quand j',insère,", la fenêtre est toujours EN DESSOUS.",28.0,insère,insérer,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,24.0,advcl,24:advcl,SpaceAfter=No,1.0
+35380,133276,Faites ensuite passer le coin droit derrière la nuque par la gauche et ,insérez,-le dans la partie de tissu qui ceint le dos.,14.0,insérez,insérer,VERB,VERB,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,3.0,conj,3:conj,SpaceAfter=No,1.0
+44310,167228,Les enregistrements à ,insérer, seront saisies dans insert.html.Réseau : Fichiers de configuration et commandes de baseAlix MASCRET Mode d'utilisation du serveur Unix/Linux.,4.0,insérer,insérer,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0

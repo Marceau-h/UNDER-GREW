@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+205790,776493,"La thématique de l'ouverture européenne, via la ville-réseau, la ville-partenaire, la ville """"",décentralisée,", a renforcé cette prédilection pour quelques cas, souvent les mêmes, régulièrement autoréférentiels.",18.0,décentralisée,décentraliser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,16.0,acl,16:acl,SpaceAfter=No,1.0

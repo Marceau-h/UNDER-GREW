@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+36122,135884,"Jusqu'à présent, il était admis que l'Homo sapiens, venu de l'Est, avait ",supplanté, et remplacé l'homme de Néandertal.,19.0,supplanté,supplanter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,ccomp,7:ccomp,_,2.0
+223272,842055,"Des informations de presse ont relancé les spéculations de la communauté high-tech sur la sortie prochaine d'un téléphone intelligent du géant internet Google, baptisé le """"GPhone"""", dont le nom évoque le grand rival à ",supplanter,", l'iPhone d'Apple.",42.0,supplanter,supplanter,VERB,VERB,VerbForm=Inf,40.0,acl,40:acl,SpaceAfter=No,1.0

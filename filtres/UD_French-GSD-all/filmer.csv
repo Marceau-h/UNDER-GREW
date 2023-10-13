@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+143,fr-ud-dev_00898,Il s'agit d'un dispositif complet composé d'un miroir sans tain (permettant ainsi de ,filmer, à travers) placé devant l'objectif d'une caméra. ,18,filmer,filmer,VERB,_,VerbForm=Inf,15,ccomp,_,Subject=Generic,1

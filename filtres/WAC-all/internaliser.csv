@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+236276,890864,La société a opté pour une gestion ,internalisée," et centralisée à Boulogne-Billancourt, avec un unique collaborateur, Julien Babin, search marketing & affiliation manager.",8.0,internalisée,internaliser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+246060,927376,Le pontage aorto-coronarien (PAC) est une technique de chirurgie cardiaque consistant à contourner une artère coronaire rétrécie ou ,obstruée, en implantant en aval de ce dernier un autre vaisseau.,23.0,obstruée,obstruer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,21.0,conj,21:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+85,fr-ud-dev_00512,"La marquise montait à cheval, ",chassait," (elle avait gardé ce goût de la chasse ou elle excellait de son oncle le duc de Lorges, grand veneur, qui l'avait élevée) et pêchait en barque avec son fidèle majordome Jean Virecoulon. ",7,chassait,chasser,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,3,conj,_,_,1

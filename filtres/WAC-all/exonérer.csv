@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+23439,88115,"Le médicament contient, à une dose non ",exonérée,", une substance classée comme stupéfiant ou psychotrope ou ;",9.0,exonérée,exonérer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl,7:acl,SpaceAfter=No,1.0
+86581,325743,"Vu le solde disponible, il est prévu l'ouverture d'un compte titres (OPCVM) permettant une rémunération (aux environs de 4 %, ",exonérée, fiscalement) des fonds disponibles.,28.0,exonérée,exonérer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,20.0,acl,20:acl,_,2.0

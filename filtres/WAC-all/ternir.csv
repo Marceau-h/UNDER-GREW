@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3807,14274,On vous parle beaucoup des faiblesses humaines qui ,ternissent, lhistoire de lÉglise.,9.0,ternissent,ternir,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,6.0,acl:relcl,6:acl:relcl,_,3.0
+127107,479931,Bien qu'il semble que la plupart des relations professionnelles de Corgan se soient alors rapidement ,ternies,", Chamberlin et lui restent de bons amis.",17.0,ternies,ternir,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,4.0,ccomp,4:ccomp,SpaceAfter=No,1.0
+158997,599491,Une atitude qui est venue un peu ,ternir,", une rencontre qui fut rythmée et riche en occasions de but des camerounais, dominateurs.",8.0,ternir,ternir,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,SpaceAfter=No,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+98100,370124,"Mais les deux hommes, qui doivent s'affronter aux élections de l'an prochain, se sont ",brouillés, après que le chef de l'Etat eut abandonné le Front démocratique uni (UDF) de M. Muluzi et fondé son propre parti.,19.0,brouillés,brouiller,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+219231,826686,"Certains y excellent, d'autres moins, mais l'image, nette ou ",brouillée,", distille invariablement un parfum de tendresse pour celui qui l'insère entre les pages de son album.",15.0,brouillée,brouiller,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,13.0,conj,13:conj,SpaceAfter=No,1.0

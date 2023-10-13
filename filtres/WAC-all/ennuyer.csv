@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+35253,132861,"Pour revenir au film, je l'ai trouver trop ",ennuyer,", c'est toujours la même chose avec les films de Duff.Ok l'histoire était quand même bonne mais une autre actrice aurait été un choix parfait.",11.0,ennuyer,ennuyer,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,SpaceAfter=No,2.0
+54875,206517,"Du début à la fin, le rythme lent et très incertain risque de distraire ou d'",ennuyer,", alors que les petites doses d'humour suffisent à peine à garder l'attention.",18.0,ennuyer,ennuyer,VERB,VERB,VerbForm=Inf,15.0,conj,15:conj,SpaceAfter=No,1.0
+101980,384894,"Ceux qui l'ont lu, même plus d'une fois, je vous souhaite bonne chance pour ne pas vous ",ennuyer,.Bon cinéma !,22.0,ennuyer,ennuyer,VERB,VERB,VerbForm=Inf,15.0,advcl,15:advcl,SpaceAfter=No,1.0

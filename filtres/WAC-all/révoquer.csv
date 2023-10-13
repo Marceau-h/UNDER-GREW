@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+140776,531371,"Je veux un président de la République qui gouverne réellement, nomme et ",révoque, le Premier ministre ; il sera pénalement responsable.,14.0,révoque,révoquer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,conj,9:conj,_,3.0
+147788,557724,C'est la fédération nationale qui désigne et ,révoque," les clubs, généralement pour des raisons économiques.",9.0,révoque,révoquer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7.0,conj,7:conj,_,2.0
+196518,741288,"Comme discipline cognitive, son rôle est aussi de fournir des arguments expérimentaux aux modèles cognitivistes, et en d'autres termes, de vérifier ou de ",révoquer,", par la pratique, des théories sur le fonctionnement mental humain et animal.",28.0,révoquer,révoquer,VERB,VERB,VerbForm=Inf,25.0,conj,25:conj,SpaceAfter=No,1.0

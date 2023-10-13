@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+123001,464832,L'administrateur de site peut disposer d'informations personnelles vous concernant si vous les lui avez communiquÃ,©,"es directement ou si vous les avez fournies Ã la sociÃ©tÃ© pour laquelle il travaille (sur votre carte de visite, par exemple).",18.0,©,©,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,17.0,xcomp,17:xcomp,SpaceAfter=No,1.0
+190699,719466,Le transfert de produits et de technologies Autodesk partout dans le monde est par consÃ©quent rÃ,©,gi par la lÃ©gislation sur les exportations du gouvernement des Etats-Unis.,16.0,©,©,ADV,ADV,_,13.0,fixed,13:fixed,SpaceAfter=No,1.0
+221865,836667,"Par Monsieur Dominique Ducassou, Adjoint Ã la Culture, reprÃ",©,sentant le Maire de Bordeaux.,12.0,©,©,VERB,VERB,Tense=Pres|VerbForm=Part,11.0,acl,11:acl,SpaceAfter=No,1.0

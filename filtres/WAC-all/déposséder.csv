@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+226730,855228,"Bon nombre d'entreprises, parce qu'elles pensaient avoir le temps, se sont laissées surprendre et ",déposséder," de leur nom de domaine """"naturel""""...",19.0,déposséder,déposséder,VERB,VERB,VerbForm=Inf,17.0,conj,17:conj,_,1.0
+231462,872606,Toutes ces économies « musulmanes » étaient en réalité paralysées par des stratégies contre-productives généralement héritées du socialisme : bourgeoisie expulsée ou ,dépossédée,", autarcie, et planification centrale.",23.0,dépossédée,déposséder,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,21.0,conj,21:conj,SpaceAfter=No,2.0

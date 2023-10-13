@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1799,13004,"Mes onques mes parler n'oï De nes une gent tant joïe, Tant ",enoree, et tant servie. ,15,enoree,onorer,VERB,VERppe,Tense=Past|VerbForm=Part,12,conj,_,XmlId=w_YvainKu_16831,1

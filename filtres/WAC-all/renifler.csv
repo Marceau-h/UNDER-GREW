@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+240716,907282,"Au manège comme en carrière, même comportement, juste sa cavalière qui ",renifle, et le voilà qui sursaute.,14.0,renifle,renifler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,12.0,acl:relcl,12:acl:relcl,_,1.0

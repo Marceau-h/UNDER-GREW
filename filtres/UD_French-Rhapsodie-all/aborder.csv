@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+461,Rhap_D1001-42,"mais, euh, les contacts du prêtre avec, euh, les couches, avec les problèmes directs des hommes qui sont le, le travail sous tous ses aspects, euh, ces, ces problèmes-là sont certainement plus difficiles à ",aborder, parce que le nombre des prêtres en ville est quand même très petit par rapport à la proportion de la campagne. ,47,aborder,aborder,VERB,_,VerbForm=Inf,45,advcl,_,Subject=SubjRaising,1

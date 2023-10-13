@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+46839,176697,Ou en tout cas de méditer longuement cette incident et de grandement évoluer dans ton approche: On ,suspecte,", on enquête, on prouve et ensuite on vient présenter ses conclusions sur le BA.",19.0,suspecte,suspecter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,3.0
+253645,955530,Il n'est d'ailleurs indiqué que dans les cas de contamination avérée ou fortement ,suspectée, (prévention post-exposition).,16.0,suspectée,suspecter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,13.0,conj,13:conj,_,3.0

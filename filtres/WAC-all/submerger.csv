@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3401,12732,"Même lors de la finale, Julien Doré ne s'est pas laissé ",submerger, par l'émotion.,14.0,submerger,submerger,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,1.0
+254225,957837,"Bousculé, ballotté, tiraillé, piétiné, ",submergé,", ce corps gracile recèle une vigueur insoupçonnée.",9.0,submergé,submerger,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,1.0,conj,1:conj,SpaceAfter=No,2.0

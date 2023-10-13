@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+107448,405619,Il est le numéro un du carton compact et ,ondulé, en Europe et l'un des leaders du secteur en Amérique latine.,10.0,ondulé,onduler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,3.0

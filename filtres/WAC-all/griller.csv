@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+93955,354623,C'était une agréable surprise que de découvrir de bonnes frites maison et des crevettes simplement ,grillées, et arrosées de jus de citron.,17.0,grillées,griller,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,15.0,acl,15:acl,_,1.0
+148653,560984,"Le reste, vous l'imaginez sans mal, ",grillée," et roussie, la blatte volante devient parfaitement douce et inoffensive.",10.0,grillée,griller,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+164550,620404,La pâte est aplatie et ,grillée," en forme des flocons familiers qui sont habituellement consommés au petit déjeuner, servis avec du lait.",6.0,grillée,griller,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0

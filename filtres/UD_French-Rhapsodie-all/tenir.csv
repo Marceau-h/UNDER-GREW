@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+516,Rhap_D2013-23,faut-il que le gouvernement pour ,tenir, compte du vote des Français change sa politique ? ,7,tenir,tenir,VERB,_,VerbForm=Inf,15,advcl,_,Subject=NoRaising,1
+820,Rhap_D2009-67,"parce que au fond, il a, il a ",tenu," et il tient encore, encore cette sorte de leadership, euh, de la culture et de la littérature. ",12,tenu,tenir,VERB,conj:reform,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,15,reparandum,_,_,1

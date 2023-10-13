@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+531,ParisStories_2019_peripitiesVoiture_32,"j'ai pu… du coup, dans la voiture elle m'a beaucoup aidée à réviser, à ",travailler,"… euh parce que quand on passe le permis il y a des questions en plus euh, théoriques, en plus de la pratique. ",21,travailler,travailler,VERB,_,VerbForm=Inf,18,appos,_,SpaceAfter=No|Subject=ObjRaising,1

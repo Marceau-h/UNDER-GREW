@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+81053,304757,Le réglage s'effectue en ,incrémentant, ou décrémentant la valeur initiale.,6.0,incrémentant,incrémenter,VERB,VERB,Tense=Pres|VerbForm=Part,4.0,advcl,4:advcl,_,1.0

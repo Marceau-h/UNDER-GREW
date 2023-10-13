@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+73867,278301,"Le duo Nunchuk/Wiimote fonctionne bien, et une fois insérés dans l'accessoire, ils forment une canne agréable à utiliser pour mouliner ou ramener la ligne vers soi et ",ferrer,/fatiguer le poisson.,33.0,ferrer,ferrer,VERB,VERB,VerbForm=Inf,25.0,conj,25:conj,SpaceAfter=No,1.0

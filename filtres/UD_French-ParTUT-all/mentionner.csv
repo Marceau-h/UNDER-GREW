@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+12,fr_partut-ud-24,Les droits ,mentionnés," ci-dessus peuvent être exercés sur tous les supports, médias, procédés techniques et formats. ",3,mentionnés,mentionner,VERB,V,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2,acl,_,_,1

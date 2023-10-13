@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+238099,897504,"Räikkönen lui-même a devancé l'Allemand Michael Schumacher (5 tours) de 81/1000, tandis que le champion du monde Fernando Alonso (Renault) n'a effectué qu'un tour non ",chronométré,", comme son coéquipier Giancarlo Fisichella.",34.0,chronométré,chronométrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,32.0,acl,32:acl,SpaceAfter=No,3.0

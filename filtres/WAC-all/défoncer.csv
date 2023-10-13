@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+259815,979420,"Il est toujours de taille grande, et a une force de 25 pour soulever, tirer ou ",défoncer, des objets.,19.0,défoncer,défoncer,VERB,VERB,VerbForm=Inf,15.0,conj,15:conj,_,1.0

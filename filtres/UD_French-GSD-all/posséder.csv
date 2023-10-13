@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2109,fr-ud-train_08648,"À cette occasion, il déclare modestement qu'il a été nommé (les maires n'étaient pas élus) parce qu'il était le seul de la commune à ",posséder, et à utiliser un mouchoir. ,31,posséder,posséder,VERB,_,VerbForm=Inf,26,xcomp,_,Subject=SubjRaising,1

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+47112,177696,Le capitaine argentin tire (Doraibu ,shoot,"), malgré le forcing de Tsubasa, mais Ken arrive à repousser le danger.",7.0,shoot,shoot,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,parataxis,4:parataxis,SpaceAfter=No,1.0

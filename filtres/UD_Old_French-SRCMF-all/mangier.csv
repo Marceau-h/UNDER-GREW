@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1750,12884,"« Por Deu, qu'est ore devenuz Messire Yvains, qui n'est venuz, Qui se vanta aprés ",mangier, Qu'il iroit son cousin vangier ? ,21,mangier,mangier,VERB,VERinf,VerbForm=Inf,19,advcl,_,XmlId=w_YvainKu_15374,1

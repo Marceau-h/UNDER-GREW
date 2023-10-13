@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1012,fr-ud-train_03273,"Dans la nouvelle Allemagne, il n'y a plus besoin de prêtres », ",rapporte, le pape. ,16,rapporte,rapporter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9,parataxis:insert,_,_,1
+2439,fr-ud-train_10340,"L'ONU, qui a dépêché du personnel pour assister le gouvernement ougandais dans son évaluation des besoins, a constaté que """"les sauveteurs n'ont eu pour dégager les survivants que des pelles ou des bêches"""", a ",rapporté, Mme Byrs. ,43,rapporté,rapporter,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,22,parataxis:insert,_,_,2

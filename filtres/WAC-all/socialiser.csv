@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+69993,264228,Le parti ,socialise," a demandé """"au président de la République de mettre un terme à cette affaire indigne pour la France, en organisant le rapatriement du Clemenceau"""".",3.0,socialise,socialiser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

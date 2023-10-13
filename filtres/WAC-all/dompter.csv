@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+117913,445552,Les hommes de Pepe Guardiola tenteront de poursuivre à ce rythme en s'imposant dans la cité andalouse contre une formation difficile à ,dompter, quoique en forme précaire.,24.0,dompter,dompter,VERB,VERB,VerbForm=Inf,22.0,xcomp,22:xcomp,_,1.0
+120876,456761,"Mais cette matière est là, qu'il faut choisir et ",dompter," avant d'y insuffler l'esprit qui lui donne force et beauté, équilibre et intemporalité.",12.0,dompter,dompter,VERB,VERB,VerbForm=Inf,10.0,conj,10:conj,_,1.0

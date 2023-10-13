@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+224426,846540,"Outre un inédit, il se compose de 5 reprises """"",revisitées,", dont le célèbre """"The Best"""" de TINA TURNER et le cultissime (!)",12.0,revisitées,revisiter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,10.0,acl,10:acl,SpaceAfter=No,2.0

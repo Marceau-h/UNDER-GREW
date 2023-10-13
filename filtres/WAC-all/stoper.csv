@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+66501,250976,"Un petit UP, puisque je voit que la demande est ",stoper,", je reviens et je vais tacher de relancer un peut la machine.",12.0,stoper,stoper,VERB,VERB,VerbForm=Inf,7.0,ccomp,7:ccomp,SpaceAfter=No,1.0

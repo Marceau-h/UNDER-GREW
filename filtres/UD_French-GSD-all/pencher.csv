@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+55,fr-ud-dev_00329,"Encore un peu plus introspectif, Souchon nous rappelle que la société ne lui va toujours pas (Putain ça ",penche,", En collant l'oreille sur l'appareil), et poursuit son questionnement métaphysique (Et si en plus y'a personne). ",21,penche,pencher,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15,parataxis,_,SpaceAfter=No,2

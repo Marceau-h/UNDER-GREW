@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+9563,35574,L'ensemble ,mesure, (hors antenne) : 22 x 15 x 20 mm (pin hole).,3.0,mesure,mesure,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+130352,492054,"Mais la ville de Martine Aubry n'est pas une étape ordinaire dans cette période mouvementée des """"contributions"""" où chacun évalue ses forces et ",mesure, celles du voisin.,27.0,mesure,mesure,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,23.0,conj,23:conj,_,1.0
+249886,941462,"Le premier chapitre présente, définit et ",mesure, l'intégration financière.,8.0,mesure,mesure,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,conj,4:conj,_,2.0

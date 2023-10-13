@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1837,13097,"Et je pri Deu que, s'il li plest, Ja tant ",demorer, ne me lest. ,14,demorer,demorer,VERB,VERinf,VerbForm=Inf,17,xcomp,_,XmlId=w_YvainKu_18168,1
+1855,13145,Et si le fist tant ,demorer," Que toz li anz fu trespassez Et de tot l'autre encor assez, Tant que a la miäost vint, Que li rois cort et feste tint. ",6,demorer,demorer,VERB,VERinf,VerbForm=Inf,4,xcomp,_,XmlId=w_YvainKu_18800,3

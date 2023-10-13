@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+187094,705738,"Le symbole, c'est la variation réglée et ",valuée," en tant qu'elle se manifeste dans une forme, et passe par un travail sur cette forme, qui est un travail de (re)formation.",10.0,valuée,valuer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0

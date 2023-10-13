@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+155788,587579,En cause: sa filiale Internet AOL dont l'activité et les profits ,maigrissent," grandement, le nombre d'abonnements étant en nette perte de vitesse.",14.0,maigrissent,maigrir,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin,5.0,acl:relcl,5:acl:relcl,_,1.0
+254306,958166,"Dans les 400 produits nouveaux qu'on va trouver en magasin dans les semaines qui viennent : beaucoup vont nous permettre, en principe, de ",maigrir, et d'entretenir notre forme.,27.0,maigrir,maigrir,VERB,VERB,VerbForm=Inf,21.0,xcomp,21:xcomp,_,1.0

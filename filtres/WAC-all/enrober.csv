@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+96354,363437,"Alors au lycée DeMatha de Hyatsville dans le Maryland, son physique légèrement ",enrobé, lui vaut de nombreuses moqueries et beaucoup doutent de sa capacité à jouer au haut niveau.,14.0,enrobé,enrober,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,acl,12:acl,_,1.0

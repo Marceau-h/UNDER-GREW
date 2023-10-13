@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+151508,571726,Vous aurez toute liberté de vous ,désabonner, quand vous le souhaitez.,7.0,désabonner,désabonner,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,_,1.0
+155749,587445,"Si vous ne souhaitez plus recevoir de tels messages, il vous suffit de vous ",désabonner, en cliquant sur le lien se trouvant en bas de chaque message.,16.0,désabonner,désabonner,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,_,1.0
+240761,907434,En cas de problème pour vous abonner ou vous ,désabonner," ainisi, poster un message vide :",10.0,désabonner,désabonner,VERB,VERB,VerbForm=Inf,7.0,conj,7:conj,_,1.0
+255043,961174,"L'abonnement à la lettre d'information est gratuit, et vous pouvez bien sûr vous ",désabonner, dès que vous le souhaitez.,17.0,désabonner,désabonner,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,_,1.0

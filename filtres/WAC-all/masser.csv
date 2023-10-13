@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+79937,300603,Le porteur du maillot jaune n’avait pas fait plus de 100 mètres qu’une clameur de désapprobation et des sifflets montaient des rangées de spectateurs ,massés, le long des barrières de sécurité.,27.0,massés,masser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,26.0,acl,26:acl,_,1.0
+216411,815961,Parmi les quelques personnes ,massées," autour d'Orlane, une jeune fille au sourire aimable, lui dit : - Il s'est cogné dans le panneau publicitaire.",5.0,massées,masser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,2.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+194623,734181,"Par contre, au vu des commentaires en page de discussion de l'arbitrage, il semble que EL, en particulier, est un peu trop acerbe et rapide à ",confronter, ceux qui ne sont pas d'accord avec lui.,32.0,confronter,confronter,VERB,VERB,VerbForm=Inf,30.0,xcomp,30:xcomp,_,3.0

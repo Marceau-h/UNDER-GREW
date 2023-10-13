@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+122933,464582,"Ce bâtiment, non classé, a été modifié et ",abîmé, à plusieurs reprises et il est envisagé de lui redonner son aspect architectural d'origine.,11.0,abîmé,abîmer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,_,1.0
+127546,481608,Pour réparer des cartilages articulaires ,abîmés," lors d'un accident, il est maintenant possible de cultiver et de greffer les chondrocytes, les cellules qui produisent ce cartilage.",6.0,abîmés,abîmer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0
+149149,562882,"Assurez-vous pour vous L'eau, le feu, l'explosion peuvent ",abîmer,", détruire vos meubles et vos biens personnels.",14.0,abîmer,abîmer,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,SpaceAfter=No,2.0
+168273,634494,"Cet accident intervient alors que le gouvernement chinois vient d'annoncer que plus de 6000 ponts, dangereux ou ",abîmés,", allaient faire l'objet de réparations.",20.0,abîmés,abîmer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,conj,18:conj,SpaceAfter=No,1.0

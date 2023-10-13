@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+484,Rhap_D2004-9,"mais les postes qu'ils m'ont f~, euh, ",proposés," ne me plaisaient pas beaucoup excepté Marsabit qui était une espèce de, d'île dans le désert tout au nord du Kenya, dans le désert du Kenya. ",12,proposés,proposer,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,3,acl:relcl,_,_,2

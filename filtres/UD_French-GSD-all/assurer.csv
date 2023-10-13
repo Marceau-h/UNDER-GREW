@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1711,fr-ud-train_06729,"Le système actuel garantit déjà la mobilité professionnelle, a ",assuré, Hildegard Fässler (PS/SG). ,11,assuré,assurer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,4,parataxis:insert,_,_,1

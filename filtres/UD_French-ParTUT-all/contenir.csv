@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1,fr_partut-ud-5,Creative Commons ne saurait être tenu responsable des éventuels préjudices résultant du ,contenu, ou de l'utilisation de ce contrat. ,15,contenu,contenir,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12,obl,_,_,1

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+116566,440165,La subsistance semble aussi quelque peu ,rationnée,", selon les militants présents.",7.0,rationnée,rationner,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,xcomp,3:xcomp,SpaceAfter=No,1.0
+163508,616660,Mais même l'adaptation la plus réussie ne peut faire disparaître que tout système de soins ,rationne,", et ce rationnement peut être rendu plus ou moins aigu et plus ou moins équitable.",17.0,rationne,rationner,VERB,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11.0,ccomp,11:ccomp,SpaceAfter=No,3.0

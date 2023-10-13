@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+26501,99378,Une fois ,fécondée,", l'oosphère se développera en embryon.",3.0,fécondée,féconder,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8.0,advcl,8:advcl,SpaceAfter=No,1.0
+139043,524704,Autour de ses reins amollis et par trop ,fécondés,", Une couverture, attrapée dans l'alarme de la crainte;",9.0,fécondés,féconder,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5.0,conj,5:conj,SpaceAfter=No,1.0
+168481,635414,Les organes mâles des animaux ou des végétaux sont les organes aptes à ,féconder, ou à préparer la fécondation des femelles.,14.0,féconder,féconder,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+83976,315648,"Dans Junior Bonner, le dernier bagarreur (1972) et dans Guet-apens (1972), tous deux interprétés par Steve McQueen, elle trouve même une expression pathétique, atteignant à une poésie farouche et ",exaltée, dans le second film.,40.0,exaltée,exalter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,38.0,conj,38:conj,_,1.0
+101873,384534,Ces deux graveurs furent dessinés par Van Dyck « qui ,exaltait," ainsi, comme le dit joliment Pascal Torres-Guardiola, l'artiste au détriment du prince ».",11.0,exaltait,exalter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,5.0,advcl,5:advcl,_,2.0

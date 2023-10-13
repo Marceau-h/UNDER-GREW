@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+142205,536844,Une fois le tie-break ,survolé," (7-2) et le large pris dans le second set (4-1), l'emprise sur le match était totale.",7.0,survolé,survoler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0

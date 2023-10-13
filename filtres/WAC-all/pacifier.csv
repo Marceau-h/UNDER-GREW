@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+72207,272325,"Les soldats de l'Union, venus ",pacifier," et organiser l'État, sont des """"occupants"""" donc des intrus.",8.0,pacifier,pacifier,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,_,1.0

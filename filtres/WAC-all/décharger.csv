@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+99883,376889,A noter quAudi a prévu pour son A3 un pratique plateau de coffre amovible et lavable permettant de charger et ,décharger, des objets humides.,21.0,décharger,décharger,VERB,VERB,VerbForm=Inf,19.0,conj,19:conj,_,2.0
+139772,527314,Il n'est pas sûr que la meilleure solution soit de transférer à un enseignant partiellement ou totalement ,déchargé, ces responsabilités de fait très techniques.,19.0,déchargé,décharger,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16.0,conj,16:conj,_,3.0
+155521,586563,L'idéal serait de pouvoir charger et ,décharger, les bibliothèques dans un programme déjà lancé.,8.0,décharger,décharger,VERB,VERB,VerbForm=Inf,6.0,conj,6:conj,_,1.0
+254314,958206,"Attendant l'arrivée de navires anglais, les nobles mirent sur pied une troupe de 200 paysans afin de ",décharger, ceux-ci.,20.0,décharger,décharger,VERB,VERB,VerbForm=Inf,21.0,amod,21:amod,_,1.0

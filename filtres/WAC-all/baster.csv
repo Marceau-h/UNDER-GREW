@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+219882,829176,"A ce rythme là, il ne nous reste plus qu'à regarder les Tri Nations à la télévision et puis ",basta, car on voit bien que les grandes nations européennes sont aussi loin du compte à côté de celles de l'hémisphère sud.,22.0,basta,baster,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13.0,conj,13:conj,_,2.0

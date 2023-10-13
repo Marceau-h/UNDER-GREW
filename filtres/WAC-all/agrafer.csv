@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+210206,792449,"Ah, oui, j'oubliais: en 2001 l'adhésion coûte 200 Francs pour recevoir le bulletin sous forme électronique, 400 Francs pour ceux qui préfèrent le recevoir imprimé et ",agrafé, dans une belle enveloppe!,33.0,agrafé,agrafer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,31.0,conj,31:conj,_,1.0

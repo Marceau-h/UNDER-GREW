@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+78465,295299,"Ce fut une relation longue, parfois ",tourmentée," de défiance et d'incompréhensions réciproques, mais toujours suivie sur le plan militaire, avec quelques concessions à la politique.",8.0,tourmentée,tourmenter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0

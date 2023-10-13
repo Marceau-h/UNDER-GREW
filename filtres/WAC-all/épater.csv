@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+116392,439434,"Akapusi Qera (23 ans, Fidji, 13 sélections ).- Le troisième ligne de Gloucester a, à l'image des Fidji, explosé et ",épaté, pendant la Coupe du monde.,28.0,épaté,épater,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,26.0,conj,26:conj,_,1.0
+128869,486506,"Roger Federer en péril, porté par des ardeurs potaches, a réhabilité le besoin de s'émouvoir, la tentation d'",épater,", sans arrière-pensée liée à la conséquence ou au bilan comptable.",23.0,épater,épater,VERB,VERB,VerbForm=Inf,21.0,acl,21:acl,SpaceAfter=No,2.0

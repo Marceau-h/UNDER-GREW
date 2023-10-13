@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+38925,146457,Sauf que l'Orient a disparu corps et bien ; à peine ,esquissé,", un appartement petit-bourgeois laisse bientôt place à un espace ouvert, garni d'une multitude de portes qui s'ouvrent ou se ferment à l'envi.",13.0,esquissé,esquisser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,18.0,advcl,18:advcl,SpaceAfter=No,1.0
+200168,755357,La méthode de traitement ,esquissée, précédemment ne traite pas de la validité du calcul monochromatique utilisé lors de la définition des profils atmosphériques en termes de coefficients optiques.,5.0,esquissée,esquisser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

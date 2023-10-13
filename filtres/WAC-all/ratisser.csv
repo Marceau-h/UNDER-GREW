@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+57652,216985,"Depuis cette offensive, une certaine accalmie prévaut dans la région et l'armée en a profité pour ",ratisser, à nouveau et rouvrir le tronçon à la circulation.,19.0,ratisser,ratisser,VERB,VERB,VerbForm=Inf,17.0,xcomp,17:xcomp,_,1.0
+105095,396605,Les allées sont fleuries et ,ratissées,", arbitres et ramasseurs de balles se tiennent prêts.",6.0,ratissées,ratisser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,4.0,conj,4:conj,SpaceAfter=No,1.0
+158329,596929,Il avait découvert un autre secret : il prenait plaisir à admirer les allées du jardin bien ,ratissées,", à respirer le parfum des fleurs.",18.0,ratissées,ratisser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,14.0,acl,14:acl,SpaceAfter=No,1.0

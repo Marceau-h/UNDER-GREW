@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+20318,76152,Il compte 940 ,plaqués," avec 13,5 sacs du quart et trois interceptions en 140 parties.",4.0,plaqués,plaquer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,obj,2:obj,_,1.0
+57136,215000,"Il s'est distingué avec 5 sacs et 7,5 ",plaqués, durant le tournoi.,10.0,plaqués,plaquer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,1.0
+123719,467549,"Toutefois, il existe des verres ",plaqués," ou doublés ayant deux couches d'épaisseurs différentes, que l'on obtient par cueillages successifs lors du soufflage.",7.0,plaqués,plaquer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0
+242632,914530,Stills a participé au Pro Bowl en 2003 alors qu'il portait les couleurs des Chiefs de Kansas City alors qu'il avait réussi 29 ,plaqués, sur les unités spéciales.,26.0,plaqués,plaquer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,24.0,obj,24:obj,_,2.0

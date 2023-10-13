@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+52846,199353,Malgré les quelques doutes qui continuent de ,planer,", comme la qualité de l'IA des adversaires, on attend quand même ce Far Cry 2 de pied ferme.",8.0,planer,planer,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,SpaceAfter=No,2.0
+104806,395424,Des rumeurs de séparation avaient tout de même commencé à ,planer, après que le groupe ait décidé de ne pas partir en tournée pour promouvoir ce disque.,11.0,planer,planer,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,1.0
+156535,590299,L'incertitude continuait de ,planer," mardi matin sur la participation de M. Raffarin au meeting pour le """"oui"""" vendredi à Poitiers avec le président de l'UMP Nicolas Sarkozy.",5.0,planer,planer,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,1.0
+229319,864892,"Lors de la sortie dans nos salles, il avait déjà réalisé Memories of Matsuko, drame musical qui fait ",planer,", dont le programme scénaristique se révèle extrêmement chargé.",21.0,planer,planer,VERB,VERB,VerbForm=Inf,17.0,acl:relcl,17:acl:relcl,SpaceAfter=No,3.0
+256139,965313,Les goélands et les pétrels ,planent," au-dessus d'eaux verdâtres, houleuses.",6.0,planent,planer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

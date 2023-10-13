@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+68223,257541,"Les coupables seront très rarement jugés, et uniquement lorsque les crimes n'avaient pas été commis dans le cadre d'une opération militaire qui ",occasionnait, ceux-ci.,26.0,occasionnait,occasionner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,23.0,acl:relcl,23:acl:relcl,_,1.0

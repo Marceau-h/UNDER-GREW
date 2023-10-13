@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1062,fr-ud-train_03524,Cette frénésie de ,planter, prit des proportions énormes après le terrible gel de 1709. ,4,planter,planter,VERB,_,VerbForm=Inf,2,acl,_,Subject=Generic,1

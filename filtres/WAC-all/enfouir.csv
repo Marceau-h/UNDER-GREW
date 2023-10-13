@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+201572,760652,"Des millions de tonnes de minerai gisent dans la Fosse du Labrador, ",enfouis, profondément et qui n'ont pas encore fait l'objet de découvertes.,14.0,enfouis,enfouir,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,7.0,advcl,7:advcl,_,1.0

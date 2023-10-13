@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+964,fr-ud-train_03063,Suivant les conseil de son maître à ,penser,", il crée l'auditorium, ancêtre du tribunal de la Rote. ",8,penser,penser,VERB,_,VerbForm=Inf,6,acl,_,SpaceAfter=No|Subject=Generic,1
+2084,fr-ud-train_08530,"Cela fait presque un an, je ",pense,", que le patron est parti. ",8,pense,penser,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,2,parataxis,_,SpaceAfter=No,3

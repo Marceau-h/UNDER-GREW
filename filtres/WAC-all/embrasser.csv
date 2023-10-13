@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+172159,649351,Un film la montrait enjambant les cadavres pour ,embrasser, et féliciter son grand héros le tueur Arkan.,9.0,embrasser,embrasser,VERB,VERB,VerbForm=Inf,5.0,advcl,5:advcl,_,1.0
+233267,879460,"Le couple, mal assorti, a déjà eu trois enfants morts en bas âge avant Alfred, qui voit le jour dans un climat triste où pèse le voile nostalgique de la monarchie: son père lui fait ",embrasser, chaque soir la croix de Saint Louis.,40.0,embrasser,embrasser,VERB,VERB,VerbForm=Inf,9.0,parataxis,9:parataxis,_,1.0

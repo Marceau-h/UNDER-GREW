@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+53346,201129,Quoi qu'il arrive autour de toi mon cher stressé/,déprimé,", tu dois rester stable, tu es protégé, tout ceux qui sont sur la bonne voie, tout ceux qui sacrifient leur vie pour rendre service à l'humanité sont protégés.",12.0,déprimé,déprimer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,conj,10:conj,SpaceAfter=No,3.0
+243064,916119,La patiente a commencé à ,déprimer, dès qu'elle a commencé ses consultations chez moi en 1983.,6.0,déprimer,déprimer,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+7386,27627,En effet le thème de 2008 était le suivant : «L'aide aux personnes ,pourchassées, et persécutées pendant la seconde guerre mondiale : une forme de résistance».,16.0,pourchassées,pourchasser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,15.0,acl,15:acl,_,1.0
+256302,965938,"Comme leur premier opus, cet album est divisé en deux parties: la première s'intitule Pagan Chronicles et raconte l'histoire d'une femme druide ",pourchassée, et emprisonnée par la reine.,28.0,pourchassée,pourchasser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,26.0,acl,26:acl,_,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+40591,153078,L'actrice Winona Ryder brièvement ,hospitalisée, après un malaiseL'actrice américaine Winona Ryder a été brièvement admise dans un hôpital de l'ouest de Londres.,6.0,hospitalisée,hospitaliser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+94081,355127,Un cameraman d'une télévision locale qui filmait l'opération a été grièvement blessé et ,hospitalisé,", selon la police.",16.0,hospitalisé,hospitaliser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,conj,14:conj,SpaceAfter=No,1.0
+212076,799763,Une quarantaine de personnes ont été blessées et ,hospitalisées," après la déflagration qui a eu lieu dans le quartier de Paharganj, a précisé la télévision New Delhi Television.",9.0,hospitalisées,hospitaliser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,7.0,conj,7:conj,_,1.0

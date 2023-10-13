@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+170543,643182,Les Grecs réussirent à ,encercler," et à pratiquement détruire """"Julia"""" le 13 novembre.",5.0,encercler,encercler,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,1.0
+227900,859609,"La coalition contre Sparte entreprend le siège d'Argos, s'empare de la base navale spartiate de Gythion et ",encercle, puis assiège la ville de Sparte elle-même.,21.0,encercle,encercler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,12.0,conj,12:conj,_,1.0
+251116,946138,La police a évacué et ,encerclé," vendredi un bâtiment du centre spatial de la Nasa à Houston où un homme armé s'est barricadé au deuxième étage, a indiqué un porte-parole de la police.",6.0,encerclé,encercler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0

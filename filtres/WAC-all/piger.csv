@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+28309,106331,"Oui, oui, tu as ",pigé,", mais même les chiens ne veulent pas de la tromperine.",7.0,pigé,piger,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0
+105159,396832,Quelles solutions ,pigera,-t-elle pour assainir le climat de l'école fourre-tout?,3.0,pigera,piger,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+239601,902847,"Il aurait été amical, j’aurais ",pigé," tout de suite, cela n’aurait posé à aucune conséquence.",8.0,pigé,piger,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,advcl,4:advcl,_,1.0

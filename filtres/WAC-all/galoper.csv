@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+202066,762344,"Des veaux ont déboulé de derrière une haie et la peur a encore grandi, j'ai ",galopé," encore plus vite, ratant le chemin du retour.",18.0,galopé,galoper,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,advcl,14:advcl,_,1.0
+214809,810076,"La longueur inhabituelle de ses pattes donne à l'élan une démarche particulière (Le pas habituel de l'élan est un trot qui paraît mal assuré, mais il est capable de ",galoper, et d'atteindre une vitesse de 55 km/h).,34.0,galoper,galoper,VERB,VERB,VerbForm=Inf,32.0,xcomp,32:xcomp,_,1.0

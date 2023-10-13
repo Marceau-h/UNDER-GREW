@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+46575,175687,Sa pensée continue à ,essaimer,", comme le prouve une cascade de parutions.",5.0,essaimer,essaimer,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,SpaceAfter=No,1.0
+113925,429868,"Le concept des """"Nuits Blanches"""", créé en 2002 à Paris, continue à ",essaimer," puisque Riga s'apprête à vivre sa première """"Nuit blanche"""" le 26 août, avant Madrid (23 septembre) ou Toronto (30 septembre), a annoncé la mairie de Paris vendredi.",17.0,essaimer,essaimer,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,1.0
+168715,636305,Le logement intergénérationnel s'est développé et a beaucoup ,essaimé, en peu de temps.,10.0,essaimé,essaimer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,1.0

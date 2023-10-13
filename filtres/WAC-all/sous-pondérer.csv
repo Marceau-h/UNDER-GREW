@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+8618,32130,Prudential Equity Group a abaissé sa recommandation de Neutre à ,Sous-pondérer," et son objectif de cours de 63 à 54$ sur Wachovia, suite à l'acquisition de Golden West pour 25,5 milliards de dollars.",11.0,Sous-pondérer,sous-pondérer,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,_,1.0

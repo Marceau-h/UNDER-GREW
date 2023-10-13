@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+47789,180249,"Le décor en relief, végétal ou animal, appliqué à la barbotine et finement ",incisé,", quoique né avant la période islamique, est principalement réalisé au début de la période abbasside.",16.0,incisé,inciser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,conj,10:conj,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+188246,710073,Sous le regard parfois ,ébahi,", parfois inquiet des journalistes, le titre prend une direction nouvelle avec un Sam habillé en civil, capuche sur la tête pour se faire discret, et désormais très habile au corps à corps.",5.0,ébahi,ébahir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,SpaceAfter=No,1.0

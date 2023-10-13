@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+128162,483871,"En général, les cocktails « on the rocks » sont réservés aux personnes qui désirent ",déguster," et apprécier les saveurs d'un alcool, l'eau des glaçons ne modifiant pas le goût.",17.0,déguster,déguster,VERB,VERB,VerbForm=Inf,16.0,xcomp,16:xcomp,_,1.0
+194880,735067,"Grand choix de Rhums, bières, whiskies à ",déguster, en écoutant de la musique irlandaise.,10.0,déguster,déguster,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0
+200268,755724,"Pour célébrer la fin de leur jeûne, les militants s'apprétaient à ",déguster,"…un bouillon à base de cubes """"bio"""", la réalimentation devant être très progressive.",14.0,déguster,déguster,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,SpaceAfter=No,3.0
+253565,955169,"Verser le mélange sur la tarte, baisser le four sur 6 et laisser encore 10 mn. A ",déguster," telle quelle, tiède ou froide.",20.0,déguster,déguster,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,2.0

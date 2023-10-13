@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+66307,250134,"Le Journal de Montréal a mis la main sur ce document d'une vingtaine de pages, qui interdit notamment aux enfants de crier, jurer, siffler, ",cracher, ou distraire le chauffeur.,30.0,cracher,cracher,VERB,VERB,VerbForm=Inf,24.0,conj,24:conj,_,1.0
+68073,256975,"Pour intimider ses ennemis, elle ",crache, et émet encore des cris aigus.,7.0,crache,cracher,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,2.0
+109397,412846,"C’est si bon de se sentir vivre à chaque instant comme si l’on marchait au dessus de la Terre, je vais ",cracher," plus haut, dire bonjour aux oiseaux qui se baignent dans l’eau.",25.0,cracher,cracher,VERB,VERB,VerbForm=Inf,24.0,xcomp,24:xcomp,_,1.0
+144371,544785,"A l'extérieur d'une des gares de Pékin, Zhang Bin, un jeune bénévole, tente de persuader les passants de ne pas ",cracher,", dans le cadre de l'une des campagnes lancées avant les jeux Olympiques pour donner une meilleure image de la ville en août 2008.",26.0,cracher,cracher,VERB,VERB,VerbForm=Inf,20.0,xcomp,20:xcomp,SpaceAfter=No,2.0
+219627,828123,L'alpaga ,crache, beaucoup moins que le lama.,3.0,crache,cracher,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

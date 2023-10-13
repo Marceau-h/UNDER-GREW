@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+21155,79301,"La matière ainsi obtenue (une forme de boue liquide) était passée au tamis, ",décantée, et ensuite malaxée à la main telle une patte à pain et ce en vue d'éliminer toute impureté et saleté.,17.0,décantée,décanter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,13.0,acl,13:acl,_,1.0
+151619,572144,"Les solutions buvables présentées en ampoules ou en gouttes sont le plus souvent des suspensions de poudre totale dans un soluté hydro-alcoolique, ensuite ",décantées, et filtrées.,27.0,décantées,décanter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,15.0,acl,15:acl,_,1.0

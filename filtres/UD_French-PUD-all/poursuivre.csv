@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+175,w02007061,Les Ottomans voulaient que le transport de céréales ne soit pas ,poursuivi, parce qu’ils étaient eux-mêmes dans le besoin. ,12,poursuivi,poursuivre,VERB,VBN,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3,ccomp,_,_,1

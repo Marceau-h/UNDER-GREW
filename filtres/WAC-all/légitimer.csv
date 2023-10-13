@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+235645,888449,"Mais le problème, a-t-il poursuivi, c'est que les Etats-Unis ont convenu d'une politique, et ils essaient de trouver, ou de fabriquer des preuves s'ils n'arrivent pas à en trouver, pour ",légitimer," et corroborer leur politique"""".",43.0,légitimer,légitimer,VERB,VERB,VerbForm=Inf,36.0,advcl,36:advcl,_,2.0

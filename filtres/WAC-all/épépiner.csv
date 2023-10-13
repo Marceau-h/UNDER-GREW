@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+180631,681573,"Coupez les tomates en quartiers, ",épépinez,-les et concassez grossièrement la pulpe au couteau.,7.0,épépinez,épépiner,VERB,VERB,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,1.0,dep,1:dep,SpaceAfter=No,1.0

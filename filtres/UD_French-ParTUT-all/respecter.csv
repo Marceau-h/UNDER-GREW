@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+151,fr_partut-ud-425,Je suis tout à fait convaincu que ce code sera ,respecté, et que le parlement sera tenu informé de toutes les évolutions et des détails de la mise en oeuvre des programmes. ,11,respecté,respecter,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6,advcl,_,_,1

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+872,fr-ud-train_02526,"Historiquement, le nom de Moldavie vient de l'ancien allemand Mulde qui signifie « creux poussiéreux », « carrière », « mine », et qui a successivement désigné une cité minière (en roumain Baia, qui signifie aussi « carrière », « mine »), la rivière Moldova passant à côté, et pour ",finir, une principauté née dans cette région. ,62,finir,finir,VERB,_,VerbForm=Inf,64,acl,_,Subject=Generic,1

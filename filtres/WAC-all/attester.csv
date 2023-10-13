@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3687,13853,"En été les gens partent en vacances et oublient que les besoins en sang sont continus"""" ",atteste, Alexandre chargé de communication de l'Etablissement Français du Sang (EFS).,18.0,atteste,attester,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,parataxis,5:parataxis,_,3.0
+121269,458284,"Les gens l'adorent"""", ",atteste," Steen Hedman, spécialiste de l'actualité royale pour le magazine populaire Se och Hör.",7.0,atteste,attester,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,parataxis,4:parataxis,_,1.0
+137631,519319,Une déclaration sur l'honneur en ,attestant, devra être fournie lors de l'abonnement.,7.0,attestant,attester,VERB,VERB,Tense=Pres|VerbForm=Part,2.0,acl,2:acl,_,1.0

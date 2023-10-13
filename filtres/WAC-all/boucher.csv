@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+85195,320143,"Rajouter une solution 0,88M d'ammoniac sur le gel, ",boucher, et attendre plusieurs jours.,12.0,boucher,boucher,VERB,VERB,VerbForm=Inf,1.0,conj,1:conj,_,1.0

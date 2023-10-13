@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+159294,600604,"Quand il se trouve dans un bar, il faut qu'il boive et qu'ensuite il ",dérouille, mais en réalité il n'aime pas tant que ça l'alcool.,18.0,dérouille,dérouiller,VERB,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13.0,conj,13:conj,_,1.0

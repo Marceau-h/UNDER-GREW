@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+23793,89213,"On tourne à droite, descente courte, puis à gauche pour remonter un peu avant de de suivre un chemin un peu ",tape, cul le long d'un grillage.,24.0,tape,tape,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,21.0,acl:relcl,21:acl:relcl,_,1.0

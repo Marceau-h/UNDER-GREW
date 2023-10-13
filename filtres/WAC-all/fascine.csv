@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+69314,261648,"Cette affaire est un cas d'école du XXe siècle, un exemple quasi godardien : comment l'image ",fascine, et manipule la politique.,20.0,fascine,fascine,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13.0,acl:relcl,13:acl:relcl,_,1.0
+82022,308398,"Le documentaire, et notamment le documentaire animalier, connaissent un succès qui ne se démentit pas depuis les années 90. Cest que la faune ",fascine," ; elle semble comme un reflet de nos conditions humaines, dans lequel le spectateur se reconnaît.",27.0,fascine,fascine,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,23.0,ccomp,23:ccomp,_,1.0

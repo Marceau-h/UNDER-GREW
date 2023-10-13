@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+86819,326694,"En l'élevant si jeune à cette dignité, peu ",prodiguée," alors, on ne considéra pas moins son mérite et ses services que sa naissance.",11.0,prodiguée,prodiguer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0

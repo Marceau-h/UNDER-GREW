@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+67551,255015,"On sait que l'eau à 4° est plus lourde que l'eau à 0° la glace monte et flotte, l'eau non ",gelée, reste au fond.,27.0,gelée,geler,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,25.0,acl,25:acl,_,1.0
+186632,704041,"Il peut en effet neiger, voire ",geler,", même en été (gros pulls, vêtements imperméables, cuissardes ou sandales en plastique pour passer les guets).",8.0,geler,geler,VERB,VERB,VerbForm=Inf,5.0,conj,5:conj,SpaceAfter=No,2.0
+189265,714153,"Les offensives sur le groupe d'Armée Centre stoppèrent, un premier temps le 7 janvier 1942, après avoir repoussé les armées allemandes ",gelées, et épuisées de 100 à 250km de Moscou.,25.0,gelées,geler,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,23.0,acl,23:acl,_,1.0
+204363,771269,L'un des gars avait le visage complètement ,gelé,", il a dû être évacué d'urgence"""", raconte Éric Boyko.",9.0,gelé,geler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,xcomp,5:xcomp,SpaceAfter=No,3.0

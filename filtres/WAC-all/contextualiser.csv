@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+206236,778345,"Nous travaillons au niveau de la micro-contextualisation, au niveau du mot ou du texte, c'est-à-dire un espace beaucoup plus facile à ",contextualiser," qu'une requête dans un moteur de recherche», poursuit Bertrand Dussauge.",29.0,contextualiser,contextualiser,VERB,VERB,VerbForm=Inf,27.0,xcomp,27:xcomp,_,3.0

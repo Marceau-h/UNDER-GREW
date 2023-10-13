@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+71467,269553,Une fois qu'elle a tout ,élagué,", elle n'a plus de marge de manoeuvre.",7.0,élagué,élaguer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,advcl,11:advcl,SpaceAfter=No,1.0

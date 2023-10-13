@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+20157,75516,"Nous pensons que la prochaine convention du Contrat de Ville doit largement s'inspirer de ce genre d'action, afin de ",recadrer, et de relancer la dynamique du Contrat de Ville.,23.0,recadrer,recadrer,VERB,VERB,VerbForm=Inf,21.0,obl:arg,21:obl:arg,_,3.0
+195700,738259,"L'objectif est très courant, pas très grand angle (on le répète pourtant : avec une résolution pareille, il est facile de ",recadrer," si l'on est trop court, mais on ne peut pas récupérer ce qui ne rentre pas dans le cadre).",26.0,recadrer,recadrer,VERB,VERB,VerbForm=Inf,24.0,dep,24:dep,_,1.0

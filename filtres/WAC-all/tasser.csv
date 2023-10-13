@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+160196,604024,"En arrivant près de ces deux poteaux de métal, qui faisait la largeur de la route je ne pouvais pas me ",tasser, ou ralentir en raison de la circulation routière.,23.0,tasser,tasser,VERB,VERB,VerbForm=Inf,20.0,xcomp,20:xcomp,_,2.0
+181022,683202,"Ce sont des pierres très dures, très ",tassées,", recouvertes d'une couche de boue qui n'a pas la même épaisseur partout.",9.0,tassées,tasser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,4.0,acl,4:acl,SpaceAfter=No,2.0

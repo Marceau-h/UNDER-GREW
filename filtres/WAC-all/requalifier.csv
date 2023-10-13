@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+241545,910518,L'objectif de cette opération est de réaménager et de ,requalifier," le tronçon du boulevard Marius Vivier Merle, compris entre le cours La Fayette et l'avenue Georges Pompidou.",11.0,requalifier,requalifier,VERB,VERB,VerbForm=Inf,8.0,conj,8:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+697,fr-ud-train_01692,"À la fin du XXe siècle la ligne, à écartement métrique, de l'ancien chemin de fer du Dakar-Niger entre Dakar, au Sénégal, et Bamako, au Mali, est de plus en plus difficile à ",gérer, du fait de la concurrence de la route et surtout de son manque d'entretien et d'investissements. ,45,gérer,gérer,VERB,_,VerbForm=Inf,43,ccomp,_,Subject=Generic,1

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+253714,955812,"La lecture de théâtre a cela d'extraordinaire qu'elle nous rend les personnages plus humains, plus proches, permet aux comédiens de ne pas ",surjouer,", et crée une immersion plus forte dans le texte.",27.0,surjouer,surjouer,VERB,VERB,VerbForm=Inf,21.0,xcomp,21:xcomp,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+260115,980486,Ce n'est pas un hasard d'ailleurs s'il est chargé en 1947 dans la collection des Albums du Père Castor des albums à ,colorier, sur le thème des céramiques populaires et des coiffes de France.,26.0,colorier,colorier,VERB,VERB,VerbForm=Inf,24.0,acl,24:acl,_,3.0

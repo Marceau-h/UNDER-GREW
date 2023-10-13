@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+81073,304815,"Des observateurs soulignent que la recherche sur l'impact direct, indirect et ",induit,", positif et/ou négatif des OGM sur la santé humaine, sur l'environnement et sur l'économie, doit porter sur le long terme.",14.0,induit,induire,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,conj,10:conj,SpaceAfter=No,1.0
+160831,606363,"En général, les malades qui répondent à un traitement vont mieux, mais parfois les complications induites par le traitement sont plus importantes que l'effet positif ",induit, ou espéré par le traitement.,29.0,induit,induire,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,27.0,acl,27:acl,_,1.0

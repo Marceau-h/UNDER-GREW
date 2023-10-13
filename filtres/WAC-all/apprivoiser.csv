@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+140895,531813,"Car le ballon de rugby est un sacré client, plus difficile à ",apprivoiser, qu'un ballon rond.,14.0,apprivoiser,apprivoiser,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,_,2.0
+234323,883501,Une fois la peur de l'ennui ,apprivoisée,", le plaisir commence et ne lâche plus d'une semelle ces petits et moyens grands aventuriers.",8.0,apprivoisée,apprivoiser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,12.0,advcl,12:advcl,SpaceAfter=No,1.0

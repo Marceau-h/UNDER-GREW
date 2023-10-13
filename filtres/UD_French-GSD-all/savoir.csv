@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1385,fr-ud-train_05235,On manque cruellement d'argent alors qu'on ,sait, comment arrêter l'épidémie. ,9,sait,savoir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2,advcl,_,_,1
+2773,fr-ud-train_11979,Nous effectuons des démonstrations pour que le public ,sache, comment on travaillait le bois autrefois avec le débardage. ,9,sache,savoir,VERB,_,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,acl,_,_,1
+3045,fr-ud-train_13300,"Les filles, vous ",savez,", ont fait tant de choses dans l'ombre !"""" ",6,savez,savoir,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,9,parataxis,_,SpaceAfter=No,1

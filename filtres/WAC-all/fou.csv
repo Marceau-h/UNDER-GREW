@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+23351,87791,"C'est une copie de G turismo et une copie bas de game, alors ça fait bien trop sur-réel et les contrôles on s'en ",fou," c'est un sujet box alors seul la qualité visuelle compte, le reste cé juste de la foutaise.",27.0,fou,fou,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,dep,4:dep,_,1.0

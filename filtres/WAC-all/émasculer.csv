@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+17422,65322,Ce démembrement est assez sensible dans le cas récent des trois Italiens ,émasculés," et hormonés, qui ont changé d'avis, et réclament désormais une opération de remasculinisation.",13.0,émasculés,émasculer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,12.0,acl,12:acl,_,1.0

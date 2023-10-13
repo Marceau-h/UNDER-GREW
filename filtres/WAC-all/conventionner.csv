@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+260894,983473,Les entreprises qui font traiter leurs déchets dangereux dans des centres ,conventionnés, ou homologués par les Agences de l'Eau peuvent bénéficier d'une aide sur la destruction et le transport des déchets.,12.0,conventionnés,conventionner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,11.0,acl,11:acl,_,1.0

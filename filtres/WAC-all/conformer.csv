@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3950,14850,La récolte au cours du temps des individus les mieux ,conformés, a conduit à la raréfaction des beaux sujets.,11.0,conformés,conformer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0
+121247,458217,"Au total, c'est plus de 6M$ que nous devrons mettre pour nous ",conformer,", explique M. Simard.",15.0,conformer,conformer,VERB,VERB,VerbForm=Inf,12.0,advcl,12:advcl,SpaceAfter=No,1.0

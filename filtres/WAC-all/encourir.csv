@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+173612,654862,"Etant directement rattachables à la tempête, ces charges ",encourues, postérieurement à la clôture et sans contrepartie positive doivent être provisionnées au 31 décembre 1999.,10.0,encourues,encourir,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,2.0
+234778,885184,L'inéligibilité ainsi ,encourue, entre dans le cadre prévu à l'article L.O.130 du code électoral.,4.0,encourue,encourir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

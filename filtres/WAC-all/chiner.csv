@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+185227,698899,"Bécassine (4), qui est également arrivée avec cerbère à quelques kilomètres de chez nous m'appelle pour que nous nous retrouvions le lendemain à St Malo pour ",chiner, ensemble...,31.0,chiner,chiner,VERB,VERB,VerbForm=Inf,24.0,advcl,24:advcl,_,1.0

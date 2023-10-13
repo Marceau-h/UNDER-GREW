@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+190672,719377,"Les termes """"",humanisés,", """"maternisés"""" ou de termes similaires sont interdits.",4.0,humanisés,humaniser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+244671,922036,"Tenus à l'écart des grandes discussions, y compris de celles qui les concernent directement, ils se sont sentis frustrés, partant peu encouragés à déployer des efforts pour repenser, ",humaniser, et dynamiser leur administration.,34.0,humaniser,humaniser,VERB,VERB,VerbForm=Inf,32.0,conj,32:conj,_,1.0

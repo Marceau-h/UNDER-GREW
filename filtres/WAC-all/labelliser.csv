@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+18093,67841,Tout projet de recherche lié à l'Internet du futur pertinent (et ,labellisé,) peut ainsi trouver une aide adaptée à son besoin.,14.0,labellisé,labelliser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,conj,11:conj,SpaceAfter=No,1.0
+246938,930617,Cet axe regroupe les opérations ,labellisées, ou soutenues par la MSH-Alpes présentant un caractère de structuration ou d'émergence thématique.,6.0,labellisées,labelliser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0

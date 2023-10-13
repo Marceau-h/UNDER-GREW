@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+88316,332357,"Parmi ces contes de terreur les plus connus on peut citer les S.S. (1896), qui raconte la terreur répandue dans toute l'Europe par une bande de monstrueux criminels qui ",saccagent,", tuent et brûlent les cadavres.",34.0,saccagent,saccager,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,32.0,acl:relcl,32:acl:relcl,SpaceAfter=No,1.0
+235073,886341,Ils ont notamment investi et ,saccagé, le siège de la télévision nationale.,6.0,saccagé,saccager,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,2.0

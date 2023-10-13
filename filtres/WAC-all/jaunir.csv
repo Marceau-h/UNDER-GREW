@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+10070,37495,La récolte des bulbes peut avoir lieu dès que les feuilles ,jaunissent,", ce qui commence dès juin dans le midi alors qu'il faut attendre juillet / août en région parisienne.",12.0,jaunissent,jaunir,VERB,VERB,Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,5.0,advcl,5:advcl,SpaceAfter=No,1.0

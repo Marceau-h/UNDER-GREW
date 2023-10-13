@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+218680,824743,"Une dernière suivra, pour ",sonder, et explorer les fonds marins proches des côtes au premier semestre 2006.,6.0,sonder,sonder,VERB,VERB,VerbForm=Inf,3.0,advcl,3:advcl,_,2.0

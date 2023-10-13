@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+170203,642019,Je vais observer les gens autour de moi et si j'en ,rencontre," qui ont cette attitude, je leur demanderai conseil"""".",13.0,rencontre,rencontre,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15.0,advcl,15:advcl,_,3.0

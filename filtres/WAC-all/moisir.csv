@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+70931,267465,Le matelas qui ,moisit, c'est un problème d'humidité résiduelle et donc de ventilation.,4.0,moisit,moisir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,2.0,acl:relcl,2:acl:relcl,_,1.0

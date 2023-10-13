@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+135377,511220,"Son président, David Einhorn, préférerait que Natixis ",céde," tout ou partie de ses participations dans le capital de ses principaux actionnaires, les Caisses d'Epargne et les Banques populaires.",10.0,céde,céde,VERB,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7.0,ccomp,7:ccomp,_,1.0

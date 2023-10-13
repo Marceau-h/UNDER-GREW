@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+51673,194851,"Un homme et une femme, visages jeunes mais ",ravagés,", dans une chambre à Manhattan, se parlent comme des automates.",10.0,ravagés,ravager,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,conj,8:conj,SpaceAfter=No,1.0
+174505,658260,"La croix d'argent symbolise la """"guerre des épiscopaux """" entre les évêques de Valence et ceux de Die, guerre qui ",ravagea, et ensanglanta la région.,24.0,ravagea,ravager,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,22.0,acl:relcl,22:acl:relcl,_,1.0

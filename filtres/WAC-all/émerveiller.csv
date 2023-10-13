@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+239507,902487,"Mais cette fois, c'est une France très moderne et innovante qui s'ouvre devant elle, ",émerveillée, et engagée à raconter à ses compatriotes un visage non familier de l'Hexagone.,19.0,émerveillée,émerveiller,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,15.0,advcl,15:advcl,_,2.0

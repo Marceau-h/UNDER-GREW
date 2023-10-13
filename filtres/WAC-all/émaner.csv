@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+14655,54727,"L'homme qui fait pénitence et accomplit de bonnes oeuvres est inscrit au premier jour de l'an sur le Coté appelé """"Vie"""" et d'où ",émane, toute vie.,29.0,émane,émaner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,24.0,conj,24:conj,_,1.0
+71619,270090,Cette attaque ,émane, due député CD&V Carl Devlies.,3.0,émane,émaner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+200354,756040,"L'Autre, c'est le lieu étranger d'où ",émane," tout discours, celui de la famille, du père, de la loi.",11.0,émane,émaner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7.0,acl:relcl,7:acl:relcl,_,1.0

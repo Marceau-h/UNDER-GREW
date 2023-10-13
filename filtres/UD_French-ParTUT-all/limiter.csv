@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+130,fr_partut-ud-337,"Ceci, ajouté aux déficiences des réseaux d'infrastructures et de services et à une offre d'emploi généralement très ",limitée," et tout au plus saisonnière et peu diversifiée, accentuent l'exode rural. ",23,limitée,limiter,VERB,V,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,18,acl,_,_,2

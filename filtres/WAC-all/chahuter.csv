@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+30417,114650,"Le procureur a cependant insisté sur les comportements """"anormaux"""" de la victime et de ses trois amis d'enfance, qui ont emprunté la télécabine passablement éméchés et qui ont ",chahuté," debout, alors que le règlement oblige l'usager à rester assis.",33.0,chahuté,chahuter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,25.0,conj,25:conj,_,1.0

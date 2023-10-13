@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+172677,651308,Il s'était logiquement penché sur la question du métier à ,façonnés,", proposant en 1748 un métier automatique qui permettait de se passer du tireur de lacs aussi bien que du tisseur.",12.0,façonnés,façonner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5.0,advcl,5:advcl,SpaceAfter=No,1.0
+211994,799515,"Aujourd'hui, en effet, le son n'est plus exclusivement imaginé, pensé, ",façonné, et fixé par le seul compositeur.,16.0,façonné,façonner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,conj,12:conj,_,1.0

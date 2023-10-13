@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+219774,828717,"L'Autriche doit se retirer d'Afghanistan"""", ",tonnait," un message, en rappelant que le pays est engagé dans la guerre contre les talibans.",11.0,tonnait,tonner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,4.0,parataxis,4:parataxis,_,1.0
+225983,852313,"Ce qui arrive aujourd'hui, ce qu'on lui fait subir, on ne l'a fait subir à aucun autre président ou personnalité politique"""", a ",tonné, Rama Yade.,29.0,tonné,tonner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,1.0,parataxis,1:parataxis,_,2.0

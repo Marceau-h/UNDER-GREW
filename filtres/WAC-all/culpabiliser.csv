@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+100925,380701,"De votre côté, vous pourrez le regarder déguster avidement cette boisson, sans ",culpabiliser,", car l'occasionnel est sans danger pour la santé de votre enfant.",15.0,culpabiliser,culpabiliser,VERB,VERB,VerbForm=Inf,9.0,advcl,9:advcl,SpaceAfter=No,1.0

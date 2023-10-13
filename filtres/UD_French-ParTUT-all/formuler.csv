@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+112,fr_partut-ud-261,Nous voudrions être sûrs que cela soit déjà signalé dans les considérants et que le délai clairement ,formulé, dans lequel le conseil doit prendre une décision soit fixé à un maximum de trois mois. ,18,formulé,formuler,VERB,V,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,16,acl,_,_,1

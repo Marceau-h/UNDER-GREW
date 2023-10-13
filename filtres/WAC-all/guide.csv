@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+193879,731559,"Et il ajoute un peu plus loin : """" C'est donc l'Harmonie qui nous ",guide,", et non pas la Mélodie. """"",17.0,guide,guide,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,14.0,acl:relcl,14:acl:relcl,SpaceAfter=No,3.0

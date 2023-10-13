@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+38830,146099,"Afin de faciliter la tâche aux participants, un guide de préparation est fourni par Hydro Québec, faisant la synthèse des renseignements nécessaires à ",colliger, avant de remplir le questionnaire.,26.0,colliger,colliger,VERB,VERB,VerbForm=Inf,23.0,acl,23:acl,_,1.0

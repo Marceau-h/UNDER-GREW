@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+124864,471706,"Pour les Martinets, le plus pratique sont les """"vers de farine"""" utilisés par les pêcheurs, ils sont plus faciles à ",attraper, que les mouches....,25.0,attraper,attraper,VERB,VERB,VerbForm=Inf,23.0,xcomp,23:xcomp,_,1.0
+133600,504629,Il a terminé la saison avec 101 ,attrapés, pour 1317 verges et 4 touchés.,8.0,attrapés,attraper,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,3.0,obl:mod,3:obl:mod,_,1.0

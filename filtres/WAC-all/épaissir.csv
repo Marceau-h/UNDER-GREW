@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+215429,812247,"Dans ce salon réservé à la pose des extensions, on peut vous fixer de fines mèches de cheveux naturels pour ",épaissir, ou rallonger votre chevelure.,22.0,épaissir,épaissir,VERB,VERB,VerbForm=Inf,14.0,advcl,14:advcl,_,1.0

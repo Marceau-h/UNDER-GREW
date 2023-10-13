@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+52404,197621,Mais ne nous leurrons pas : il est clair qu'on a toujours fait en sorte que les pauvres soient dans une situation globalement ,dévalorisée,", que leur statut social d'allocataire soit infériorisé.",25.0,dévalorisée,dévaloriser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,23.0,acl,23:acl,SpaceAfter=No,3.0
+93576,353137,Le message de cet ouvrage est clair: la pratique des grandes puissances en Méditerranée a contribué à ,dévaloriser, et à décrédibiliser les valeurs démocratiques.,19.0,dévaloriser,dévaloriser,VERB,VERB,VerbForm=Inf,17.0,xcomp,17:xcomp,_,1.0

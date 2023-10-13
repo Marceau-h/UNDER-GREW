@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+25336,94850,"En 1942, il était devenu animateur pour les ateliers d'animation de Zlin avant d'intégrer les studios Bratri v triku dirigés par le célèbre et ",renommé, Jiri Trnka (inventeur de la cinémarionette).,28.0,renommé,renommer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,26.0,conj,26:conj,_,2.0
+178003,671403,Ceci dans le but de ,renommer, — le seul modèle utilisé maintenant pour les communes belges — « Modèle:Tab comm be » en « Modèle:Commune belge ».,6.0,renommer,renommer,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,_,3.0
+185887,701176,Créez un raccourci de Profiles.exe ,Renommez,-le comme vous voulez (par exemple avec le nom de l'utilisateur),6.0,Renommez,renommer,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+205876,776913,"Il vous offre la méthode la plus simple pour copier, déplacer, supprimer ou ",renommer, des fichiers.,16.0,renommer,renommer,VERB,VERB,VerbForm=Inf,10.0,conj,10:conj,_,1.0
+253561,955158,"Pareil, franchement [1] donne 12 pages à ",renommer,", je vais te laisser le faire toi même, hein...",11.0,renommer,renommer,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,SpaceAfter=No,1.0
+263948,994726,Le Northern Wireless Orchestra fut alors réduit à 9 musiciens et ,renommé, Northern Studio Orchestra.,12.0,renommé,renommer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,conj,7:conj,_,1.0

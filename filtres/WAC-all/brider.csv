@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+257393,969998,Présent au Mondial de l'automobile 2006 dans une version de démonstration très ,bridée,", Need for Speed Carbon est passé entre nos petites mains moites.",14.0,bridée,brider,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,SpaceAfter=No,1.0

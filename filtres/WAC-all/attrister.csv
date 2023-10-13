@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+142409,537627,"Nous avons été surpris, sidérés, ",attristés, de votre décision.,8.0,attristés,attrister,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0

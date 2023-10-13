@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+65298,246228,"Mais la température a beau approché le zéro sur la capitale, Paris est immédiatement en action et ",combine, pour mettre Jérôme Rothen en position de tir et une tentative à ras de terre bien captée par Yohann Pelé (3e).,19.0,combine,combine,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17.0,conj,17:conj,_,2.0

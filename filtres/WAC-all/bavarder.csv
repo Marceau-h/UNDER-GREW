@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+89436,336827,"J'oubliais : si tu peux te déplacer dans la classe, un truc tout bête mais qui marche pas mal : en faisant ton cours, tu te rapproches de ceux qui ",bavardent, ou semblent inattentifs.,34.0,bavardent,bavarder,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,32.0,acl:relcl,32:acl:relcl,_,2.0
+182398,688318,Tous deux ont en effet l'habitude de ,bavarder, ensemble jusqu'à fort tard dans la nuit.,9.0,bavarder,bavarder,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,_,1.0
+215195,811456,"Nous nous sommes assis, avons fumé deux cigares cubains, avons bu un café et ",bavardé,", raconte l'agent du FBI.",18.0,bavardé,bavarder,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,conj,14:conj,SpaceAfter=No,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+20472,76769,Les joueurs de Fabrice Landreau et Fabien Galthié avaient ,rivalisé,", plus que rivalisé même puisqu'ils tenaient le score avec dix points d'avance !",10.0,rivalisé,rivaliser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0
+20473,76769,"Les joueurs de Fabrice Landreau et Fabien Galthié avaient rivalisé, plus que ",rivalisé, même puisqu'ils tenaient le score avec dix points d'avance !,10.0,rivalisé,rivaliser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0
+210092,792028,"Comme Rapperswil-Jona face à Davos, Kloten n'avait plus la force de ",rivaliser, et de se montrer décisif devant le but adverse.,16.0,rivaliser,rivaliser,VERB,VERB,VerbForm=Inf,14.0,acl,14:acl,_,2.0

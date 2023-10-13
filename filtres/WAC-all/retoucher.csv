@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+85194,320135,Il est souvent nécessaire de disposer d'un logiciel permettant de convertir et ,retoucher, les images.,14.0,retoucher,retoucher,VERB,VERB,VerbForm=Inf,12.0,conj,12:conj,_,1.0
+200139,755240,"En 1939, peu avant le début de la grande guerre, Fiat présente une version à peine ",retouchée,", la seconde série, Fiat 1500B, qui verra augmenter la puissance de ses freins.",19.0,retouchée,retoucher,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,16.0,acl,16:acl,SpaceAfter=No,1.0
+207184,781506,"L'orientation photo de ces deux imprimantes est marquée par la présence d'un écran LDC couleur de 6,4 cm pour la 3210 et 9,1 cm pour la 3210 permettant de pré-visualiser, sélectionner et ",retoucher, les photos.,36.0,retoucher,retoucher,VERB,VERB,VerbForm=Inf,32.0,conj,32:conj,_,1.0
+220425,831194,"Les photos, ",retouchées," ou non, sont également publiables directement sur Facebook ou un blog.",4.0,retouchées,retoucher,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

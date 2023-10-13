@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+11441,42963,"Cette déclaration a soulevé l'ire de la """"gauche péquiste"""", qui voit ainsi ",hypothéquée," sa capacité de nous faire croire que le PQ possède toujours un """"préjugé favorable aux travailleurs"""".",17.0,hypothéquée,hypothéquer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,15.0,xcomp,15:xcomp,_,1.0

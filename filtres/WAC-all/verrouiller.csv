@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+88972,335058,"Elle est destinataire du cahier de recensement, elle contrôle et ",verrouille, le fichier.,12.0,verrouille,verrouiller,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,10.0,conj,10:conj,_,1.0
+175490,662003,"Surtout à neuf jours d'une élection présidentielle, le 19 mars, que le pouvoir biélorusse s'acharne nerveusement à ",verrouiller,", dans le but d'assurer la victoire écrasante de son chef.",22.0,verrouiller,verrouiller,VERB,VERB,VerbForm=Inf,19.0,xcomp,19:xcomp,SpaceAfter=No,1.0
+246248,928036,"D'autres se sont retrouvées piégées dans des camps, derrière des frontières soigneusement ",verrouillées,", pendant des semaines, des mois, quelquefois des années.",15.0,verrouillées,verrouiller,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,13.0,acl,13:acl,SpaceAfter=No,1.0

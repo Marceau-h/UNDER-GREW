@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+18261,68392,"Les installations seront conçues en majeure partie sous la forme de modules de grande taille, qui seront fabriqués et assemblés sur des chantiers de construction, puis ",acheminés, et installés sur l'île de Das.,29.0,acheminés,acheminer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,24.0,conj,24:conj,_,1.0
+20005,75000,Des traces de nombreuses carrières ont été relevées ainsi que les vestiges de rampes ayant servi à ,acheminer, et élever les matériaux.,18.0,acheminer,acheminer,VERB,VERB,VerbForm=Inf,16.0,xcomp,16:xcomp,_,1.0

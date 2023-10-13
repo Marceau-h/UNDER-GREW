@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+195582,737803,"Le faucon crécerellette Autrefois installé dans la plupart des départements du pourtour méditerranéen, le Faucon crécerellette ne ",niche," plus aujourd'hui que dans la plaine steppique de la Crau, entre l'étang de Berre et la Camargue.",19.0,niche,niche,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

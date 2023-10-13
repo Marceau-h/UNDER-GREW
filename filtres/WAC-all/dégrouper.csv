@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+18979,71228,Concernant les offres partiellement ,dégroupées,", peu de changement.",5.0,dégroupées,dégrouper,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,3.0,acl,3:acl,SpaceAfter=No,1.0
+156102,588813,L'accès totalement ,dégroupé, : l'opérateur entrant fournit à la fois le service téléphonique et l'accès à Internet.,4.0,dégroupé,dégrouper,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+189729,715966,Le nombre de lignes totalement ,dégroupées, a été multiplié par vingt en l'espace d'un an.,6.0,dégroupées,dégrouper,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0
+205371,775004,En zone non ,dégroupée," : AOL ADSL jusqu'à 4 Méga et Téléphone illimité IP à 44,90 euros par mois.",4.0,dégroupée,dégrouper,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

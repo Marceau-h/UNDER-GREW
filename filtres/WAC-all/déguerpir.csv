@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+213432,804814,"Il se déplaça prudemment sur la moquette cotonneuse, prêt à ",déguerpir, au moindre mouvement suspect.,12.0,déguerpir,déguerpir,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,_,2.0

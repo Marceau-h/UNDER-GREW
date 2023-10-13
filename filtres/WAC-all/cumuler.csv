@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+36245,136404,Le MINISONIC 600 et le MINISONIC 2000 offrent une solution précise et économique à la mesure de débit instantané et ,cumulé, de liquides en conduite en charge.,21.0,cumulé,cumuler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,19.0,conj,19:conj,_,1.0
+139305,525747,"L'attractivité du programme de fidélisation mutualisée devrait également être renforcée, l'achat d'un séjour permettant de ",cumuler, et d'échanger plus rapidement des points.,20.0,cumuler,cumuler,VERB,VERB,VerbForm=Inf,18.0,xcomp,18:xcomp,_,1.0

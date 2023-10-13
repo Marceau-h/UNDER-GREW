@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+56806,213877,"Ce livre ne remplace pas la première édition de 1988, mais traite plus en profondeur plusieurs sujets du Hold'em juste ",effleurés,", ou occultés dans cette édition.",23.0,effleurés,effleurer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,acl,18:acl,SpaceAfter=No,1.0
+66697,251769,"Pourquoi un """"comité de lecture"""" pour des retombées de travaux d'étudiants alors que l'idée, même doucement ",effleurée,", hérisse le poil de bon nombre de gens ?",22.0,effleurée,effleurer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,18.0,acl,18:acl,SpaceAfter=No,1.0

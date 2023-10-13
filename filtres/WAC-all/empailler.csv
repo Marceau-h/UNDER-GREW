@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+213909,806660,"La galerie Germain lui commande en 1971-1972 une œuvre avec de la laine : Messager crée Les Pensionnaires, alignement de moineaux ",empaillés, et emmaillotés dans des tricots.,25.0,empaillés,empailler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,24.0,acl,24:acl,_,1.0

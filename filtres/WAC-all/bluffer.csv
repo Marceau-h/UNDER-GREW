@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+138277,521857,"Après un reportage de""""Thalassa"""" sur France 3, quatre ouvriers de Saint-Nazaire, ",bluffés,", se piquent au jeu, et viennent, sur leurs congés, en Lorraine aider le futur capitaine.",15.0,bluffés,bluffer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,11.0,acl,11:acl,SpaceAfter=No,1.0

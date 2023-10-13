@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+91855,346181,On estime que M. Tsvangirai ,consulte," après que le sommet de la SADC eut décidé que le gouvernement inclusif sera immédiatement formé avec le ministère des Affaires intérieures en litige, dirigé conjointement par le ZANU-PF au pouvoir et le MDC-T.",6.0,consulte,consulte,VERB,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,ccomp,2:ccomp,_,2.0

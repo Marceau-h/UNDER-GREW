@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+184195,695030,"Le tannage est le traitement de la peau morte, pour l'empêcher de ",pourrir,", par l'impregnation de substances dites tannantes, végétales ou minérales (aujourd'hui écorces d'arbre, sels de chrome...).",15.0,pourrir,pourrir,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,SpaceAfter=No,1.0

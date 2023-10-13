@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+872,ParisStories_2022_2_générationsXY__28,"et à chaque fois qu'elle, elle ",jouait," ou qu'elle faisait des trucs comme moi, bah, ses parents, ils l'engueulaient. ",9,jouait,jouer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,4,acl,_,AlignBegin=44454|AlignEnd=44614,3

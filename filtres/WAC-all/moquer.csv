@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+169424,638961,"Tout le monde, et notamment les journalistes, semble bien malheureusement s'en ",moquer,", et pourtant le nouveau Sénat jouera un rôle déterminant dans les trois ans et demi de la fin du mandat présidentiel de Monsieur Nicolas Sarkozy.",15.0,moquer,moquer,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,SpaceAfter=No,2.0
+211560,797838,"Je pense que ça aurait été un très bon présentateur sur une radio"""", s'est ",moqué, le socialiste Julien Dray.,19.0,moqué,moquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,parataxis,3:parataxis,_,3.0

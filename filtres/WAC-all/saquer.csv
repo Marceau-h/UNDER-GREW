@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+70101,264598,Mais c'est aussi une copie que l'on a du mal à ,saquer, sans préciser qu'il paraît évident que le studio Numlock Software y est allé de toute sa bonne volonté pour réaliser son jeu.,14.0,saquer,saquer,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,_,1.0

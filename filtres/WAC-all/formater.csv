@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+48400,182395,Les textes ainsi ,formatés," peuvent être aussi bien interprétés que compilés, selon les langages : un texte écrit en roff est souvent interprété, un texte écrit en LaTeX est généralement compilé.",4.0,formatés,formater,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+91908,346400,"J'ai changé de dique dur, ",formaté," et installé windows en pensant que cela venait du disque dur, mais le problème persiste.",8.0,formaté,formater,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,conj,3:conj,_,2.0

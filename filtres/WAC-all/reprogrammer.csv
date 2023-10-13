@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+129208,487857,"Selon le directeur général du stade, Fodé Mamady Keïta, le stade ne sera pas disponible avant le 15 janvier et c'est pour cette raison que la première journée du championnat a été programmée (ou plutôt ",reprogrammée,) au stade du 26 Mars.,40.0,reprogrammée,reprogrammer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,36.0,conj,36:conj,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+325,fr-ud-test_00158,"Comme chaque soir à 18h40, il tranche, malmène et ",détourne, l'actualité. ,12,détourne,détourner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8,conj,_,_,1

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+68635,259055,"Or, c'est à une psychologie du sage en action que se livrent Sénèque et tous les penseurs qui s'attachent non à ",théoriser,", mais à montrer en pratique les principes suivis par le sage.",25.0,théoriser,théoriser,VERB,VERB,VerbForm=Inf,22.0,xcomp,22:xcomp,SpaceAfter=No,1.0
+115185,434807,"C'est quelqu'un qui est capable de réflexion, de ",théoriser, et d'exprimer sa pensée.,12.0,théoriser,théoriser,VERB,VERB,VerbForm=Inf,9.0,conj,9:conj,_,1.0
+257918,972036,· Ces journées sont organisées par le laboratoire THEMA - ,Théoriser, et modéliser pour aménager - (CNRS UMR 6049) avec le soutien du CNRS et de la Commission de géographie théorique quantitative de l'Union géographique internationale.,11.0,Théoriser,théoriser,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,2.0

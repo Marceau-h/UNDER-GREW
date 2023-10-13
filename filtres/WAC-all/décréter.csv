@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+53203,200639,L'Avis de Louis conduit l'Assemblée constituante à ,décréter, (20 mars 1792) la fabrication de la machine.,10.0,décréter,décréter,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,1.0

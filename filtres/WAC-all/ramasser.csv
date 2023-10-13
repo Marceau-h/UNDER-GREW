@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+194286,732993,Le fait de ,ramasser, et de collectionner est déjà un acte de mémorisation.,4.0,ramasser,ramasser,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0
+225072,849003,"Afin d'échapper à l'impression de lourdeur, nous l'avons conçu extrêmement ",ramassé,; il figure d'ailleurs parmi les plus petits bâtiments présentés au concours.,15.0,ramassé,ramasser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13.0,xcomp,13:xcomp,SpaceAfter=No,1.0
+246213,927901,L'habitat est groupé surtout en villages ,ramassés, autour de leurs églises.,8.0,ramassés,ramasser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,1.0

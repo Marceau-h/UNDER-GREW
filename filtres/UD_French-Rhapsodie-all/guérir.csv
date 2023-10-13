@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+384,Rhap_M2003-18,"plus encore, dans l'évangile d'aujourd'hui, Jésus s'accorde le pouvoir de ",guérir, et de chasser les esprits mauvais. ,16,guérir,guérir,VERB,_,VerbForm=Inf,14,acl,_,Subject=NoRaising,2

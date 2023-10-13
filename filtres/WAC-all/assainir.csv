@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+9953,36989,Une fois ,assainie,", il unit en 1996 sa destiné à celle de son concurrent français Ecco, donnant naissance à Adecco, numéro un mondial de la branche.",3.0,assainie,assainir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,advcl,6:advcl,SpaceAfter=No,1.0

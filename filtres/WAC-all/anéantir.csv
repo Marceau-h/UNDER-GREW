@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+92753,349737,"Celui-ci, ",anéanti," et interdit à l'issue de la défaite des républicains lors de la guerre civile et la prise du pouvoir par Franco, survit à l'étranger sous la forme d'un parti d'exilés.",5.0,anéanti,anéantir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

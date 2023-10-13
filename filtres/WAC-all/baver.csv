@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+261238,984757,Si le BND a «,bavé,"», il en a la responsabilité politique.",6.0,bavé,baver,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,advcl,11:advcl,SpaceAfter=No,2.0

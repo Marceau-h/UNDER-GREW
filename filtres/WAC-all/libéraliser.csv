@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+89768,338111,"Il suffisait, disait-on entre deux kirs, de ",libéraliser,", de dégraisser la fonction publique, de faire jouer la concurrence toujours et partout pour que surgisse le meilleur des mondes.",11.0,libéraliser,libéraliser,VERB,VERB,VerbForm=Inf,2.0,dep,2:dep,SpaceAfter=No,1.0
+217827,821594,Il aurait souhaité l'instauration de règles de droit avant de ,libéraliser,", pour supprimer au moins le règne du bakchich et de la corruption politique.",12.0,libéraliser,libéraliser,VERB,VERB,VerbForm=Inf,5.0,acl,5:acl,SpaceAfter=No,2.0

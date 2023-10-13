@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+122,fr-ud-dev_00759,"Retrouvant les plateaux télévisés, il perd ses nerfs avant une interview donnée à la radio Ouï FM en ",insultant, et menaçant violemment l'un de ses animateurs. ,20,insultant,insulter,VERB,_,Tense=Pres|VerbForm=Part,7,advcl,_,_,1

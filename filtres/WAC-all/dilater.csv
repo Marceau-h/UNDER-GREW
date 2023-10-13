@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+251784,948458,"L'épreuve du désert du c&#156;ur, la vérité et la qualité de nos relations fraternelles, lentement, libèrent et ",dilatent, notre capacité d'aimer.,22.0,dilatent,dilater,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,20.0,conj,20:conj,_,1.0

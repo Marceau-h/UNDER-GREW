@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+91879,346239,"À l'hôtel Radisson de Nashua, au New Hampshire, Jon Favreau buvait du Coke diète et ",grignotait, pour passer le temps.,19.0,grignotait,grignoter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,14.0,conj,14:conj,_,1.0
+258392,973891,Ou M$ annonce-t-il publiquement qu'il a compris qu'il est sur la pente (fortement) descendante (la faute au vilains Apple et Linux qui ,grignotent, bien trop de part de marché.,30.0,grignotent,grignoter,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,23.0,acl:relcl,23:acl:relcl,_,1.0

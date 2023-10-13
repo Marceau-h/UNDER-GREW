@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+57488,216325,Deux prieurés appartenant à cet ordre sont fondés à La Puye par Pétronille de Monthoiron du vivant même de Robert d'Arbrissel  nous aurons l'occasion d'en ,reparler," , l'autre à Lencloître.",30.0,reparler,reparler,VERB,VERB,VerbForm=Inf,27.0,acl,27:acl,_,1.0

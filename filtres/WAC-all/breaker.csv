@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+45160,170401,"Au début du deuxième set, j'ai senti que je perdais un peu le fil, je ne réussissais plus aussi bien à retourner ses balles et je me suis fait ",breaker," deux fois bêtement"""", reconnaissait-il après la rencontre.",33.0,breaker,breaker,VERB,VERB,VerbForm=Inf,20.0,conj,20:conj,_,1.0

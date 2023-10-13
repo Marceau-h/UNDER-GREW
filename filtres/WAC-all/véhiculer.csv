@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+95697,361278,"Plastobreiz réalise sur mesure tous calages, plateaux, blisters destinés à ",véhiculer,", protéger et/ou présenter des produits manufacturés très variés (cosmétique, jouets, sous-traitance automobile, électronique...).",13.0,véhiculer,véhiculer,VERB,VERB,VerbForm=Inf,11.0,xcomp,11:xcomp,SpaceAfter=No,3.0

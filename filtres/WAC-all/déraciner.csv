@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+58758,221105,"Épopée de la vie moderne et urbaine, Rocco raconte l'histoire d'une famille de paysans d'Italie du sud ",déracinée,", et forcée de se battre pour survivre dans la métropole industrielle de Milan.",22.0,déracinée,déraciner,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,15.0,acl,15:acl,SpaceAfter=No,3.0
+73784,277953,"Parce qu'ils se sentent ces temps-ci un peu sentimentaux, facilement ",déracinés, ou bouillonnant des meilleures intentions.,15.0,déracinés,déraciner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,12.0,conj,12:conj,_,1.0

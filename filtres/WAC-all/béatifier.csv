@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+238145,897661,"Sa plus grande gloire reste peut-être d'avoir accueilli en août 1836 Padre Albini, aujourd'hui ",béatifié,", venu de son couvent de Vico pour porter la bonne parole aux habitants du village.",17.0,béatifié,béatifier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13.0,acl,13:acl,SpaceAfter=No,1.0

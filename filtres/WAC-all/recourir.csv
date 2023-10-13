@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+74548,280775,Les opérations de LBO ,recourent, de plus en plus à des titrisations et à des financements hybrides.,5.0,recourent,recourir,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+165864,625380,Les autorités italiennes ont délivré à Basso l'autorisation de ,recourir," et l'équipe américaine Discovery Channel l'a recruté, mais il n'est pas inscrit pour Paris-Nice.",11.0,recourir,recourir,VERB,VERB,VerbForm=Inf,9.0,acl,9:acl,_,1.0
+247546,932910,Ma conviction profonde est que l'information que donne ce journaliste dans son article ne me parait pas sure.il y ,recours, trop souvent à l'usage du conditionnel.,21.0,recours,recourir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17.0,xcomp,17:xcomp,_,1.0

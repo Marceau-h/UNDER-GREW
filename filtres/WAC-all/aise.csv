@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+60463,227633,"En tout cas, pas le possesseur de ce mobile, aussi à l'",aise," pour écouter de la musique, prendre des photos ou encore réaliser de petits clips vidéo.",15.0,aise,aise,VERB,VERB,Tense=Pres|VerbForm=Part,13.0,fixed,13:fixed,_,1.0

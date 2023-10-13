@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1720,fr-ud-train_06746,La taupe ,court," pour semer les mouches mais s'enfuit avec la carte au trésor, et Winnie et ses amis se lancent à sa poursuite pour récupérer la carte. ",3,court,courir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1

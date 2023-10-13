@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+22970,86252,Puis des informaticiens ont élaboré un logiciel qui analyse et ,reformule, oralement les gestes ainsi détectés.,11.0,reformule,reformule,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,conj,9:conj,_,2.0

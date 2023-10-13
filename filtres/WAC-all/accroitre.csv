@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+26878,100819,"Le risque de toucher des especes non-cibles est prouve et confirme la necessite d'appliquer avec rigueur, voire d'",accroitre,", toutes les mesures de protection de ces populations.",21.0,accroitre,accroitre,VERB,VERB,VerbForm=Inf,15.0,conj,15:conj,SpaceAfter=No,1.0

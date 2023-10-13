@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+61026,229951,"Nous l&#8217;avons tous fait, ",contraints, et forcés par l&#8217;urgence de la situation.,6.0,contraints,contraindre,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,4.0,advcl,4:advcl,_,1.0
+62085,234070,"L'essentiel est pour lui, affirmait-il, «de chercher à comprendre les dynamiques et les structures qui forment et ",contraignent, les acteurs des relations internationales».,23.0,contraignent,contraindre,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,21.0,conj,21:conj,_,1.0
+164733,621052,"Désormais 18 ème du classement, relégables pour la première fois de la saison après leur deuxième défaite consécutive, les Parisiens se retrouvent dos au mur, ",contraints, plus que jamais de lutter pour le maintien.,29.0,contraints,contraindre,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,24.0,advcl,24:advcl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2751,fr-ud-train_11898,Après un constat statistique navrant : sur 150 000 collégiens qui ,décrochent,", 100 000 sont des garçons. ",11,décrochent,décrocher,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,9,acl:relcl,_,SpaceAfter=No,1

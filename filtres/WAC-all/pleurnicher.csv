@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+131567,496725,"Ou alors, face à la feuille blanche du message de condoléances, je me retrouvais à ronger mon stylo en ",pleurnichant,": que dire, comment dire, quels mots choisir?",22.0,pleurnichant,pleurnicher,VERB,VERB,Tense=Pres|VerbForm=Part,18.0,advcl,18:advcl,SpaceAfter=No,2.0

@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+25609,95947,Pour des personnes récemment ,butées, ce n'est pas encore le cas.,5.0,butées,buter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,1.0
+188173,709766,Principal enjeu pour la Suisse: le dossier agricole sur lequel ,butent, les négociations.,12.0,butent,buter,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,8.0,acl:relcl,8:acl:relcl,_,1.0
+194300,733024,Le principal obstacle contre lequel nous ,butons, est la quasi-totale impunité dans laquelle ils agissent.,7.0,butons,buter,VERB,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,3.0,acl:relcl,3:acl:relcl,_,2.0
+196780,742257,"Pas de réel bilinguisme, refus (parfois ",buté,) de parler la langue de l'autre.,9.0,buté,buter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,SpaceAfter=No,2.0

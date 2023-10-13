@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+20118,75372,"La CFDT craint que le CV anonyme soit """"trop facile à ",contourner," mais elle exprime aussi des réserves plus philosophiques car """"cela oblige les individus à gommer une part de leur identité"""", explique Jean-Louis Malys.",13.0,contourner,contourner,VERB,VERB,VerbForm=Inf,11.0,xcomp,11:xcomp,SpaceAfter=No,1.0
+105465,398010,Les montagnes désormais ne sont plus un obstacle à ,contourner,", mais un défi à vaincre et un milieu à protéger.",10.0,contourner,contourner,VERB,VERB,VerbForm=Inf,8.0,acl,8:acl,SpaceAfter=No,1.0
+108828,410826,"Il se perd au contraire dans les schistes aaléniens luisants, spectaculairement ",contournés,", qui forment le coeur du synclinal de Chal Vachère.",13.0,contournés,contourner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,SpaceAfter=No,2.0
+200555,756799,Une requête que TorrentSpy a toujours réussi à ,contourner,", en sachant pertinemment que cette situation n'allait pas continuer indéfiniment.",9.0,contourner,contourner,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,SpaceAfter=No,1.0

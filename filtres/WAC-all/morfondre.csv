@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+233612,880739,"Elle a la translucidité sereine du saphir blanc, et c'est la seule gemme dont le contact ne ",morfonde," pas, mais dont le feu entre et d'étale, comme la digestion du vin.",20.0,morfonde,morfondre,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15.0,acl:relcl,15:acl:relcl,_,1.0

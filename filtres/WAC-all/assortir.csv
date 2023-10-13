@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+48434,182543,Cette conception est illustrée par un dialogue intitulé La Ruelle mal ,assortie, (dont l'attribution à Marguerite a toutefois été discutée).,12.0,assortie,assortir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0
+233266,879460,"Le couple, mal ",assorti,", a déjà eu trois enfants morts en bas âge avant Alfred, qui voit le jour dans un climat triste où pèse le voile nostalgique de la monarchie: son père lui fait embrasser chaque soir la croix de Saint Louis.",5.0,assorti,assortir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0

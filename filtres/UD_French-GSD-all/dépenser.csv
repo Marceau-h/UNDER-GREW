@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3072,fr-ud-train_13503,"S'ils viennent moins nombreux, les visiteurs resteront plus longtemps et ",dépenseront," davantage, selon cette étude. ",13,dépenseront,dépenser,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin,9,conj,_,_,1

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+81540,306524,"Les motoculteurs semi-pro sont idéales pour labourer, binner, sarcler, ",butter,", arracher les pommes de terre ou passer la herse.",13.0,butter,butter,VERB,VERB,VerbForm=Inf,7.0,conj,7:conj,SpaceAfter=No,1.0

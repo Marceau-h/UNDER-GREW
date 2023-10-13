@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1291,fr-ud-train_04783,Ce sera un moment de vérité où le Président de la République pourra s'exprimer sur tous les sujets qui préoccupent les Français et expliquer le travail de réforme qu'il mène à bien avec le Gouvernement pour redresser et ,moderniser, notre pays. ,41,moderniser,moderniser,VERB,_,VerbForm=Inf,39,conj,_,Subject=SubjRaising,1
+3056,fr-ud-train_13404,-La ville rationalise et ,modernise, son patrimoine scolaire. ,6,modernise,moderniser,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,conj,_,_,1

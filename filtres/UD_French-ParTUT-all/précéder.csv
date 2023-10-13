@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+253,fr_partut-ud-725,Conformément à l'analyse qui ,précède," et eu égard aux conclusions de l'évaluateur du programme Pericles, la présente communication est accompagnée d'une proposition visant à adapter et à poursuivre ce programme. ",6,précède,précéder,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,acl:relcl,_,_,1
+326,fr_partut-ud-962,Par dérogation à ce qui ,précède,", les procédures de marchés publics engagées après l'adhésion respectent les dispositions pertinentes de l'union. ",6,précède,précéder,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,acl:relcl,_,SpaceAfter=No,1

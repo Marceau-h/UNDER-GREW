@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+168310,634632,"Cette réflexion sur l'état de la société contemporaine de Kurosawa, est intégrée dans un récit policier solidement ",charpenté,", dont le sens du suspens est phénoménal.",20.0,charpenté,charpenter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,17.0,acl,17:acl,SpaceAfter=No,1.0
+187705,708137,Ces vins bien ,charpentés," sont issus principalement des cépages suivants : Carignan, Grenache, Mourvèdre, Syrah et Lladoner pelut.",4.0,charpentés,charpenter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+230058,867462,"Les parties hautes ont été reprises afin de permettre l'établissement d'une voûte en berceau sur le transept, auparavant ",charpentée,", tout comme la nef.",22.0,charpentée,charpenter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,14.0,acl,14:acl,SpaceAfter=No,1.0

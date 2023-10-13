@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+173677,655125,"D'après ces données, six mois après la sortie de Windows Vista, Microsoft aurait laissé davantage de problèmes non ",patchés, que sur Windows XP.,22.0,patchés,patcher,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,20.0,acl,20:acl,_,1.0

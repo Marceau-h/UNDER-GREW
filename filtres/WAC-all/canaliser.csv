@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+73497,276939,Le défi des premiers colons de Mendoza consistait à irriguer et à ,canaliser, toute cette eau.,13.0,canaliser,canaliser,VERB,VERB,VerbForm=Inf,10.0,conj,10:conj,_,1.0
+105665,398816,Le Conseil de la Communauté marocaine à l'étranger apportera son savoir-faire pour organiser et ,canaliser, cette ressource importante au service de l'essor économique du Royaume.,18.0,canaliser,canaliser,VERB,VERB,VerbForm=Inf,16.0,conj,16:conj,_,1.0
+210072,791954,Ces personnes sont capables de ,canaliser,", ce qui consiste à puiser dans la Vraie Source le Pouvoir Unique.",6.0,canaliser,canaliser,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,SpaceAfter=No,1.0
+230826,870133,"Cet « arc méditerranéen », ici ",canalisé,", a une importance économique certaine, et les transports y sont en augmentation constante.",8.0,canalisé,canaliser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,SpaceAfter=No,1.0

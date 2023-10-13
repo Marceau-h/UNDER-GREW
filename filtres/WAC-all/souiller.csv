@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+7275,27180,"Par ailleurs, plusieurs affluents, dont la rivière Oussouri, apportent de l'eau non ",souillée, faisant baisser d'autant la concentration.,17.0,souillée,souiller,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,15.0,acl,15:acl,_,1.0
+35043,132113,"De plus, l'objet contondant et ",souillé, doit être stocké dans un récipient prévu à cet effet.,8.0,souillé,souiller,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,1.0
+243517,917868,"L'histoire ne saurait donc se réduire à ces affaires d'alcôve dont quelquefois elle est encombrée, voire """"",souillée," : le XIXème siècle n'échappe pas a cette humiliante vicissitude, mais, pas plus qu'un autre il ne s'y résume.",21.0,souillée,souiller,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,17.0,conj,17:conj,SpaceAfter=No,1.0

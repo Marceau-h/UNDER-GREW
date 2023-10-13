@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4392,16411,Une troisième voie qu'essaye également d',incarner," Pierre Moscovici, Julien Dray ou Claude Bartolone, sans grand succès pour le moment.",8.0,incarner,incarner,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,1.0
+40840,154022,"Quel autre personnage en effet qu'un pape, figure du sacré par excellence, pouvait mieux ",incarner, cette haute mascarade qu'est le théâtre rituel de Genet ?,18.0,incarner,incarner,VERB,VERB,VerbForm=Inf,16.0,xcomp,16:xcomp,_,2.0
+65122,245592,"Le christianisme est la religion de la """" Parole """" de Dieu, """" non d'un verbe écrit et muet, mais du Verbe ",incarné," et vivant """" (S. Bernard, hom. miss. 4, 11 : Opera, ed. J. Leclercq-H.",26.0,incarné,incarner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,25.0,acl,25:acl,_,1.0
+132766,501430,"Une interprétation plus soutenue, plus ",incarnée, relèverait peut-être la sauce.,7.0,incarnée,incarner,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0
+255379,962353,"Un rôle qui ne pouvait échapper à Gamblin, tant il ",incarne,", physiquement et psychiquement, l'intériorité d'un homme en quête d'absolu.",12.0,incarne,incarner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,advcl,5:advcl,SpaceAfter=No,1.0

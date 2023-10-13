@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+52425,197683,"Des violences sont inéluctables, comme en Palestine, lorsqu'un peuple pauvre est humilié, ",asphyxié," économiquement, dominé par la force, spolié.",17.0,asphyxié,asphyxier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,15.0,conj,15:conj,_,1.0

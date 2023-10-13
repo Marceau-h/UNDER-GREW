@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+74809,281802,"On n'a pas le droit de courir, marcher ou ",dribbler, avec le ballon.,12.0,dribbler,dribbler,VERB,VERB,VerbForm=Inf,8.0,conj,8:conj,_,1.0
+122445,462689,Maintenir A pour ,dribbler,", viser le joueur ou la zone puis B pour une passe, frapper en secouant le Nunchuk ; jusque-là, tout va bien.",4.0,dribbler,dribbler,VERB,VERB,VerbForm=Inf,1.0,advcl,1:advcl,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+229488,865553,"Après la composition d’un album par Sinis, le groupe se met d’accord pour enregistrer celui-ci afin de pouvoir ",démarcher, et se faire reconnaître aux yeux du public.,22.0,démarcher,démarcher,VERB,VERB,VerbForm=Inf,21.0,xcomp,21:xcomp,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+39,annodis.er_00305,"Après un échauffement collectif dirigé par Frédéric Pierlot de l'OFP, les responsables des quatorze clubs présents Belleville, Brin-sur-Seille, Champenoux, Champigneulles, Dieulouard, Faulx, Jeandelaincourt, Leyr, Marbache, Nomeny, Thiaucourt, 3 Vallées, Bouxières-aux-Dames et l'OFP, ont encouragé et ",conseillé, leurs petits judokas. ,53,conseillé,conseiller,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,51,conj,_,_,1

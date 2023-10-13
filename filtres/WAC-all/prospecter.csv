@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+125618,474510,"Lorsque votre choix est arrêté sur une race et une date, il est temps de ",prospecter, afin de trouver l'élevage idéal.,17.0,prospecter,prospecter,VERB,VERB,VerbForm=Inf,15.0,dep,15:dep,_,2.0

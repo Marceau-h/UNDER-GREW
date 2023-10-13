@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+198993,751041,"De moins en moins, si l'on en croit un spécialiste de l'image politique: «Les images de la guerre en Irak ont fini par ",lasser,", note Laurent Gervereau, président de l'Institut des images à Paris et auteur de Montrer la guerre?",29.0,lasser,lasser,VERB,VERB,VerbForm=Inf,27.0,xcomp,27:xcomp,SpaceAfter=No,1.0
+209796,791042,Au risque de ,lasser,", les ministres de l'Enseignement, de la Santé et des Sports en Communauté française ont, une fois encore, fait la promotion des attitudes saines en matière d'alimentation et d'activité physique.",4.0,lasser,lasser,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,SpaceAfter=No,1.0
+245798,926332,Les images sont d'une beauté sidérante qui finiraient par ,lasser, sans l'analogie que fera l'auteur avec l'évolution spirituelle.,11.0,lasser,lasser,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,1.0

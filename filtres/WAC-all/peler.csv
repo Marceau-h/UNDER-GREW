@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+234180,882945,"L'aridité du lieu, la terre ",pelée," et rouge, était à Talbert d'un étrange secours, le dénuement alentours était tel qu'ici il n'y avait plus rien à attendre, mais surtout plus rien de quoi désespérer.",8.0,pelée,peler,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,1.0

@@ -1,0 +1,9 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2137,13811,"Mes por vos, tant con nos ",poons,", Nos resforçons a la foiee De feire contenance liee, ",8,poons,pöoir,VERB,VERcjg,VerbForm=Fin,11,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_27207,1
+2236,14030,"Mes einçois mout prié li ot Li sires, plus bel que il ",pot,", Qu'il ses.iiii. filz an menast : ",14,pot,pöoir,VERB,VERcjg,VerbForm=Fin,11,acl,_,SpaceAfter=No|XmlId=w_YvainKu_30166,2
+2281,14153,"Si se desfant vers ax si bien Que de son droit n'en portent rien, Tant que li seneschax relieve, Qui de tot son ",pooir, li grieve ; ,27,pooir,pöoir,VERB,VERinf,VerbForm=Inf,29,advcl,_,XmlId=w_YvainKu_31623,1
+2316,14235,"Qant il li ot feite sa couche, Au plus soef qu'il ",puet," le couche, ",14,puet,pöoir,VERB,VERcjg,VerbForm=Fin,11,advcl,_,XmlId=w_YvainKu_32713,1
+2416,14489,"Et se de moi grant afeire a Cele por cui vos me querez, Ja ne vos an desesperez Que je tot mon ",pooir, n'en face. ,24,pooir,pöoir,VERB,VERinf,VerbForm=Inf,27,xcomp,_,XmlId=w_YvainKu_35861,1
+2612,14894,"si m'an creez, Q'ainsi con vos or me veez, Revanrai ça se j'onques ",puis, Et panrai vostre fille puis. ,19,puis,pöoir,VERB,VERcjg,VerbForm=Fin,14,advcl,_,XmlId=w_YvainKu_40519,2
+2865,15389,A vos feire enor et servise Criem que ,pooirs, ou tans me faille. ,9,pooirs,pöoir,VERB,VERinf,VerbForm=Inf,13,csubj,_,XmlId=w_YvainKu_47087,2
+2893,15443,"- Certes, fet ele, je voel bien, Por ce que parjure seroie Se tot mon ",pooir," n'en feisoie, La pes feire antre vos et moi. ",19,pooir,pöoir,VERB,VERinf,VerbForm=Inf,22,xcomp,_,XmlId=w_YvainKu_47770,3

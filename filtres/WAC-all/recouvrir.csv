@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+69782,263393,Si vous avez un morceau de corail mort à ,recouvrir,", n'hésitez pas, placez le à côté de ces petites bête, elles auront tôt fait de recouvrir le substrat.",10.0,recouvrir,recouvrir,VERB,VERB,VerbForm=Inf,5.0,acl,5:acl,SpaceAfter=No,1.0
+141974,535903,Les pipelines posés sur les fonds marins en position non ,recouverte, sont dans le cas de mer peu profonde soumis à l'action hydrodynamique de la houle et des courants.,11.0,recouverte,recouvrir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,1.0
+148180,559204,"Alors qu'en 2005-2006, Québec avait pour 793 M$ en dettes d'études à ",recouvrir,", le total des comptes impayés a grimpé à 815 M$ en 2006-2007.",18.0,recouvrir,recouvrir,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,SpaceAfter=No,1.0

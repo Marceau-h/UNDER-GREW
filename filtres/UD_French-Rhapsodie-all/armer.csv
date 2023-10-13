@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+55,Rhap_M2006-30,des jeunes cagoulés et ,armés," ont pillé des magasins, brûlé des pneus et des voitures. ",5,armés,armer,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,3,conj,_,_,1

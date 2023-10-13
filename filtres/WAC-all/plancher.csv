@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+139166,525148,"Le projet de Bruxelles vient du projet qui s'appelle car-to-car, dans lequel plusieurs constructeurs se sont déjà réunis autour d'une table pour ",plancher, dessus.,30.0,plancher,plancher,VERB,VERB,VerbForm=Inf,25.0,advcl,25:advcl,_,1.0
+252662,951750,Il s'agit de réexaminer les innombrables options sur lesquelles a ,planché, la commission du National.,12.0,planché,plancher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl:relcl,8:acl:relcl,_,1.0

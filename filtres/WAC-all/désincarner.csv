@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+135956,513353,"La dernière, au sous-sol, est un enregistrement grésillant de conversations fantomatiques et ",désincarnées, en plusieurs langues.,15.0,désincarnées,désincarner,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,13.0,conj,13:conj,_,1.0

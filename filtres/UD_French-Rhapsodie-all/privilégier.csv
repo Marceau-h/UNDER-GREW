@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+854,Rhap_D0004-77,on aurait pu penser que les gens du quatorzième étaient ,privilégiés,", restaient dans la ville. ",12,privilégiés,privilégier,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,4,ccomp,_,SpaceAfter=No,1

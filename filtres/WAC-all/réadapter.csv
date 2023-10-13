@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+146462,552482,Donc la capacité de ,réadapter, est liée à la capacité de l'inscription de ce bâtiment à du bricolage.,5.0,réadapter,réadapter,VERB,VERB,VerbForm=Inf,3.0,acl,3:acl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+258107,972739,Son corps partiellement ,dévêtu," avait été retrouvé dimanche matin par des joggeurs dans un parc, connu pour être un lieu de rencontres d'homosexuels le soir.",4.0,dévêtu,dévêtir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

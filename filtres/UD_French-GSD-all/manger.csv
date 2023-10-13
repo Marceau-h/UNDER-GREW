@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2037,fr-ud-train_08247,Une annexe est construite en forme d'octogone pour servir d'abord de salle à ,manger, avant d'être plus tard convertie en salon de thé. ,16,manger,manger,VERB,_,VerbForm=Inf,14,acl,_,Subject=Generic,1

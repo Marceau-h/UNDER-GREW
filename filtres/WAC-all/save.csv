@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+139103,524915,"En janvier dernier, le mannequin rejoignait le défilé de stars qui ont arboré le tricot de coton blanc marqué """"",Save," the George Tavern"""", après la chanteuse Amy Winehouse, et avant l'Américaine Grace Jones.",22.0,Save,save,VERB,VERB,VerbForm=Inf,20.0,xcomp,20:xcomp,_,1.0

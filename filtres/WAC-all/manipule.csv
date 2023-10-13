@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+200147,755256,L'athlète choisit et ,manipule, lui-même le flacon qui sert à recueillir son urine.,5.0,manipule,manipule,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,conj,3:conj,_,1.0

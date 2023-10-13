@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+61375,231383,"La toponymie de Séméac viendrait de sémi, semé et aqua, ac signifiant """"terrain semé d’eau"""", allusion au sous-sol qui ",recèle, une des plus grandes nappes phréatiques du secteur.,26.0,recèle,receler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,24.0,acl:relcl,24:acl:relcl,_,1.0

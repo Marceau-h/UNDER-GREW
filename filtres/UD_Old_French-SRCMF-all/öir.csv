@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1253,11751,"Car, s'il la puet an son ",oïr," Prendre, et anclorre, et retenir, Les oroilles sont voie et doiz Par ou s'an vient au cuer la voiz ; ",9,oïr,öir,VERB,VERinf,VerbForm=Inf,10,obj,_,XmlId=w_YvainKu_1151,1
+2248,14061,Et de ce granz pitiez li prant Qu'il ,ot, et voit et si antant Les povres dames qui feisoient Estrange duel ,10,ot,öir,VERB,VERcjg,VerbForm=Fin,3,acl,_,XmlId=w_YvainKu_30529,3

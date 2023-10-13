@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+11388,42798,L'IA des ennemis semblait passablement stupide pour l'instant (ils ne faisaient pas grand chose si ce n'est ,gigoter,"), et on ne connait rien ni du mode solo, ni du mode multi.",22.0,gigoter,gigoter,VERB,VERB,VerbForm=Inf,14.0,advcl,14:advcl,SpaceAfter=No,2.0

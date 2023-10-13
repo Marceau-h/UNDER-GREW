@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+81715,307175,Une enquête publique sur l'affaire Arar a démontré que la GRC a ,erré, en considérant M. Arar comme un islamiste fondamentaliste et transmis aux Etats-Unis de fausses informations sur l'ingénieur en informatique.,14.0,erré,errer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,ccomp,9:ccomp,_,1.0
+129678,489477,Des groupes d'individus qui ,errent, et cherchent leur identité se forment avec la structure de la société.,6.0,errent,errer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,4.0,acl:relcl,4:acl:relcl,_,1.0
+132104,498822,"À l'âge de neuf ans, il a quitté sa famille pour ",errer, et suivre un chemin spirituel de renonciation.,14.0,errer,errer,VERB,VERB,VerbForm=Inf,10.0,advcl,10:advcl,_,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+30684,115753,"L'homme a un comportement ambigu vis-à-vis de l'araignée fascinante, utile et ",détestée,", présente dans de nombreux mythes anciens et légendes, et ici appréciée comme délice culinaire (Cambodge).",15.0,détestée,détester,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,13.0,conj,13:conj,SpaceAfter=No,1.0
+38427,144667,Un article publié en janvier 2005 dans une page de potins l'accusait d'être le photographe de Sydney le plus ,détesté, et de vouloir ruiner la vie de Kidman.,22.0,détesté,détester,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,17.0,xcomp,17:xcomp,_,1.0
+217065,818632,"Le numéro un """"aussie"""", qui est l'un des sportifs les plus ",détestés," en Argentine, aura vraiment à coeur de briller.",16.0,détestés,détester,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,13.0,acl,13:acl,_,1.0

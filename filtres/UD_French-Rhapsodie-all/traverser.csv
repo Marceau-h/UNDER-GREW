@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+865,Rhap_M0018-1,"et ça enchaîne sur une seconde scène où on voit une femme, euh, qui, a priori, est pauvre, euh, et qui passe à l'endroit où un boulanger vient de se stationner avec des baguettes de pain, qui prend du pain, ",traverse,", euh, enfin sort de sa voiture, rentre dans une boutique. ",50,traverse,traverser,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,55,reparandum,_,SpaceAfter=No,1

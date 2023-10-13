@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+25111,93950,Les personnes ainsi ,invitées," passent quatre mois par an en France, pendant trois années consécutives, tout en poursuivant à l'issue de leur séjour leur activité dans leur établissement d'origine.",4.0,invitées,inviter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+78374,294948,Quelques virages plus loin la pluie s'est ,invitée,", et a rendu la piste complètement détrempée par endroits.",9.0,invitée,inviter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4.0,dep,4:dep,SpaceAfter=No,1.0
+184730,697002,"Puis, coup de théâtre, la Corée du Nord s'est immiscée, pour ne pas dire ",invitée,", dans l'épisode qui se poursuit en Allemagne.",19.0,invitée,inviter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,13.0,advcl,13:advcl,SpaceAfter=No,2.0
+228852,863119,"Si vous n'arrivez pas à le lire, désolé: venez aux évènements, allez chez un ami, dans un cybercafé, ou... ",invitez,-vous!,27.0,invitez,inviter,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,12.0,conj,12:conj,SpaceAfter=No,1.0

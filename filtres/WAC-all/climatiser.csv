@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4849,18083,"Rond, triangulaire, ",climatisé, ce meuble très cathodique est une exception française.,5.0,climatisé,climatiser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,1.0,conj,1:conj,_,2.0
+171492,646824,"La roue comporte 32 nacelles, ",climatisées," et fermées, qui tournent sur elles-même en même temps que la roue.",7.0,climatisées,climatiser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0
+260348,981334,"Bus en bon état, certains ",climatisés," (sauf à Palawan), les préférer pour de longs trajets.",7.0,climatisés,climatiser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,1.0,acl,1:acl,_,2.0

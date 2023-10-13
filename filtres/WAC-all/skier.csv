@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+81890,307911,"La discipline permet de voler lentement ou rapidement, de ",skier, doucement ou de descendre les pentes à grande vitesse et désengager la prise de risque à tout moment en s’envolant.,11.0,skier,skier,VERB,VERB,VerbForm=Inf,5.0,conj,5:conj,_,1.0
+176992,667657,Le vainqueur de la Coupe du monde 2006-2007 a recommencé à ,skier, à la fin janvier mais « en douceur ».,14.0,skier,skier,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,_,1.0
+200030,754850,Voici une nouvelle chance de ne pas ,skier, idiot.,8.0,skier,skier,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,_,1.0
+223619,843324,"Les spectacles de ski incluent souvent un thème, des annonceurs, de la musique, plusieurs bateaux et une grande variété de façons de ",skier," (sauts, barefoot, wakeboard et pyramides).",26.0,skier,skier,VERB,VERB,VerbForm=Inf,24.0,acl,24:acl,_,1.0

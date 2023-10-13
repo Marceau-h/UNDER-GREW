@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+242899,915473,"De nouveau le diable le prend avec lui sur une très haute montagne, lui montre tous les royaumes du monde avec leur gloire et lui dit: """"Tout cela, je te le donnerai, si, te ",prosternant,", tu me rends hommage.""""",41.0,prosternant,prosterner,VERB,VERB,Tense=Pres|VerbForm=Part,45.0,advcl,45:advcl,SpaceAfter=No,3.0

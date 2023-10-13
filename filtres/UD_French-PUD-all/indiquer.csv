@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+18,n01026004,"Ce soir, nous allons punir les conducteurs qui utilisent les feux de route, ",indique, le message. ,16,indique,indiquer,VERB,VBC,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+166792,628864,"Le français EDF, premier producteur européen d'électricité, a dégagé en 2007 un bénéfice stable mais a déçu le marché sur son avenir, les yeux toujours ",rivés," sur l'Espagne, où il ne semble pourtant pas le bienvenu.",30.0,rivés,river,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,28.0,acl,28:acl,_,1.0

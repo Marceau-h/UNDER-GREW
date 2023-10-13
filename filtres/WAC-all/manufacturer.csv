@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+114082,430517,"Connu des grecs et largement utilisé par les romains, il fut exploité et ",manufacturé, au Moyen Âge en Europe.,15.0,manufacturé,manufacturer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13.0,conj,13:conj,_,2.0
+131809,497699,"La hausse des prix est dopée par la flambée des produits alimentaires, mais aussi ",manufacturés,", et laissent augurer un énième relèvement des taux d'intérêt afin de tenter de juguler cette forte inflation dans la troisième économie d'Asie.",16.0,manufacturés,manufacturer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,12.0,conj,12:conj,SpaceAfter=No,1.0

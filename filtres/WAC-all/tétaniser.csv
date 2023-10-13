@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+49997,188728,"Parfois, la peur est tellement forte qu'on se sent paralysé, comme ",tétanisé, : incapable de bouger ou de prendre la moindre décision.,15.0,tétanisé,tétaniser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,advcl,12:advcl,_,1.0

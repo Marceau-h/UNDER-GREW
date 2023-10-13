@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+7417,27735,"C'est un revirement majeur dont l'Iran ne va pas nécessairement profiter"""", ",prophétise, le directeur de l'International Institute for Caspian Studies.,17.0,prophétise,prophétiser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,parataxis,5:parataxis,_,3.0
+31147,117365,"L'esprit de Dieu saisit les envoyés de Saül, et ils se mirent aussi à ",prophétiser," eux-mêmes. 19.21 On en fit rapport à Saül, qui envoya d'autres gens, et eux aussi prophétisèrent.",17.0,prophétiser,prophétiser,VERB,VERB,VerbForm=Inf,14.0,xcomp,14:xcomp,_,1.0
+38658,145526,"Toute femme, au contraire, qui prie ou qui ",prophétise,", la tête non voilée, déshonore son chef: c`est comme si elle était rasée.",11.0,prophétise,prophétiser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,8.0,conj,8:conj,SpaceAfter=No,1.0

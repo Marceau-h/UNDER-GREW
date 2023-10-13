@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+242364,913468,"Lors de ces situations, il s'agit pour l'un des deux adversaires ou pour les deux, de réaliser des touches en respectant certaines consignes pouvant orienter, augmenter ou ",restreindre, les possibilités d'action de l'un des deux ou des deux sabreurs.,33.0,restreindre,restreindre,VERB,VERB,VerbForm=Inf,29.0,conj,29:conj,_,1.0

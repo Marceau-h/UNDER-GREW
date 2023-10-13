@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+43,ParisStories_2019_histoireDeBanlieue_17,"mais à côté de l'entrée de la rue il y a quelques hommes, qui euh hum, qui étaient euh, qui restaient ici et euh qui qui étaient en train de ",boire,", enfin qui euh, qui avaient l'air pas très euh, pas très amicaux. ",35,boire,boire,VERB,_,VerbForm=Inf,33,acl,_,SpaceAfter=No|Subject=SubjRaising,2

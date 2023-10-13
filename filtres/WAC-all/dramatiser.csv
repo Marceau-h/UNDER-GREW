@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+216150,814934,Alors que ses collègues ,dramatisent,", font monter la tension, compriment les temps forts; Poirier dédramatise, abaisse la pression, dilate les temps faibles.",5.0,dramatisent,dramatiser,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,8.0,advcl,8:advcl,SpaceAfter=No,2.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+15911,59433,"Avec Fast Rewind, son premier roman policier, il se lance dans une écriture qui lui ressemble, ",débridée,", anticonformiste, drôle et énergique.",20.0,débridée,débrider,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,18.0,advcl,18:advcl,SpaceAfter=No,3.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+643,fr-ud-train_01396,"Les Championnats du monde d'aquathlon sont une épreuve d'aquathlon courue annuellement depuis 1998, généralement quelques jours qui ",précèdent, et dans le même emplacement que les épreuves des Championnats du monde de triathlon. ,22,précèdent,précéder,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,20,acl:relcl,_,_,1

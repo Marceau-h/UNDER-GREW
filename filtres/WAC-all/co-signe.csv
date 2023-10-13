@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+155612,586935,Jérémy signe ou ,co-signe," onze des douze titres de l'album, dont sont encore extraits J'aimerai, aux ventes moins importantes que les précédents singles, et Je m'en fous, non commercialisé.",4.0,co-signe,co-signe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,conj,2:conj,_,1.0

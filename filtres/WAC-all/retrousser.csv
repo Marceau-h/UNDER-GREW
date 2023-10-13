@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+89317,336340,"Frédérique était grande et mince, le nez légèrement ",retroussé,", de petits seins, superbement intelligente et dévoreuse d'hommes.",10.0,retroussé,retrousser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl,8:acl,SpaceAfter=No,1.0

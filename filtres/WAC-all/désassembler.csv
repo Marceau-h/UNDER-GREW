@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+44765,169042,Cette opération consiste à assembler ou ,désassembler," les deux principaux modules du satellite, la plate-forme et la charge utile.",7.0,désassembler,désassembler,VERB,VERB,VerbForm=Inf,5.0,conj,5:conj,_,1.0

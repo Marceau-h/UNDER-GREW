@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+46108,173886,Les propriétaires seront contraints de ,réhabiliter, mais bénéficieront d'aides conséquentes.,6.0,réhabiliter,réhabiliter,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0
+122471,462812,"Ainsi, plusieurs immeubles très anciens ou totalement inadaptés aux besoins des services ont été reconstruits ou ",réhabilités, au cours des dernières années.,18.0,réhabilités,réhabiliter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,16.0,conj,16:conj,_,1.0
+213674,805776,"On accuse des dialogues et une mise en scène d'une banalité affligeante et l'on défend, voire même on ",réhabilite,", des auteurs comme Renoir.",22.0,réhabilite,réhabiliter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17.0,conj,17:conj,SpaceAfter=No,3.0

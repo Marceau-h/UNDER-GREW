@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+55634,209455,"Je suis sur que votre ami comprendra votre méprise et qu'il se fera une joie de vous rendre le tout, mais de grâce avant de mettre les préservatifs à étendre sur le fil à linge ",désinsérez,-les de votre femme.,38.0,désinsérez,désinsérer,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,3.0,advcl,3:advcl,SpaceAfter=No,1.0

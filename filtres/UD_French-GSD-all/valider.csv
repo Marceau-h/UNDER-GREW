@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+929,fr-ud-train_02838,"Le Rembrandt Research Project (RRP, littéralement, « Projet de recherche sur Rembrandt ») est un groupe de spécialistes néerlandais qui s'est donné comme mission de répertorier et de ",valider, les œuvres du peintre néerlandais Rembrandt. ,34,valider,valider,VERB,_,VerbForm=Inf,31,conj,_,Subject=SubjRaising,3

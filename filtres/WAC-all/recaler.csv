@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+15075,56274,"Les parents d'un petit garçon prénommé Islam, ",recalé," lors d'un casting pour une émission de télévision, veulent porter plainte pour discrimination.",10.0,recalé,recaler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0

@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3418,12806,"Ce mouvement s'effectue, soit en ",fléchissant, ou en fendant les jambes.,8.0,fléchissant,fléchir,VERB,VERB,Tense=Pres|VerbForm=Part,4.0,conj,4:conj,_,1.0
+16694,62366,"Quand le déséquilibre est obtenu, les bras maintiennent l'action, les jambes ",fléchissent, et la tête vient se positionner près de la hanche.,15.0,fléchissent,fléchir,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,9.0,conj,9:conj,_,1.0
+49192,185479,Mais la production de viande bovine continuerait à ,fléchir," pour s'établir à 7,6 Mt en 2014.",9.0,fléchir,fléchir,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,_,2.0
+59929,225632,"On voit souvent des dyslexiques ayant une mauvaise tenue du crayon, avec la main crispée et ",fléchie,", des mouvements mettant en jeu l'ensemble du bras voire le tronc, ce qui rend beaucoup plus difficile l'acte d'écrire.",18.0,fléchie,fléchir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,16.0,conj,16:conj,SpaceAfter=No,3.0
+96292,363213,Le pont de Tancarville continue de ,fléchir, (- 6 %).,7.0,fléchir,fléchir,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,1.0

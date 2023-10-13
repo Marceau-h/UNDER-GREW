@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+89423,336760,La somme à ,consigner," correspond au montant des analyses à réaliser dans le cadre de l'autosurveillance durant une année, soit environ 48 000 euros.",4.0,consigner,consigner,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0
+239748,903436,Les prestations des élèves sont évaluées et ,consignées, dans une fiche de conseils oratoires personnelle et l’ancien qui dirige cette réunion indique oralement à chacun les points à améliorer.,8.0,consignées,consigner,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,1.0

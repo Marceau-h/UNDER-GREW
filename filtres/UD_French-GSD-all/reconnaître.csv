@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2495,fr-ud-train_10573,"C'était une erreur"""", ",reconnaît," Michel Platini, le président de l'UEFA, interrogé par le Guardian à propos de la tarification générale de la finale. ",8,reconnaît,reconnaître,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5,parataxis:insert,_,_,1

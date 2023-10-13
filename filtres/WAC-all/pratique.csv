@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+225492,850509,"A 80 ans, ce n'est pas complètement inattendu, même pour un prix Pulitzer qui pratiquait - qui ",pratique," encore, pardon - la dérision froide et le """"nonsense"""" comme personne.",21.0,pratique,pratique,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,18.0,acl:relcl,18:acl:relcl,_,1.0

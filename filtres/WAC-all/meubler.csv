@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+24535,91893,"Elle fut transformée, aménagée, ",meublée, et décorée au fil du temps par l’écrivain qui y vécut en exil de 1856 à 1870 et y est revenu pendant l’été 1878.,7.0,meublée,meubler,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,conj,3:conj,_,2.0
+44783,169117,"Après la reprise de """"",Meublé," sommairement"""", les Carnets Bagouet complètent leur parcours par un rendez-vous qui expose l'histoire d'une transmission.",6.0,Meublé,meubler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,1.0
+56240,211726,"C'était un local assez spacieux, très propre, sommairement ",meublé, et où étaient entassés de nombreux ouvrages en arabe.,12.0,meublé,meubler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,3.0
+192708,726992,Il était dans une grande pièce richement ,meublée,", qui ressemblait à un bureau.",8.0,meublée,meubler,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,SpaceAfter=No,1.0
+205653,776041,Les salons entièrement ,meublés, abritent de nombreux souvenirs historiques.,4.0,meublés,meubler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+228053,860158,"Un gîte est un logement indépendant, appartement ou ville, entièrement ",meublé," et équipé, situé généralement à l'écart des zones urbaines.",13.0,meublé,meubler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0

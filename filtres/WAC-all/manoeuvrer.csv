@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+21775,81487,Les Messins ont bien su ,manoeuvrer, et profiter de nos insuffisances.,6.0,manoeuvrer,manoeuvrer,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,1.0
+65385,246586,Les premiers vaisseaux du jeu se contrôlent assez facilement en déplaçant la souris pour ,manoeuvrer, et en utilisant la roulette afin de freiner / accélérer.,15.0,manoeuvrer,manoeuvrer,VERB,VERB,VerbForm=Inf,11.0,advcl,11:advcl,_,2.0
+73037,275331,Le robot devra ,manoeuvrer, afin d'éviter un grand nombre de roches sur une surface en pente.,4.0,manoeuvrer,manoeuvrer,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,1.0

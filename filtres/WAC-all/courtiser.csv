@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+20471,76750,"La cérémonie équivaut à une vraie douche froide : en l'espace de deux secondes, ou vous êtes vainqueur et ",courtisé, ou vous n'intéressez plus personne.,22.0,courtisé,courtiser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,20.0,conj,20:conj,_,1.0
+65655,247594,"Donc notre cheval vit en groupe, ce groupe a comme """"chef"""" un étalon dont le rôle est de protéger son troupeau des prédateurs, il assume aussi son rôle d'étalon en ",courtisant, et saillissant les juments.,36.0,courtisant,courtiser,VERB,VERB,Tense=Pres|VerbForm=Part,29.0,advcl,29:advcl,_,1.0

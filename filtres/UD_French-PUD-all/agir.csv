@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+39,n01060069,"Et, elle admit, « Il faut regarder quand elle a reconnu que nous devons ",agir, différemment - nous pouvons faire mieux - et quand elle a fait part de ses regrets. » ,17,agir,agir,VERB,VB,VerbForm=Inf,16,xcomp,_,_,2

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+69640,262875,Il aime les mots qui ,trinquent, en chantant un tango triste et nostalgique à la manière d'El Polaco.,6.0,trinquent,trinquer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,4.0,acl:relcl,4:acl:relcl,_,2.0
+140121,528668,Il ne se doutait pas alors qu'il y aurait pénurie de verre quelque 112 ans plus tard et que les vignerons européens allaient ,trinquer, pour embouteiller leur vendange.,25.0,trinquer,trinquer,VERB,VERB,VerbForm=Inf,24.0,xcomp,24:xcomp,_,1.0
+263509,993171,"Dans le secteur des services c'est comme ça, quand les salariés combattent, ce sont les clients qui ",trinquent,", rétorque un porte-parole de Verdi, sans états d'âme.",21.0,trinquent,trinquer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,19.0,dep,19:dep,SpaceAfter=No,2.0

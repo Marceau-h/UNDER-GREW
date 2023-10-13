@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+12035,45039,Le bois a ,débiter, arrivait en amont par un couloir pentu.,4.0,débiter,débiter,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0
+102359,386302,"Le dimanche gras précédent le mercredi des cendres, la coutume voulait que les bouchers de la ville promènent les boeufs qui devaient être tués et ",débités, avant que ne commence le carême.,27.0,débités,débiter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,25.0,conj,25:conj,_,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+14767,55178,Les batteries actuelles au lithium-ion sont d'autant plus difficiles à ,concurrencer," que le prix du silicium, très recherché pour les panneaux solaires, est élevé.",14.0,concurrencer,concurrencer,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,_,1.0
+152653,575943,"Avec de telles conditions financières, Apple n'aura aucune chance de ",concurrencer," Wal-Mart, qui devrait donc fermer les yeux.",13.0,concurrencer,concurrencer,VERB,VERB,VerbForm=Inf,11.0,acl,11:acl,_,1.0
+216581,816657,Cette évolution ne vient pas ,concurrencer,", mais compléter l'offre cd-rom.",6.0,concurrencer,concurrencer,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,SpaceAfter=No,1.0

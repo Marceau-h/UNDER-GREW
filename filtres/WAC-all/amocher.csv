@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+240176,905051,"Les pugilistes, tous un peu ",amochés,", sont retournés dans leurs coins respectifs.",7.0,amochés,amocher,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0

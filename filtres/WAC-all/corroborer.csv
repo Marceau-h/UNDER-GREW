@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+144288,544542,"Le dossier est incomplet"""", ",corrobore, un porte-parole de Bertrand Delanoë.,8.0,corrobore,corroborer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,parataxis,5:parataxis,_,1.0
+237399,894890,"C'est un moyen pour Intel de protéger sa base de clients"""", ",corrobore, un analyste interrogé par Reuters.,16.0,corrobore,corroborer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,parataxis,5:parataxis,_,3.0

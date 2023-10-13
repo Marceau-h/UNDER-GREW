@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+27362,102688,Des études de dénomination effectués sur un matériel préalablement ,étalonné, ont permis de caractériser les principaux facteurs qui déterminent le temps de dénomination.,10.0,étalonné,étalonner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0

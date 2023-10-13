@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+147772,557670,Cette violence que l'on refuse et que l'on ,répudie, mais qui nous habite tous et qui n'attend que l'occasion de se manifester.,11.0,répudie,répudier,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,conj,6:conj,_,1.0
+262202,988396,Le voeu d'une femme veuve ou ,répudiée,", l'engagement quelconque par lequel elle se sera liée, sera valable pour elle.",8.0,répudiée,répudier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,conj,6:conj,SpaceAfter=No,1.0

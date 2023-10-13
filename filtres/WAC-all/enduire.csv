@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+123789,467853,Un couteau à ,enduire, est un outil de peintre en bâtiment muni d'un manche prolongé d'une lame plate et large servant à enduire les murs avant mise en peinture.,4.0,enduire,enduire,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0

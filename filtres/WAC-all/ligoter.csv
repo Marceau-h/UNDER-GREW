@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+4765,17804,"L'enfant, ",ligoté," et bâillonné, a été retrouvé vivant samedi dans un champ près de Verviers.",4.0,ligoté,ligoter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+109642,413692,Ces conditions auraient signifié «,ligoter," et bâillonner l'entreprise», a indiqué le patron des CFF Andreas Meyer.",6.0,ligoter,ligoter,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0
+243044,916055,"Laurent Bonomo et Gabriel Ferez, deux Français âgés de 23 ans, ",ligotés," et bâillonnés, ont été longuement torturés et poignardés à mort avant que l'appartement ne soit mis à feu.",14.0,ligotés,ligoter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0

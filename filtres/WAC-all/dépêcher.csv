@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+55331,208222,"Le Soudan a utilisé le même argument pour refuser l'entrée du Darfour à une mission de l'ONU, ",dépêchée, pour préparer la relève des troupes de l'Union africaine (UA) par des casques bleus.,21.0,dépêchée,dépêcher,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,16.0,acl,16:acl,_,1.0

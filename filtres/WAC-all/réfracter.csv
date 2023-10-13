@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+10760,40254,"Commencez par étudier pour une goutte d'eau sphérique, la marche d'un rayon lumineux réfléchi et ",réfracté, dans cette goutte.,19.0,réfracté,réfracter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,17.0,conj,17:conj,_,1.0
+214275,808097,La lumière ainsi diffusée ou ,réfractée, par un cristal permet de reconstituer l'image des atomes et molécules qui constituent ce cristal.,6.0,réfractée,réfracter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0

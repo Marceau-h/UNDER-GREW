@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+30467,114853,"Vous vous demandez pourquoi on est comme ça / nous nous demandons pourquoi vous êtes comme ça / Venez, rencontrons-nous et parlons-nous normalement"""", ",exhorte, notamment la chanson.,30.0,exhorte,exhorter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,20.0,parataxis,20:parataxis,_,1.0
+53769,202687,"Vous êtes un grand peuple qui veut être debout"""", a ",exhorté," le chef d'Etat français, qui a salué l'audace dont a fait preuve le Maroc pour tourner la page des violations des droits de l'Homme commises par le passé.",14.0,exhorté,exhorter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,parataxis,6:parataxis,_,1.0

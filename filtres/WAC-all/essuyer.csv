@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+114730,433017,Les échos du mouvement de colère ,essuyé, lors de la présentation des accusés devant le juge d'instruction étaient encore dans les esprits.,7.0,essuyé,essuyer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0
+122686,463592,Ce chiffre est comparable aux pertes ,essuyées, lors des crises de 2001 et 2002.,7.0,essuyées,essuyer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2285,fr-ud-train_09607,"Le président sud-africain a indiqué avoir évoqué avec le chef de l'Etat les travaux de la Haute commission binationale, laquelle, a-t-il ",relevé,", « n'a pas fonctionné comme elle devait le faire par le passé ». ",26,relevé,relever,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,32,parataxis:insert,_,SpaceAfter=No,1

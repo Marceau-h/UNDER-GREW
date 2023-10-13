@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+81539,306524,"Les motoculteurs semi-pro sont idéales pour labourer, binner, ",sarcler,", butter, arracher les pommes de terre ou passer la herse.",11.0,sarcler,sarcler,VERB,VERB,VerbForm=Inf,7.0,conj,7:conj,SpaceAfter=No,1.0
+99737,376295,"Ces informations peuvent leur indiquer le moment des semis, quand il faut ",sarcler, ou épandre l'engrais.,14.0,sarcler,sarcler,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,_,1.0
+215837,813814,Cela laissera aussi suffisamment de place pour ,sarcler, et biner autour.,8.0,sarcler,sarcler,VERB,VERB,VerbForm=Inf,2.0,advcl,2:advcl,_,2.0

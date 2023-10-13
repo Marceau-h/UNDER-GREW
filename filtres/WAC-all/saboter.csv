@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+78154,294147,"Selon Robin Philpot, les manifestants se sont présentés sur place en réponse à des instructions du gouvernement rwandais, qui ferait tout pour ",saboter, ou annuler ce genre de conférence.,25.0,saboter,saboter,VERB,VERB,VerbForm=Inf,22.0,advcl,22:advcl,_,1.0
+251678,948073,"L'opération est toutefois un échec, les Titans ayant pris soin d'évacuer puis ",saboter, la base y plaçant d'importantes charges nucléaires.,16.0,saboter,saboter,VERB,VERB,VerbForm=Inf,14.0,conj,14:conj,_,1.0

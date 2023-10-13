@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+30517,115101,Il ne faut pas aller dans le Nord pour ,bronzer, mais le temps est acceptable avec un peu de chance.,10.0,bronzer,bronzer,VERB,VERB,VerbForm=Inf,3.0,advcl,3:advcl,_,1.0
+100082,377631,"Les nazis modernes sont la racaille des banlieues et leur soutien, les nazislamistes musulmans, et quelques autres (pas tous ",bronzés,"), et certainement pas les gens qui veulent les combattre.",23.0,bronzés,bronzer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,19.0,dep,19:dep,SpaceAfter=No,2.0
+127635,481967,"En visite officielle jeudi à Moscou, Silvio Berlusconi avait qualifié Barack Obama, premier président noir aux Etats-Unis, de """"jeune, beau et même ",bronzé," et ajouté que beaucoup l'attendaient presque comme """"un messie"""".",28.0,bronzé,bronzer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,25.0,conj,25:conj,SpaceAfter=No,1.0

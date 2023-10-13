@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+78356,294870,Je te propose toutes sortes de bricolages amusants à ,confectionner," pour décorer ta maison, dresser une jolie table...",10.0,confectionner,confectionner,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,_,2.0
+138962,524444,"En grande pompe car, là-bas, les cuisiniers sont présents dans le magasin pour ",confectionner,", quotidiennement, la base du menu qui sera réalisé plus tard à domicile par le client.",18.0,confectionner,confectionner,VERB,VERB,VerbForm=Inf,13.0,advcl,13:advcl,SpaceAfter=No,1.0

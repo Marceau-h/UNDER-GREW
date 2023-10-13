@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+695,2579,"Hewitt, quand tu lui offres la main, il te mange le bras"""", a ",complimenté," l'Espagnol, qui a dû sortir un meilleur match encore qu'au tour précédent.",18.0,complimenté,complimenter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,12.0,parataxis,12:parataxis,_,2.0
+176438,665463,"Vous avez de beaux yeux"""", ",complimente, une sexagénaire.,9.0,complimente,complimenter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,parataxis,3:parataxis,_,1.0

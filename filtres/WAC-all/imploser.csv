@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+190993,720669,L’unité démocrate a ,implosé," et le parti présente deux candidats, l’un est un sudiste ségrégationniste et l’autre, un nordiste, modéré.",5.0,implosé,imploser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

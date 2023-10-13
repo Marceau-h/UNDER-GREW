@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+130907,494229,"Sur le terrain de Consadole Sapporo, déjà ",relégué,", les tenants du trophée se sont acquittés de leur tâche sans trembler (1:0).",9.0,relégué,reléguer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,SpaceAfter=No,2.0

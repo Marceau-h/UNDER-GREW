@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+22544,84537,L'avocat est très sensible à l'oxydation; pour l'empêcher de ,noircir,", arrosez la chair d'un filet de jus de citron dès que vous l'avez ouvert et que vous en avez ôté le noyau.",14.0,noircir,noircir,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,SpaceAfter=No,1.0
+160189,603989,Si les extrémités ,noircissent,", c'est un signe d'excés d'eau.",4.0,noircissent,noircir,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,9.0,advcl,9:advcl,SpaceAfter=No,1.0

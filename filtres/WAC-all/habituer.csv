@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+69587,262697,"Une lumière aveuglante amplifiée par la glace baigne la rampe donnant l'impression de donner sur le Paradis, mais une fois que les yeux se sont ",habitués, on peut voir que l'on se retrouve en haut de la montagne.,28.0,habitués,habituer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0
+72593,273672,Le public s'est progressivement ,habitué, et a appris à l'aimer.,6.0,habitué,habituer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

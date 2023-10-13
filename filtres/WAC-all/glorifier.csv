@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+135158,510423,"Or n'est-ce pas aimer, bénir et ",glorifier, Jésus et Marie que de réciter comme il faut la Salutation angélique?,10.0,glorifier,glorifier,VERB,VERB,VerbForm=Inf,6.0,conj,6:conj,_,2.0
+190363,718264,Certains pensent que le but était de justifier et ,glorifier," son successeur Keitai, qui prend le pouvoir dans des circonstances douteuses.",10.0,glorifier,glorifier,VERB,VERB,VerbForm=Inf,8.0,conj,8:conj,_,1.0
+234996,886017,Sous le couvert de la volonté souveraine de Dieu - ,glorifié," et magnifié soit Son Nom, Lui seul accorde Sa Grâce à qui Il prédestine, le premier pas doit venir de toi.",11.0,glorifié,glorifier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,1.0

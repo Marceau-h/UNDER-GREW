@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+201088,758869,"Après les resto, nous profitons des bains d'eau chaude mais nous ne nous ",attardons," pas, il faut arriver avant la nuit.",16.0,attardons,attarder,VERB,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,6.0,conj,6:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2068,13665,Si m'est tex faesons donee Que demain serai ceanz prise Et ,livree, a mortel juise. ,13,livree,livrer,VERB,VERppe,Tense=Past|VerbForm=Part,11,conj,_,XmlId=w_YvainKu_25185,2

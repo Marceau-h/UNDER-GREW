@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+67321,254128,"En fait, pas du tout : je n'ai même pas eu le temps de m'",échauffer,", car je m'étais endormie pendant le match de Camille.",18.0,échauffer,échauffer,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,SpaceAfter=No,1.0
+79574,299257,"J'ai lu, j'ai écouté de la musique, j'ai mangé, je me suis ",échauffée,", j'ai fait les choses que j'ai l'habitude de faire dans ces conditions-là.",19.0,échauffée,échauffer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,conj,3:conj,SpaceAfter=No,2.0
+105425,397839,"Arrivé dans votre station préférée, n'oubliez pas de faire régler vos fixations et de vous ",échauffer, avant de commencer la journée.,18.0,échauffer,échauffer,VERB,VERB,VerbForm=Inf,12.0,conj,12:conj,_,1.0

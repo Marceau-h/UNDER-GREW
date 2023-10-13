@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+117504,443893,Le beton ,marque, (application d'un moule resine sur beton frais retypant un pave de pierre) Le beton pochoir (systeme de trame applique sur beton frais imitant le carrelage),3.0,marque,marque,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+216350,815713,"Le premier s'est imposé comme le patron du milieu, tandis que le second, lui, ",marque, (4 buts en 7 matches).,19.0,marque,marque,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,advcl,5:advcl,_,2.0
+229577,865852,Pourquoi cette Convention des Nations unies ,marque,-t-elle une étape importante?,7.0,marque,marque,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,2.0
+259366,977630,Le mandat de cette force de 1.700 hommes expire jeudi et la résolution préparée par la Belgique et adoptée mercredi ,marque, l`abandon pur et simple de la mission.,21.0,marque,marque,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,conj,9:conj,_,1.0

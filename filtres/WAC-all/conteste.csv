@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+73142,275754,"D'ailleurs il n'y a aujourd'hui plus aucun débat là-dessus, personne ne ",conteste,", a insisté Laurent Wauquiez, """"ce choix n'était ni une politique d'offre, ni une politique de demande, mais juste une politique consistant à soutenir le travail"""".",17.0,conteste,conteste,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,advcl,6:advcl,SpaceAfter=No,3.0

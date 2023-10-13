@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+103863,391756,"L'anche double appelée ghamish est faite d'une seule pièce de roseau aplatie, fendue et ",ligaturée, au niveau du raccord avec le corps de l'instrument.,18.0,ligaturée,ligaturer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,14.0,conj,14:conj,_,1.0

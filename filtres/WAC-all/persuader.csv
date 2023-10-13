@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+48337,182194,Le porte-parole s'est déclaré ,persuadé," qu'à quelques exceptions près, il n'y aura pas de problèmes.",6.0,persuadé,persuader,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,xcomp,5:xcomp,_,1.0
+259430,977914,"Le flaming n'a jamais pour but d'être constructif, de clarifier une situation ou de ",persuader, quelqu'un.,18.0,persuader,persuader,VERB,VERB,VerbForm=Inf,4.0,conj,4:conj,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2020,13552,"Messire Yvains, por verité, Set que li lyons le mercie Et que devant lui s'umilie Por le serpant que il a mort Et lui ",delivré, de la mort ; ,28,delivré,delivrer,VERB,VERppe,Tense=Past|VerbForm=Part,25,conj,_,XmlId=w_YvainKu_23826,1
+2473,14609,Et nos seriens ,delivrees,", Qui a honte somes livrees Et a dolor et a meseise ; ",4,delivrees,delivrer,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No|XmlId=w_YvainKu_37207,1

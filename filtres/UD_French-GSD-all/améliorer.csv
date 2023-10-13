@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+709,fr-ud-train_01752,"Le consortium a pour but principal de développer, ",améliorer, et entretenir un modèle non-hydrostatique à aire limitée de l'atmosphère pour usage opérationnel et de recherche en météorologie. ,10,améliorer,améliorer,VERB,_,VerbForm=Inf,8,conj,_,Subject=SubjRaising,1

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+60178,226536,Et cela d'autant que Mars Odyssey ne se contente pas d'observer et ,cartographier, Mars.,15.0,cartographier,cartographier,VERB,VERB,VerbForm=Inf,13.0,conj,13:conj,_,1.0
+190684,719413,"Elle porte le nom des explorateurs russes Dmitri Laptev et Khariton Laptev, deux cousins qui, au XVIIIe siècle, explorèrent et ",cartographièrent, ses côtes.,24.0,cartographièrent,cartographier,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,22.0,conj,22:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+259496,978184,"Certains lecteurs, indignés par une plume qui ",égratignait," sciemment là où ça fait mal, l'avaient accusé de jeter l'opprobre sur sa communauté, allant jusqu'à le traiter de renégat.",9.0,égratignait,égratigner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,7.0,acl:relcl,7:acl:relcl,_,1.0

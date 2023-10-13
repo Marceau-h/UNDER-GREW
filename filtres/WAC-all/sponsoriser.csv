@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+27591,103559,"Dans tous les cas, le marché des ADR non ",sponsorisés, est opaque; Cela implique que les investisseurs sont protégés par les banques émettrices et les franchissements de seuils n'ont pas à être déclarés.,11.0,sponsorisés,sponsoriser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,3.0

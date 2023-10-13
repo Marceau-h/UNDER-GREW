@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2405,9024,"S'il y avait une forme, un motif sur lequel on serait de tenté de tisser tous ces liens, ce ",srait, celui des volutes à l'image de ces motifs abstraits que l'on trouve de l'Espagne aux confins du monde arabo-musulman dans les illustrations décoratives.,23.0,srait,srer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,24.0,det,24:det,_,2.0

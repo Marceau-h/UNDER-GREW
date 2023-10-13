@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+10260,38226,Le sport à la télé ,envahit,-il votre vie de couple ?,6.0,envahit,envahir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+178435,673106,"Pour préserver la biodiversité sans la détruire, il livre tout simplement un site à lui-même, «laissant à la nature le soin d'",envahir, et de recomposer l'espace».,26.0,envahir,envahir,VERB,VERB,VerbForm=Inf,24.0,acl,24:acl,_,2.0
+189628,715565,L'Etat a tout ,envahi, et les 35 heures en sont un exemple particulièrement révélateur.,5.0,envahi,envahir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+253038,953195,Il reconquiert les parties du royaumes ,envahies, ou secessionistes. 756 : Date où la tradition situe la plantation du chataignier de l'Eraudière à Nantes.,7.0,envahies,envahir,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,3.0

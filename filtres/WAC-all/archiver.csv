@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+105332,397441,"Jusqu'à présent, l'ensemble des documents gérés par l'Andra étaient numérisés et ",archivés, sur des bases informatiques.,16.0,archivés,archiver,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,14.0,conj,14:conj,_,2.0
+193978,731888,Tout vol non encore ,archivé, est envoyé à l'extérieur.,5.0,archivé,archiver,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+216916,818077,La vocation du service SATMOS est d',archiver, et de diffuser auprès de l'ensemble de la communauté scientifique les données des satellites météorologiques.,8.0,archiver,archiver,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,1.0
+232343,875881,"Il était question d'établir une étude sur le terrain, de collecter et d'",archiver, tous les documents concernant cette place ancestrale.,16.0,archiver,archiver,VERB,VERB,VerbForm=Inf,13.0,conj,13:conj,_,2.0

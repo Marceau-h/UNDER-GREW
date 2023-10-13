@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+79985,300806,"Elle a aussi distingué sécurité sanitaire et """" mal ",bouffe," """", relevant ainsi la confusion entre """" manger sain """" et """" manger équilibré """", ce deuxième aspect étant à l'origine de bien des difficultés de santé de nos concitoyens.",10.0,bouffe,bouffe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,conj,5:conj,_,1.0

@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+45912,173171,Cette méthode donne une solution graphique de l'équation différentielle ; elle permet de ,tracer, la courbe VG = h ( t ).,15.0,tracer,tracer,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,_,1.0
+85699,322058,Le chemin semble tout ,tracé,", le dollar perdant du terrain face aux autres devises et l'offre de pétrole étant limitée.",5.0,tracé,tracer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,xcomp,3:xcomp,SpaceAfter=No,1.0
+122798,463998,"L'idée de cette figure est venue en voyant la construction d'Alexandre Bibé, avec un lieu de point sur une grille pour ",tracer," une fonction z = f(x, y).",25.0,tracer,tracer,VERB,VERB,VerbForm=Inf,9.0,advcl,9:advcl,_,1.0
+133618,504696,"Son développement ne doit rien au hasard : Elle est bien située géographiquement, au bord d'axes bien ",tracés,", très roulants qui la relient à Brest (60 km), Quimper (60 km), Morlaix (25 km), Carhaix (25 km).",20.0,tracés,tracer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,acl,18:acl,SpaceAfter=No,1.0
+228837,863090,"METAUX. - Tracés au compas, à la pointe à ",tracer,", au gabarit.",12.0,tracer,tracer,VERB,VERB,VerbForm=Inf,10.0,acl,10:acl,SpaceAfter=No,1.0

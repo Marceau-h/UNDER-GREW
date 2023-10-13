@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+232761,877455,"Posé sur une """"rotule"""", il est constitué de vingt tubes métalliques, emboîtés et ",arrimés, les uns au dessus des autres.,18.0,arrimés,arrimer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,16.0,conj,16:conj,_,3.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+96264,363115,On connaîtra sans doute très rapidement de quoi il ,retourne, puisque cette extension devrait être sur nos étals avant le mois prochain.,10.0,retourne,retourne,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,ccomp,2:ccomp,_,2.0
+211225,796524,"Retourne-toi le Reuze, le Reuze, ",Retourne,-toi le Reuze sort.,1.0,Retourne,retourne,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,2.0

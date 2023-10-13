@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+101007,381034,Sulfite : additif alimentaire (conservateur) Supplémentation : action de ,supplémenter,; apporter à l 'organisme des éléments nutritifs indispensables.,12.0,supplémenter,supplémenter,VERB,VERB,VerbForm=Inf,10.0,acl,10:acl,SpaceAfter=No,3.0

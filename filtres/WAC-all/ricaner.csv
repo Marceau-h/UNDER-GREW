@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+168159,634127,"Une scène célèbre du film le voit pousser, en ",ricanant,", une vieille dame paralytique du haut d'un escalier.",11.0,ricanant,ricaner,VERB,VERB,Tense=Pres|VerbForm=Part,8.0,advcl,8:advcl,SpaceAfter=No,1.0

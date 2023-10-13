@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+400,Rhap_D2001-6,usez-vous à ce niveau du charme de la femme pour ,réussir, tout à fait ? ,13,réussir,réussir,VERB,_,VerbForm=Inf,1,advcl,_,Subject=NoRaising,1

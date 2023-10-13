@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+130833,493922,GET SA supportera une dette ,renégociée," et ramenée à 4,16 milliards d'euros, au lieu des 9 milliards qui asphyxient les sociétés actuelles.",6.0,renégociée,renégocier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,2.0
+204037,769902,"Il faut de l'argent pour accompagner un processus de réformes"""", a-t-il ajouté, en se disant """"dans la logique"""" de la version ",renégociée, - et assouplie - du Pacte de stabilité.,31.0,renégociée,renégocier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,30.0,acl,30:acl,_,1.0
+222002,837112,"Selon la fédération CFDT, la dernière réunion paritaire vendredi """"a tourné à la mascarade organisée par le patronat qui sans honte a refusé de ",renégocier, cette grille.,27.0,renégocier,renégocier,VERB,VERB,VerbForm=Inf,25.0,xcomp,25:xcomp,SpaceAfter=No,1.0

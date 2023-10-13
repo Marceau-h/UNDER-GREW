@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+101250,381958,Les élevages d'espèces de gibier chassables ,pullulent, qui ne sont soumis à aucune autorisation d'ouverture préalable (excepté pour le sanglier).,8.0,pullulent,pulluler,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+115220,434903,Les églises fondamentalistes ,pullulent," et exercent un contrôle social austère sur une bonne partie de la population, en particulier les femmes.",4.0,pullulent,pulluler,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

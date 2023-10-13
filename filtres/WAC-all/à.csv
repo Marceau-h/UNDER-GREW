@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+71890,271100,Stéri-strip pour fermer les paupières (surtout si l'oeil ,à, tendance à rester ouvert la nuit ),13.0,à,à,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,14.0,amod,14:amod,_,1.0
+208829,787654,Non mais sans blague trafiqué la vidéo alors que le mec ,à," : la méme voiture, méme couleur, méme """"trace"""" caractéristique sur la pare-choc, et qu'il a """"signé"""" la vidéo.",12.0,à,à,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,advcl,5:advcl,_,1.0

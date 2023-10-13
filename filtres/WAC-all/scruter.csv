@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+54709,205894,"Nous pensons, également, aborder de près leurs préoccupations de la vie quotidienne, à ",scruter, et à réfléchir sur l'évolution de cette communauté si nostalgique du passé.,17.0,scruter,scruter,VERB,VERB,VerbForm=Inf,2.0,xcomp,2:xcomp,_,1.0
+187467,707123,"Dans le cas de l'objet, on incrémente un compteur, on ",scrute, autour du pixel pour trouver tous les pixels connexes appartenant à l'objet.,14.0,scrute,scruter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,advcl,9:advcl,_,1.0

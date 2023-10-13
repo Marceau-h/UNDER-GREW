@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+19935,74760,Une petite précision qui s'impose tant cette dénomination marketing a plutôt tendance à ,embrouiller, qu'autre chose.,15.0,embrouiller,embrouiller,VERB,VERB,VerbForm=Inf,13.0,xcomp,13:xcomp,_,1.0

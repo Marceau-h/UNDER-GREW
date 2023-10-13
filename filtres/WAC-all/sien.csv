@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+163006,614673,"Le Noir Antillais sera d'autant plus blanc, c'est-à-dire se rapprochera d'autant plus du véritable homme, qu'il aura fait ",sienne, la langue française.,29.0,sienne,sien,VERB,VERB,VerbForm=Inf,17.0,ccomp,17:ccomp,_,1.0
+175322,661386,Il enjoint le gouvernement Charest de faire ,sienne," son idée d'accorder aux familles 100 $ par enfant de moins de 4 ans, par semaine, lorsque l'enfant ne fréquente pas le système public de garderies.",8.0,sienne,sien,VERB,VERB,VerbForm=Inf,2.0,xcomp,2:xcomp,_,1.0
+257504,970430,"Dans ce mystère, la philosophie doit relever des défis extrêmes, parce que la raison est appelée à faire ",sienne, une logique qui dépasse les barrières à l'intérieur desquelles elle risque de s'enfermer elle-même.,21.0,sienne,sien,VERB,VERB,VerbForm=Inf,18.0,xcomp,18:xcomp,_,2.0

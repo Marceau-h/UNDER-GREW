@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+34812,131229,"Le site contient des textes d'Abel Bonnard, non ",réédités, et introuvables depuis des lustes.,11.0,réédités,rééditer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0
+156908,591734,"Transcrit par Guillaume Lacoste, Histoire générale de la province de Quercy, t. III, 1875, ",réédité," 1982, p. 218 n. 3 ), nous avons vu qu'un autre parlait d'une """"domus"""" à propos du palais Duèze. »",19.0,réédité,rééditer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,1.0,acl,1:acl,_,3.0
+183954,694129,"Avec ses """"Prophéties"""", des quatrains volontiers obscurs et dont certains sont considérés comme apocryphes, Nostradamus est l'auteur d'un des textes littéraires les plus ",réédités, au monde.,30.0,réédités,rééditer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,26.0,acl,26:acl,_,1.0

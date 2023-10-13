@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+121302,458378,Ils ont en outre le matériel d'assistance suivant :  une tablette de notation ;  un jeu de tables permettant de vérifier ou de ,recalculer, les procédures de remontées des plongées réalisées au-delà de l'espace proche.,27.0,recalculer,recalculer,VERB,VERB,VerbForm=Inf,24.0,conj,24:conj,_,2.0

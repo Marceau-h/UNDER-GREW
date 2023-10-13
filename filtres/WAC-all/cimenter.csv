@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+96624,364467,Nous présentons trois dossiers de dessertissage de noyaux de polyéthylène survenu sur une série limitée de 20 cupules non ,cimentées, de Galante.,20.0,cimentées,cimenter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,18.0,acl,18:acl,_,1.0

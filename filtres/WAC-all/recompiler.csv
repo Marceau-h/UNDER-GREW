@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+124239,469422,"On spécifie ($SRCDIR)/include/linux/linux_logo.h et une fois la retouche d'image terminée, il ne reste plus qu'à ",recompiler, et réinstaller le noyau.,25.0,recompiler,recompiler,VERB,VERB,VerbForm=Inf,21.0,xcomp,21:xcomp,_,1.0

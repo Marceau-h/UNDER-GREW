@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+155048,584846,"Il s'agit pour le TEC d'assumer sa fonction de """"",manager," de la mobilité"""" en mettant des bus à disposition des communes, pour que celles-ci créent des dessertes locales vers les centres ou vers les gares.",13.0,manager,manager,VERB,VERB,VerbForm=Inf,10.0,acl,10:acl,_,1.0
+238464,898775,"Spécialiste Linux, Accelance ",manage," et supporte à distance tout type d'équipement réseau, systèmes d'exploitation Unix, serveurs web, bases de données, serveurs d'applications e-business, firewall, load balancers.",5.0,manage,manager,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,2.0

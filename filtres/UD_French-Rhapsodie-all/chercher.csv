@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+160,Rhap_D2005-22,et avec une ambition qui commençait à se cristalliser déjà autour de l'idée d'écrire et de ,chercher,", j'ai toujours pensé qu'on n'est pas sur terre pour être heureux mais pour, euh, essayer d'être utile. ",19,chercher,chercher,VERB,_,VerbForm=Inf,16,conj,_,SpaceAfter=No|Subject=NoRaising,3

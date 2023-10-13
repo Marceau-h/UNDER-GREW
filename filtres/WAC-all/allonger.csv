@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+10950,41105,"Etudié spécialement pour la complémentarité des exercices, à faire débout ou ",allongé,", dans le plus grand confort.",13.0,allongé,allonger,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,conj,11:conj,SpaceAfter=No,1.0
+27312,102507,Elle présente un tronc ,allongé, et musclé sur des jambes fines.,5.0,allongé,allonger,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,amod,4:amod,_,2.0
+208475,786394,La surveillance postopératoire réalisée avec un patient en position ,allongé," et très progressivement redressé, évitera un phénomène d'hypotension orthostatique classique avec certains anti-hypertenseurs.",10.0,allongé,allonger,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,1.0
+236722,892507,"Il représente plusieurs groupe de personnages : à la base, entouré d’un bassin, un jeune congolais ",allongé, près d’un crocodile représente la sauvagerie du fleuve.,20.0,allongé,allonger,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,19.0,acl,19:acl,_,1.0

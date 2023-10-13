@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+83755,314811,"C'est un lieu unique de présentation du patrimoine rural et du savoir-faire artisanal, véritable livre de l'histoire quotidienne de cette région, à ",feuilleter, en parcourant ce passionnant ensemble historique et ludique.,29.0,feuilleter,feuilleter,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,_,3.0

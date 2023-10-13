@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+885,fr-ud-train_02594,"On sent que vous maitrisez votre sujet et de plus, vous ",partagez, volontiers. ,13,partagez,partager,VERB,_,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,2,conj,_,_,1

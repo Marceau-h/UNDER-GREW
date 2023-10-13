@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+186275,702648,La crise financière s'est encore accentuée et le climat de consommation de nouveau ,assombri,", a détaillé BMW mardi.",15.0,assombri,assombrir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,nmod,10:nmod,SpaceAfter=No,1.0

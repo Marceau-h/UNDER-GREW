@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+228018,860028,"Après, Les Grandes Gueules ont tenté de rester elles-mêmes devant le public, laissant bien souvent leurs personnages faire des leurs dans des capsules ",préenregistrées, et diffusées sur écran géant.,28.0,préenregistrées,préenregistrer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,27.0,acl,27:acl,_,2.0

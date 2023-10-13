@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+71882,271080,"Mais ce n'est pas mon premier barbecue», a ",imagé, Perrin qui se retrouve une nouvelle fois sur le gril.,12.0,imagé,imager,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,parataxis,8:parataxis,_,1.0
+96792,365095,"Les descriptions de la nature, ",imagées," et animistes, sont empreintes d'une touche orientale qui confère un grand charme au livre.",7.0,imagées,imager,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,amod,2:amod,_,1.0
+184610,696548,Un site très ,imagé, articulé autour de 3 pôles d'attraction touristique :,4.0,imagé,imager,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+212447,801157,"Quant au gouvernement Charest, il s'est contenté de regarder la parade « en culottes courtes », a ",imagé, le chef de l'ADQ.,21.0,imagé,imager,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,parataxis,9:parataxis,_,1.0

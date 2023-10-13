@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+927,fr-ud-train_02811,"Dans les marges du Rub al-Khali, les gens continuent à ",paître," où ils peuvent, même si un nombre surprenant de Seiar et de Awamr sont des agriculteurs installés sur le plateau mal arrosé du nord de l'Hadramaout. ",13,paître,paître,VERB,_,VerbForm=Inf,11,xcomp,_,Subject=SubjRaising,1

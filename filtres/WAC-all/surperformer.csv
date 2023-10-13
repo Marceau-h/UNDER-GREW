@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+139464,526269,"Un exemple qui illustre l'étude publiée par Credit Suisse ( CSGN.VX) mardi sur les entreprises familiales, cotées ici, qui ",surperforment, celles tenues exclusivement par le public.,24.0,surperforment,surperformer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,6.0,acl:relcl,6:acl:relcl,_,1.0
+235897,889388,"L'OREAL (Paris: FR0000120321 - actualité) (-0,08% à 61,20 euros): Exane BNP Paribas a abaissé mardi sa recommandation sur le titre du groupe L'Oréal à """"neutre"""" contre """"",surperformer," avant, ont indiqué des courtiers.",38.0,surperformer,surperformer,VERB,VERB,VerbForm=Inf,34.0,advcl,34:advcl,SpaceAfter=No,1.0

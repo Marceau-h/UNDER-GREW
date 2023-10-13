@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1565,12362,Ci poez ester et ,seoir,", Et anz et fors les genz veoir Qui passeront parmi la voie, ",5,seoir,sëoir,VERB,VERinf,VerbForm=Inf,3,conj,_,SpaceAfter=No|XmlId=w_YvainKu_9092,1
+2272,14116,Et cil respont mout folemant Que il met an son nuisemant Trestot quanque lui plest et ,siet,", Mes que li lyons ne lor griet. ",17,siet,sëoir,VERB,VERcjg,VerbForm=Fin,15,conj,_,SpaceAfter=No|XmlId=w_YvainKu_31221,1

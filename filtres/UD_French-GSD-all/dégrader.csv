@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+773,fr-ud-train_02013,Son état s'est ,dégradé,", et les offices religieux y sont tombés en désuétude, bien que parfois le prêtre de la paroisse de Carentoir même vienne y rendre la messe. ",5,dégradé,dégrader,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,0,root,_,SpaceAfter=No,1
+2904,fr-ud-train_12629,"Il est donc interdit de le détruire, le mutiler, le capturer ou l'enlever, de le perturber intentionnellement ou de le naturaliser, ainsi que de détruire ou enlever les œufs et les nids, et de détruire, altérer ou ",dégrader, son milieu. ,45,dégrader,dégrader,VERB,_,VerbForm=Inf,41,conj,_,Subject=Generic,1

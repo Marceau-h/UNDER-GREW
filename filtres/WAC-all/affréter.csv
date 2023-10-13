@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+31429,118450,Les gars du RAID assuraient la sécurité et le TGV spécialement ,affrété, avait pris soin de s'arrêter bien loin de la foule.,12.0,affrété,affréter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0

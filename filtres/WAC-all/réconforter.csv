@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+16306,60919,L'espoir qu'apportent les jeunes ,réconforte,", et ceux-ci seront plus que jamais mis à contribution.",7.0,réconforte,réconforter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+87883,330756,"Pour le rassuré lors du voyage, mettez lui à manger, à boire et ",réconforter," le, en lui parlant ou en le caressant.",16.0,réconforter,réconforter,VERB,VERB,VerbForm=Inf,11.0,conj,11:conj,_,1.0
+166661,628370,Le maître ,réconforte,", encourage et demande à l'enfant qui tire de ne pas aller vite et d'aller en ligne droite dans un 1er temps.",3.0,réconforte,réconforter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

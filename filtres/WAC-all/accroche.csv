@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+31379,118293,Perso j',accroche, largement plus qu'au jeu de la bobox 360 .,3.0,accroche,accroche,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+218938,825628,"Enfin un son qui est différent, une voix qui ",accroche, et des paroles qui inspirent!,11.0,accroche,accroche,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,acl:relcl,9:acl:relcl,_,3.0

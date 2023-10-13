@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+569,Rhap_M2004-37,même si le monde change comme il n'a jamais ,changé,", la modernité ne doit pas nous diviser. ",11,changé,changer,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5,advcl,_,SpaceAfter=No,3
+570,Rhap_M2004-37,même si le monde ,change," comme il n'a jamais changé, la modernité ne doit pas nous diviser. ",5,change,changer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16,advcl,_,_,3

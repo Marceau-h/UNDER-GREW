@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+88787,334309,"Si l'on veux une bascule, il n'y a qu'une chose a faire, ",ecouter, et encore ecouter les utilisateurs a convaincre.,18.0,ecouter,ecouter,VERB,VERB,VerbForm=Inf,14.0,conj,14:conj,_,3.0
+98090,370037,Regarder : Les coulisses de cette conférence de presse en vidéo.,Ecouter, : Nicolas Sarkozy va s'impliquer dans des réunions publiques.,13.0,Ecouter,ecouter,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,2.0

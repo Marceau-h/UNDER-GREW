@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+480,ParisStories_2019_cuisineApproximative_10,"et euh, et du coup tu rajoutes la farine, et ensuite, euh, tu, tu mélanges, et, il ",faut,", il faut bien garder le feu, parce que comme ça, euh, en fait, l'eau s'évapore. ",26,faut,falloir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,29,reparandum,_,SpaceAfter=No,3

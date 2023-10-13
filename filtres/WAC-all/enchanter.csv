@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+62096,234102,"Stewart, qui a notamment interprété """"Forever Young"""" and """"Do Ya Think I'm Sexy s'est dit """"",enchanté, à l'idée d'être une nouvelle fois papa.,23.0,enchanté,enchanter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,21.0,xcomp,21:xcomp,SpaceAfter=No,2.0
+195575,737782,La foule ,enchantée," et pleine d'entrain inclut tout un monde hétéroclite, allant des plus petits enfants, vêtus de costumes faits maison ou achetés, jusqu'aux adultes, parés de déguisements et de maquillage plus raffinés.",3.0,enchantée,enchanter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

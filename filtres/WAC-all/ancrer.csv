@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+75434,284144,Quitte à bousculer certaines évidences anciennement ,ancrées,", pour mettre au jour les nouvelles exigences qui doivent déterminer l'ordre éthique de la diffusion des savoirs.",7.0,ancrées,ancrer,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,5.0,acl,5:acl,SpaceAfter=No,1.0
+87421,328928,"Au-delà de la tradition médicale des cures, très ",ancrée,", """"le pays se laisse conquérir par la mode +santé, beauté, bien-être analyse Jitka Pouzorova.",12.0,ancrée,ancrer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,SpaceAfter=No,1.0
+119381,451145,"En France, répétons-le, nous avons la perception d'une normalisation forte, bien ",ancrée,", très en phase avec l'économie du pays.",18.0,ancrée,ancrer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,14.0,acl,14:acl,SpaceAfter=No,1.0

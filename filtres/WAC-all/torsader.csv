@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+184471,696077,En faisant tourner le carton grâce aux fils préalablement ,torsadés,", on voit le poisson dans le bocal. """" C'est parce que ça tourne vite, on n'a pas le temps d'oublier le poisson et on voit déjà le bocal. """" Cette explication est satisfaisante.",10.0,torsadés,torsader,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,SpaceAfter=No,3.0

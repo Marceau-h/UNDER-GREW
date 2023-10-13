@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+243676,918467,"Les Springboks, la très populaire équipe nationale de rugby, se sont dits «",horrifiés,"», exprimant leur «déception face au fait que les responsables de tels actes soient des compatriotes sud-africains».",16.0,horrifiés,horrifier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,14.0,xcomp,14:xcomp,SpaceAfter=No,1.0

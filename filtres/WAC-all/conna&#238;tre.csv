@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+58206,218931,"Dans la première partie, je vais essayer de décrire clairement les bases de VIM, et les fonctions essentielles à ",conna&#238;tre, pour pouvoir utiliser ce logiciel.,22.0,conna&#238;tre,conna&#238;tre,VERB,VERB,VerbForm=Inf,19.0,acl,19:acl,_,1.0

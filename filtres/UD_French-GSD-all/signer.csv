@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2713,fr-ud-train_11714,"Les plénipotentiaires britannique et tibétain ont rédigé une note déniant à la Chine, si elle ne consentait pas à ",signer,", tous privilèges liés à l'Accord et l'ont scellé comme un accord bilatéral le même jour. ",21,signer,signer,VERB,_,VerbForm=Inf,18,xcomp,_,SpaceAfter=No|Subject=SubjRaising,1

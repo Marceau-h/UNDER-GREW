@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+130459,492484,"D'après le journal, les enquêteurs se disent « ",écoeurés," » par ce silence. « Personne n'a eu pitié, personne n'a bougé », s'indigne l'une des deux soeurs de la victime interrogée par le journal.",11.0,écoeurés,écoeurer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,9.0,xcomp,9:xcomp,_,1.0

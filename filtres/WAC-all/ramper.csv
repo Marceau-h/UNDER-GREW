@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+43372,163479,"Ils doivent être assez solides pour que l'on puisse y accrocher les lampes, pour soutenir le poids des animateurs, lesquels peuvent avoir à ",ramper, pour déplacer une marrionnette.,27.0,ramper,ramper,VERB,VERB,VerbForm=Inf,25.0,xcomp,25:xcomp,_,1.0
+91120,343350,Ce dernier se battit avec grande bravoure mais fut finalement contraint de ,ramper, le long des fossés pour sortir du champ de bataille.,13.0,ramper,ramper,VERB,VERB,VerbForm=Inf,11.0,xcomp,11:xcomp,_,1.0
+242859,915296,Son image était gardée à Tenochtitlan dans un grande pièce (Tlillan) toujours plongée dans l'obscurité et ce sanctuaire n'était accessible qu'en ,rampant, et l'entrée était fermée par un couvercle.,27.0,rampant,ramper,VERB,VERB,Tense=Pres|VerbForm=Part,24.0,obl:mod,24:obl:mod,_,1.0
+244512,921513,"Parmi les possibilités de jeu, il est toujours possible de sauter, courir, ",ramper,", grimper, nager, tirer sur des adversaires...",16.0,ramper,ramper,VERB,VERB,VerbForm=Inf,12.0,conj,12:conj,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+48961,184623,Différentes études ont en effet montré que les bébés longtemps nourris au sein (au-delà de douze mois et jusqu'à trente-six mois) sont généralement plus petits et plus maigres que ceux ,sevrés, précocement.,34.0,sevrés,sevrer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,33.0,acl,33:acl,_,1.0

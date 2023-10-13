@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1976,7454,"Un septième lac avec des algues bleuesDanger à l'urgenceÉquipe de France: Rothen déclare forfait, Silvestre est appeléPérou: l'armée ",patrouille, pour arrêter les pillagesSauf le respect tolérance zéro...,24.0,patrouille,patrouille,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15.0,advcl,15:advcl,_,1.0

@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+21231,79574,"Ce drame, survenu le 15 octobre aux Acacias, ",jette,-t-il l'opprobre sur l'ensemble des clans genevois?,11.0,jette,jeter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+39743,149654,Une fois le sort ,jeté,", """"Evil"""" Willow retourne, dans son monde, seulement quelques secondes avant d'être à nouveau tuée par Oz.",5.0,jeté,jeter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,advcl,11:advcl,SpaceAfter=No,1.0
+151184,570552,"Si vous avez acheté des produits qui font l'objet du rappel de la compagnie Maple Leaf, ",jetez,"-les, quelle qu'en soit la date de péremption.",19.0,jetez,jeter,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+218610,824478,"Dans certains jeux, le nombre de dés à ",jeter, varie en fonction de la difficulté de l'action ou bien de la capacité du personnage.,10.0,jeter,jeter,VERB,VERB,VerbForm=Inf,8.0,acl,8:acl,_,1.0
+229174,864384,Son apport décisif à la création radiophonique a ,jeté," un peu trop d'ombre sur l'œuvre littéraire de celui que ses amis appelaient """"le grand Paul"""".",9.0,jeté,jeter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+238196,897857,"Un grand classique du genre, une sorte d'abus du style """"je me ",jette,", tu cèdes"""".",16.0,jette,jeter,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,3.0,acl,3:acl,SpaceAfter=No,2.0

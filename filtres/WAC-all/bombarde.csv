@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+86453,325231,Nous pouvons nous réfugier derrière le respect de la loi -la même loi au nom de laquelle on affame et on ,bombarde,", la même loi qui est quotidiennement suspendue pour des millions de damnés de la Terre.",22.0,bombarde,bombarde,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19.0,conj,19:conj,SpaceAfter=No,1.0

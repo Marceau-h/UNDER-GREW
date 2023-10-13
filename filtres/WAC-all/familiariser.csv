@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+108405,409171,Des tables rondes et des débats vous permettront de vous ,familiariser, et de découvrir l'écrin du Bolchoï.,11.0,familiariser,familiariser,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,_,1.0

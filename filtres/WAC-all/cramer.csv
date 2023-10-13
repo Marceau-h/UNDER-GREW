@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+62584,236106,"En 2006, Cétril à dépensé (",cramé,) plus de 500 000 euros [soit plus de 3 275 000 nouveau Francs].,8.0,cramé,cramer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,xcomp,6:xcomp,SpaceAfter=No,3.0
+105801,399330,Si je reste encore la tête dans le tennis et que j'ai la chance d'aller à Shanghai je vais arriver un peu ,cramé, là-bas.,25.0,cramé,cramer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,22.0,ccomp,22:ccomp,_,2.0

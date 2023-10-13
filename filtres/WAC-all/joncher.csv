@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+200062,754952,"Bidouille, si tu m'entends, sache que je te regrette, toi et tes milliards de poils qui jonchaient (et ",jonchent," toujours, même si Pierre Bourdieu est mort et que l'eau a passé sous les ponts) le sol du 264 rue F. Mathias.",24.0,jonchent,joncher,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,21.0,conj,21:conj,_,2.0

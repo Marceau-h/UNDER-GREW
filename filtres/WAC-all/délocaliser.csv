@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+103319,389769,"En voilà assez de cette cruauté sociale, de ces entreprises qui ferment et qui ",délocalisent,", a lancé l'ex-candidate socialiste.",17.0,délocalisent,délocaliser,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,14.0,conj,14:conj,SpaceAfter=No,2.0
+175558,662251,"Les entreprises, de plus en plus multinationales, ",délocalisées,", éclatées misent sur leur système d'information pour maintenir une cohésion efficace et fluidifier leurs échanges internes et externes.",10.0,délocalisées,délocaliser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+236325,891042,"L'usine d'Hellemmes, près de Lille, ",délocalise, et licencie ses 270 salariés.,10.0,délocalise,délocaliser,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

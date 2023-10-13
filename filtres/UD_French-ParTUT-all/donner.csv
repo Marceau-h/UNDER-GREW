@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+147,fr_partut-ud-406,"Je veux croire qu'il est d'accord, étant ",donné," son expérience passée de président régional, pour proposer des indicateurs et une stratégie en faveur de la cohésion économique et sociale, et pas seulement de la productivité. ",11,donné,donner,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8,acl,_,_,1

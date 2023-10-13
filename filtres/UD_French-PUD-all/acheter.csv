@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+15,n01025025,Elle explique qu'il existe toujours un effet « beurk » à l'idée d',acheter, et de porter des morceaux du corps d'une autre personne. ,16,acheter,acheter,VERB,VB,VerbForm=Inf,14,xcomp,_,_,1

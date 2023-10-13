@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+68005,256742,Changer un bloc de texte entre ',gras,' et 'italique' est vraiment fantastique !,8.0,gras,grer,VERB,VERB,Tense=Pres|VerbForm=Part,1.0,obl:arg,1:obl:arg,SpaceAfter=No,2.0

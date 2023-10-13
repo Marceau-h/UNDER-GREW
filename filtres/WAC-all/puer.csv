@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+46702,176205,"Une pourriture, c'est noir et ça ",pue," : au moment de la mort d'Aimé Césaire, chacun sera sensible à ce type d'insultes, là pour ranimer de vieux poncifs"""", a réagi Dieudonné à l'issue de l'audience.",9.0,pue,puer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,conj,6:conj,_,1.0
+85761,322257,"Le paysan puait comme le prêtre, le compagnon tout comme líépouse de son maître artisan, la noblesse puait du haut jusquíen bas, et le roi lui-même ",puait,", il puait comme un fauve, et la reine comme une vieille chèvre, été comme hiver.",3.0,puait,puer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0.0,root,0:root,_,1.0

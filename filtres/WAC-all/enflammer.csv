@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3235,12153,En tout cas il ne faut pas que je m',enflamme,", et il ne faut surtout pas s'arrêter là, ce n'est qu'une étape"""".",11.0,enflamme,enflammer,VERB,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,6.0,ccomp,6:ccomp,SpaceAfter=No,2.0
+118716,448606,"Une voiture avait été visée un peu par hasard, mais le cocktail Molotov ne s'était pas ",enflammé," comme prévu, et les agents de sécurité du Fouquet's avaient mis fin à l'expérience.",19.0,enflammé,enflammer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,conj,5:conj,_,1.0
+159804,602545,Le libéral Patrick De Preux s'est ,enflammé,", estimant que le chef du groupe socialiste Jean-Michel Favez raisonnait """"comme un tambour"""".",8.0,enflammé,enflammer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0
+183676,693060,L'édifice s'est ,enflammé," soudainement, détruisant le bâtiment de deux étages et des voitures.",5.0,enflammé,enflammer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

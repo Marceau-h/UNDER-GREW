@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+219,fr_partut-ud-631,La résolution du Conseil du 28 octobre 1999 sur le rôle de la normalisation en Europe (2) recommandait que la commission examine si le principe de la nouvelle approche pouvait être étendu aux secteurs qui ne sont pas encore ,couverts,", en vue d'améliorer et de simplifier la législation dans tous les cas où cela est possible. ",45,couverts,couvrir,VERB,V,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,39,acl:relcl,_,SpaceAfter=No,1

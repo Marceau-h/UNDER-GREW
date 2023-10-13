@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+19616,73602,"Au deuxième trimestre, le chiffre d'affaires a «simplement» doublé, à 1,4 milliard, tandis que le bénéfice a... plus que ",quadruplé,", à 343 millions.",27.0,quadruplé,quadrupler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,25.0,acl,25:acl,SpaceAfter=No,1.0
+45224,170686,"Entre le premier trimestre 2002 et le dernier trimestre 2007, le prix du baril de pétrole Brent a plus que ",quadruplé," (+322%, soit 27% par an en moyenne), passant de 21 à 89 dollars.",22.0,quadruplé,quadrupler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,20.0,ccomp,20:ccomp,_,1.0
+156495,590138,Si un articles est déjà conséquent mais qu'il peut être développé au point de tripler/,quadrupler,"/etc sa taille, alors on peut laisser le bandeau voire le remettre.",18.0,quadrupler,quadrupler,VERB,VERB,VerbForm=Inf,16.0,conj,16:conj,SpaceAfter=No,1.0

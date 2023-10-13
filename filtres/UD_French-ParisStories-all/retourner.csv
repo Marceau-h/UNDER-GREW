@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+94,ParisStories_2019_mercrediSoir_40,"on s'est dit que, euh, ça serait cool d'y ",retourner," quand même, parce que c'était pas très très cher et en plus, euh, bah, il y a moyen de se faire plaisir quoi ! ",14,retourner,retourner,VERB,_,VerbForm=Inf,11,advcl,_,Subject=SubjRaising,2
+546,ParisStories_2020_blessureRecreation_15,"et euh, et là je je vois euh son poignet complètement ",retourné,", avec l'os qui ressort, une minuscule tache de sang mais surtout l'os qui ressort. ",13,retourné,retourner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11,acl,_,SpaceAfter=No,3

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+76188,286897,"«On passe d'expérimentations sur des structures de la taille d'une feuille A4 à un bateau de 24 mètres», ",illustre, Pascal Vuillomenet.,24.0,illustre,illustre,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,parataxis,3:parataxis,_,2.0
+76632,288484,À quand une ligue canadienne de soccer qui permettrait à nos jeunes d'atteindre de plus hauts niveaux ,illustre,-t-il en prenant pour exemple la Ligue canadienne de football (LCF).,19.0,illustre,illustre,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,parataxis,4:parataxis,SpaceAfter=No,2.0
+196841,742512,"«Les clients croient que les modifications sont très difficiles», ",illustre," Ralf Beyeler, experten télécommunication chez Comparis.",13.0,illustre,illustre,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,parataxis,4:parataxis,_,2.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1051,fr-ud-train_03485,Un des joueurs de l'équipe qui ,sert, (le serveur) lance la balle à la main ou au pied dans les airs et tente de lancer la balle sur le terrain du camp adverse. ,9,sert,servir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7,acl:relcl,_,_,2

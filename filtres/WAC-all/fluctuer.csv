@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+17980,67375,"Au cours du temps l'effectif des populations naturelles peut croître, rester stationnaire, ",fluctuer,", ou bien décroître jusqu'à l'extinction.",16.0,fluctuer,fluctuer,VERB,VERB,VerbForm=Inf,11.0,conj,11:conj,SpaceAfter=No,1.0

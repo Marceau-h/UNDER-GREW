@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+142640,538511,Les hommes de Deherme ont dominé logiquement le leader normand et paraissent bien armés pour jouer un peu plus que les ,trouble, fête pour la montée en D1.,22.0,trouble,trouble,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,23.0,dep,23:dep,_,1.0

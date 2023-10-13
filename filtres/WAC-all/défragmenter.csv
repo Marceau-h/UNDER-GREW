@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+228669,862516,"J'ai Néro, la version 18, j'ai installé les ASPI(conseillé dans un autre forum), j'ai mis la dernière version du firmware de mon graveur (benq 1620), j'ai ",défragmenté,", nettoyé, vérifié le disque.",38.0,défragmenté,défragmenter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,advcl,2:advcl,SpaceAfter=No,1.0

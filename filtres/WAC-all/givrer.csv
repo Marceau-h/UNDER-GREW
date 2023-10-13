@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+94064,355057,"Un jour avait passé, une nuit avait ",givré,", le soleil s'est levé, puis il s'est recouché, sur nos petites histoires à droite de l'accoudoir.",9.0,givré,givrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,ccomp,4:ccomp,SpaceAfter=No,1.0

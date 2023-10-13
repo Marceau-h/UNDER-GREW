@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+44935,169665,"Pendant ce temps au Paradis, une âme est enfermée dans un glaive, ",scellée, à jamais et privée de ses souvenirs.,15.0,scellée,sceller,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,advcl,10:advcl,_,1.0
+90214,339815,Il déposa ses notes sous ,scellé," à l'Académie des sciences à Paris en 1891 et 1892, mais n'annonça sa découverte qu'en 1902.",6.0,scellé,sceller,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,obl:mod,2:obl:mod,_,3.0
+163449,616415,Ces deux moitiés sont ensuite collées et ,scellées," ensemble, pour être finalement recouvertes par du tissu de coton Madapolam.",8.0,scellées,sceller,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,2.0

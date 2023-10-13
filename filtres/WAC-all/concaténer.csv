@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+120615,455850,"Dans ce cas, les frames ne doivent pas être unifiés mais ",concaténés, (en supprimant les redondances).,13.0,concaténés,concaténer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,11.0,conj,11:conj,_,2.0

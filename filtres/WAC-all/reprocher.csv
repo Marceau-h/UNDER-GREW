@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+37465,141002,"La disparité des sources, ici ",reprochée,", est au contraire un gage de neutralité.",7.0,reprochée,reprocher,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+129170,487687,"Vous avez décidé ce jour-là qu'il était un hostile"""", a ",reproché," Me Frédéric Champagne, avocat de la famille, à Samba Diallo, le premier à s'être élancé derrière la victime.",16.0,reproché,reprocher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,parataxis,4:parataxis,_,1.0
+140683,530936,"«Il a favorisé les pétrolières au détriment des secteurs manufacturier et forestier», a ",reproché, M. Duceppe.,17.0,reproché,reprocher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,parataxis,4:parataxis,_,2.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+49786,187924,"Quelle probabilité que les deux paraboles, celle de la pièce et celle de la main, ",coïncident, et que l'une retombe au creux de l'autre?,18.0,coïncident,coïncider,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+178048,671513,Leur temps politique ne ,coïncide," pas, le dernier mandat de George W. Bush s'achevant l'an prochain. « Ils appartiennent à la même génération, ce sont des personnes modernes, pragmatiques », estime un diplomate américain.",5.0,coïncide,coïncider,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

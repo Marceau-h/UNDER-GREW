@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+9155,34089,"Leur développement a été plus compliquée que prévu, notamment à cause de la finalisation tardive, début 2005, des codecs vidéo de TVHD, c'est-à-dire des algorithmes qui compressent et de ",décompressent, les flux d'images.,39.0,décompressent,décompresser,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,36.0,conj,36:conj,_,1.0
+47528,179295,Un bon moyen de ,décompresser, avant les nominations de ce soir !,5.0,décompresser,décompresser,VERB,VERB,VerbForm=Inf,3.0,acl,3:acl,_,1.0
+112785,425680,Une fois ,décompressé,", ouvrez le panneau de configuration et double cliquez sur Ajout/Suppression de programmes.",3.0,décompressé,décompresser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,advcl,5:advcl,SpaceAfter=No,1.0
+146976,554539,Une fois ,décompressé,", vous devez devez permettre l'activation des macros dans Excel 2000 au moment de l'ouverture du fichier.",3.0,décompressé,décompresser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,advcl,6:advcl,SpaceAfter=No,1.0
+232431,876201,"Appuyez sur le bouton """"",Décompresser, pour décompresser les fichiers dans le répertoire C:TransCAM.,6.0,Décompresser,décompresser,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,SpaceAfter=No,1.0

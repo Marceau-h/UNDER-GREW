@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1911,13298,Mes tost ,aler," nos an covient, ",3,aler,aler,VERB,VERinf,VerbForm=Inf,6,xcomp,_,XmlId=w_YvainKu_20661,1
+2232,14026,C'or m'an estuet ,aler," de ci, ",6,aler,aler,VERB,VERinf,VerbForm=Inf,5,xcomp,_,XmlId=w_YvainKu_30099,1
+2429,14519,"Et par costume feire suelent Autel a toz les sorvenanz, Por ce que il n'",aillent, leanz. ,17,aillent,aler,VERB,VERcjg,VerbForm=Fin,13,acl,_,XmlId=w_YvainKu_36220,1
+2488,14636,Des or mes ,aler," m'an covient Et veoir genz qui leanz sont, Savoir quel chiere il me feront. ",4,aler,aler,VERB,VERinf,VerbForm=Inf,7,xcomp,_,XmlId=w_YvainKu_37553,1

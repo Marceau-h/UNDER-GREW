@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+189624,715556,La présidence de Geneviève Andueza aura été littéralement saboté par un groupe ne supportant pas de voir leur chef ,destitué," et battu démocratiquement, pour la deuxième fois, par une femme.",20.0,destitué,destituer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,17.0,xcomp,17:xcomp,_,1.0

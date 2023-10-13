@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+190871,720120,"Pour ce deuxième album, il s’entoure d’amis musiciens et ",confit," guitares et production à un inconnu : Roy Z, le guitariste de Tribes Of The Gypsies, coécrit la majorité des titres avec Bruce.",13.0,confit,confire,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,10.0,conj,10:conj,_,3.0
+218566,824316,"Mais après avoir rencontré mon grand-père et ému par son amour pour le site, il renonce et lui prête même de l'argent"""", ",confit, l'actuel propriétaire.,27.0,confit,confire,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17.0,parataxis,17:parataxis,_,1.0

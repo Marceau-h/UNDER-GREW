@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+195056,735669,"Le fait est, dit en somme Freud, et ce fait est empirique (pas ",déduit," théoriquement), que ce que je désire, ou me représente (même indirectement ou symboliquement), a, comme tel, un pouvoir causal sur ma conduite ou mes contenus mentaux.",17.0,déduit,déduire,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,acl,14:acl,_,1.0

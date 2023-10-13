@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+53835,202920,De même la vidéo ,coupe,", mais bien sympa la visite de leur studio.",5.0,coupe,coupe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+163001,614658,Le terrain est meuble et boueux et la sawgrass ,coupe, et brûle facilement la peau.,10.0,coupe,coupe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,conj,4:conj,_,1.0
+173912,655969,"Pas d'entente, pas de contacts, les deux clubs semblent si proches et si loin l'un de l'autre. « On ne les connaît pas ",coupe, clairement le président.,30.0,coupe,coupe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+238182,897810,Le bavardage ,coupe," court, et c'est tant mieux, lorsque Stuntman Mike (le Kurt Russell viril et décontracté comme au bon vieux temps d'Escape from New York) décide de faire la peau, au volant de sa bagnole, à quelques filles délurées.",3.0,coupe,coupe,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

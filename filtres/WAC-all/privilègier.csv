@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+102413,386584,"Par ce sommet inédit avec M. Lien, Pékin a paru vouloir isoler M. Chen, sa bête noire pour ses positions indépendantistes, en ",privilègiant, l`opposition favorable à des relations amicales.,26.0,privilègiant,privilègier,VERB,VERB,Tense=Pres|VerbForm=Part,12.0,advcl,12:advcl,_,2.0

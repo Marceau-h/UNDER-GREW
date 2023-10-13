@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+239335,901891,Donner lui la chance de ,revivre,", d'éblouir les passants, et vous d'en être fier.",6.0,revivre,revivre,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,SpaceAfter=No,3.0

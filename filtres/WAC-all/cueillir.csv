@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+113349,427791,"Le moment le plus agréable n'était-il pas celui des vendanges où toute la famille, femmes, enfants, amis, voisins venaient s'égayer parmi les ceps pour ",cueillir, en chantant leurs grappes noires et pulpeuses.,32.0,cueillir,cueillir,VERB,VERB,VerbForm=Inf,27.0,advcl,27:advcl,_,1.0

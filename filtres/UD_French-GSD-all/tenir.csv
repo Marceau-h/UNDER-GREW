@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+22,fr-ud-dev_00140,"Arrivées à Nice, elles découvrent que l'homme a ",tenu," parole, et Merle est présentée à Rex Ingram qui l'emploie comme figurante. ",11,tenu,tenir,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,6,ccomp,_,_,1
+440,fr-ud-train_00368,Un groupe constitué ne ,tient," que parce qu'il partage un certain nombre de présupposés, un certain nombres de valeurs, un certain nombre de subjectivités. ",5,tient,tenir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+2038,fr-ud-train_08256,"Cependant, cet accord ne ",tient," pas longtemps et Bardas Phocas enferme Sklèros dans un château, puis s'approche de Constantinople. ",6,tient,tenir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,3

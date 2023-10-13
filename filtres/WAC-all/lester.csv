@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+58194,218903,"La renutrition se fait le plus souvent par voie entérale, à l'aide d'une sonde naso-gastrique ou naso-jéjunale ",lestée,", siliconée et de très faible diamètre pour une meilleure tolérance.",25.0,lestée,lester,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,17.0,acl,17:acl,SpaceAfter=No,1.0

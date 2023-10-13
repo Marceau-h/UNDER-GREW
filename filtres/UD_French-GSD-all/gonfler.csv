@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+831,fr-ud-train_02294,"Consécutivement aux fortes pluies qui se sont abattues sur le Québec, les conditions fortement dépressionnaires présentes sur le centre des Etats-Unis ont fait ",gonfler," le Mississippi et l'Ohio, et ont notamment provoqué des inondations dans le Tennessee, l'Arkansas et le Missouri. ",27,gonfler,gonfler,VERB,_,VerbForm=Inf,0,root,_,Subject=ObjRaising,2
+1841,fr-ud-train_07334,Un flux important de neutrons peut fragiliser ou ,gonfler, des métaux et d'autres matières. ,9,gonfler,gonfler,VERB,_,VerbForm=Inf,7,conj,_,Subject=SubjRaising,1

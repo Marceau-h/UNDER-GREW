@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+44250,167010,"Le premier scénario (celui de Robert Rodriguez, NDLR) en avait très peu. mais dès que Martin campbell a ",embarqué,", il a pris les films des années 20, ceux avec Douglas Fairbanks, comme inspiration.",23.0,embarqué,embarquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,27.0,advcl,27:advcl,SpaceAfter=No,1.0
+77699,292428,Il nous faut quelques chansons pour ,embarquer," mais après cela, on tape des mains, on tape du pied et on danse.",7.0,embarquer,embarquer,VERB,VERB,VerbForm=Inf,3.0,advcl,3:advcl,_,1.0
+93201,351550,L'homme livre toujours des prestations sur scène à la hauteur de son talent avec une énergie et une fougue qui font qu'on ne peut qu',embarquer, et se lever de nos sièges.,28.0,embarquer,embarquer,VERB,VERB,VerbForm=Inf,26.0,xcomp,26:xcomp,_,1.0
+212663,802008,«J'avais envie de voir une comédie noire jouissive et Jean-François a tout de suite eu envie d',embarquer,"», confie le scénariste.",20.0,embarquer,embarquer,VERB,VERB,VerbForm=Inf,18.0,acl,18:acl,SpaceAfter=No,1.0

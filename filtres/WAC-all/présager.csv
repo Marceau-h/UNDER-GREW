@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+206389,778797,"Tout au long du fleuve, d'immenses champs de céréales forme le pay-sage, aucun ennuis n'est à ",présager,", leurs poursuivants semble avoir abandonnés.",23.0,présager,présager,VERB,VERB,VerbForm=Inf,21.0,xcomp,21:xcomp,SpaceAfter=No,2.0

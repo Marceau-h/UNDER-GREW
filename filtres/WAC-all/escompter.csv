@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+175202,660933,"En fait, ils touchent de façon très substantielle à ce que la Mauritanie pouvait ",escompter, à partir du contrat initial signé avec Woodside.,16.0,escompter,escompter,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,1.0
+253487,954867,"Par ailleurs, l'indice de confiance des consommateurs mesuré par l'Université du Michigan a baissé moins qu'anticipé en décembre à 75,5 points, contre 74,5 points ",escomptés, lors de la précédente estimation.,30.0,escomptés,escompter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,29.0,acl,29:acl,_,1.0

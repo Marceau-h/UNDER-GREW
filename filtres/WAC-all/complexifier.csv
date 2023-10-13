@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+172991,652452,"L'environnement et les métiers du Back-Office titres se sont, d'une manière générale, profondément modifiés et ",complexifiés,", ces dernières années.",22.0,complexifiés,complexifier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,20.0,conj,20:conj,SpaceAfter=No,1.0

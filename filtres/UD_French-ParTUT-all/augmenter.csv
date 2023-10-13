@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+234,fr_partut-ud-651,"Parallèlement, le nombre de fausses pièces en euros continue d'",augmenter,", tout en demeurant limité dans une perspective historique. ",12,augmenter,augmenter,VERB,V,VerbForm=Inf,10,xcomp,_,SpaceAfter=No,2
+247,fr_partut-ud-699,"À partir de 2003, on observe une plus grande participation des autorités judiciaires, tandis qu'à partir de 2004, celle du secteur financier ",augmente," (intermédiaires financiers du secteur public, banques centrales nationales, banques commerciales et autres institutions financières). ",29,augmente,augmenter,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7,advcl,_,_,3

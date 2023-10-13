@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+66507,251004,Il a vécu dans la clandestinité en Argentine jusqu'à l'année dernière mais a été retrouvé et ,extradé, vers le Chili pour y être traduit devant la justice.,19.0,extradé,extrader,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,17.0,conj,17:conj,_,1.0

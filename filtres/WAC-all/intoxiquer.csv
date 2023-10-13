@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+132634,500925,"Le sinistre a également fait sept blessés légers, dont trois ",intoxiqués,", précisait-on de même source.",12.0,intoxiqués,intoxiquer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,7.0,acl:relcl,7:acl:relcl,SpaceAfter=No,1.0

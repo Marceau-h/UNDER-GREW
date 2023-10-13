@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+25700,96339,"En sirotant des long drinks et en fumant des cigarettes Director, ils ",contemplent, les 4 x 4 imposants des touristes sud-africains qui tirent de gros bateaux de plaisance et traversent la ville vers les plages.,14.0,contemplent,contempler,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+80038,301026,Surtout que la ville du péché est nettement moins impressionnante à ,contempler, que Mexico l'était en son temps.,12.0,contempler,contempler,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,_,1.0
+188219,709965,"Alors, oui, je contemple le futur tout en me ",contemplant, moi-même.,12.0,contemplant,contempler,VERB,VERB,Tense=Pres|VerbForm=Part,6.0,advcl,6:advcl,_,2.0

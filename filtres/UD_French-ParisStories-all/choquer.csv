@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+149,ParisStories_2019_voyageEcosse_25,"et c'est vrai q~ quand on habite à Paris, qu'on voit beaucoup de bâtiments modernes, ça ça ",choque," un peu, mais dans le sens positif. ",22,choque,choquer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4,advcl,_,_,2
+547,ParisStories_2020_blessureRecreation_17,"et tu avais tout le cercle des collégiens autour, hyper ",choqués,", et qui étaient genre là, ah mon dieu ! ",13,choqués,choquer,VERB,_,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,9,acl,_,SpaceAfter=No,1

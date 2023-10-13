@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+173,fr_partut-ud-515,Utilisez notre bouton «j',aime,» pour accroître l'impact de votre publicité. ,6,aime,aimer,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,3,acl,_,SpaceAfter=No,1

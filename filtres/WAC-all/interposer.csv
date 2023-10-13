@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+95934,362065,L'homme s'est ,interposé, lors d'une dispute entre les policiers et les manifestants pour inviter les deux clans à un peu de retenue.,5.0,interposé,interposer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+121909,460712,Par paparazzi ,interposés,", et tolérés, l'hôte de l'Elysée a officialisé sa nouvelle idylle.",3.0,interposés,interposer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0
+184849,697479,La victime s'est ,interposée," pour arrêter la bagarre, mais a reçu un coup de couteau qui lui a perforé le coeur"""", a expliqué à l'AP le procureur Makoviack.",5.0,interposée,interposer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+200350,756026,Aucune force ne s’,interpose,", les Romains refusent toujours une bataille rangée frontale.",5.0,interpose,interposer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

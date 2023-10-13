@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+5179,19269,"Pour son étude, l'IFOP a recompilé et ",retravaillé, les résultats obtenus dans le cadre de son baromètre mensuel pour Paris Match auprès d'échantillons de 1 000 personnes.,10.0,retravaillé,retravailler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0
+10427,38900,Chacune des contributions de cet ouvrage a été élaborée et ,retravaillée," pour s'intégrer dans un ensemble cohérent, et clair malgré sa densité.",11.0,retravaillée,retravailler,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,_,1.0
+15749,58790,L’auteur du spectacle doit être vivant et accepter de ,retravailler, et d’en modifier des éléments ou partis si nécessaire.,11.0,retravailler,retravailler,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,1.0
+166213,626741,Si les deux parties sont d'accord d'essayer de ,retravailler," ensemble, il faudra tout d'abord réapprendre à communiquer.",11.0,retravailler,retravailler,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,3.0
+177293,668714,Le groupe disco-électro et la chanteuse prévoient de ,retravailler, ensemble très bientôt.,11.0,retravailler,retravailler,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+134958,509640,"Une autre coutume veut aussi qu’un marin ayant passé à la voile les trois caps (Horn, Leeuwin et Bonne-Espérance) gagne le privilège de « ",pisser, et de cracher contre le vent ».,29.0,pisser,pisser,VERB,VERB,VerbForm=Inf,26.0,acl,26:acl,_,2.0
+138183,521527,"Lorsqu'il se lève enfin, avec le jour, il va ",pisser, et prendre un déjeuner...,13.0,pisser,pisser,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,_,1.0
+216511,816345,"J'ai donc laissé quelques outils dans la salle de bain, comme les chats qui ",pissent, pour délimiter leur territoire.,17.0,pissent,pisser,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,15.0,acl:relcl,15:acl:relcl,_,1.0

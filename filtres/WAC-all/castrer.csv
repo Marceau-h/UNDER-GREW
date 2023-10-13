@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+26536,99507,Un lapin mâle non ,castré, ne doit pas être mis avec un cochon d'Inde car celui-ci serait gravement mordu.,5.0,castré,castrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

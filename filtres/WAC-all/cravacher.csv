@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+13541,50634,"Avec un groupe passablement chamboulé et un nouvel entraîneur, l'OM qui devra ",cravacher," pour atteindre la Coupe de l'UEFA via l'Intertoto, avec un possible choc face à la Lazio Rome dès la demi-finale, se garde bien d'annoncer des objectifs.",15.0,cravacher,cravacher,VERB,VERB,VerbForm=Inf,14.0,xcomp,14:xcomp,_,1.0
+234149,882829,"La course au titre est dès lors utopique, les coéquipiers d'Henry devront ",cravacher," pour accrocher une des places qualificatives pour la prochaine Ligue des Champions, voire empocher une coupe pour sauver leur saison.",15.0,cravacher,cravacher,VERB,VERB,VerbForm=Inf,14.0,xcomp,14:xcomp,_,1.0

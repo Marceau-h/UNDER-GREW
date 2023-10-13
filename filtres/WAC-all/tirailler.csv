@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+106264,401042,"Le rôle de Wikipédia est de rapporter avec neutralité toutes les thèses qui composent, ",tiraillent," et unissent notre monde, en donnant à chaque thèse une place proportionnelle au « bruit » qu'elle fait dans la connaissance.",16.0,tiraillent,tirailler,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,14.0,conj,14:conj,_,1.0
+158015,595644,Vers 11 heures l'estomac commençait à ,tirailler,", peut-être aussi l'ennui et on avait besoin d'une saine distraction.",8.0,tirailler,tirailler,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,SpaceAfter=No,1.0
+254226,957837,"Bousculé, ballotté, ",tiraillé,", piétiné, submergé, ce corps gracile recèle une vigueur insoupçonnée.",5.0,tiraillé,tirailler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,1.0,conj,1:conj,SpaceAfter=No,2.0

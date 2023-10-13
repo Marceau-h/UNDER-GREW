@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1437,fr-ud-train_05495,L'économie s'est ,développée," autour des activités publiques et militaires (il y a deux bases importantes à proximité), du pétrole et du tourisme en période estivale. ",5,développée,développer,VERB,_,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,0,root,_,_,1
+3228,fr-ud-train_14350,L'entreprise crée et ,développe, des jeux d'aventures. ,5,développe,développer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,conj,_,_,1

@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+65433,246744,"A la fin de chaque nouvelle, le lecteur se sent comme abandonné, un peu ",frustré,", d'autant que j'aime bien laisser un suspense, un doute, du non-dit...",17.0,frustré,frustrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,13.0,advcl,13:advcl,SpaceAfter=No,1.0
+80612,303125,C'est un réseau ,frustré, géométriquement et de faible coordinence.,5.0,frustré,frustrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0
+92304,347956,"Magda, fille du maître, nourrie de solitude et de rêveries stériles, aigrie et ",frustrée,", murée dans sa virginité.",17.0,frustrée,frustrer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,15.0,conj,15:conj,SpaceAfter=No,1.0
+170535,643142,"Le vice-champion du monde 2003, tellement ",frustré,", s'est ensuite enfui à l'hôtel et n'a pas assisté au triomphe du Hongrois Akos Braun.",8.0,frustré,frustrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0

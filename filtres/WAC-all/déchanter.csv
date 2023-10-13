@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+88550,333319,Mais les Brestois de l'intérimaire Corentin Martins pourraient vite ,déchanter, : Reims a déposé une réserve technique puisque le remplacement à la mi-temps de Borne par Apanga n'a pas été annoncé.,11.0,déchanter,déchanter,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,2.0
+168523,635596,"Si les Celtibères avaient accueillis les Scipions en libérateurs des Carthaginois, ils ",déchantèrent, quand ils virent que les Romains s’installaient à leur tour.,14.0,déchantèrent,déchanter,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin,0.0,root,0:root,_,1.0
+263628,993605,Ca promet des lendemains qui ,déchantent, si Sarko est élu .,6.0,déchantent,déchanter,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,4.0,acl:relcl,4:acl:relcl,_,1.0

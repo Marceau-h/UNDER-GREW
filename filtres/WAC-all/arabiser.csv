@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+60210,226659,"Sous couvert d'hygiène publique et de protection du caractère urbain de la ville, cette politique repose en fait sur le cantonnement et l'éviction des immigrants ni musulmans, ni ",arabisés, en provenance du Sud.,33.0,arabisés,arabiser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,30.0,conj,30:conj,_,1.0

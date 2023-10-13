@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+13723,51251,"Le coléus, variété verte ou diversement ",panachée," (verte et blanc, vert blanc rouge) à condition d'avoir beaucoup de lumière du jour sans l'exposer directement au soleil.",8.0,panachée,panacher,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5.0,conj,5:conj,_,1.0

@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+42886,161649,Mais les justes sont en fête ils ,exultent,; devant la face de Dieu ils dansent de joie.,8.0,exultent,exulter,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,6.0,ccomp,6:ccomp,SpaceAfter=No,1.0
+63370,239100,"A camper dans la rue malgré la pluie, à se marcher dessus à l'ouverture du magasin, et à ",exulter, en vidant les rayons de leurs accessoires inutiles.,22.0,exulter,exulter,VERB,VERB,VerbForm=Inf,2.0,conj,2:conj,_,1.0
+191664,723015,"Il éliminait le gardien, l'Emirates Stadium ",exultait, déjà et l'Espagnol ratait inexplicablement le cadre vide (27).,9.0,exultait,exulter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,2.0,advcl,2:advcl,_,3.0
+219637,828181,"Et tu dis de la nuit le meurtre envers coupant, le sage qui ",exulte,", la pièce maîtresse du rut.",15.0,exulte,exulter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13.0,acl:relcl,13:acl:relcl,SpaceAfter=No,1.0
+235693,888630,Il s'agit de l'explosion de ce type la plus vive jamais observée par l'homme ,exulte," Marek Pawlowski, de l'Institut des Etudes Nucléaires.",19.0,exulte,exulter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,punct,4:punct,_,1.0

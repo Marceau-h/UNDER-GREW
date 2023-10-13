@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+144728,546123,"Les performances de la zone euro """"resteront un certain temps en deçà de son potentiel"""", qui ",avoisine, les 2 %.,20.0,avoisine,avoisiner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,16.0,acl:relcl,16:acl:relcl,_,1.0
+194228,732767,"Pour chaque fréquence, le seuil de perception est différent : les fréquences les mieux perçues (la courbe ",avoisine, le 0 dB) se situent dans la gamme moyenne entre 1 et 3 kHz.,20.0,avoisine,avoisiner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13.0,parataxis,13:parataxis,_,2.0

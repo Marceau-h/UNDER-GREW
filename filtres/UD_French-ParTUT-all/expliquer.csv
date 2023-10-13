@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+76,fr_partut-ud-162,"Lorsque nous adopterons demain le procès-verbal de la séance d'aujourd'hui, les collègues qui estimeront que les positions n'ont pas été suffisamment bien ",expliquées, pourront demander des modifications. ,26,expliquées,expliquer,VERB,V,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,16,ccomp,_,_,1

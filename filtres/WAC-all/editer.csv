@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+236687,892401,Exporter un style Créer une feuille de style externe Pour pouvoir utiliser ce style dans d'autres pages. --> Menu ,Editer, / feuille de style (Dreamweaver 3) ou Nouveau style --> Définir une feuille de style (Dreamweaver 4).,23.0,Editer,editer,VERB,VERB,VerbForm=Inf,0.0,root,0:root,_,2.0

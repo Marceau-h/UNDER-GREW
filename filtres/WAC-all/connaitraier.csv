@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+217613,820783,En plus de la section Pascal DOS est déjà alimentée la section Delphi - le pascal visuel sous Windows pour ceux qui ne ,connaitraient, pas - avec quelques composants et programmes exemples (ce qu'on peut faire en maths avec Delphi),24.0,connaitraient,connaitraier,VERB,VERB,Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,21.0,acl:relcl,21:acl:relcl,_,3.0

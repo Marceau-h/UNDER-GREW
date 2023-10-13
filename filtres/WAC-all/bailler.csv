@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+60872,229283,"C'est bon, je me lève Candy enfila sa robe de chambre vieux rose en ",baillant, et descendit les marches au bras de Terry pour aller à la salle à manger.,17.0,baillant,bailler,VERB,VERB,Tense=Pres|VerbForm=Part,9.0,advcl,9:advcl,_,3.0
+198596,749566,Le seul moyen de l'attrapper est de le supplier afin qu'il se mette à ,bailler,", ouvrant ainsi le tiroir pour que vous récupériez le voile.",17.0,bailler,bailler,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,SpaceAfter=No,1.0

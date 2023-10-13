@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1847,13123,"La dame, por ce qu'ele ",plore,", Prie li rois de remenoir Et de raler a son menoir ; ",8,plore,plorer,VERB,VERcjg,VerbForm=Fin,5,acl,_,SpaceAfter=No|XmlId=w_YvainKu_18501,1

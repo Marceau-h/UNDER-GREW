@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+38675,145570,"Enfin le moment tant attendu arriva, je m'",harnachai," et commençai à courir avec l'aile sur le dos et déjà, bien que je ne décollais pas, je fus ravi par la sensation de légèreté que l'on ressent une fois le delta gonflé.",10.0,harnachai,harnacher,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,6.0,advcl,6:advcl,_,2.0
+41031,154780,Mais jouer les pirates casqués et ,harnachés, sur de longs squales noirs bondissant sur les flots turquoises à près de 100 km/h a un coût: 50.000 euros par équipage de quatre personnes.,7.0,harnachés,harnacher,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5.0,conj,5:conj,_,1.0

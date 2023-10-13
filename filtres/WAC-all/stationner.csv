@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1077,3982,"Un citoyen a raconté qu'il lui a été impossible d'être ravitaillé en huile à chauffage, d'autres ont déploré les interdictions de ",stationner, qui se sont prolongées sur plusieurs jours - sur Saint-Michel en l'occurrence.,26.0,stationner,stationner,VERB,VERB,VerbForm=Inf,24.0,acl,24:acl,_,1.0
+3068,11512,"À la station Charles de Gaulle - Étoile, les voies forment une boucle et les rames ne font que s'arrêter ou ",stationner, brièvement sans changer de conducteur.,24.0,stationner,stationner,VERB,VERB,VerbForm=Inf,22.0,conj,22:conj,_,1.0
+51862,195597,L’interdiction de s’arrêter et de ,stationner, se manifeste par une croix sur fond bleu dans un panneau rouge rond.,8.0,stationner,stationner,VERB,VERB,VerbForm=Inf,5.0,conj,5:conj,_,1.0

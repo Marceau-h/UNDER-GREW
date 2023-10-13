@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+55684,209647,"Le verbe, c'est tacher ou se tacher (",salir," ou se salir en faisant une tache; souiller, maculer)",11.0,salir,salir,VERB,VERB,VerbForm=Inf,6.0,advcl,6:advcl,_,1.0

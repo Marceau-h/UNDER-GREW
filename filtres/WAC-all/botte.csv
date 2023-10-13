@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+67403,254468,Si l'équipe qui ,botte," ne parvient pas à récupérer le ballon avant l'équipe adverse, celle-ci commencera sa phase d'attaque à une distance proche de la ligne des buts.",5.0,botte,botte,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,acl:relcl,3:acl:relcl,_,1.0

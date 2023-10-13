@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+253500,954944,"Physiquement amoindri, le malade se trouve aussi psychologiquement ",désemparé, et économiquement affaibli.,10.0,désemparé,désemparer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,xcomp,7:xcomp,_,2.0

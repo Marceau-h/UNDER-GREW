@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+89060,335431,Consulter la notice explicative de la demande dattribution de DPU par la réserve nationale au titre de la reconversion totale dun atelier bovin ,allaitant," ou laitier entre 2000 et le 15 mai 2004 au format Pdf, en cliquant Ici.",24.0,allaitant,allaiter,VERB,VERB,Tense=Pres|VerbForm=Part,22.0,acl,22:acl,_,1.0

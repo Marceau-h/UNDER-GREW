@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1740,fr-ud-train_06841,À noter que devant l'étendue du travail à ,fournir,", Ray sollicitera pour l'occasion le talent d'autres animateurs avec lesquels il partagera à regret son travail. ",11,fournir,fournir,VERB,_,VerbForm=Inf,9,acl,_,SpaceAfter=No|Subject=Generic,1

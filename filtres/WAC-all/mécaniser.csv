@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+213092,803651,"Aussi, par exemple, de simples divisions d'infanterie sont devenues « blindées » en ajoutant des régiments de chars, « ",mécanisées, » en embarquant l'infanterie dans des camions de transport ou « para » en larguant les hommes en parachute.,24.0,mécanisées,mécaniser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,14.0,advcl,14:advcl,_,1.0
+217110,818843,"Le résultat : des emballages plus performants parce que plus légers, moins encombrants, plus faciles à ",mécaniser,", plus pratiques mais aussi plus résistants et plus esthétiques.",19.0,mécaniser,mécaniser,VERB,VERB,VerbForm=Inf,17.0,xcomp,17:xcomp,SpaceAfter=No,1.0

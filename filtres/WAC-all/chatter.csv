@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+66835,252267,"Aujourd'hui, des milliers d'Irakiens s'entassent dans les boutiques Internet pour vérifier leurs mails, ",chatter," et surfer, surmontant la crainte de voir tout lieu public devenir la cible d'un attentat.",18.0,chatter,chatter,VERB,VERB,VerbForm=Inf,14.0,conj,14:conj,_,1.0
+244573,921699,Seuls 3 % consultent essentiellement leur ordinateur pour ,chatter,", et pour 3 % également, la meilleure partie de leur temps sur Internet consiste à charger des films ou de la musique.",9.0,chatter,chatter,VERB,VERB,VerbForm=Inf,4.0,advcl,4:advcl,SpaceAfter=No,1.0

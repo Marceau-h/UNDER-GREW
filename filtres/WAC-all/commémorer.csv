@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+167025,629768,"Ainsi, l'évènement n'est pas oublié mais ",commémoré, et la douleur qu'il a suscitée s'atténue voire disparaît.,10.0,commémoré,commémorer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,3.0

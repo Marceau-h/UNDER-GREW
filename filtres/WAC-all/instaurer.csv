@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+25752,96572,"Il revendique l'abrogation de la réforme LMD, et de façon plus générale, l'abrogation de toute la législation qui a ",instauré, puis développé l'autonomie des universités (notamment les lois Faure de 1968 et Savary de 1984).,24.0,instauré,instaurer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,21.0,acl:relcl,21:acl:relcl,_,3.0
+133492,504211,"Pour rappel, ce prix nouvellement ",instauré," récompensera, le soir de la clôture, le meilleur film algérien en compétition ou en dehors (au panorama).S. Kh.",7.0,instauré,instaurer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0

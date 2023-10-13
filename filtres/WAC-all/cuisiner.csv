@@ -1,0 +1,9 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+32633,122943,"Parallèlement à cet enseignement, une fois par mois, nous nous rendons chez Stéphane Locatelli pour réaliser une recette&#133; Car pour ",cuisiner,", il faut du matériel spécifique et les conseils d'un grand chef.",24.0,cuisiner,cuisiner,VERB,VERB,VerbForm=Inf,27.0,advcl,27:advcl,SpaceAfter=No,1.0
+36941,139027,Des conseils pour bien ,cuisiner,", pour organiser une réception, choisir les vins.",5.0,cuisiner,cuisiner,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,SpaceAfter=No,1.0
+51650,194784,Ça fait drôle de ne pas devoir allumer le feu en revenant le soir pour ,cuisiner,", rigole Hélène Moix.",17.0,cuisiner,cuisiner,VERB,VERB,VerbForm=Inf,13.0,advcl,13:advcl,SpaceAfter=No,2.0
+104765,395300,Le domicile conjugal appartient à lhomme et à la femme : les deux doivent sentraider pour ,cuisiner, et faire le ménage.,17.0,cuisiner,cuisiner,VERB,VERB,VerbForm=Inf,15.0,advcl,15:advcl,_,1.0
+113390,427930,"En 2005, Ritchie avait dit à People ne pas ",cuisiner, ni faire de ménage.,11.0,cuisiner,cuisiner,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,1.0
+214438,808689,Des accidents souvent bêtes qui arrivent en ,cuisinant,", en bricolant, voire en s'occupant d'animaux et cependant des accidents aux conséquences dramatiques.",8.0,cuisinant,cuisiner,VERB,VERB,Tense=Pres|VerbForm=Part,6.0,advcl,6:advcl,SpaceAfter=No,1.0
+218450,823888,Nagi a peur du noir et est connue pour être un désastre en ,cuisinant,", frôlant la mort.",14.0,cuisinant,cuisiner,VERB,VERB,Tense=Pres|VerbForm=Part,8.0,advcl,8:advcl,SpaceAfter=No,1.0
+249798,941113,"Reste la carcasse, que l'on peut découper au sécateur et ",cuisiner,", sachant que la meilleure chair est celle qui touche l'os.",13.0,cuisiner,cuisiner,VERB,VERB,VerbForm=Inf,9.0,conj,9:conj,SpaceAfter=No,1.0

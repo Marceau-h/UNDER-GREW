@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+187934,708900,Arrêté pour ivresse puis ,relaché,", Al Willis est suspecté d'etre l'auteur d'un triple meurtre.",5.0,relaché,relacher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,1.0,conj,1:conj,SpaceAfter=No,1.0

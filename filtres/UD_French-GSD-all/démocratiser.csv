@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3206,fr-ud-train_14212,Ces unités se sont ,démocratisées, et on en retrouve aujourd'hui dans plusieurs pays. ,5,démocratisées,démocratiser,VERB,_,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act,0,root,_,_,1

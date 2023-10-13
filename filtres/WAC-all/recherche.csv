@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+215277,811730,Designer en prospective des transports - L'ISD valenciennes ,recherche, pour rentrée 2001-02 designer professionnel expérimenté pour poste de Directeur de projet.,10.0,recherche,recherche,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

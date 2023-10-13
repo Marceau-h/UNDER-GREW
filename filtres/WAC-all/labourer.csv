@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+58410,219695,Aussi leur maçonnerie avait-elle souvent été démantelée et leur arène ,labourée, et mise en culture.,12.0,labourée,labourer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,11.0,acl,11:acl,_,1.0
+81542,306524,Les motoculteurs semi-pro sont idéales pour ,labourer,", binner, sarcler, butter, arracher les pommes de terre ou passer la herse.",7.0,labourer,labourer,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,SpaceAfter=No,1.0

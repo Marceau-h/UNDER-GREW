@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+115476,435879,"S'il était projeté sur une île déserte, privé de son Natel, il ",dépérirait,", sevré de contacts sociaux"""", s'amuse un ami.",17.0,dépérirait,dépérir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+241616,910785,"Toute culture naît, vit, ",dépérit,", meurt, se transforme, s'enrichit à nouveau, sans cesse, et dans le même temps est toujours portée à nier ce qui n'est pas elle.",7.0,dépérit,dépérir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,conj,3:conj,SpaceAfter=No,1.0

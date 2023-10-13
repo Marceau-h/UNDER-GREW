@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1446,fr-ud-train_05534,La ville ,compte," ou a compté de très nombreux résidents célèbres dont Diana Ross, Mel Gibson, le catcheur de la WWE Triple H (Paul Levesque), Tommy Hilfiger, Richard Attias, Vince McMahon, Patricia MacDonald et Cécilia Attias, ex Sarkozy. ",3,compte,compter,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1

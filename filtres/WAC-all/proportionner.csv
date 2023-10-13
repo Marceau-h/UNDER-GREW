@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+47240,178156,Son poids adulte est de 500 kg. Sa morphologie trahit son aptitude laitière: mamelle bien développée et bien ,proportionnée,", bassin apte aux vélages faciles et ossature perceptible sous la peau.",21.0,proportionnée,proportionner,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,18.0,conj,18:conj,SpaceAfter=No,1.0

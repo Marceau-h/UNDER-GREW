@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+23186,87150,"Le futur président, qui entrera en fonction le 22 janvier, s'est engagé à ne pas ",exproprier, ni confisquer les biens des compagnies étrangères qui possèdent des installations pétrolières dans le pays.,19.0,exproprier,exproprier,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,1.0
+248548,936632,Plus de 400 personnes ,expropriées," lors de la construction de l'oléoduc Tchad-Cameroun doivent encore être indemnisées et leurs dossiers ont enregistré """" très peu d'avancées"""", a rapporté samedi la radio nationale camerounaise.",5.0,expropriées,exproprier,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,3.0

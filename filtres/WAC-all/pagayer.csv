@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+230772,869951,Sur la photo : Les athlètes devront ,pagayer,", courir, marcher, rouler et nager à l'occasion de ce raid de 24 heures.",8.0,pagayer,pagayer,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,SpaceAfter=No,1.0

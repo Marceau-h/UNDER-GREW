@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+81689,307057,"D'autres, qui n'étaient pas encore informatisées au moment du lancement de l'entreprise du CCFr, se sont mis depuis à ",automatiser, et mettre en ligne leurs catalogues.,25.0,automatiser,automatiser,VERB,VERB,VerbForm=Inf,22.0,xcomp,22:xcomp,_,1.0
+91738,345746,La méthode ALCESTE : La méthode Alceste est une méthode de statistique textuelle informatisée et entièrement ,automatisée, pour l'analyse sémiotique de discours.,17.0,automatisée,automatiser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,14.0,conj,14:conj,_,1.0
+94454,356563,"A l'instar d'ING Wholesale Banking, ces derniers bénéficient du dispositif de traitement fortement ",automatisé," proposé par SG GSSI, qui constitue une véritable innovation.",17.0,automatisé,automatiser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,15.0,amod,15:amod,_,1.0
+116242,438866,Les GDS ont été développés à l'origine par les compagnies aériennes pour simplifier et ,automatiser, la gestion des réservations.,16.0,automatiser,automatiser,VERB,VERB,VerbForm=Inf,14.0,conj,14:conj,_,1.0

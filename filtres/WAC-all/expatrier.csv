@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+143138,540395,Malgré des financiers qui se sont ,expatriés,", malgré des investissements qui fuient à Singapour, le Cinéma garde espoir et capitaux.",7.0,expatriés,expatrier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,3.0,acl:relcl,3:acl:relcl,SpaceAfter=No,2.0

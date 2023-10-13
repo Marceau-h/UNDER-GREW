@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+27792,104359,"Elle se présente comme un bloc monolithique """" ",tapissé," """" de graphismes sinueux et invite à un parcours intérieur insolite de 117 mètres, sorte de chemin ascendant coupé de paliers et de rampes, qui conduit de la base à la grande salle du sommet.",9.0,tapissé,tapisser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0

@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+16174,60490,"L'article aurait pu juste être nettoyé, ",réorganisé," ou recyclé, j'avais même émis cette idée dans la PàS, personne n'a répondu, alors bon...",9.0,réorganisé,réorganiser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,conj,7:conj,_,1.0
+105282,397262,"Par ailleurs, un explorateur de document interactif permet d'ajouter, de supprimer ou de ",réorganiser, tous les chapitres de votre projet.,17.0,réorganiser,réorganiser,VERB,VERB,VerbForm=Inf,11.0,conj,11:conj,_,1.0
+139888,527787,"Elles ont adopté les méthodes de gestion du privé, se sont ",réorganisées,", professionnalisées, diversifiées.",13.0,réorganisées,réorganiser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,3.0,conj,3:conj,SpaceAfter=No,1.0
+225898,852062,"L’ordre est conservé par le Tsar Alexandre Ier, puis ",réorganisé, et devint officiellement en 1831 un ordre impérial et royal russe suite à l’Insurrection de Novembre.,12.0,réorganisé,réorganiser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,_,1.0

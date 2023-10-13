@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+154253,581884,"En plus de gérer votre bibliothèque de musique et de films, Banshee supporte les podcasts (audio et vidéo), importe ou ",grave, des CD-Rom et se connecte aux baladeurs numériques.,25.0,grave,grave,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,23.0,conj,23:conj,_,2.0

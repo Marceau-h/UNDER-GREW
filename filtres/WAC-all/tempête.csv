@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+51357,193640,"Moussa Sow est le point focal de cette affaire"""", ",tempête, le prêtre.,12.0,tempête,tempête,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,parataxis,5:parataxis,_,1.0

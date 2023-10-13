@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+141854,535470,"Le générique lugubre des """"Maîtres du mystère"""", tant attendu, me préparait déjà à vivre des émotions fortes, à vibrer de frayeur aux instants cruciaux, bien ",calfeutré,", dans la nuit noire sous mes draps protecteurs.",32.0,calfeutré,calfeutrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,24.0,advcl,24:advcl,SpaceAfter=No,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+11604,43478,Sans la liberté de ,blâmer,", il n'est point d'éloge flatteur.",5.0,blâmer,blâmer,VERB,VERB,VerbForm=Inf,3.0,acl,3:acl,SpaceAfter=No,1.0
+67093,253208,Le navigateur de Mozilla n'est donc sans doute pas le premier à ,blâmer," mais pour le coup, la POC apparemment facilement transformable en exploit, l'implique.",14.0,blâmer,blâmer,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,_,1.0
+132962,502220,"Or, le secteur collégial n'est pas à ",blâmer,", poursuit M. Couture.",10.0,blâmer,blâmer,VERB,VERB,VerbForm=Inf,4.0,amod,4:amod,SpaceAfter=No,2.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+236754,892603,"Mécaniquement, les évolutions concernent la direction mieux ",démultipliée," avec 2,4 tours de volant de butée à butée au lieu de 3,6 précédemment, et un châssis avec de nouvelles suspensions.",9.0,démultipliée,démultiplier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl,7:acl,_,1.0

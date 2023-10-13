@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+95799,361614,"Généralement le repas débute par une salade composée de tomates, concombres, poivrons et oignons, souvent suivie d'une soupe, souvent ",épicée, ou une potage.,25.0,épicée,épicer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,22.0,acl,22:acl,_,1.0

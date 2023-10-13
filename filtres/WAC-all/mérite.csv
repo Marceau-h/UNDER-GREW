@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+12961,48517,La gravité de la situation sur le marché du crédit en Europe ,mérite, plus que des jeux de rivalités personnelles.,13.0,mérite,mérite,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+105226,397077,Le FMI ,mérite, mieux que d'être transformé en agence de notation publique et en simple gendarme du capital financier.,3.0,mérite,mérite,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+136223,514323,"Rien n'est moins sûr, même si le fameux tireur de coups francs ",mérite, mieux qu'un simple statut de remplaçant.,15.0,mérite,mérite,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,advcl,5:advcl,_,1.0
+217039,818543,"Le mot """"intérêt"""" ",mérite,", pour le moins, qu’on lui prête attention en passant.",6.0,mérite,mérite,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0

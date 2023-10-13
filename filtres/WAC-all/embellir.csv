@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+125571,474343,"Propriété La commune est propriétaire d'espaces publics qu'elle transforme, entretient et ",embellit," : jardins publics, hôtel de ville, stades...",15.0,embellit,embellir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,13.0,conj,13:conj,_,1.0
+136610,515591,"Les Verreycken, devenus seigneurs haut-justiciers, se plurent à agrandir et à ",embellir, la maison forte des Hosdain.,14.0,embellir,embellir,VERB,VERB,VerbForm=Inf,11.0,conj,11:conj,_,1.0
+204322,771133,"Composez votre service de table, pour les petites ou grandes occasions de recevoir et ",embellir,", tous les jours, vos déjeuners et dîners.",16.0,embellir,embellir,VERB,VERB,VerbForm=Inf,14.0,conj,14:conj,SpaceAfter=No,2.0

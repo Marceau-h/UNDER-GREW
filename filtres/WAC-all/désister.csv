@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+187419,706984,La majorité des partenaires s'est ,désistée," et le déficit prévisionnel de l'édition 2005 s'établissait à 40 000 euros"""", a écrit mercredi Le Télégramme, associé à ce Grand prix qui porte son nom.",8.0,désistée,désister,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

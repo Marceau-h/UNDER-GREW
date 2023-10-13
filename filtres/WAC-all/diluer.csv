@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+52089,196476,Le bpa ,dilué," net a été de 15 cents, contre 8 cents l'an dernier, sur la même période.",3.0,dilué,diluer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+136950,516937,La bulle contient du plasma à haute-température de façon très ,diluée,", ce qui suggère qu'elle est le produit de plusieurs supernovae récentes[82].",11.0,diluée,diluer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,9.0,acl,9:acl,SpaceAfter=No,1.0
+165966,625769,"La gamme Minidou Sensations (format doses, ",dilué," ou concentrés) déclinée en cinq parfums : Lait Adoucissant : Hypoallergénique et sans colorants, il respecte la peau, même la plus sensible.",9.0,dilué,diluer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+195645,738005,"Je craignais plutôt que si ces discussions continuaient trop longtemps, le projet aurait été affaibli, ",dilué, et qu'il n'y aurait pas eu de grand progrès ou de réelle réforme.,18.0,dilué,diluer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16.0,conj,16:conj,_,1.0
+204997,773668,Et à quoi se réduit elle dans la limite des milieux très ,dilués, et dans celle des milieux très denses?,13.0,dilués,diluer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,11.0,acl,11:acl,_,3.0
+216777,817512,"Laissez refroidir, filtrer et ",diluer," avec 1,5 l d'eau.",6.0,diluer,diluer,VERB,VERB,VerbForm=Inf,2.0,conj,2:conj,_,1.0

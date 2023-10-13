@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+87569,329551,"Il est doté d'une piste de 915 mètres, ",pavée, et munie d'un système d'éclairage pour l'atterrissage de nuit.,11.0,pavée,paver,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,1.0

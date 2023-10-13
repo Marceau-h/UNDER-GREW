@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+104,w01025085,D'importantes pièces d'artillerie lourde furent cependant ,abandonnées,", et les raisons pour lesquelles la voie ferrée en direction de Flensburg n'a pas été utilisée pour l'évacuation des troupes restent sujettes à débat pour les historiens. ",9,abandonnées,abandonner,VERB,VBN,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,0,root,_,SpaceAfter=No,1

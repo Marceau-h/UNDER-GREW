@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+20235,75822,"Cette action, qu'il est préférable d'",intenter," lorsque le contrat a été entièrement exécuté, permet à la personne publique d'obtenir le remboursement de toutes les sommes versées au cocontractant fautif.",9.0,intenter,intenter,VERB,VERB,VerbForm=Inf,7.0,dep,7:dep,_,1.0

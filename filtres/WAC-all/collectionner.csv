@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+66780,252078,Des points à ,collectionner, pour recevoir des planches originales du Déserteur!,4.0,collectionner,collectionner,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0
+194287,732993,Le fait de ramasser et de ,collectionner, est déjà un acte de mémorisation.,7.0,collectionner,collectionner,VERB,VERB,VerbForm=Inf,4.0,conj,4:conj,_,1.0
+255771,963852,"Ce n'est pas un site qui parle longuement de wargames, de jeux de figurines, de jeux de cartes à ",collectionner,", de jeux informatiques ou d'autre choses qui ne soient clairement pas du jeu de rôles.",23.0,collectionner,collectionner,VERB,VERB,VerbForm=Inf,21.0,acl,21:acl,SpaceAfter=No,1.0

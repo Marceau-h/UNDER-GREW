@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+138893,524202,Six personnes sur dix ne savent pas que la frontière la plus ,militarisée, au monde est celle séparant les deux Corée: 30% croyaient plutôt que c'était celle séparant les États-Unis du Mexique.,13.0,militarisée,militariser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0

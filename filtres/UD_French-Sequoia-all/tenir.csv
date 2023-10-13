@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+434,frwiki_50.1000_00669,- Décembre 1995 : deux témoignages ne ,tenant," plus, le juge Éric Halphen accorde un non-lieu à Michel Roussin. ",8,tenant,tenir,VERB,_,Tense=Pres|VerbForm=Part,15,advcl,_,_,1

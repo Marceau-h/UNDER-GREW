@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+115975,437764,J'ai bien pensé aux effets spéciaux mais ce qui me fait ,tiquer, c'est qu'on voit des montagnes au loin.,13.0,tiquer,tiquer,VERB,VERB,VerbForm=Inf,9.0,acl:relcl,9:acl:relcl,_,3.0

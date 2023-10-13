@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+24707,92549,"L'institution londonienne l'a étudiée, ",soupesée," puis acceptée comme copie historique en cadeau gracieux de ses mécènes (98 000 £ selon l'enquête, 5 000 £ selon Shaun Greenhalgh).",8.0,soupesée,soupeser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,1.0
+252196,949916,"Pour ce type de produits, les acheteurs préfèrent toucher, voir et ",soupeser,", ce que les méthodes de vente de Dell ne permettent pas et cela favorise les marques vendues en magasin.",14.0,soupeser,soupeser,VERB,VERB,VerbForm=Inf,10.0,conj,10:conj,SpaceAfter=No,1.0

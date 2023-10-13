@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1221,11707,"- Certes, Kex, ja fussiez crevez, Fet la reïne, au mien ",cuidier,", Se ne vos poïssiez vuidier Del venin don vos estes plains. ",16,cuidier,cuidier,VERB,VERinf,VerbForm=Inf,8,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_596,2
+1338,11935,"Et la soe remest antiere, Qu'ele n'estoit mie legiere, Einz pesoit plus, au mien ",cuidier,", Que nule lance a chevalier, Qu'ainz nule si grosse ne vi. ",20,cuidier,cuidier,VERB,VERinf,VerbForm=Inf,15,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_3731,2

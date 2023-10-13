@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+234278,883306,"Ca n'a aucun rapport», s'est ",offusqué," Alexandre Tagliani, qui a tout de même complété le Grand Prix Champ Car de Montréal en septième place après être parti de la 12e, la veille.",10.0,offusqué,offusquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,parataxis,3:parataxis,_,1.0

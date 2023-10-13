@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+226579,854543,Le seul document dont vous devez vous ,munir," préalablement à cet entretien, est éventuellement votre numéro d'identifiant du CNED qui vous a déjà été notifié, dans le cas d'une inscription préalable au CNED.",8.0,munir,munir,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,1.0

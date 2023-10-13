@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+49893,188335,"Il fallait d'abord trouver au milieu des rochers, un point que les navires puissent ",accoster, assez facilement pour y déposer les matériaux.,17.0,accoster,accoster,VERB,VERB,VerbForm=Inf,16.0,xcomp,16:xcomp,_,1.0
+243100,916272,"Nous aimerions ne pas avoir trop d'écluses à passer (le canal du Midi en compte60), un trajet avec plein de petits villages ou de sites que nous pourrions visiter en bicyclette et où il est facile d'",accoster, pour aller déguster un bon repas le soir.,42.0,accoster,accoster,VERB,VERB,VerbForm=Inf,40.0,dep,40:dep,_,1.0

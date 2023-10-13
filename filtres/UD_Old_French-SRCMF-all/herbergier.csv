@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2648,14960,Jorz avoit passez ne sai quanz Que messire Gauvains s'estoit ,Herbergiez,", si qu'an ne savoit De lui a cort nule novele, Fors que seulemant la pucele Por cui il se voloit conbatre. ",12,Herbergiez,herbergier,VERB,VERppe,Tense=Past|VerbForm=Part,3,advcl,_,SpaceAfter=No|XmlId=w_YvainKu_41342,2

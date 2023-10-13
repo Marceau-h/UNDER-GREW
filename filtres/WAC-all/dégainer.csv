@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+167108,630031,"En supériorité numérique, Higgins y est allé d'une belle manoeuvre au haut de la zone, feignant de ",dégainer, avant de couper vers le centre et de suprendre Miller d'un tir des poignets.,21.0,dégainer,dégainer,VERB,VERB,VerbForm=Inf,19.0,xcomp,19:xcomp,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+177639,670057,"Et puis cette répétition, dans le sous-sol de la maison de Fabrice, aux sols jonchés de coussins, aux murs cachés par des tas de tentures, ",dépareillées," mais joyeuses, un mixte de salon oriental et de salle de jeu pour petits enfants.",30.0,dépareillées,dépareiller,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,28.0,acl,28:acl,_,1.0

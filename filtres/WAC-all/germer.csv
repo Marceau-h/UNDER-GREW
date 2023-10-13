@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+65668,247630,Le spiritisme a ,germé,", jeté des racines profondes ; il va étendre sur la terre ses rameaux bienfaisants.",4.0,germé,germer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0
+121506,459182,Le cycle est bouclé : en ,germant,", ces spores donneront à nouveau des myceliums primaires.",7.0,germant,germer,VERB,VERB,Tense=Pres|VerbForm=Part,4.0,advcl,4:advcl,SpaceAfter=No,1.0
+138252,521797,D'autres graines peuvent être amenées à ,germer, afin de tuer les jeunes pousses dès leur apparition.,8.0,germer,germer,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,1.0
+216097,814715,Méconnaître cette demande au moment opportun pourrait empêcher le grain de ,germer,": « l'expérience pastorale montre que la première manifestation de la vocation naît, dans la plupart des cas, dans l'enfance et dans l'adolescence.",12.0,germer,germer,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,SpaceAfter=No,1.0
+247456,932558,Le Temps: Comment a ,germé, l'idée de discuter entre quelques Etats de l'ouverture des frontières?,6.0,germé,germer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

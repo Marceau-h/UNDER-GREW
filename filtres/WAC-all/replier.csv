@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+58292,219207,Même si le prix de l'essence s'est un peu ,replié,", la proportion du revenu des gens qui vont au carburant nuit encore aux autres secteurs du commerce au détail, estiment les analystes.",12.0,replié,replier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,24.0,advcl,24:advcl,SpaceAfter=No,1.0
+129350,488350,"Disposant d'une supériorité numérique, le parti présidentiel s'est ",replié, et rengaine son arme de destitution.,12.0,replié,replier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

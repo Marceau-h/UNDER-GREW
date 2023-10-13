@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1251,11751,"Car, s'il la puet an son oïr Prendre, et anclorre, et ",retenir,", Les oroilles sont voie et doiz Par ou s'an vient au cuer la voiz ; ",16,retenir,retenir,VERB,VERinf,VerbForm=Inf,10,conj,_,SpaceAfter=No|XmlId=w_YvainKu_1158,1
+1993,13481,Iqui fu ,retenuz," li cuens, ",3,retenuz,retenir,VERB,VERppe,Tense=Past|VerbForm=Part,0,root,_,XmlId=w_YvainKu_22958,1

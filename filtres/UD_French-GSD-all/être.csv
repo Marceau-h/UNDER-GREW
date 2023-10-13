@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2368,fr-ud-train_10003,"Si les présents ont tenu à marquer cette date par des récits de témoignages et des interventions d'acteurs politiques et de la société civile, c'",est, pour rappeler à la France officielle que « tourner la page ne signifie guère l'oubli ». ,28,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,2
+2991,fr-ud-train_13036,"Et s'il reste à Paris, c'",est, pour s'entraîner à l'écart du groupe professionnel. ,9,est,être,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,2

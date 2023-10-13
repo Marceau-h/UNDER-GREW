@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+15882,59297,"Si ces gros canons pouvaient abattre les murs d'un château, ils étaient difficiles à ",manœuvrer, lors d'une bataille.,17.0,manœuvrer,manœuvrer,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,1.0
+91336,344156,K'inich Ahkal Mo' Nab' III est certainement arrivé au pouvoir après avoir passé des années à ,manœuvrer, et à forger des alliances politiques.,20.0,manœuvrer,manœuvrer,VERB,VERB,VerbForm=Inf,16.0,xcomp,16:xcomp,_,1.0
+204638,772345,"De plus, le sous-marin pouvait ",manœuvrer, et se trouver hors de la zone visée par les grenades.,7.0,manœuvrer,manœuvrer,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,1.0
+216131,814871,Libourne est une équipe difficile à ,manœuvrer, mais nous sommes bien rentrés dans le match.,7.0,manœuvrer,manœuvrer,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,1.0

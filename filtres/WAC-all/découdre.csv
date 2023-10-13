@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+19484,73061,Le premier était mu par le besoin d'en ,découdre,", d'éblouir; le second erre avec une désinvolture potache, peu au fait des avidités et des antagonismes du monde qui l'idolâtre.",10.0,découdre,découdre,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,SpaceAfter=No,1.0
+27523,103268,Les ultras qui voulaient en ,découdre, se voyant même brimés par les autres supporteurs de leur même équipe.,6.0,découdre,découdre,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,1.0
+29642,111723,"Là, «le centre commercial de la Sablonnière devient le lieu de rassemblement de nombreuses bandes qui veulent en ",découdre,"», confie un commissaire de police.",21.0,découdre,découdre,VERB,VERB,VerbForm=Inf,19.0,xcomp,19:xcomp,SpaceAfter=No,1.0
+110986,418800,"En tous cas, les ONG semblent très remontées, prêtes à en ",découdre, contre un président accusé désormais d'avoir trahi les espoirs des Kenyans.,14.0,découdre,découdre,VERB,VERB,VerbForm=Inf,11.0,xcomp,11:xcomp,_,2.0
+168056,633719,Il s'agira d'un jeu de courses très orienté action dans lequel de puissants camions n'hésitent pas à en ,découdre, pour s'assurer la victoire à coup de roquettes et autres mitrailleuses.,22.0,découdre,découdre,VERB,VERB,VerbForm=Inf,18.0,xcomp,18:xcomp,_,1.0
+194449,733560,Le nouvel SFR est arrivé et est prêt à en ,découdre, avec son grand rival Orange.,11.0,découdre,découdre,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,_,2.0

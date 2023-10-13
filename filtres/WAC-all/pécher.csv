@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+140090,528563,L'homme qui avait ,péché,", s'acquitta envers la justice, parce que la miséricorde lui prêta, pour payer sa dette, la divinité du Verbe.",5.0,péché,pécher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl:relcl,2:acl:relcl,SpaceAfter=No,1.0
+148704,561183,"Chaque jour un chapitre de la bible est lu avant de discuter des répartitions des tâches, des punitions des moniales ayant ",péché, et des décisions importantes de relation de justice vis-à-vis du monde extérieur.,23.0,péché,pécher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,21.0,acl,21:acl,_,1.0
+159988,603264,"Mes petits enfants, je vous écris ces choses, afin que vous ne ",péchiez, point.,15.0,péchiez,pécher,VERB,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin,7.0,advcl,7:advcl,_,1.0
+179257,676309,"Pour le cardinal Renato Martino, la voiture peut être pour son utilisateur l'occasion de ",pécher," lorsqu'elle est utilisée comme un lieu de péché"""".",17.0,pécher,pécher,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,2.0
+222014,837153,Nos pères ont ,péché,", ils ne sont plus, Et c'est nous qui portons la peine de leurs iniquités.",4.0,péché,pécher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,SpaceAfter=No,1.0
+226722,855210,"Or le Christ dit : """"ni lui, ni ses parents n'ont ",péché," (Jn 9, 3).",15.0,péché,pécher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,advcl,4:advcl,SpaceAfter=No,2.0

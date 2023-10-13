@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1636,fr-ud-train_06358,"L'autre partie de la Armée devait d'attaquer à proximité de Narew, ",attaquer," le long de la rivière Bug, et prendre la direction de Brest-Litovsk. ",9,attaquer,attaquer,VERB,_,VerbForm=Inf,7,xcomp,_,Subject=SubjRaising,2

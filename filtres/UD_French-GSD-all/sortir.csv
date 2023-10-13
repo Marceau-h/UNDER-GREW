@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1286,fr-ud-train_04754,Les assiettes ne sont pas forcément très garnies (encore un peu faim en ,sortant,") sauf pour les salades, mais on est servis rapidement pour un prix raisonnable. ",15,sortant,sortir,VERB,_,Tense=Pres|VerbForm=Part,13,acl,_,SpaceAfter=No,1
+1761,fr-ud-train_06909,Mais les « jaunes et noirs » ont entre temps perdu la plupart de leurs joueurs clés (notamment Tomáš Rosický et David Odonkor) pour s'en ,sortir,", et procédé à de nombreuses réductions de salaire. ",29,sortir,sortir,VERB,_,VerbForm=Inf,16,acl,_,SpaceAfter=No|Subject=SubjRaising,1

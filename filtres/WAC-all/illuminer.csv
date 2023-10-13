@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+223922,844547,Les enfants peuvent lui rendre visite dans son chalet ,illuminé, et décoré par des automates d'ours blancs.,10.0,illuminé,illuminer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,1.0
+263545,993312,Elle a donné au zoo lausannois un lézard rose qui a pris place dans un terrarium ,illuminé, et rempli de sable.,17.0,illuminé,illuminer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,16.0,acl,16:acl,_,1.0

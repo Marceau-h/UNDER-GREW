@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+87324,328619,Des cours de base permettraient aux enfants de ,patauger," et c'est sûr que ça aiderait"""", a expliqué hier le Dr Jacques Ramsay.",9.0,patauger,patauger,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,1.0
+236885,893112,Seront considérés inaptes les chiens qui refusent d'entrer dans l'eau ou qui se contentent de ,patauger, au lieu de nager.,18.0,patauger,patauger,VERB,VERB,VerbForm=Inf,16.0,xcomp,16:xcomp,_,3.0

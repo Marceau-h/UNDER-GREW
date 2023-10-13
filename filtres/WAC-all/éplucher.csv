@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+66423,250639,Astuce : une fois ,épluchés,", les fruits et les légumes noircissent au contact de l'air par oxydation.",5.0,épluchés,éplucher,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,12.0,advcl,12:advcl,SpaceAfter=No,1.0
+114061,430427,Les femmes remplissaient une marmite avec des légumes ,épluchés," et coupés, des morceaux de viande de porc et une pâte à far.",9.0,épluchés,éplucher,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,8.0,acl,8:acl,_,1.0
+145178,547807,"Comme chaque semaine, on a fouillé, ",épluché,", puis lu et relu vos commentaires.",9.0,épluché,éplucher,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,conj,7:conj,SpaceAfter=No,1.0

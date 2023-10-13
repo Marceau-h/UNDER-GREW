@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+130,fr-ud-dev_00803,"L'accord engendrera une perte financière considérable pour l'UE, a ",souligné, la même source. ,13,souligné,souligner,VERB,_,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act,3,parataxis:insert,_,_,1
+2674,fr-ud-train_11537,"En Afghanistan, la production d'opium, qui alimente le trafic d'héroïne vers l'Europe, a atteint en 2009, pour la deuxième année consécutive, un « niveau record », ",soulignait, le dernier rapport de l'Office des Nations unies contre la drogue et le crime. ,36,soulignait,souligner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,20,parataxis:insert,_,_,1
+3080,fr-ud-train_13525,Le 17ème Festival de la Jeunesse et des Etudiants déclare et ,souligne, son caractère anti-impérialiste. ,13,souligne,souligner,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,11,conj,_,_,2

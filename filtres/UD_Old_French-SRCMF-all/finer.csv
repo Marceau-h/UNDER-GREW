@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1405,12065,"Qui que le doie conparer, Ne ",finera," tant que il voie Le pin qui la fontainne onbroie, Et le perron et la tormante Qui grausle et pluet et tone et vante. ",8,finera,finer,VERB,VERcjg,VerbForm=Fin,0,root,_,XmlId=w_YvainKu_5361,3

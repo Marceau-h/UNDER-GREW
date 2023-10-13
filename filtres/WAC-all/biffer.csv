@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+50201,189461,Le rapport du Conseil municipal précise que tous les postes à ,biffer," ne sont déjà plus occupés (certains depuis plusieurs années, comme c'est le cas à Energie Service Bienne).",12.0,biffer,biffer,VERB,VERB,VerbForm=Inf,10.0,acl,10:acl,_,1.0

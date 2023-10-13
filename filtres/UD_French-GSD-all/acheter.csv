@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2205,fr-ud-train_09175,"En 1952, trois propriétaires de magasins de jouets décident d'",acheter, en commun. ,12,acheter,acheter,VERB,_,VerbForm=Inf,10,xcomp,_,Subject=SubjRaising,1

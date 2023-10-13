@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+52893,199523,La pédagogie de projet a permis de motiver et ,responsabiliser, les jeunes.,10.0,responsabiliser,responsabiliser,VERB,VERB,VerbForm=Inf,8.0,conj,8:conj,_,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+7343,27436,"Avec OpenVZ, ils peuvent installer rapidement (un nouveau VE peut être crée en une minute) toutes ces distributions sur un même ordinateur, sans avoir besoin de ",rebooter,", en conservant des performances honorables.",31.0,rebooter,rebooter,VERB,VERB,VerbForm=Inf,28.0,xcomp,28:xcomp,SpaceAfter=No,2.0
+112070,422858,Comme ça au lieu de ,rebooter, tu auras un message d'erreur.,6.0,rebooter,rebooter,VERB,VERB,VerbForm=Inf,4.0,acl,4:acl,_,1.0
+180927,682848,"Par contre en pratique, sur mon windows xp je suis obligé de ",rebooter," pour le reactiver après chaque coupure puis reactivation via l'interrupteur, il ne le revoit pas.",14.0,rebooter,rebooter,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,_,3.0

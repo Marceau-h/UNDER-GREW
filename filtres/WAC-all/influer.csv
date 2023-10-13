@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+71068,268044,"Par contre c'est bien l'état qui se régale au passage hein, la conséquence sur les cigarettiers est très faible, l'élasticité du marche de la cigarette étant très faible (le tarif n'",influe, presque pas sur la consommation).,38.0,influe,influer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,33.0,advcl,33:advcl,_,2.0

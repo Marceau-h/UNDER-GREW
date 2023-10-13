@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+254,fr_partut-ud-726,"Conformément à l'article 13 de la décision du conseil du 17 décembre 2001 établissant un programme d'action en matière d'échanges, d'assistance et de formation, pour la protection de l'euro contre le faux monnayage (le programme «Pericles»), et compte tenu du rapport d'évaluation Pericles du 30 novembre 2004, il est proposé de ",proroger, et de modifier la décision du conseil. ,70,proroger,proroger,VERB,V,VerbForm=Inf,68,csubj:pass,_,_,1

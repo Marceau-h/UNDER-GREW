@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+14370,53591,Les études en cours principalement sur la transcription automatique d'informations radio et ,télédiffusées,", la détection de thème et l'identification de la langue.",14.0,télédiffusées,télédiffuser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,12.0,conj,12:conj,SpaceAfter=No,1.0

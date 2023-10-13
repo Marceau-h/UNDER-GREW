@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+18819,70609,"Une fois publié, le contenu est immuable, ",dupliqué, et déplacé sur le réseau de sorte que le tracer ou le détruire devienne une opération très difficile et coûteuse.,10.0,dupliqué,dupliquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0
+161928,610640,"Vous pouvez par exemple créer, saisir, faire glisser, ",dupliquer,", fixer, grouper et supprimer ces objets, un par un ou regroupés.",12.0,dupliquer,dupliquer,VERB,VERB,VerbForm=Inf,5.0,conj,5:conj,SpaceAfter=No,3.0
+164341,619687,"Ce menu permet à la fois de créer un nouveau site, modifier les paramètres d'un site existant, ",dupliquer, ou supprimer un site.,21.0,dupliquer,dupliquer,VERB,VERB,VerbForm=Inf,8.0,conj,8:conj,_,1.0
+190619,719119,Nous vous proposons aussi une selection de parcours pédagogiques que vous pouvez télécharger et ,dupliquer, dans la rubrique Edition ().,15.0,dupliquer,dupliquer,VERB,VERB,VerbForm=Inf,13.0,conj,13:conj,_,3.0

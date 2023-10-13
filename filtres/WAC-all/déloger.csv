@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+201817,761478,"Le gros ailier a complètement éclipsé le décevant Alexander Perezhogin, l'homme qu'il devra ",déloger, s'il veut commencer la saison à Montréal.,17.0,déloger,déloger,VERB,VERB,VerbForm=Inf,16.0,xcomp,16:xcomp,_,2.0

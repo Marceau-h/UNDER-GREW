@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+263246,992213,"Une configuration standard et autonome (sans passer par un PC), une gestion simple, une approche plug & play (""""",branche, et ça marche tout en étant prêt pour l'IP.,25.0,branche,branche,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19.0,acl,19:acl,_,1.0

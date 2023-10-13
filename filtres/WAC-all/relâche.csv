@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+171383,646414,"Battuta, Institut équestre national d'Avenches, du 8 juin au 8 juillet, ",relâche, lundi et jeudi.,16.0,relâche,relâche,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,1.0,dep,1:dep,_,1.0

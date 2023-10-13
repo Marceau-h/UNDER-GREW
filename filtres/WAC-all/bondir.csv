@@ -1,0 +1,11 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+29230,110047,"Si quelqu'un se penche sur ton épaule, ",bondis, et frappe-le au visage.,10.0,bondis,bondir,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+53172,200544,Le tarif pour les usagers des installations sportives ,bondira," aussi, afin d'épargner 7,4 millions $.",9.0,bondira,bondir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,0.0,root,0:root,_,1.0
+91475,344686,"Sa mère, qui prépare l'anchoyade dans la cuisine, ",bondit, en entendant ça et lui crie :,12.0,bondit,bondir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+121709,459962,Une affirmation qui a fait ,bondir, les parties civiles.,6.0,bondir,bondir,VERB,VERB,VerbForm=Inf,2.0,acl:relcl,2:acl:relcl,_,1.0
+137774,519881,"Il contint l’incendie jusqu’à la fin de l’après-midi, puis les flammes ",bondirent, à travers et commencèrent à détruire les luxueux commerces de Cheapside.,16.0,bondirent,bondir,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin,2.0,conj,2:conj,_,1.0
+152156,574096,Une hausse qui fait ,bondir, les sages-femmes.,5.0,bondir,bondir,VERB,VERB,VerbForm=Inf,2.0,acl:relcl,2:acl:relcl,_,1.0
+152319,574749,"Dix ans plus tard, il ",bondissait," pour s'établir à 57 348 $, soit plus de 10 000 $ au-dessus de la moyenne nationale.",7.0,bondissait,bondir,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,0.0,root,0:root,_,1.0
+157948,595436,La recherche de Starbuck doit être abandonnée et la flotte doit ,bondir, loin de cet endroit au plus vite.,12.0,bondir,bondir,VERB,VERB,VerbForm=Inf,11.0,xcomp,11:xcomp,_,1.0
+238585,899211,"Ainsi l'excédent commercial s'est élevé à 46,4 milliards de dollars au premier trimestre et les investissements en capital fixe ont ",bondi,", eux, de 23,7 %.",23.0,bondi,bondir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,conj,7:conj,SpaceAfter=No,1.0
+245487,925152,"Le chef bloquiste, Gilles Duceppe, s'est même lancé dans une tirade qui a fait ",bondir," Jean Lapierre, le lieutenant québécois du chef libéral Paul Martin.",18.0,bondir,bondir,VERB,VERB,VerbForm=Inf,14.0,acl:relcl,14:acl:relcl,_,1.0

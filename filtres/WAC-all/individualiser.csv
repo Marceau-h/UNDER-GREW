@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+214550,809040,Un modificatif du règlement de copropriété à la charge du vendeur est en cours d'établissement pour ,individualiser, et définir précisément ce lot et les tantièmes des parties communes qui y seront associées.,18.0,individualiser,individualiser,VERB,VERB,VerbForm=Inf,14.0,advcl,14:advcl,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+67120,253300,"Une prise en charge adaptée à chaque cas permet de trouver d'autres substitutions, tels que l'exercice physique, ou une surveillance diététique afin de ",minimiser,", voire d'exclure la prise de poids.",28.0,minimiser,minimiser,VERB,VERB,VerbForm=Inf,26.0,obl:arg,26:obl:arg,SpaceAfter=No,1.0
+220038,829770,La fonction objectif à ,minimiser, ainsi que les fonctions contraintes de ce problème d'optimisation ne sont pas définies explicitement mais sont accessibles grâce à un calcul par éléments finis.,5.0,minimiser,minimiser,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,_,1.0

@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+12391,46379,Orange Business Services avait pour mission de créer et d',externaliser, un réseau sécurisé permettant l'interconnexion de 4300 sites de la Gendarmerie nationale sur le territoire français en vue de connecter 80 000 personnes.,11.0,externaliser,externaliser,VERB,VERB,VerbForm=Inf,8.0,conj,8:conj,_,1.0
+68314,257839,Ils redoutent une délocalisation à terme de l'activité et accusent SFR d'avoir choisi d',externaliser," pour garder """"les mains propres"""".",17.0,externaliser,externaliser,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,3.0
+96449,363816,Les volumes ont grossi en raison de la tendance lourde de nos clients à ,externaliser,", surtout dans les grands comptes internationaux.",15.0,externaliser,externaliser,VERB,VERB,VerbForm=Inf,9.0,acl,9:acl,SpaceAfter=No,1.0

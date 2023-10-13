@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+34753,130981,"Oui, le grain de sénevé a déjà de la hauteur, il a déjà donné quelques fruits, mais il a besoin d'être encore affermi ; on doit encore ",émonder,", bêcher autour et ajouter de l'engrais.",32.0,émonder,émonder,VERB,VERB,VerbForm=Inf,30.0,xcomp,30:xcomp,SpaceAfter=No,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+70350,265479,"Pas vraiment non,la licence globale, c'est une taxe supplémentaire sur ton abonnement adsl, ",redistribuer," (comment, par qui, à qui) aux """"ayant-droits"""".",19.0,redistribuer,redistribuer,VERB,VERB,VerbForm=Inf,12.0,acl,12:acl,_,3.0

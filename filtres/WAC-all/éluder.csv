@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+63242,238612,"Ce n'est pas un match pour faire plaisir aux uns ou aux autres, ou pour faire plaisir aux Antillais"""", a ",éludé, le sélectionneur.,26.0,éludé,éluder,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,parataxis,7:parataxis,_,1.0

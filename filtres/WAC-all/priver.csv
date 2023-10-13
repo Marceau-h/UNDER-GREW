@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+21146,79278,D'aucuns y voient la volonté de ,priver, celle-ci d'élire en septembre un président qui ne soit pas pro-syrien.,8.0,priver,priver,VERB,VERB,VerbForm=Inf,6.0,acl,6:acl,_,1.0
+50875,191953,Au nom de quoi devrais-je me ,priver," de la réflexion de Jack Lang, """"sous le seul prétexte que cela déplaît à M. Ayrault président du groupe socialiste à l'Assemblée.",9.0,priver,priver,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,SpaceAfter=No,1.0
+190393,718344,"Mais on peut également les partager et les rediffuser, ce dont les internautes ne semblent pas s'être ",privés,", puisqu'on en trouve trace un peu partout sur le Net, dans les pages des grands sites de diffusion de vidéos.",20.0,privés,priver,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,16.0,xcomp,16:xcomp,SpaceAfter=No,1.0

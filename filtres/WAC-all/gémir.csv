@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2006,7539,La jeune femme se mit à ,gémir, et ferma les yeux.,7.0,gémir,gémir,VERB,VERB,VerbForm=Inf,5.0,xcomp,5:xcomp,_,1.0
+166723,628635,"Eccl., 7, 16 : Dans la pénitence publique, à la fin de la messe, dans l'Église romaine, les pénitents """" ",gémissant," et pleurant, s'inclinent jusqu'à terre.",28.0,gémissant,gémir,VERB,VERB,Tense=Pres|VerbForm=Part,26.0,acl,26:acl,_,1.0
+211705,798382,Mis à part les glaciers qui avançaient en se craquelant et les glaces océaniques qui dérivaient en ,gémissant,", la seule activité perceptible était celle des volcans dont les panaches se frayaient un passage à travers la surface figée.",18.0,gémissant,gémir,VERB,VERB,Tense=Pres|VerbForm=Part,16.0,advcl,16:advcl,SpaceAfter=No,2.0

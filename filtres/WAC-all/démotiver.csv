@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+13813,51601,"Les responsables de McLaren et Mercedes, jugeant l'annonce anticipée, l'ont immédiatement mis à pied, préférant se séparer d'un pilote """"",démotivé, pour le remplacer par l'essayeur espagnol Pedro de la Rosa.,27.0,démotivé,démotiver,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,25.0,amod,25:amod,SpaceAfter=No,1.0

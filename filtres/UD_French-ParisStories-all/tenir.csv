@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+290,ParisStories_2020_requinReunion_27,mon père il me port~ enfin il me ,tenait, s~ enfin je me tenais à l~ à son épaule. ,9,tenait,tenir,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,14,reparandum,_,_,1

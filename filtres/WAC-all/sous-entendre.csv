@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+257933,972079,"Ce moment est donc favorable aux femmes : à chaque fois que quelqu'un dit """"Cela suffit"""", cela ",sous-entend," : """"J'exprime la volonté de ne plus subir.""""",22.0,sous-entend,sous-entendre,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

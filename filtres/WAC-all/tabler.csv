@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+112230,423582,"Selon lui, 30 à 40% des vols devraient être annulés lundi, une estimation proche des prévisions d'Air France qui ",tablait, toujours lundi matin sur 70% de vols maintenus pour la journée.,24.0,tablait,tabler,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,21.0,acl:relcl,21:acl:relcl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+147178,555358,"Dans ce cas, on peut montrer que la raie SF contient essentiellement les contributions magnétiques des électrons non ",appariés, alors que la raie NSF contient toutes les contributions structurales.,20.0,appariés,apparier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,acl,18:acl,_,2.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+197598,745499,La marque Prada a donné le coup d'envoi de ce débarquement de fleurs avec sa dernière collection croisière: de grandes robes volées dans l'armoire de sa grand-mère et ,bidouillées, auraient aussi pu faire l'affaire.,32.0,bidouillées,bidouiller,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,27.0,conj,27:conj,_,1.0

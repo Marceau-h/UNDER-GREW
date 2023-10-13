@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+87934,330958,"Vu les Graffeurs résidents ce quartier, ils vont déjà commencer par le relooker et puis esperons que ces murs ne vont pas ",abriter, et favoriser à terme le traffic de cannabis qui est le loisir n° 1 de La Castelane.,24.0,abriter,abriter,VERB,VERB,VerbForm=Inf,22.0,xcomp,22:xcomp,_,2.0
+119085,450021,"La localité siège de la municipalité, qui ",abrite," peu d'habitants, garde les caractéristiques des villes rurales.",9.0,abrite,abriter,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,acl:relcl,6:acl:relcl,_,1.0

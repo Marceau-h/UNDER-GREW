@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+608,2219,Trois finitions sont disponibles : ,poli," (626 ), noir (626 ) ou satin (522 ).",6.0,poli,polir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,parataxis,4:parataxis,_,1.0
+21131,79213,"La société Stähli (M.490) réalise des machines à honer plan, à roder et à ",polir,", monodisques et à deux plateaux.",18.0,polir,polir,VERB,VERB,VerbForm=Inf,15.0,conj,15:conj,SpaceAfter=No,1.0
+45002,169904,Il existe en finition alu ,poli, ou carbone et est garanti 2 ans.,6.0,poli,polir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0
+118028,445954,"L'Azulejaria (arabe : al zulej, pierre lisse et ",polie,) occupe depuis cinq siècles une position principale dans les arts portugais et dans la décoration.,12.0,polie,polir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,conj,10:conj,SpaceAfter=No,1.0
+125084,472501,"Le miroir parabolique et le petit miroir plan secondaire, qui est orienté à 45 degrés pour diriger la lumière vers l'extérieur du tube, doivent être creusés et ",polis, avec une extrême précision.,31.0,polis,polir,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,29.0,conj,29:conj,_,1.0
+168132,634010,Une fois ,poli, le grain de riz devient blanc.,3.0,poli,polir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0

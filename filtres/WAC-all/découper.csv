@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+35752,134558,"IV. - Domaine d'application Il s'agit de poulets présentés en frais, surgelés, entiers ou ",découpés, issus d'une souche à croissance lente.,20.0,découpés,découper,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,14.0,conj,14:conj,_,2.0
+108985,411456,"Si nécessaire, les membres du VSR ",découpent," ou écartent la tôle, enlèvent le pare-brise ou la lunette arrière pour permettre l'accès aux victimes.",8.0,découpent,découper,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+124881,471787,"Les chauffeurs déchargent ensuite le pain qui est pesé, trié, ",découpé,", et placé dans des bacs.",13.0,découpé,découper,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,SpaceAfter=No,1.0
+178453,673157,"Le chapeau, ",découpé," ou gardé entier, se prête à de multiples recettes.",4.0,découpé,découper,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+237733,896152,"Malgré la morsure du temps, la pièce ronde présentait des arêtes bien ",découpées, et une épaisseur remarquablement uniforme.,14.0,découpées,découper,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,12.0,acl,12:acl,_,1.0
+246821,930132,"Ses arbres sont tous comme difformes, comme étrangement ",découpés,", au tronc noir et aux feuilles sombres.",10.0,découpés,découper,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6.0,advcl,6:advcl,SpaceAfter=No,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+25904,97156,"Tout d'abord, une zone de turbulence se chargea de ",reveiller, ceux qui s'etaient assoupis durant la seance cinema.,12.0,reveiller,reveiller,VERB,VERB,VerbForm=Inf,10.0,xcomp,10:xcomp,_,2.0
+178044,671502,Un conseil ,reveillez, vous et OSEZ proposer des livres numeriques (en PDF).,3.0,reveillez,reveiller,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+16833,62867,La dénomination éther de glycol couvre une famille de produits chimiques dont il existe plus de 80 dérivés ; une trentaine au moins étant ,produits, et utilisés par l'industrie.,10.0,produits,produit,NOUN,NOUN,Gender=Masc|Number=Plur,8.0,nmod,8:nmod,_,1.0

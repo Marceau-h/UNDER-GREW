@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+75219,283290,On a affronté une équipe tellement ,démobilisée," que la valeur de l'écart, avec tout le respect qu'on leur doit, ne signifie pas grand chose"""", a admis le sélectionneur Claude Bergeaud.",8.0,démobilisée,démobiliser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,_,3.0

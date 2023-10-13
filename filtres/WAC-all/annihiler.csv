@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+192093,724697,"Dès que vous levez la tête, on vous sort un dossier de corruption, malversations, concussions, compromissions, moeurs pour atténuer ou ",annihiler, vos velleités.,26.0,annihiler,annihiler,VERB,VERB,VerbForm=Inf,24.0,conj,24:conj,_,1.0

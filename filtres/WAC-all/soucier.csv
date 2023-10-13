@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+86735,326377,"« Maintenant, ton serviteur Yédonyah et ses collègues les prêtres d’Éléphantine-la-forteresse, et tous les Juifs citoyens d’Éléphantine, parlent ainsi : “S’il paraît bon à notre Seigneur, ",soucie,-toi de ce sanctuaire à construire.,35.0,soucie,soucier,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,23.0,advcl,23:advcl,SpaceAfter=No,3.0
+201471,760274,"Avec la commande décrite ici, vous pouvez mentionner des espèces de polices sans vous ",soucier, comment et si la police peut être affichée chez l'utilisateur.,16.0,soucier,soucier,VERB,VERB,VerbForm=Inf,9.0,advcl,9:advcl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+161823,610199,"Le ZAKI,animal hexagonal impossible à ",acclimater," au delà des frontières, aura toujours son grand pouvoir de nuisance pour ces pauvres français.",8.0,acclimater,acclimater,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,1.0

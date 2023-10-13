@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+132424,500109,"D'un clic, il y en la plupart que je peux ",cataloguer, comme allant vers Roman (litterature).,13.0,cataloguer,cataloguer,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,_,2.0
+147528,556664,"Ce livre séduit, amuse, étonne, se laisse difficilement appréhender ou ",cataloguer, : il s'agit tout simplement d'un roman pluriel au vrai sens du mot.,14.0,cataloguer,cataloguer,VERB,VERB,VerbForm=Inf,12.0,conj,12:conj,_,1.0

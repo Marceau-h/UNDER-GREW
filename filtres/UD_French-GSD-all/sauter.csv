@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1674,fr-ud-train_06532,Vailland faisait du renseignement et n'a jamais fait ,sauter," de train, ce chapitre purement romanesque est surtout l'occasion pour l'auteur d'une discussion sur la portée symbolique de ce'drôle de jeu'avec Annie, la petite amie de Frédéric, qui l'accompagne et tue le temps dans l'attente des résultats de l'opération. ",11,sauter,sauter,VERB,_,VerbForm=Inf,2,conj,_,Subject=ObjRaising,1
+2317,fr-ud-train_09765,"Plaisance, un secrétaire de la CGT, déclare devant l'usine : « Ce matin, une bande d'anarcho-hitléro-trotskystes a voulu faire ",sauter, l'usine ». ,25,sauter,sauter,VERB,_,VerbForm=Inf,23,xcomp,_,Subject=ObjRaising,2

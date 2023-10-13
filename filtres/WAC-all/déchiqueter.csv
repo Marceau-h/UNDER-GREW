@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+110817,418169,"La Banque centrale """"interdit de couper, percer, ",déchiqueter,", perforer ou de pratiquer toute forme de détérioration sur les pièces de monnaie et les billets émis par la banque sans son autorisation"""", a rappelé son porte-parole, Godfrey Mngadi.",11.0,déchiqueter,déchiqueter,VERB,VERB,VerbForm=Inf,7.0,conj,7:conj,SpaceAfter=No,1.0

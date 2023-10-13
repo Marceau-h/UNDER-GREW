@@ -1,0 +1,8 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2268,8540,Ballmer et ses acolytes ont aussi affirmé leur détermination à ,rattraper, et même surpasser leurs rivaux Google et Yahoo!,11.0,rattraper,rattraper,VERB,VERB,VerbForm=Inf,9.0,acl,9:acl,_,3.0
+75334,283758,"Le président mauritanien a appelé Nicolas Sarkozy pour lui assurer que son pays """"fera tout pour ",rattraper, les auteurs de l'attaque.,18.0,rattraper,rattraper,VERB,VERB,VerbForm=Inf,15.0,advcl,15:advcl,SpaceAfter=No,1.0
+92946,350508,Trois obstacles d'envergure ,rattraperont, tôt ou tard notre formation politique.,5.0,rattraperont,rattraper,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin,0.0,root,0:root,_,1.0
+102230,385789,Mais les pirates du Rock n'Roll se sont bien ,rattrapés," depuis.- Avec la chute des ventes de disques, les Stones - comme les autres - comptent désormais sur les concerts pour faire leur beurre.",11.0,rattrapés,rattraper,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+103140,389119,On a bien sûr pensé aux dix points à ,rattraper," mais après la demi-heure de jeu le match ne s'y prêtait plus et c'est un peu décevant"""", constatait le meneur Xane D'Almeida.",11.0,rattraper,rattraper,VERB,VERB,VerbForm=Inf,9.0,acl,9:acl,_,3.0
+122863,464273,"L'an 2000 a longtemps été synonyme de futur, mais le temps a fini par ",rattraper, et dépasser cette année symbolique.,17.0,rattraper,rattraper,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,1.0
+202483,763780,Toute une vie à ,rattraper,", de la petite fille qui pleure papa à la femme seule qui souhaite encore trouver l'amour.",5.0,rattraper,rattraper,VERB,VERB,VerbForm=Inf,3.0,acl,3:acl,SpaceAfter=No,1.0

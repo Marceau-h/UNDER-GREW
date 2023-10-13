@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+53261,200825,"Vous avez bien attendu des mois, patientez quelques minutes"""", ",supplie, un employé de l'ONG World Vision qui s'apprête à distribuer les vivres.,13.0,supplie,supplier,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,parataxis,4:parataxis,_,1.0
+88152,331745,"Il faut faire quelque chose"""", ",supplie, un père de famille.,8.0,supplie,supplier,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,parataxis,2:parataxis,_,1.0

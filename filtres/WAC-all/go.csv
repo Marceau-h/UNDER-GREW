@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+104937,395986,"Après une cure de désintoxication dans le Minnesota, elle fonde en 1995 le groupe Solid State, qui sort un premier album nommé ",Go, to the sugar altar en 1996.,25.0,Go,go,VERB,VERB,VerbForm=Inf,24.0,xcomp,24:xcomp,_,2.0
+127342,480786,"Les opinions exprimées ici sont celles des auteurs des articles, et non obligatoirement celles de Places to ",Go,", People to Be ou de ses éditeurs.",19.0,Go,go,VERB,VERB,VerbForm=Inf,17.0,nmod,17:nmod,SpaceAfter=No,1.0

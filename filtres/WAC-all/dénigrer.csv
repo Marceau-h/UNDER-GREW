@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+100770,380163,"Le pape a critiqué ceux """"qui ",dénigrent," ou ridiculisent"""" la famille, et affirmé que ses droits """"ne peuvent être dissous dans d'autres formes d'union qui prétendraient les usurper"""".",8.0,dénigrent,dénigrer,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,4.0,xcomp,4:xcomp,_,1.0
+113398,427967,"Je pense au contraire, qu'au lieu de ",dénigrer,", il faut avancer vers des solutions pour éviter que les éleveurs, les entreprises, les salariés, soient tous sinistrés de cette crise.",10.0,dénigrer,dénigrer,VERB,VERB,VerbForm=Inf,8.0,acl,8:acl,SpaceAfter=No,1.0
+119756,452526,Ce language trop souvent ,dénigré, montre ici toute sa grandeur.,5.0,dénigré,dénigrer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0

@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+9590,35668,"À 100Go par mois, lol, une utilisation moyenne ",Excuse,-moi mais tu fais parti des POWERUSERs et vidéotron ne veut rien savoir de ce genre de client qui ne fait que consommer de la bande passante.,11.0,Excuse,excuse,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,0.0,root,0:root,SpaceAfter=No,1.0
+114675,432846,"Le 11 août, en vacances aux Etats-Unis, elle fait au dernier moment faux-bond au pique-nique organisé par la famille du président George W. Bush, pour cause """"d'angine blanche"""" l'",excuse, son mari.,36.0,excuse,excuse,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,29.0,conj,29:conj,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+213409,804736,"J'ai remarqué au passage que peu de gens faisaient ça, et je comprends qu'on en ait marre de ",réexpliquer,", re-justifier.",22.0,réexpliquer,réexpliquer,VERB,VERB,VerbForm=Inf,19.0,xcomp,19:xcomp,SpaceAfter=No,1.0

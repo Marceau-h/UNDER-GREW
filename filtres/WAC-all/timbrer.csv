@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+145380,548598,"Actuellement cette entreprise fabrique la chaudière de la 130T Cail, elle doit être terminée, éprouvée et ",timbrée, avant cette fin décembre.,20.0,timbrée,timbrer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,16.0,conj,16:conj,_,1.0

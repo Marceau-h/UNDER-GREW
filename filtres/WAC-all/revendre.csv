@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+19197,72007,Une machine d'origine est incontestablement plus facile à ,revendre," et présente de plus en plus un intérêt """" collection """".",10.0,revendre,revendre,VERB,VERB,VerbForm=Inf,8.0,xcomp,8:xcomp,_,1.0
+26220,98306,Ils sont onze au total à être accusés d'avoir volé puis ,revendus, près de 41 millions de numéros de cartes de crédit.,13.0,revendus,revendre,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,11.0,conj,11:conj,_,1.0
+27509,103235,Dans le même théâtre se donne jusqu'au 29 sept également La force de tuer de Lars Noren auquel s'affronte le jeune Adrien Lamande qui a des idées scéniques à ,revendre," mais qui, lui aussi, a pris pour incarner un homme d'âge mûr un jeunôt.",32.0,revendre,revendre,VERB,VERB,VerbForm=Inf,29.0,acl,29:acl,_,1.0
+81108,304921,"Effectivement, Jonas a du talent et de l'énergie à ",revendre, et tout cela dans un emballage fort intéressant!,12.0,revendre,revendre,VERB,VERB,VerbForm=Inf,4.0,xcomp,4:xcomp,_,3.0
+216122,814850,"Et si le tout ne correspond pas à ce que l'on recherche ou à notre classe, on pourra toujours ",revendre, ou bien recycler notre butin.,22.0,revendre,revendre,VERB,VERB,VerbForm=Inf,20.0,xcomp,20:xcomp,_,1.0

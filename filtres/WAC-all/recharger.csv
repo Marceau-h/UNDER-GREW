@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+25173,94261,"Supprime toutes celles présentes dans l'image, et ",recharge,"-là ; ça devrait être bon (et si c'est pas bon, tu sauras au moins que ça ne vient pas des bitmaps).",10.0,recharge,recharger,VERB,VERB,VerbForm=Inf,1.0,conj,1:conj,SpaceAfter=No,2.0
+87639,329867,Vérifiez que vous avez bien réactualisé votre page (vous pouvez le faire en cliquant sur ,recharger, ou réactualiser en haut de votre navigateur) Videz le cache de votre navigateur.,17.0,recharger,recharger,VERB,VERB,VerbForm=Inf,15.0,xcomp,15:xcomp,_,1.0
+264680,997638,Ils vous indiqueront également lorsqu'un ennemi ,recharge,", et c'est là, mes bons amis, qu'il faudra sérieusement s'activer le popotin, afin de tirer parti de cette accalmie.",8.0,recharge,recharger,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,advcl,3:advcl,SpaceAfter=No,1.0

@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+38065,143163,Ils rejettent les vérités ,basées, uniquement sur l’autorité.,5.0,basées,baser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,4.0,acl,4:acl,_,1.0
+119087,450032,"Si je veux en venir au choix narratif du film, c'est un choix qui s'est ",basé, plus sur la musique comme toujours dans ma création.,19.0,basé,baser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,15.0,acl:relcl,15:acl:relcl,_,1.0
+169381,638820,"L'article fait état d'un «document interne» du PQ, daté du 10 octobre, listant les faiblesses et les forces de Pauline Marois, ",basé,", on ne sait trop sur quoi: des sondages?",29.0,basé,baser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,21.0,acl,21:acl,SpaceAfter=No,1.0
+187138,705869,"Sur Radio Free Asia (RFA), une radio tibétaine ",basée," et financée par les Etats-Unis, des témoins disent également avoir vu deux morts dans le quartier central de Barkhor.",12.0,basée,baser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0

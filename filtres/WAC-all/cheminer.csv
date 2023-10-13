@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+16709,62396,"D'ailleurs il a fait de la lenteur, la représentation esthétique de son oeuvre : """"l'homme, écrit-il, n'a plus le désir de ",cheminer, et d'en tirer une jouissance.,30.0,cheminer,cheminer,VERB,VERB,VerbForm=Inf,28.0,acl,28:acl,_,1.0
+108660,410211,"Oui, amis et musées ont appris a ",cheminer," ensemble, les uns soutenant les autres dans le respect de leurs activités réciproques et en saidant mutuellement dans la réalisation de leurs tâches.",9.0,cheminer,cheminer,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,_,1.0

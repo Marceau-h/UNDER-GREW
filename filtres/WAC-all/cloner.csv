@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+189931,716635,"Il s'agit de l'oeuvre d'une bande fort rusée, qui profite de courts moments d'inattention des clients ou des employés de commerces anonymes pour ",cloner, ou même trafiquer les claviers de paiement.,29.0,cloner,cloner,VERB,VERB,VerbForm=Inf,14.0,advcl,14:advcl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+138254,521799,"Ce dernier devrait être de l'ordre de 13 ME sur l'exercice 2008, prenant en compte un certain nombre de charges non ",décaissées," pour environ 0,4 ME"""".",25.0,décaissées,décaisser,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,23.0,acl,23:acl,_,3.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+230096,867575,Deux types d'approches sont possibles afin de tenter de ,r&#233;soudre, ce probl&#232;me:,11.0,r&#233;soudre,r&#233;soudre,VERB,VERB,VerbForm=Inf,9.0,xcomp,9:xcomp,_,1.0

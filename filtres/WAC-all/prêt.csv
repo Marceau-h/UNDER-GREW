@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+156367,589701,"Pour les étrangers aussi, le coq symbolise la France, même si c'est un animal auquel on ne ",prête," pas que des qualités (bornés, orgueilleux...).",21.0,prête,prêt,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,17.0,acl:relcl,17:acl:relcl,_,2.0
+160126,603758,J'ai peur que Résistance en France ,prête, trop à confusion.,8.0,prête,prêt,VERB,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,ccomp,2:ccomp,_,1.0
+195678,738137,"Le catalogue de l'exposition sera publié par les Editions du Regard, avec un texte de Juan Manuel Bonet, directeur du Museo Nacional Centro de Arte Reina Sofia qui ",prête, certaines &#156;uvres.,32.0,prête,prêt,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,24.0,acl:relcl,24:acl:relcl,_,1.0

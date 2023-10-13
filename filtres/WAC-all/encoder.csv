@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+234646,884724,"Lorsque l'impulsion de radiofréquence est combinée à des gradients de champ magnétique, on obtient en retour un signal ",encodé, spatialement.,21.0,encodé,encoder,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,20.0,acl,20:acl,_,1.0

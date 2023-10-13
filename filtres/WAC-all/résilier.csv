@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+251073,946004,Envoi au Directeur Départemental du Travail du relevé des contrats conclus ou ,résiliés, en août.,13.0,résiliés,résilier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,11.0,conj,11:conj,_,1.0

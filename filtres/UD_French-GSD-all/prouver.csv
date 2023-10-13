@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1489,fr-ud-train_05716,"Les Beastie Boys commencèrent eux aussi à se faire connaître, ",prouvant, et montrant ainsi que la culture hip-hop était bien un mélange de culture et d'influence noir et blanche. ,12,prouvant,prouver,VERB,_,Tense=Pres|VerbForm=Part,4,advcl,_,Subject=Instantiated,1
+2224,fr-ud-train_09296,Mais aucune donnée actuelle ne permet de ,prouver, ni même d'expliquer comment des phénomènes cognitifs aussi complexes que des connaissances ou des représentations spécifiques à la copulation peuvent être codés dans les cortex associatifs. ,8,prouver,prouver,VERB,_,VerbForm=Inf,6,ccomp,_,Subject=Generic,2

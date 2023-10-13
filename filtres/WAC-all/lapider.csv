@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+41981,158426,"Lorsque vous entendez les braiments de l'âne, cherchez un refuge en Dieu contre les embûches de Satan le ",lapidé,", car il a vu le diable.",21.0,lapidé,lapider,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,19.0,conj,19:conj,SpaceAfter=No,1.0
+80415,302335,Une émeute se forme et Fersen meurt ,lapidé," et piétiné par la foule, en présence de nombreuses troupes qui n'interviennent pas.",8.0,lapidé,lapider,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,7.0,xcomp,7:xcomp,_,1.0

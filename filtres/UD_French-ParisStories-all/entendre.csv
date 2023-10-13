@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+161,ParisStories_2020_alarmeTrain_4,"et là, j'",entends,", j'entends, à la voix, euh, de l'haut-parleur qui dit, hum, oui du~, oui, euh, un train est maintenu à quai, euh, pour cause de euh, qu'on a tiré le signal d'alarme. ",5,entends,entendre,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,8,reparandum,_,SpaceAfter=No,1
+503,ParisStories_2019_devoirPhilosophie_11,"en fait, un jour, j'ai euh, j'",entends,", j'écoutais pardon la radio. ",12,entends,entendre,VERB,_,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,15,reparandum,_,SpaceAfter=No,1

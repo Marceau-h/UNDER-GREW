@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+201734,761196,"Oui, mes films semblent un peu carrés, un peu ",cadenassés, mais à l'intérieur de cette écriture là j'essaye de donner de la liberté au jeu des comédiens.,12.0,cadenassés,cadenasser,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,5.0,xcomp,5:xcomp,_,1.0

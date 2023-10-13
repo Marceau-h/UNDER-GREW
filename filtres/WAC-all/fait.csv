@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+19955,74828,"Le fait même que le BND se soit excusé, ",fait,"-il valoir, montre que les services secrets «perçoivent l'existence d'un problème».",2.0,fait,fait,NOUN,NOUN,Gender=Masc|Number=Sing,13.0,dep,13:dep,_,1.0
+91494,344803,"Du fait du caractère pluridisciplinaire de l'observatoire, un effort très important doit être ",fait, pour capitaliser les connaissances produites par des équipes nombreuses manipulant des concepts scientifiques variés.,2.0,fait,fait,NOUN,NOUN,Gender=Masc|Number=Sing,14.0,obl:mod,14:obl:mod,_,1.0
+152235,574434,"En fait, l'OFAG est partagé entre deux objectifs: protéger davantage la biodiversité, pour laquelle il estime que beaucoup a déjà été ",fait,", et améliorer la compétitivité de notre agriculture.""""",2.0,fait,fait,NOUN,NOUN,Gender=Masc|Number=Sing,7.0,obl:mod,7:obl:mod,SpaceAfter=No,1.0
+208958,788096,"En fait, on a beaucoup plus peint que ",fait, l'amour.,2.0,fait,fait,NOUN,NOUN,Gender=Masc|Number=Sing,8.0,obl:mod,8:obl:mod,SpaceAfter=No,1.0

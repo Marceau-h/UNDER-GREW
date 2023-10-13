@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2705,fr-ud-train_11689,"Le problème est le suivant : les catégories sont des concepts a priori--comment, dans ce cas, savoir si on ",a, le droit de les appliquer aux phénomènes connus (c'est-à-dire reçus) par l'expérience. ,12,a,a,ADP,_,_,11,advmod,_,ExtPos=ADV|Idiom=Yes,1

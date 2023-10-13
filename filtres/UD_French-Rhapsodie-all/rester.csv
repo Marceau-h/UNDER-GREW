@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+768,Rhap_D0008-51,vous allez vous diriger vers le fond des jardins de ville en ,restant,", euh, en, en y allant mais en restant s~, sur la gauche. ",14,restant,rester,VERB,ETRE,Tense=Pres|VerbForm=Part,22,reparandum,_,SpaceAfter=No,1

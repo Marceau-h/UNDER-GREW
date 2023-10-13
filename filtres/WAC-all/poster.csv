@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+136518,515244,"Des échanges de tirs, variant en intensité, opposent depuis 18 jours l'armée, ",postée," autour du camp, aux islamistes retranchés à l'intérieur, qui montrent toutefois des signes d'essoufflement.",17.0,postée,poster,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,15.0,acl,15:acl,_,1.0
+173973,656202,"Certains ont dormi dans leur voiture et, dès 6 heures le matin, se sont ",postés, au plus près de la porte alors qu'elle ne s'ouvrait qu'à 8 heures.,17.0,postés,poster,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+180656,681679,Je dis cela car on m'a supprimé un message ,posté," hier, identique à celui du dessus.",11.0,posté,poster,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0
+223409,842517,"En cliquant sur le bouton """"",poster,", d'ici quelques mois, vous aurez forcé votre fournisseur d'accès et l'hébergeur de votre forum à stocker des informations.",7.0,poster,poster,VERB,VERB,VerbForm=Inf,5.0,acl,5:acl,SpaceAfter=No,1.0

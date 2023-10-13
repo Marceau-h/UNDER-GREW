@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+184104,694700,"Screentonic, c'est un peu un """"Adcenter"""" mobile, une extension de la plateforme que MS est en train de ",créeer, pour aller chercher les $ des annonceurs.,24.0,créeer,créeer,VERB,VERB,VerbForm=Inf,22.0,acl,22:acl,_,1.0

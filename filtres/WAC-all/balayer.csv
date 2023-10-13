@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+111200,419611,"Ma foi, il faut bien aller dans le sens du changement"""", ",balaie, le chauffeur pour ne pas trop livrer ses états d'âme.,16.0,balaie,balayer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,parataxis,6:parataxis,_,1.0
+126435,477520,"«Un mensonge ridicule, scientifiquement impossible», ",balaye," Ahmet Yaras, que l'association de sauvegarde d'Allianoï tente de faire bloquer par un tribunal.",10.0,balaye,balayer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,parataxis,3:parataxis,_,1.0
+128537,485349,"La chance, je n'y crois pas"""", ",balaye," Allan McNish, associé au Danois Tom Kristensen, septuple vainqueur, et à l'Italien Dindo Capello sur l'Audi N.2.",11.0,balaye,balayer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,7.0,parataxis,7:parataxis,_,1.0

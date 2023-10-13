@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+238330,898333,"J'ai simplement pensé que ce serait une bonne idée, au cas où je serais à nouveau détroussé, de dire 'voici, prenez ça', et ils auraient ",détalé, sans demander leur reste.,33.0,détalé,détaler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,24.0,conj,24:conj,_,1.0

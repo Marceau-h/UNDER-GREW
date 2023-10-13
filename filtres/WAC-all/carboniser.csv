@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+183962,694177,Le corps de la victime a été retrouvé ,carbonisé," près de sa maison sur le territoire de la commune d'Alvaiazere, à quelque 160 km au nord-est de Lisbonne.",9.0,carbonisé,carboniser,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,advcl,8:advcl,_,1.0

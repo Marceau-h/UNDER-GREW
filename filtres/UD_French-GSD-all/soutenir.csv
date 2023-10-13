@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2660,fr-ud-train_11480,Ces révolutions se font contre les dictatures et régimes autoritaires et contre les démocrates impérialistes qui ,soutiennent, depuis toujours et continuent de soutenir partout ces dictatures. ,17,soutiennent,soutenir,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,14,acl:relcl,_,_,1

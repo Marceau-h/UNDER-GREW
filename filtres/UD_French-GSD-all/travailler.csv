@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+9,fr-ud-dev_00052,Les places d'accueil s'adressent en priorité aux parents qui ,travaillent, et n'ont pas de possibilité de garde pour leur enfant. ,13,travaillent,travailler,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,11,acl:relcl,_,_,1
+64,fr-ud-dev_00391,Le pays a besoin de ,travailler," davantage, pour poser les jalons d'une économie forte et structurée. ",6,travailler,travailler,VERB,_,VerbForm=Inf,4,xcomp,_,Subject=SubjRaising,1
+1692,fr-ud-train_06636,"On distingue les orifices, ceux qui ",travaillent," et les agences, ceux qui n'ont rien. ",8,travaillent,travailler,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,6,acl:relcl,_,_,1
+1695,fr-ud-train_06657,Les musiciens se réunissent de façon hebdomadaire pour ,travailler, ensemble. ,9,travailler,travailler,VERB,_,VerbForm=Inf,4,advcl,_,Subject=SubjRaising,1
+2274,fr-ud-train_09579,Il a apporté avec lui une grande partie de son abondante bibliothèque port-royaliste et ,travaille, en faisant de nombreux renvois vers cette bibliothèque. ,15,travaille,travailler,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3,conj,_,_,1

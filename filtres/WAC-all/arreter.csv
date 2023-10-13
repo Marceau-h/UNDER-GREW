@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+93295,351971,Cocoricco Ca aurait était pourtant plus responsable d',arreter, avant que le thon rouge ne soit menacé d'exctinction.,9.0,arreter,arreter,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,_,1.0
+173610,654848,D'un côté il ya ceux qui ont peur de telecharger et qui vont surement ,arreter, (bien que degouté) et de l'autre coté une partie importante des p2pistes qui vont se munir de systeme plus discret!,16.0,arreter,arreter,VERB,VERB,VerbForm=Inf,14.0,xcomp,14:xcomp,_,1.0

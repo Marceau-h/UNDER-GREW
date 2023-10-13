@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+104177,393046,"C'est cette impossibilité à tolérer une figure unifiée de la mère à la fois sexuelle, douloureuse et glorieuse qu'explore et ",éclaire," Henri Normand, psychanalyste membre de l'Association psychanalytique de France.",24.0,éclaire,éclaire,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,22.0,conj,22:conj,_,3.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+114519,432277,"Il est inacceptable qu'un consommateur sur trois qui souhaite réserver un billet d'avion soit escroqué, induit en erreur ou ",désorienté," a déclaré la commissaire Meglena Kuneva lors de la présentation de ce rapport, le 8 mai dernier.",23.0,désorienté,désorienter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,19.0,conj,19:conj,SpaceAfter=No,2.0

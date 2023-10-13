@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+189743,715986,"Mais des lignes multiples griffées, rompues et ",entremêlées," se ramassent, se condensent et esquissent ici un oeil, là une oreille ou encore une chevelure.",9.0,entremêlées,entremêler,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,5.0,conj,5:conj,_,1.0
+219177,826537,Ces deux ensembles sont uniques dans l'archéologie syro-palestinienne: ensemble de valeurs et de significations idéologiques étroitement ,entremêlées, (conception de la royauté // vie religieuse de la communauté).,21.0,entremêlées,entremêler,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,15.0,acl,15:acl,_,2.0

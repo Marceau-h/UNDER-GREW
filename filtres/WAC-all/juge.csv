@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+639,2329,"Se sont les chiens qui concourent et non les maîtres, qu'ils soient amateurs, semi-professionnels ou professionnels, le juge ne connait pas celui qui se trouve à l'autre bout de la laisse, il ne ",juge, que le chien.,22.0,juge,juge,NOUN,NOUN,Gender=Masc|Number=Sing,24.0,nsubj,24:nsubj,_,1.0

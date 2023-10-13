@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+24372,91310,"Je suis bien soulagée, j'ai vraiment eu peur que la CEV ",ferme, bel et bien ses portes.,14.0,ferme,ferme,VERB,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,9.0,ccomp,9:ccomp,_,1.0
+250306,943100,"En éliminant toute marque de la première personne du pluriel, Giono conserve au pronom son caractère indéfini qui ne restreint ni ne ",ferme, le cercle de ceux qu'il représente.,24.0,ferme,ferme,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,21.0,conj,21:conj,_,3.0

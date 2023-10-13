@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1698,6298,Je devais leur montrer que la cuisine indienne n'était pas ces currys ,réchauffés," et gras, riches et crémeux, qu'on trouve partout indépendamment de l'origine.»",14.0,réchauffés,réchauffer,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,13.0,acl,13:acl,_,2.0

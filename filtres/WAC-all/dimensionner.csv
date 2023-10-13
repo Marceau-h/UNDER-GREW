@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+117454,443695,"En pratique, on cherche surtout à augmenter, pour lutter contre le roulis, la raideur obtenue simplement à l'aide des ressorts (",dimensionnés," vis-à-vis du pompage), et on leur adjoint donc une b.a.r.",26.0,dimensionnés,dimensionner,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,24.0,acl,24:acl,_,1.0

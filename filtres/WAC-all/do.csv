@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+148224,559334,"La démarche repose sur un cycle global (constat  analyse  décision  réorganisation  mise en œuvre / évaluation) qui se répète et trouve ses origines dans la roue de Deming ou cycle PDCA (plan, ",do,", check, act) [Deming 82] [Imai 92].",41.0,do,do,VERB,VERB,VerbForm=Inf,39.0,conj,39:conj,SpaceAfter=No,1.0

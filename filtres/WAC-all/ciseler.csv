@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+8556,31918,"Cet objet réalisé en argent fondu, repoussé et ",ciselé, a probablement connu la main du ciseleur – ornemaniste Désiré Attarge (1820-1878) au service de Barbedienne depuis 1855 et très apprécié de Sévin.,10.0,ciselé,ciseler,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,1.0
+151726,572525,"Il est le premier représentant d'une nouvelle race de pilotes: celle des produits marketing, pensés et ",ciselés, aux besoins des écuries.,20.0,ciselés,ciseler,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,18.0,conj,18:conj,_,1.0

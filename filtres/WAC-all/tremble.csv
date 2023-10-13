@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+5969,22064,"Dans un passage du traité Hekhalot Rabbati, le mystique, au seuil du septième palais: «sue et ",tremble,", est pris d'effroi, s'affole et est saisi de frayeur, s'évanouit et tombe à la renverse.",21.0,tremble,tremble,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,19.0,conj,19:conj,SpaceAfter=No,1.0
+113851,429598,"Je n'aime pas beaucoup ce réveillon Les yeux s'embuent, le menton ",tremble,", les mains encore fines cachent le visage...",16.0,tremble,tremble,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,12.0,ccomp,12:ccomp,SpaceAfter=No,1.0
+141582,534412,"Des ventilateurs de froid me soufflent alors au visage, la pièce ",tremble,", des flash m'aveuglent.",13.0,tremble,tremble,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,advcl,6:advcl,SpaceAfter=No,1.0

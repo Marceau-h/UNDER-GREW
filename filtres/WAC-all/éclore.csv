@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+80163,301461,"Ce que chante ce """"bêcheur"""" de sa race, il le chante """"pour la faim universelle/pour la soif universelle/la somme libre enfin/de produire de son intimité ",éclose," la succulence du fruit"""".",36.0,éclose,éclore,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,14.0,ccomp,14:ccomp,_,3.0
+142385,537545,Il voit dans la TV le moyen d',éclore,", lui qui ne cherche à faire passer ses idées que par la provocation.",9.0,éclore,éclore,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,SpaceAfter=No,1.0
+154662,583413,Son talent sera alors de faire ,éclore, celui des autres.,7.0,éclore,éclore,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,1.0
+219069,826168,"C'est le temps du plus long terme, d'investissements importants, d'une ville et d'une agglomération qui bougent, de projets plus ou moins importants qui vont ",éclore," ici et là, le temps d'une certaine ambition urbaine.",32.0,éclore,éclore,VERB,VERB,VerbForm=Inf,31.0,xcomp,31:xcomp,_,2.0
+256105,965189,Les œufs prennent de 3 à 4 semaines pour ,éclore,", et la nouvelle larve se nourrit de résidus végétaux ou de racines de nombreuses cultures et mauvaises herbes.",10.0,éclore,éclore,VERB,VERB,VerbForm=Inf,3.0,advcl,3:advcl,SpaceAfter=No,2.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+172626,651121,"Par ailleurs, le LORIA développe de nombreux partenariats dans les domaines scientifiques et industriels afin de promouvoir - et ",rentabiliser, - les fruits de ses recherches.,21.0,rentabiliser,rentabiliser,VERB,VERB,VerbForm=Inf,18.0,conj,18:conj,_,1.0

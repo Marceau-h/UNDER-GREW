@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+68548,258751,"Il est donc demandé au propriétaire """"",délesté, d'effectuer une déclaration de vol auprès du Commissariat contre un récépissé à remettre aux services municipaux.,8.0,délesté,délester,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,SpaceAfter=No,2.0
+256905,968221,"Dès qu'ils sont entrés, ils ont été mis en joue, attachés, désarmés et ",délestés, de leurs vestes antiballes et de leurs uniformes.,18.0,délestés,délester,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,14.0,conj,14:conj,_,1.0

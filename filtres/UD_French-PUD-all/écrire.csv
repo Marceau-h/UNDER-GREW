@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+9,n01021007,"Malheureusement, une fois de plus, une minorité gâche tout pour une majorité, ",écrit," Jesse LaBrocca, fondateur de Hack Forums, dans son message justifiant la fermeture de la section. ",16,écrit,écrire,VERB,VBC,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1

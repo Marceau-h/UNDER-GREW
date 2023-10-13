@@ -1,0 +1,7 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+91196,343680,"Ils ne me rendent pas gloire par l'amour ; mais moi, la Vérité éternelle, je les ai faits des instruments pour exercer mes serviteurs à la vertu, et des bourreaux pour punir les damnés ou pour ",purifier, ceux qui sont dans le purgatoire.,41.0,purifier,purifier,VERB,VERB,VerbForm=Inf,36.0,conj,36:conj,_,1.0
+158594,597965,"Cette explication est basée sur une représentation """"",purifiée," de Dieu, de son Eglise et de son pontife.",9.0,purifiée,purifier,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,7.0,acl,7:acl,SpaceAfter=No,1.0
+202612,764272,Il n'est plus seulement question de ,purifier," et chasser, mais de purifier et détruire.",8.0,purifier,purifier,VERB,VERB,VerbForm=Inf,6.0,xcomp,6:xcomp,_,3.0
+243410,917452,"Une décade plus tard,l'atmosphère s'était ",purifié, et les hommes étaient tous devenus herbivores et frugivores avec des flatulences bien maitrisées.,10.0,purifié,purifier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,0.0,root,0:root,_,1.0
+248497,936453,"Se formeront ensuite de la sorte, dans notre langue : ",purifier,", puriste, purisme, puritain, apurer, apurement, épurer, épuration, épure.",12.0,purifier,purifier,VERB,VERB,VerbForm=Inf,2.0,acl,2:acl,SpaceAfter=No,3.0
+248794,937555,La charité assure et ,purifie, notre puissance humaine d'aimer.,5.0,purifie,purifier,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,3.0,conj,3:conj,_,1.0

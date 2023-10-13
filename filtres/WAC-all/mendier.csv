@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+47199,178010,"Selon une autre version de la légende, il mourut en ",mendiant," à l’hôpital d’Édesse, et révéla, avant de mourir, qu’il était d’une famille noble romaine et qu’il avait fui le mariage pour se consacrer à Dieu.",12.0,mendiant,mendier,VERB,VERB,Tense=Pres|VerbForm=Part,10.0,advcl,10:advcl,_,3.0
+151194,570588,"Expulsé de l'hôtel le soir même, il s'est mis à errer dans les rues de Paris avec quelques euros en poche, puis à ",mendier,", dormant la plupart du temps à l'extérieur ou dans les gares.",28.0,mendier,mendier,VERB,VERB,VerbForm=Inf,14.0,conj,14:conj,SpaceAfter=No,1.0
+264786,998019,Les travaux manuels sont obligatoires: ils tendent à se procurer des moyens de vivre sans ,mendier,", mais aussi à parvenir à un équilibre entre le corps et l'esprit.",17.0,mendier,mendier,VERB,VERB,VerbForm=Inf,15.0,advcl,15:advcl,SpaceAfter=No,1.0

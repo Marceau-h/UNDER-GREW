@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+129325,488229,"Les protestants qui représentent à cette époque 50 % de la population[5] doivent choisir entre s'exiler, ",abjurer, ou continuer la pratique de leur religion dans la clandestinité.,20.0,abjurer,abjurer,VERB,VERB,VerbForm=Inf,18.0,conj,18:conj,_,1.0

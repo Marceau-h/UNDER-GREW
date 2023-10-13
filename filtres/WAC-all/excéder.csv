@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+73318,276361,"Mais les conneries c'est fini affirme cette mère qui se sent """"",excédée," et """"ulcérée"""" qu'on la soupçonne d'être pour quelque chose dans le disparition de son fils.",14.0,excédée,excéder,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,12.0,xcomp,12:xcomp,SpaceAfter=No,1.0
+205879,776920,"Dans un entretien paru samedi dans le quotidien auvergnat """"La Montagne"""", elle se déclare donc """"",excédée," et """"ulcérée"""" qu'on la soupçonne d'""""avoir fait du mal à (son) gosse"""".",20.0,excédée,excéder,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,17.0,xcomp,17:xcomp,SpaceAfter=No,2.0

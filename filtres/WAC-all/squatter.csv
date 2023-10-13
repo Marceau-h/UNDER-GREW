@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+65994,248852,"Or à l'inverse, le fait de ",squatter,", pour prendre un sens rupturiste, doit être partie prenante de la lutte de classe.",9.0,squatter,squatter,VERB,VERB,VerbForm=Inf,7.0,acl,7:acl,SpaceAfter=No,1.0
+91824,346064,"Les nouveaux téhéranais construisent des logements sans permis, sur des terrains ",squattés, ou achetés sans formalité.,13.0,squattés,squatter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,12.0,acl,12:acl,_,1.0

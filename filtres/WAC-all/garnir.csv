@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+62472,235639,Nintendo frappe un grand coup aujourd'hui avec une mise à jour aussi ,garnie, qu'une bourriche.,13.0,garnie,garnir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,9.0,acl,9:acl,_,1.0
+152334,574829,Moins fournie mais déjà bien ,garnie,", grâce à des """"donneurs de voix"""" bénévoles, la bibliothèque gratuite de l'association Littérature audio a 146 titres.",6.0,garnie,garnir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,conj,2:conj,SpaceAfter=No,1.0
+164906,621700,Gardez vos potées ainsi ,garnies," environ 3 semaines, à l'intérieur, dans une pièce pas trop chauffée en arrosant de temps en temps et en ajoutant un peu d'engrais liquide à l'eau d'arrosage.",5.0,garnies,garnir,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,1.0
+249285,939353,Devant une enceinte copieusement ,garnie," et dans une ambiance gagnant en euphorie au fil des minutes, ils ont défendu becs et ongles.",5.0,garnie,garnir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,3.0,acl,3:acl,_,1.0

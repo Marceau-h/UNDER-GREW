@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+55027,207042,"C'est, par exemple, pour cette raison que l'érable champêtre, originaire des régions méditerranéennes ",débourre, bien plus tôt que l'érable du Canada.,19.0,débourre,débourrer,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,3.0

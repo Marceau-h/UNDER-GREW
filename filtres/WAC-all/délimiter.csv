@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+18497,69302,"Pour ces jeunes apprenants, un texte était un bloc monolithique composé de phrases mal ",délimitées, ; il n'était donc qu'un débit de paroles.,16.0,délimitées,délimiter,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,14.0,acl,14:acl,_,1.0
+96950,365719,"De plus, des sujets réalistes, modestes et bien ",délimités, doivent être préférés à des sujets plus ambitieux et séduisants qui risquent d'être mal maîtrisés par les élèves.,11.0,délimités,délimiter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,6.0,conj,6:conj,_,1.0
+183901,693914,Elle est produite dans une zone bien ,délimitée,", située dans la Haute-Loire sur les plateaux du Velay (altitude: 600 à 1 200 mètres).",8.0,délimitée,délimiter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,acl,6:acl,SpaceAfter=No,2.0

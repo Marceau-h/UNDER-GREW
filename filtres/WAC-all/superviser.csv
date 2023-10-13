@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+27416,102868,Un autre type d'acteurs dit secondaire sont ceux qui ,supervisent, et maintiennent le système.,11.0,supervisent,superviser,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,9.0,acl:relcl,9:acl:relcl,_,1.0
+42760,161203,Un alphabet plus complet à 16 états par une méthode non ,supervisée, (sans connaissance a priori des repliements possibles) a donc été établi.,12.0,supervisée,superviser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0
+179755,678149,"Afin de faciliter l'analyse de cet examen et de mettre en évidence l'information pertinente, une méthode non ",supervisée,", basée sur la comparaison interhémisphèrique a été développée au laboratoire.",21.0,supervisée,superviser,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,19.0,acl,19:acl,SpaceAfter=No,1.0

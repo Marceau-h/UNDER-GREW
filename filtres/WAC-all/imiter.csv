@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+86377,324839,"Deux heures de cabotinage ne sont pas de trop pour épuiser les ressources, dans le genre Raminagrobis gore, du souvent ",imité, et jamais égalé seigneur silencieux des Agneaux .,23.0,imité,imiter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,21.0,acl,21:acl,_,1.0
+186026,701683,"On se souvient de toutes ses émissions, il pouvait à la fois chanter, ",imiter,", c'était un découvreur de talent.",17.0,imiter,imiter,VERB,VERB,VerbForm=Inf,15.0,conj,15:conj,SpaceAfter=No,1.0
+186724,704340,Ceux-ci sont stimulés par ces modèles à ,imiter," qui sont comme une invitation à apprendre pour """"faire les grands"""".",10.0,imiter,imiter,VERB,VERB,VerbForm=Inf,8.0,acl,8:acl,_,3.0
+238263,898052,"Il reçoit la fille dans un cabinet rempli de cadavres en cire, très bien ",imités,; ils sont tous percés de différentes manières.,16.0,imités,imiter,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,10.0,acl,10:acl,SpaceAfter=No,1.0
+242459,913834,"Mais Benzema a tué tout suspense dès la 1re minute de jeu en ouvrant le score, ",imité, 9 minutes plus tard par Fred puis en seconde période par Källstrom (53e).,18.0,imité,imiter,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,14.0,advcl,14:advcl,_,1.0

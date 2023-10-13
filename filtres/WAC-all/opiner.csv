@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+39768,149738,"«Nous n'avions vraiment pas le choix», ",opine," Rachel Jaccard, animatrice à l'Office du tourisme illien.",11.0,opine,opiner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,4.0,parataxis,4:parataxis,_,2.0
+45448,171561,"Malheureusement, dans les deux cas, ça allait dans le mauvais sens"""", a ",opiné, le ministre Mulcair.,17.0,opiné,opiner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,parataxis,9:parataxis,_,2.0
+121103,457672,"Dans ces trois composantes-là, l'élément qui, pour le Québec est le plus important, c'est la péréquation"""", ",opine, le ministre Pelletier.,25.0,opine,opiner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,22.0,parataxis,22:parataxis,_,2.0
+207170,781473,"Dans le cas du Québec, c'est un problème national"""", a ",opiné, l'ancien premier ministre du Québec.,16.0,opiné,opiner,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,parataxis,11:parataxis,_,1.0
+254716,959953,"Un certain dirigisme s'installe partout maintenant"""", ",opine, l'avocat.,11.0,opine,opiner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,6.0,parataxis,6:parataxis,_,1.0

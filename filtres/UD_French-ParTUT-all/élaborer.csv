@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+119,fr_partut-ud-281,"Le rapporteur, M. Koch, que nous remercions pour le travail qu'il a accompli, a signalé que, dans le fond, tout ceci pourrait déjà être un peu plus avancé sans la négligence du CEN, qui a énormément tardé à ",élaborer, et à harmoniser la directive. ,47,élaborer,élaborer,VERB,V,VerbForm=Inf,45,xcomp,_,_,1

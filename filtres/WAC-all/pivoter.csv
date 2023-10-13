@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+21845,81741,La plupart des pouvoirs ,pivotent, autour de la révérence et de la prédisposition qu'ont eues les Egyptiens pour leurs chats.,5.0,pivotent,pivoter,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+139406,526060,«Je ressens encore des douleurs lorsque je ,pivote,", mais ça fait partie de la remise en forme», a mentionné Dandenault qui espère toujours revenir au jeu jeudi, en Floride.",9.0,pivote,pivoter,VERB,VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,3.0,advcl,3:advcl,SpaceAfter=No,1.0
+197575,745402,"Les suspentes se trouvant libres en tête, tout l'ensemble du tablier bascula en ",pivotant, autour de la suspension aval.,16.0,pivotant,pivoter,VERB,VERB,Tense=Pres|VerbForm=Part,14.0,advcl,14:advcl,_,1.0

@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+135485,511631,Le Tribunal de Bülach avait en effet acquitté et ,dédommagé, tous les inculpés à hauteur de 3 millions de francs.,10.0,dédommagé,dédommager,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,conj,8:conj,_,1.0

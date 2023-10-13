@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+31730,119558,"Doutes et étonnements du solitaire, saillies de l'observateur, railleries et vérités salutaires, images olfactives puissantes, raccourcis faciles, son carnet de route est une plongée dans une région «",déconnectée,"», la Slovaquie de l'Est.",35.0,déconnectée,déconnecter,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,33.0,acl,33:acl,SpaceAfter=No,1.0

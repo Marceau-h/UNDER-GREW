@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+53999,203423,"Au-delà du clivage des disciplines et de la dichotomie sciences exactes-sciences humaines, """"conversciences"""" crée un espace d&#39;interaction pour que ",conversent, les sciences en conversion.,27.0,conversent,converser,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,21.0,advcl,21:advcl,_,1.0
+153607,579324,"La rhétorique argumentative ne se présente pas, comme les fameux """"dialogues de Platon"""" où il s'agit de ",converser," paisiblement et, par une sorte de maïeutique, d'arriver à faire épouser par l'élève l'avis de son maître.",22.0,converser,converser,VERB,VERB,VerbForm=Inf,20.0,xcomp,20:xcomp,_,1.0
+179275,676376,"L' endroit idéal pour découvrir, apprendre, ",converser,", échanger, chercher un emploi et surfer sur le web...",10.0,converser,converser,VERB,VERB,VerbForm=Inf,6.0,conj,6:conj,SpaceAfter=No,2.0

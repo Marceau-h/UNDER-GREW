@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+3040,fr-ud-train_13269,"Trieste (TS) est le siège de la société Illycaffè S.p.A, qui produit et ",commercialise, du café pour le monde entier. ,17,commercialise,commercialiser,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,15,conj,_,_,2

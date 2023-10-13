@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+179121,675769,"Mon corps défait, ",disloqué,", il ne restera de moi rien d'autres que des nuages de cendres blanches au ciel ardent.",5.0,disloqué,disloquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,3.0,conj,3:conj,SpaceAfter=No,1.0
+227994,859952,"Il s'est écroulé du rétable en 1979, et ensuite le rétable lui-même s'est plus ou moins ",disloqué,", d'où dépose au sol des deux statues.",20.0,disloqué,disloquer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,conj,4:conj,SpaceAfter=No,1.0

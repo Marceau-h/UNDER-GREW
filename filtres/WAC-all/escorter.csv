@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+116817,441023,"Le Comité de Salut Public le chargea alors d’organiser, de conduire et d’",escorter," avec une division (6 vaisseaux de 74 canons, 3 frégates, 3 corvettes), un convoi des Etats-Unis jusqu’à Brest en 1794 pour ravitailler la France affamée.",16.0,escorter,escorter,VERB,VERB,VerbForm=Inf,10.0,conj,10:conj,_,1.0

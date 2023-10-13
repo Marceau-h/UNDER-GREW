@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+55237,207833,Le pinghua est un dialecte non ,classifié, parlé par environ 200.000 personnes.,7.0,classifié,classifier,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0
+114179,430841,Les documents gouvernementaux non ,classifiés," sont estampillés """"Not protectively marked"""".",5.0,classifiés,classifier,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,acl,2:acl,_,1.0
+115664,436633,"Loufoques et véhémentes, les propositions de Gauthier heurtent de plein fouet la logique de cet espace de consécration qui ordonne et ",classifie, la production artistique.,23.0,classifie,classifier,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,21.0,conj,21:conj,_,2.0
+215446,812324,"Ce spécialiste des coléoptères (coccinelles et chrysomèles), scientifique prolifique, fut l'un des premiers à utiliser les genitalias pour identifier et ",classifier, les espèces.,26.0,classifier,classifier,VERB,VERB,VerbForm=Inf,24.0,conj,24:conj,_,1.0

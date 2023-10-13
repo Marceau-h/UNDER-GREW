@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+74615,281049,"On a juste à penser à l'énergie que ça prend pour tuer, décapiter, se débarrasser du corps et, après, ",redevenir," normal»Du «Silence des agneaux» à «Entre ses mains», ce genre de personnage traverse les âges.",25.0,redevenir,redevenir,VERB,VERB,VerbForm=Inf,2.0,conj,2:conj,_,1.0
+79375,298572,On est rivales sur le stand mais nous ,redevenons, s&#156;urs dès que le match est fini.,9.0,redevenons,redevenir,VERB,VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,3.0,conj,3:conj,_,3.0
+151833,572941,"Fierté envers son brillant élève, """"",redevenu," lui-même, ou en partie"""".",8.0,redevenu,redevenir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,1.0,acl,1:acl,_,3.0

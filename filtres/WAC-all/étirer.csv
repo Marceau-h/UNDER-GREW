@@ -1,0 +1,4 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+41153,155194,"Laminés comme l'acier qu'ils ont « écrasé, ",étiré,", malmené pour que son épaisseur diminue ».",11.0,étiré,étirer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,9.0,conj,9:conj,SpaceAfter=No,3.0
+109115,411921,L'étoile s'est d'abord aplatie et ,étirée," lorsque les effets de la gravité du trou noir, dont la masse est évaluée à plusieurs dizaines de millions de fois celle du Soleil, ont commencé à se faire sentir.",9.0,étirée,étirer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,7.0,conj,7:conj,_,1.0
+168901,636952,"Mettez-vous debout, croisez vos mains derrière votre nuque, ",étirez,-vous!,13.0,étirez,étirer,VERB,VERB,Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin,2.0,conj,2:conj,SpaceAfter=No,1.0

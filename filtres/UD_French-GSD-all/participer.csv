@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1409,fr-ud-train_05354,Toute la ville ,participe," : ainsi, l'hôpital est transformé en atelier où des blouses sont cousues par de jeunes couturières volontaires pour les hommes en armes. ",4,participe,participer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0,root,_,_,1
+2336,fr-ud-train_09861,Il organise aussi des séminaires (Les « camps idéologiques ») où de nombreux rabbins seront invités à ,participer, activement. ,20,participer,participer,VERB,_,VerbForm=Inf,18,xcomp,_,Subject=SubjRaising,1

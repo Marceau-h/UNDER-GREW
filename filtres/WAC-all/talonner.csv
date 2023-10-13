@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+163737,617503,Pas dans l'Etat hébreu où plusieurs sondages affirment qu'Israël Beiteinou ,talonnera,", voire dépassera, le Likoud au soir du scrutin.",13.0,talonnera,talonner,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin,9.0,ccomp,9:ccomp,SpaceAfter=No,1.0

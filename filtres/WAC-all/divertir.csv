@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+134805,509073,"Selon le jury international, Sarah Watt, pour ses débuts dans le 7ème art, a réussi à """"",divertir," et capter à la fois l'esprit du temps et les préoccupations petites et grandes de tous les jours"""".",21.0,divertir,divertir,VERB,VERB,VerbForm=Inf,18.0,xcomp,18:xcomp,_,2.0
+227647,858655,L'humilité et l'effort de ,divertir, étaient les grandes qualités de L'Agence Tous Risques.,7.0,divertir,divertir,VERB,VERB,VerbForm=Inf,5.0,acl,5:acl,_,1.0

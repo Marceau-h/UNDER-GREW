@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+270,fr_partut-ud-781,"Tout individu a droit à la liberté d'opinion et d'expression, ce qui implique le droit de ne pas être inquiété pour ses opinions et celui de chercher, de ",recevoir," et de répandre, sans considérations de frontières, les informations et les idées par quelque moyen d'expression que ce soit. ",33,recevoir,recevoir,VERB,V,VerbForm=Inf,30,conj,_,_,1

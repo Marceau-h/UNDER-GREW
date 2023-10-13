@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+130466,492499,"Ils proposent dans tous les pays du monde des solutions pour recycler, ",dépolluer, ou encore désaler l'eau.,14.0,dépolluer,dépolluer,VERB,VERB,VerbForm=Inf,12.0,conj,12:conj,_,1.0

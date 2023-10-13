@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+35815,134803,"Rapidement mené 2-0 puis 3-2 juste avant la pause, Lyon a trouvé les ressources pour ",recoller, et remporter finalement cette partie incroyable par deux buts d'écart.,21.0,recoller,recoller,VERB,VERB,VerbForm=Inf,17.0,advcl,17:advcl,_,1.0
+42574,160530,Mais le peloton se décide à réagir et ,recolle, peu à peu (6'20 au 100e kilomètre).,9.0,recolle,recoller,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,conj,5:conj,_,2.0

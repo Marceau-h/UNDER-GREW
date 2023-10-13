@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2581,fr-ud-train_11064,Le mot stratégie est dérivée primitivement du grec stratos qui signifie « armée » et ageîn qui signifie « ,conduire," », et par suite de l'italien strategia. ",21,conduire,conduire,VERB,_,VerbForm=Inf,19,obj,_,ExtPos=NOUN|Subject=Generic,1

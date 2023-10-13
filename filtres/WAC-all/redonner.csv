@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+43969,165879,"Je constate que la communauté est bien partie pour (l'expression n'est pas de moi) pour « donner, ",redonner,", reredonner un nouvelle chance à un chauffard » tout en oubliant de « protéger ceux qui acceptent et respectent les règles ».",23.0,redonner,redonner,VERB,VERB,VerbForm=Inf,21.0,conj,21:conj,SpaceAfter=No,2.0

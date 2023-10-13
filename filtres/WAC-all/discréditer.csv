@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+173529,654546,L'armée et le gouvernement ont tenté de ,discréditer," et intimider le Père, sans succès.",9.0,discréditer,discréditer,VERB,VERB,VerbForm=Inf,7.0,xcomp,7:xcomp,_,1.0

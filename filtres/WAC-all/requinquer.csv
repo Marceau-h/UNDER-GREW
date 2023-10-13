@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+84539,317783,"L'opposition, complètement ",requinquée,", avait menacé de déposer une motion de censure contre la coalition gouvernementale de M. Abe au Sénat.",5.0,requinquée,requinquer,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,2.0,acl,2:acl,SpaceAfter=No,1.0

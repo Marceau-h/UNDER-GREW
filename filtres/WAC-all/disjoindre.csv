@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+214820,810118,"Ce comportement est la traduction exacte du problème universel qui définit les sommes en théorie des catégories, alors que le filtrage modélise une union non nécessairement ",disjointe, et ne couvrant pas nécessairement tous les cas possibles.,28.0,disjointe,disjoindre,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,25.0,acl,25:acl,_,1.0

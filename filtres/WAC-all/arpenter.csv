@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+128021,483366,"Cela est-il souffrant de reconnaître que le métier de parent ne s'apprend pas et que le chemin est tortueux, voir difficile à ",arpenter,", même pour un homme?",26.0,arpenter,arpenter,VERB,VERB,VerbForm=Inf,24.0,xcomp,24:xcomp,SpaceAfter=No,1.0
+154530,582895,"En effet, dès 1700 avant notre ère fut rédigé un papyrus détaillant les directives pour ",arpenter, et délimiter un terrain.,17.0,arpenter,arpenter,VERB,VERB,VerbForm=Inf,15.0,acl,15:acl,_,1.0

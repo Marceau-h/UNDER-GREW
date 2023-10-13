@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+227967,859873,L'écart entre Metz et Sochaux est plus raisonnable (0-1) mais l'erreur de marquage qui a permis à Isabey de ,scorer, est à inscrire dans la collection des nombreux naufrages messins de la saison.,26.0,scorer,scorer,VERB,VERB,VerbForm=Inf,22.0,xcomp,22:xcomp,_,1.0

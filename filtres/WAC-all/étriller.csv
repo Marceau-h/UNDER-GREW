@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+102561,387078,"Cette fois-ci, c'est Orlando qui a ",étrillé," 103 à 76 les Sonics, qui n'ont rien de """"Super"""" depuis le début de la saison (8 défaites en autant de rencontres).",11.0,étrillé,étriller,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,8.0,dep,8:dep,_,1.0

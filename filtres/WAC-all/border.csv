@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+196074,739614,D'azur à la croix cléchée de gueules ,bordée," et pommetée de douze pièces d'or, accompagnée de deux épis de blé du même à la tige recourbée vers la pointe.",9.0,bordée,border,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,5.0,acl,5:acl,_,1.0
+210100,792054,"Inversement, si P est connexe et si tous les liens de P en des sommets de P ",bordent,", alors P borde.",19.0,bordent,border,VERB,VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,6.0,conj,6:conj,SpaceAfter=No,1.0

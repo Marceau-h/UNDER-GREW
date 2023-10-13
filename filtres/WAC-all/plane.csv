@@ -1,0 +1,8 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+20901,78305,C'est la première fois depuis 1970 qu'une menace de grève ,plane, au-dessus du Journal de Montréal.,13.0,plane,plane,VERB,VERB,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,5.0,ccomp,5:ccomp,_,1.0
+50669,191168,L'incertitude ,plane, autour de l'élection présidentielle qui devrait donner un successeur à Emile Lahoud.,3.0,plane,plane,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+139629,526734,"C'est la première fois qu'à la fin d'un film qui se termine pas en catastrophe non plus, j'apprécie l'espoir qui ",plane, et j'ai le gout de laisser les personnages dans leur intimité.,27.0,plane,plane,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,25.0,acl:relcl,25:acl:relcl,_,1.0
+143224,540733,"Le fantôme d'Artaud, enivré de peyolt, ",plane, au-dessus des sculptures amérindiennes qu'on retrouve dans le recueil.,10.0,plane,plane,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+166590,628144,Un plan coûteux sur lequel ,plane, l'ombre suspecte de l'incinération.,6.0,plane,plane,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,2.0,acl:relcl,2:acl:relcl,_,1.0
+206747,780009,Un épais voile de mystère ,plane, encore au-dessus des circonstances exactes de ces retours.,6.0,plane,plane,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0
+210091,792027,"Toutefois, le mystère ",plane, autour de leur origine.,5.0,plane,plane,VERB,VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,0.0,root,0:root,_,1.0

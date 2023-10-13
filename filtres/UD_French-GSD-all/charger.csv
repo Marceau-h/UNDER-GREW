@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+1881,fr-ud-train_07583,La fonction de coreboot est de ,charger," et démarrer une charge utile, c'est-à-dire un logiciel plus élaboré. ",7,charger,charger,VERB,_,VerbForm=Inf,0,root,_,Subject=Generic,1

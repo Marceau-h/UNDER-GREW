@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+84956,319345,"J'ai souvent roulé en avant et ça m'aura pris six ans pour comprendre que c'est au dernier tour que c'est important"""", a ",blagué," le fils d'un ancien champion espagnol de rallye, dont la navigatrice était sa mère.",29.0,blagué,blaguer,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,4.0,parataxis,4:parataxis,_,1.0

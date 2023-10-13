@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+84649,318232,"Plus précisément, le futur casino contiendra 400 machines à ",sous,", 20 tables de jeu et cinq appareils de poker électronique Texas Hold'em.",11.0,sous,sou,VERB,VERB,VerbForm=Inf,9.0,nmod,9:nmod,SpaceAfter=No,1.0
+118458,447569,"Dans ce cas, le résultat d'un jeu sur une machine à ",sous," doit reposer sur le hasard, même lorsque le joueur peut faire des choix, ce qui n'est pas le cas avec les machines électroniques de poker.",14.0,sous,sou,VERB,VERB,VerbForm=Inf,12.0,nmod,12:nmod,_,2.0

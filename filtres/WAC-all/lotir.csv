@@ -1,0 +1,6 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+45240,170768,"Dans ce domaine, le mieux ",loti, est évidemment Mozilla Firefox qui bénéficie d'un très grand nombre d'extensions développées par une communauté active .,7.0,loti,lotir,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,10.0,nsubj,10:nsubj,_,2.0
+53123,200313,"Au XVIIe, elle fut divisée en parcelles et ",lotie,", puis rebaptisée du nom du maire de Nantes de l'époque, M. Feydeau.",10.0,lotie,lotir,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,6.0,conj,6:conj,SpaceAfter=No,1.0
+139318,525775,"Par exemple, """"l'ancienne municipalité avait aménagé 16 parcelles à ",lotir,", et seules 3 sont à ce jour vendues"""", explique M. Thomas.",13.0,lotir,lotir,VERB,VERB,VerbForm=Inf,11.0,acl,11:acl,SpaceAfter=No,1.0
+192946,727929,"L'Etat, les élus, les mal ",lotis," finissent par """" bricoler """" des solutions pour aménager ces terrains: loi Loucheur et loi Sarraut de 1928.",9.0,lotis,lotir,VERB,VERB,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,2.0,conj,2:conj,_,1.0
+243155,916502,Celui-ci produira utilement un mode d'emploi graphique par lot : poursuivre l'idée d'un volet paysager du permis de ,lotir," a tout son sens """".",24.0,lotir,lotir,VERB,VERB,VerbForm=Inf,22.0,acl,22:acl,_,3.0

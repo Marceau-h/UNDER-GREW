@@ -1,0 +1,3 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+181499,685109,"À travers les indices laissés par Jean-Pierre Raffarin, nous sommes désormais en mesure de voir ",poindre, deux redéfinitions de la politique française envers le Québec et le Canada.,17.0,poindre,poindre,VERB,VERB,VerbForm=Inf,14.0,xcomp,14:xcomp,_,1.0
+229235,864608,"Vers le milieu de la bataille, lorsque l'aube s'apprête à ",poindre,", plus de la moitié des navires de Shimazu ont été coulés ou capturés par la flotte sino-coréenne.",14.0,poindre,poindre,VERB,VERB,VerbForm=Inf,12.0,xcomp,12:xcomp,SpaceAfter=No,2.0

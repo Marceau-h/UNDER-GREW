@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+477,annodis.er_00266,"Nous avions bon espoir d'obtenir d'elle un prêt-relais pour acheter les matières premières nécessaires au redémarrage de l'activité, car dans l'usine, les machines sont arrêtées depuis le 14 janvier dernier"""" ",explique, le directeur d'EFI Michel Balandier. ,40,explique,expliquer,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,33,parataxis:insert,_,_,3

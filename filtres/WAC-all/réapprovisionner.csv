@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+196525,741310,"Les fermetures, annoncées jeudi, permettront au Fonds de conserver ou de ",réapprovisionner," ses réserves de bois afin de maximiser ses revenus durant la période de pointe, entre les mois de décembre et mars.",14.0,réapprovisionner,réapprovisionner,VERB,VERB,VerbForm=Inf,11.0,conj,11:conj,_,1.0

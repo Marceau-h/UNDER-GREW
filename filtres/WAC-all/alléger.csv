@@ -1,0 +1,5 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+39376,148238,Le texte modifié par l'Assemblée nationale reprend en grande partie les mesures destinées à simplifier et ,alléger, les formalités administratives nécessaires pour exporter les biens culturels.,18.0,alléger,alléger,VERB,VERB,VerbForm=Inf,16.0,conj,16:conj,_,1.0
+46569,175678,"Si le mode est bien au rendez-vous, il s'avère quelque peu ",allégé, si on le compare à ses homologues PS3 et Xbox 360.,14.0,allégé,alléger,VERB,VERB,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,11.0,xcomp,11:xcomp,_,2.0
+67372,254338,Principal visé : Gérard Houllier et sa composition d'équipe très ,allégée, en cadres.,12.0,allégée,alléger,VERB,VERB,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,10.0,acl,10:acl,_,1.0
+264768,997941,"Mais pour le journaliste, la liberté n'est que provisoire et des charges, récemment ",allégées,", pèsent encore contre lui.",17.0,allégées,alléger,VERB,VERB,Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part,14.0,acl,14:acl,SpaceAfter=No,3.0

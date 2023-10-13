@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+9832,36537,"Le jeune groupe, composé de Lil Wayne, de Turk, de Juvenile et de B.G., sort un LP intitulé ",Get, It How You Live!,23.0,Get,get,VERB,VERB,VerbForm=Inf,22.0,xcomp,22:xcomp,_,2.0

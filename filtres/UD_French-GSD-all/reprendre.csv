@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+2526,fr-ud-train_10761,Il apparaît clairement dans un tel contexte que les négociations entre le Front Polisario et le Maroc ne ,reprendront," pas de sitôt, à moins que le dossier des droits de l'homme ne soit mis sur la table. ",19,reprendront,reprendre,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin,2,csubj,_,_,1

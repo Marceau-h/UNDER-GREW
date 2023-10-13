@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+145426,548708,"Mais, avec un gouvernement à ",réinventer," et des officiers qui continuaient à se méfier les uns des autres, il était difficile de savoir à quel point leur appréciation de la situation était juste.",7.0,réinventer,réinventer,VERB,VERB,VerbForm=Inf,5.0,acl,5:acl,_,3.0

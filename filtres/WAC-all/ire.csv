@@ -1,0 +1,2 @@
+Unnamed: 0,sent_id,left_context,pivot,right_context,ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,dist
+191408,722085,J'aurai tendance à ,ire, ceux qui sont dans la majorité des listes avec discussions possibles.,5.0,ire,ire,VERB,VERB,VerbForm=Inf,3.0,xcomp,3:xcomp,_,2.0
